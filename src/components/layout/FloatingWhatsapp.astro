@@ -1,0 +1,20 @@
+---
+import { createWhatsappUrl } from '../../lib/whatsapp/create-whatsapp-url';
+import Icon from '../ui/Icon.astro';
+
+const waUrl = createWhatsappUrl();
+---
+
+<a
+  href={waUrl}
+  target="_blank"
+  rel="noopener noreferrer"
+  class="fixed bottom-6 right-6 z-40 flex items-center justify-center w-14 h-14 bg-[#25D366] text-white rounded-full shadow-lg hover:shadow-xl hover:scale-105 active:scale-95 transition-all duration-200 group"
+  aria-label="Chat WhatsApp"
+  id="floating-whatsapp"
+>
+  <Icon name="whatsapp" size={24} class="group-hover:scale-110 transition-transform" />
+  
+  <!-- Pulse ring -->
+  <span class="absolute inset-0 rounded-full bg-[#25D366] animate-ping opacity-20"></span>
+</a>

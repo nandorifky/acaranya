@@ -1,0 +1,73 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+---
+
+<MarketingLayout
+  title="Kebijakan Refund Layanan"
+  description="Halaman kebijakan pengembalian dana (refund policy) pemesanan undangan digital di Acaranya.id."
+  robots="noindex,follow"
+>
+  <!-- Hero Section -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <!-- Subtle Background Dot Pattern -->
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl space-y-6">
+        <a href="/legal/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-[#B59A73] hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card">
+          <Icon name="arrow-right" size={10} class="rotate-180" /> Kembali ke Pusat Legal
+        </a>
+        <div class="space-y-3">
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold block">Refund Dokumen</span>
+          <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+            Kebijakan <span class="italic font-normal text-soft-gold">pengembalian dana</span>
+          </h1>
+          <p class="text-text-muted text-xs font-sans tracking-wide">Terakhir diperbarui: Mei 2026</p>
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Editorial Prose Section -->
+  <Section bg="white" class="border-t border-border-soft/60">
+    <Container narrow>
+      <div class="prose max-w-none font-sans text-text-secondary leading-relaxed space-y-10">
+        
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Ketentuan 01</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Pembatalan Sebelum Pengerjaan Dimulai</h2>
+          <p class="text-sm tracking-wide">
+            Apabila Anda memutuskan untuk melakukan pembatalan pesanan sebelum tim desainer kami mulai memproses konten dan merancang visual undangan digital Anda, Anda berhak mendapatkan pengembalian dana penuh sebesar 100% dari nilai investasi yang telah dibayarkan.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Ketentuan 02</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Pembatalan Setelah Pengerjaan Dimulai</h2>
+          <p class="text-sm tracking-wide">
+            Apabila pembatalan dilakukan setelah desainer kami mulai merancang template undangan digital Anda, maka kebijakan pengembalian dana akan disesuaikan secara proporsional berdasarkan persentase beban progres waktu dan tenaga pengerjaan yang telah dilakukan untuk memastikan keadilan bagi kedua belah pihak.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Ketentuan 03</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Pengajuan Pengembalian Dana</h2>
+          <p class="text-sm tracking-wide">
+            Seluruh proses pengajuan pembatalan pemesanan and pengembalian dana investasi wajib dikomunikasikan secara transparan via saluran obrolan WhatsApp resmi kami atau melalui email administrasi ke <a href="mailto:halo@acaranya.id" class="text-soft-gold hover:text-brand-950 underline decoration-soft-gold/30 hover:decoration-brand-950">halo@acaranya.id</a> beserta bukti tanda transaksi yang sah.
+          </p>
+        </div>
+
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

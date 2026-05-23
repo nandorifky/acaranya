@@ -1,0 +1,88 @@
+---
+import { siteConfig } from '../../data/site';
+import { footerNavigation } from '../../data/navigation';
+import Icon from '../ui/Icon.astro';
+---
+
+<footer class="relative bg-[#121110] text-[#F4F0EB] overflow-hidden" id="site-footer">
+  <!-- Accent top border line -->
+  <div class="h-px bg-gradient-to-r from-transparent via-soft-gold/30 to-transparent"></div>
+
+  <!-- Soft radial gold glow background element -->
+  <div class="absolute bottom-0 right-0 w-[400px] h-[400px] rounded-full bg-soft-gold/5 blur-[120px] pointer-events-none"></div>
+
+  <div class="max-w-6xl mx-auto px-6 pt-20 pb-12 relative z-10">
+    <!-- Main Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-8 mb-16">
+      
+      <!-- Brand Column -->
+      <div class="md:col-span-4 lg:col-span-5 space-y-6">
+        <div class="flex items-center gap-3">
+          <div class="w-8 h-8 bg-[#F4F0EB] rounded-full flex items-center justify-center">
+            <span class="font-serif text-sm text-[#121110] font-bold leading-none">A</span>
+          </div>
+          <span class="text-lg font-serif font-semibold text-[#F4F0EB] tracking-tight">{siteConfig.name}</span>
+        </div>
+        <p class="text-[#A8A29E] text-[14px] leading-relaxed max-w-sm font-sans tracking-wide">
+          Undangan digital modern untuk momen terindah Anda. Desain eksklusif bernilai seni tinggi, fitur terlengkap, dan proses pemesanan instan.
+        </p>
+        <div class="flex items-center gap-3 pt-2">
+          <a href={siteConfig.contact.instagramUrl} target="_blank" rel="noopener noreferrer"
+            class="w-9 h-9 flex items-center justify-center rounded-full bg-white/5 border border-white/10 hover:bg-[#B59A73]/20 hover:border-[#B59A73]/40 transition-all duration-300"
+            aria-label="Instagram">
+            <Icon name="instagram" size={15} class="text-[#A8A29E] hover:text-[#FAF9F6]" />
+          </a>
+          <a href={`mailto:${siteConfig.contact.email}`}
+            class="w-9 h-9 flex items-center justify-center rounded-full bg-white/5 border border-white/10 hover:bg-[#B59A73]/20 hover:border-[#B59A73]/40 transition-all duration-300"
+            aria-label="Email">
+            <Icon name="mail" size={15} class="text-[#A8A29E] hover:text-[#FAF9F6]" />
+          </a>
+        </div>
+      </div>
+
+      <!-- Nav Columns -->
+      <div class="md:col-span-8 lg:col-span-7 grid grid-cols-3 gap-6 lg:gap-8">
+        <div>
+          <h3 class="text-[10px] font-bold uppercase tracking-[0.2em] text-[#B59A73] mb-5">Layanan</h3>
+          <ul class="space-y-3">
+            {footerNavigation.layanan.map((item) => (
+              <li>
+                <a href={item.href} class="text-[13px] text-[#A8A29E] hover:text-[#FAF9F6] transition-colors duration-200">{item.label}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-[10px] font-bold uppercase tracking-[0.2em] text-[#B59A73] mb-5">Perusahaan</h3>
+          <ul class="space-y-3">
+            {footerNavigation.perusahaan.map((item) => (
+              <li>
+                <a href={item.href} class="text-[13px] text-[#A8A29E] hover:text-[#FAF9F6] transition-colors duration-200">{item.label}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h3 class="text-[10px] font-bold uppercase tracking-[0.2em] text-[#B59A73] mb-5">Bantuan</h3>
+          <ul class="space-y-3">
+            {footerNavigation.bantuan.map((item) => (
+              <li>
+                <a href={item.href} class="text-[13px] text-[#A8A29E] hover:text-[#FAF9F6] transition-colors duration-200">{item.label}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom -->
+    <div class="border-t border-white/5 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <p class="text-[12px] text-[#A8A29E] font-sans">
+        © {new Date().getFullYear()} {siteConfig.name}. All rights reserved.
+      </p>
+      <p class="text-[10px] text-[#B59A73] font-bold uppercase tracking-[0.2em] font-sans">
+        Crafted for your beautiful story
+      </p>
+    </div>
+  </div>
+</footer>

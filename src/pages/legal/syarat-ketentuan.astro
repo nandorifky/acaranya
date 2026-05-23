@@ -1,0 +1,93 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+---
+
+<MarketingLayout
+  title="Syarat & Ketentuan Layanan"
+  description="Halaman syarat dan ketentuan hak kewajiban penggunaan layanan undangan digital di Acaranya.id."
+  robots="noindex,follow"
+>
+  <!-- Hero Section -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <!-- Subtle Background Dot Pattern -->
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl space-y-6">
+        <a href="/legal/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-[#B59A73] hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card">
+          <Icon name="arrow-right" size={10} class="rotate-180" /> Kembali ke Pusat Legal
+        </a>
+        <div class="space-y-3">
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold block">Dokumen Layanan</span>
+          <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+            Syarat & <span class="italic font-normal text-soft-gold">ketentuan layanan</span>
+          </h1>
+          <p class="text-text-muted text-xs font-sans tracking-wide">Terakhir diperbarui: Mei 2026</p>
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Editorial Prose Section -->
+  <Section bg="white" class="border-t border-border-soft/60">
+    <Container narrow>
+      <div class="prose max-w-none font-sans text-text-secondary leading-relaxed space-y-10">
+        
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Pasal 01</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Ketentuan Umum Penggunaan</h2>
+          <p class="text-sm tracking-wide">
+            Dengan mengakses, mendaftar, and menggunakan layanan pembuatan undangan digital dari Acaranya.id, Anda secara sadar menyetujui seluruh butir syarat, regulasi, and ketentuan yang berlaku di bawah ini. Layanan kami mencakup perancangan and penyusunan sistem undangan digital berbasis web untuk berbagai jenis agenda acara spesial Anda.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Pasal 02</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Lingkup Layanan & Hosting</h2>
+          <p class="text-sm tracking-wide">
+            Layanan Acaranya.id mencakup penyediaan aset template desain premium, konfigurasi konten media teks/gambar/musik latar belakang yang diserahkan pemesan, serta penyediaan sewa ruang hosting server untuk penayangan link undangan di bawah subdomain penamaan `inv.acaranya.id`.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Pasal 03</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Metode & Ketentuan Pembayaran</h2>
+          <p class="text-sm tracking-wide">
+            Seluruh transaksi pembayaran atas paket investasi undangan dilakukan di muka (100% upfront payment) setelah pemesan menyetujui detail konfirmasi pesanan awal. Informasi detil instruksi transfer and verifikasi pembayaran akan diarahkan secara aman oleh admin resmi kami via saluran WhatsApp.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Pasal 04</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Batasan Hak Koreksi & Revisi</h2>
+          <p class="text-sm tracking-wide">
+            Batas jumlah pengajuan revisi desain, lagu, atau detail teks diatur secara ketat berdasarkan masing-masing paket investasi yang dipilih pemesan (Simple: 2x, Mengundang: 5x, Meriah: Tanpa Batas). Setiap pengajuan penambahan revisi baru di luar ketentuan kuota paket akan dikenakan biaya administrasi tambahan.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Pasal 05</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Ketentuan Masa Aktif Tayang</h2>
+          <p class="text-sm tracking-wide">
+            Undangan digital Anda akan tetap aktif and online di server kami sesuai dengan masa durasi paket investasi pilihan Anda (6 Bulan / 1 Tahun). Setelah periode berakhir, link undangan akan dinonaktifkan secara otomatis dari server utama kami, kecuali pemesan mengajukan perpanjangan sewa tayang terlebih dahulu.
+          </p>
+        </div>
+
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

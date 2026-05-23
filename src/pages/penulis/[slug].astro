@@ -1,0 +1,150 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+import { getCollection, getEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allAuthors = await getCollection('authors');
+  return allAuthors.map(author => ({
+    params: { slug: author.id },
+    props: { author },
+  }));
+}
+
+const { author } = Astro.props;
+
+// Fetch all articles by this author
+const allPosts = await getCollection('blog');
+const authorPosts = allPosts
+  .filter(p => p.data.status === 'published' && p.data.author === author.id)
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+
+// Social media definition mapping
+const socials = [
+  { key: 'socialInstagram', name: 'Instagram', icon: 'instagram', prefix: 'https://instagram.com/' },
+  { key: 'socialTwitter', name: 'Twitter', icon: 'twitter', prefix: 'https://twitter.com/' },
+  { key: 'socialLinkedin', name: 'LinkedIn', icon: 'linkedin', prefix: '' },
+  { key: 'socialFacebook', name: 'Facebook', icon: 'facebook', prefix: '' },
+  { key: 'socialGithub', name: 'GitHub', icon: 'github', prefix: 'https://github.com/' },
+  { key: 'socialWebsite', name: 'Website', icon: 'globe', prefix: '' },
+] as const;
+
+// Helper to format social links
+const getSocialUrl = (key: typeof socials[number]['key'], value: string) => {
+  const social = socials.find(s => s.key === key);
+  if (!social) return value;
+  if (value.startsWith('http://') || value.startsWith('https://')) {
+    return value;
+  }
+  return `${social.prefix}${value}`;
+};
+
+const metaTitle = author.data.metaTitle || `${author.data.name} — Penulis di Acaranya.id`;
+const metaDesc = author.data.metaDescription || author.data.bio;
+---
+
+<MarketingLayout title={metaTitle} description={metaDesc}>
+  <!-- Author Profile Section -->
+  <section class="pt-10 pb-8 lg:pt-16 lg:pb-12 bg-cream border-b border-border-soft/60">
+    <Container>
+      <div class="max-w-4xl mx-auto">
+        <div class="flex flex-col md:flex-row items-center md:items-start gap-6 md:gap-10 text-center md:text-left">
+          <!-- Avatar -->
+          <div class="w-24 h-24 sm:w-32 sm:h-32 rounded-full overflow-hidden border-2 border-champagne shrink-0 bg-brand-50 flex items-center justify-center shadow-sm">
+            {author.data.avatar ? (
+              <img src={author.data.avatar} alt={author.data.name} class="w-full h-full object-cover" />
+            ) : (
+              <Icon name="user" size={48} class="text-brand-300" />
+            )}
+          </div>
+
+          <!-- Info -->
+          <div class="flex-1">
+            <span class="text-[11px] font-semibold text-champagne uppercase tracking-[0.2em] mb-1.5 block">
+              {author.data.role}
+            </span>
+            <h1 class="font-serif text-[2rem] sm:text-[2.5rem] font-semibold text-text-primary leading-tight mb-3">
+              {author.data.name}
+            </h1>
+            <p class="text-text-secondary text-[14px] leading-relaxed mb-5 max-w-2xl">
+              {author.data.bio}
+            </p>
+
+            <!-- Socials -->
+            <div class="flex flex-wrap items-center justify-center md:justify-start gap-2.5">
+              {socials.map((social) => {
+                const value = author.data[social.key];
+                if (!value) return null;
+                const url = getSocialUrl(social.key, value);
+                return (
+                  <a
+                    href={url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-border-soft rounded-sm text-[12px] text-text-secondary hover:text-brand-500 hover:border-brand-500 hover:shadow-[0_2px_8px_rgba(206,177,136,0.1)] transition-all duration-200"
+                    title={`${social.name} ${author.data.name}`}
+                  >
+                    <Icon name={social.icon} size={13} />
+                    <span class="font-medium">{social.name}</span>
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Author's Articles Section -->
+  <Section bg="white">
+    <Container>
+      <div class="max-w-4xl mx-auto mb-8">
+        <h2 class="font-serif text-[1.5rem] sm:text-[1.75rem] font-semibold text-text-primary">
+          Artikel oleh {author.data.name}
+        </h2>
+        <div class="h-0.5 bg-champagne/30 w-16 mt-2.5"></div>
+      </div>
+
+      <div class="max-w-4xl mx-auto">
+        {authorPosts.length > 0 ? (
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
+            {authorPosts.map((post) => (
+              <a href={`/artikel/${post.id}/`} class="group flex flex-col sm:flex-row gap-4 bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
+                {post.data.image ? (
+                  <div class="aspect-[16/9] sm:w-[180px] sm:aspect-square overflow-hidden shrink-0">
+                    <img
+                      src={post.data.image}
+                      alt={post.data.title}
+                      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                      loading="lazy"
+                    />
+                  </div>
+                ) : (
+                  <div class="aspect-[16/9] sm:w-[180px] sm:aspect-square bg-gradient-to-br from-brand-50 via-champagne/10 to-blush/20 flex items-center justify-center shrink-0">
+                    <span class="font-serif text-md text-brand-300 italic">Artikel</span>
+                  </div>
+                )}
+                <div class="p-5 flex-1 flex flex-col justify-center">
+                  <div class="flex items-center gap-2 mb-1.5">
+                    <span class="text-[10px] text-champagne font-semibold uppercase tracking-[0.15em]">{post.data.category}</span>
+                    <span class="text-[10px] text-text-muted">·</span>
+                    <span class="text-[10px] text-text-muted">{post.data.publishedAt.toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
+                  </div>
+                  <h3 class="font-semibold text-text-primary text-[14px] leading-snug mb-1.5 group-hover:text-brand-500 transition-colors line-clamp-2">{post.data.title}</h3>
+                  <p class="text-[12px] text-text-muted line-clamp-2 leading-relaxed">{post.data.description}</p>
+                </div>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <div class="text-center py-16 border border-dashed border-border-soft">
+            <p class="text-text-muted text-sm">Belum ada artikel yang dipublikasikan oleh penulis ini.</p>
+          </div>
+        )}
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

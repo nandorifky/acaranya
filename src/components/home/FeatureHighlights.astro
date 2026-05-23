@@ -1,0 +1,46 @@
+---
+import Container from '../base/Container.astro';
+import Icon from '../ui/Icon.astro';
+
+const features = [
+  { icon: 'zap', num: '01', title: 'Proses Instan', description: 'Undangan digital Anda aktif siap disebarkan dalam hitungan menit setelah data terisi lengkap.' },
+  { icon: 'palette', num: '02', title: 'Desain Eksklusif', description: 'Ratusan pilihan template undangan digital bertema elegan, modern, floral, hingga neo-brutalist.' },
+  { icon: 'sparkles', num: '03', title: 'Fitur Terlengkap', description: 'Dilengkapi navigasi Google Maps, hitung mundur, galeri foto interaktif, hingga amplop digital.' },
+  { icon: 'smartphone', num: '04', title: 'Responsif & Ringan', description: 'Tampil sempurna, presisi, dan super cepat diakses dari perangkat mobile, tablet, maupun desktop.' },
+  { icon: 'wallet', num: '05', title: 'Harga Transparan', description: 'Investasi sekali mulai dari Rp75.000 dengan fitur melimpah. Lebih hemat & ramah lingkungan.' },
+  { icon: 'refresh-cw', num: '06', title: 'Revisi Tanpa Batas', description: 'Perubahan jadwal atau informasi acara mendadak? Update secara instan dari dashboard kapan saja.' },
+];
+---
+
+<section class="relative py-20 sm:py-24 lg:py-32 bg-cream overflow-hidden" id="why-acaranya">
+  <!-- Dot Matrix Background Pattern (Kinto signature) -->
+  <div 
+    class="absolute inset-0 text-brand-300 opacity-30 pointer-events-none"
+    style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px; mask-image: linear-gradient(to bottom, transparent 0%, black 30%, black 70%, transparent 100%); -webkit-mask-image: linear-gradient(to bottom, transparent 0%, black 30%, black 70%, transparent 100%);"
+  ></div>
+
+  <Container>
+    <div class="relative z-10">
+      <div class="mb-16 lg:mb-20 text-center space-y-4">
+        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Kenapa Acaranya</span>
+        <h2 class="font-serif text-3xl md:text-5xl text-brand-950 max-w-2xl mx-auto leading-tight">
+          Semua yang Anda butuhkan untuk undangan digital terbaik
+        </h2>
+        <p class="text-sm text-text-secondary max-w-lg mx-auto font-sans tracking-wide leading-relaxed">
+          Kami merancang setiap detail fitur undangan agar mempermudah proses mengundang kerabat di momen bahagia Anda.
+        </p>
+      </div>
+
+      <!-- Open Grid Layout (No borders, Kinto style) -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-14 stagger">
+        {features.map((feature) => (
+          <div class="group text-center lg:text-left">
+            <span class="text-[10px] tracking-[0.2em] uppercase text-soft-gold font-bold block mb-3">{feature.num}</span>
+            <h3 class="font-serif text-xl font-semibold text-brand-950 mb-3 group-hover:text-soft-gold transition-colors duration-300">{feature.title}</h3>
+            <p class="text-text-secondary text-sm leading-relaxed font-sans tracking-wide">{feature.description}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </Container>
+</section>

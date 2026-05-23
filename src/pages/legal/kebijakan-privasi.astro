@@ -1,0 +1,83 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+---
+
+<MarketingLayout
+  title="Kebijakan Privasi Layanan"
+  description="Halaman kebijakan privasi dan keamanan perlindungan data digital pengguna di Acaranya.id."
+  robots="noindex,follow"
+>
+  <!-- Hero Section -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <!-- Subtle Background Dot Pattern -->
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl space-y-6">
+        <a href="/legal/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-[#B59A73] hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card">
+          <Icon name="arrow-right" size={10} class="rotate-180" /> Kembali ke Pusat Legal
+        </a>
+        <div class="space-y-3">
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold block">Dokumen Privasi</span>
+          <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+            Kebijakan <span class="italic font-normal text-soft-gold">privasi pengguna</span>
+          </h1>
+          <p class="text-text-muted text-xs font-sans tracking-wide">Terakhir diperbarui: Mei 2026</p>
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Editorial Prose Section -->
+  <Section bg="white" class="border-t border-border-soft/60">
+    <Container narrow>
+      <div class="prose max-w-none font-sans text-text-secondary leading-relaxed space-y-10">
+        
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Bagian 01</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Data yang Kami Kumpulkan</h2>
+          <p class="text-sm tracking-wide">
+            Kami menghormati kerahasiaan informasi Anda secara mutlak. Kami hanya mengumpulkan informasi data yang Anda berikan secara sukarela pada formulir pemesanan, seperti nama lengkap, nomor kontak WhatsApp aktif, alamat surel (email), detail data acara, galeri foto, serta rincian rekening sumbangan digital (e-Gift) demi keperluan fungsionalitas pembuatan undangan digital Anda.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Bagian 02</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Penggunaan & Pengolahan Data</h2>
+          <p class="text-sm tracking-wide">
+            Seluruh data yang telah diserahkan hanya digunakan secara eksklusif untuk kepentingan memproses perancangan, pembuatan, pengaktifan subdomain link undangan digital, and pemeliharaan server hosting undangan Anda. Kami sama sekali tidak menyalahgunakan data Anda untuk kepentingan komersial di luar ekosistem Acaranya.id.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Bagian 03</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Keamanan & Penyimpanan Data</h2>
+          <p class="text-sm tracking-wide">
+            Seluruh berkas media and informasi teks undangan disimpan dalam infrastruktur server digital yang aman and terproteksi secara berkala. Kami berkomitmen penuh tidak membagikan, memindahtangankan, atau menjual data pribadi Anda and detail daftar tamu undangan kepada pihak ketiga eksternal manapun tanpa persetujuan tertulis dari Anda.
+          </p>
+        </div>
+
+        <div class="w-full h-px bg-border-soft/60"></div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Bagian 04</span>
+          <h2 class="font-serif text-2xl text-brand-950 leading-snug">Pertanyaan & Kontak Resmi</h2>
+          <p class="text-sm tracking-wide">
+            Apabila Anda memiliki pertanyaan, keberatan, atau ingin meminta penghapusan permanen seluruh berkas data undangan digital Anda dari database sistem kami setelah acara selesai terlaksana, silakan kirimkan permohonan resmi kepada layanan bantuan kami via email di <a href="mailto:halo@acaranya.id" class="text-soft-gold hover:text-brand-950 underline decoration-soft-gold/30 hover:decoration-brand-950">halo@acaranya.id</a>.
+          </p>
+        </div>
+
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

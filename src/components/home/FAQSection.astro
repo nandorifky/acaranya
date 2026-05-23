@@ -1,0 +1,62 @@
+---
+import Container from '../base/Container.astro';
+import Section from '../base/Section.astro';
+import SectionHeader from '../base/SectionHeader.astro';
+import Icon from '../ui/Icon.astro';
+import { getCollection } from 'astro:content';
+
+const allFaqs = await getCollection('faqs');
+const homeFaqs = allFaqs
+  .filter(f => f.data.status === 'published' && f.data.category === 'umum')
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder)
+  .slice(0, 5);
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: homeFaqs.map(faq => ({
+    '@type': 'Question',
+    name: faq.data.question,
+    acceptedAnswer: { '@type': 'Answer', text: faq.data.answer },
+  })),
+};
+---
+
+<Section bg="cream" id="faq">
+  <Container>
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+
+    <div class="mb-14 text-center space-y-3">
+      <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Tanya Jawab</span>
+      <h2 class="font-serif text-3xl md:text-5xl text-brand-950 max-w-xl mx-auto leading-tight">
+        Pertanyaan yang sering diajukan
+      </h2>
+      <p class="text-sm text-text-secondary max-w-md mx-auto font-sans tracking-wide">
+        Kami merangkum semua pertanyaan umum untuk membantu mempermudah pesanan Anda.
+      </p>
+    </div>
+
+    <!-- Premium Clean Accordion List (Khas Kinto) -->
+    <div class="max-w-3xl mx-auto space-y-0 border-y border-[#B59A73]/20">
+      {homeFaqs.map((faq, index) => {
+        const padIndex = String(index + 1).padStart(2, '0');
+        return (
+          <details class="group border-b border-[#B59A73]/20 py-1 transition-all duration-300" id={`faq-item-${index}`}>
+            <summary class="flex items-center justify-between py-6 cursor-pointer list-none text-[15px] sm:text-base font-serif font-semibold text-brand-950 hover:text-soft-gold transition-colors duration-200 select-none">
+              <div class="flex items-center gap-4">
+                <span class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-soft-gold shrink-0">{padIndex}</span>
+                <span>{faq.data.question}</span>
+              </div>
+              <div class="w-6 h-6 rounded-full bg-brand-50 flex items-center justify-center shrink-0 ml-4 group-hover:bg-[#B59A73]/15 transition-colors">
+                <Icon name="chevron-down" size={12} class="text-text-muted group-open:rotate-180 transition-transform duration-300" />
+              </div>
+            </summary>
+            <div class="pl-8 sm:pl-10 pb-6 text-sm text-text-secondary leading-relaxed font-sans tracking-wide">
+              {faq.data.answer}
+            </div>
+          </details>
+        );
+      })}
+    </div>
+  </Container>
+</section>

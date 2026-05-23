@@ -1,0 +1,100 @@
+---
+import MarketingLayout from '../../../layouts/MarketingLayout.astro';
+import Container from '../../../components/base/Container.astro';
+import Section from '../../../components/base/Section.astro';
+import Icon from '../../../components/ui/Icon.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog');
+  const published = allPosts.filter(p => p.data.status === 'published');
+
+  // Collect all unique tags
+  const tagSet = new Set<string>();
+  published.forEach(post => {
+    post.data.tags.forEach(tag => tagSet.add(tag));
+  });
+
+  return Array.from(tagSet).map(tag => ({
+    params: { tag },
+    props: {
+      tag,
+      posts: published
+        .filter(p => p.data.tags.includes(tag))
+        .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+const tagDisplay = tag.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
+const totalPosts = posts.length;
+---
+
+<MarketingLayout
+  title={`Artikel Tag: ${tagDisplay}`}
+  description={`Kumpulan artikel seputar ${tagDisplay} di Acaranya.id. ${totalPosts} artikel tersedia.`}
+>
+  <section class="pt-8 pb-6 lg:pt-12 lg:pb-8 bg-cream">
+    <Container>
+      <div class="max-w-3xl">
+        <div class="flex items-center gap-2 mb-3">
+          <a href="/artikel/" class="text-[12px] text-text-muted hover:text-brand-500 transition-colors flex items-center gap-1">
+            <Icon name="arrow-right" size={12} class="rotate-180" /> Semua Artikel
+          </a>
+        </div>
+        <div class="flex items-center gap-3 mb-4">
+          <div class="w-10 h-10 rounded-lg bg-brand-50 border border-brand-100 flex items-center justify-center">
+            <Icon name="tag" size={18} class="text-brand-500" />
+          </div>
+          <div>
+            <h1 class="font-serif text-[1.75rem] sm:text-[2rem] font-semibold text-text-primary leading-tight">
+              {tagDisplay}
+            </h1>
+            <p class="text-[13px] text-text-muted">{totalPosts} artikel</p>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <Section bg="white">
+    <Container>
+      {posts.length > 0 ? (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
+          {posts.map((post) => (
+            <a href={`/artikel/${post.id}/`} class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300">
+              {post.data.image ? (
+                <div class="aspect-[16/9] overflow-hidden">
+                  <img
+                    src={post.data.image}
+                    alt={post.data.title}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+              ) : (
+                <div class="aspect-[16/9] bg-gradient-to-br from-brand-50 via-champagne/10 to-blush/20 flex items-center justify-center">
+                  <span class="font-serif text-lg text-brand-300 italic">Artikel</span>
+                </div>
+              )}
+              <div class="p-5">
+                <div class="flex items-center gap-2 mb-2">
+                  <span class="text-[10px] text-champagne font-semibold uppercase tracking-[0.15em]">{post.data.category}</span>
+                  <span class="text-[10px] text-text-muted">·</span>
+                  <span class="text-[10px] text-text-muted">{post.data.publishedAt.toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
+                </div>
+                <h3 class="font-semibold text-text-primary text-[15px] mb-2 group-hover:text-brand-500 transition-colors line-clamp-2">{post.data.title}</h3>
+                <p class="text-sm text-text-muted line-clamp-2">{post.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="text-center py-20">
+          <p class="text-text-muted text-sm">Belum ada artikel dengan tag ini.</p>
+        </div>
+      )}
+    </Container>
+  </Section>
+</MarketingLayout>

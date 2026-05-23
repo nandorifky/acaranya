@@ -1,0 +1,144 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import DesignCard from '../../components/designs/DesignCard.astro';
+import Icon from '../../components/ui/Icon.astro';
+import { getCollection } from 'astro:content';
+import { designCategories, getCategoryBySlug } from '../../data/design-categories';
+import { pricingPlans } from '../../data/pricing-static';
+
+export function getStaticPaths() {
+  return designCategories.map(cat => ({
+    params: { slug: cat.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const category = getCategoryBySlug(slug!)!;
+
+const allDesigns = await getCollection('designs');
+const categoryDesigns = allDesigns
+  .filter(d => d.data.status === 'published' && d.data.category === slug)
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+---
+
+<MarketingLayout
+  title={`Template Undangan Digital ${category.label}`}
+  description={category.metaDescription}
+>
+  <!-- Category Hero -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <!-- Subtle Background Dot Pattern -->
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl space-y-6">
+        <div class="flex items-center gap-2">
+          <div class="w-8 h-8 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold">
+            <Icon name={category.icon} size={13} />
+          </div>
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Kategori {category.label}</span>
+        </div>
+
+        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+          Pilihan eksklusif undangan <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold">{category.label.toLowerCase()}</span>
+        </h1>
+        <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+          {category.description}
+        </p>
+
+        <!-- Dynamic Capsule Chips (Kinto Style) -->
+        <div class="flex flex-wrap gap-2.5 pt-4">
+          <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-[#B59A73] hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card">
+            <Icon name="arrow-right" size={10} class="rotate-180" /> Semua Desain
+          </a>
+          {designCategories.map((cat) => (
+            <a
+              href={`/desain-undangan-digital/${cat.slug}/`}
+              class:list={[
+                'inline-flex items-center gap-2 px-5 py-2.5 text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card',
+                cat.slug === slug
+                  ? 'bg-brand-950 text-cream border border-brand-950'
+                  : 'bg-white border border-[#B59A73]/20 hover:border-soft-gold text-brand-800 hover:text-soft-gold hover:shadow-card-hover'
+              ]}
+            >
+              <Icon name={cat.icon} size={11} />
+              {cat.labelShort}
+            </a>
+          ))}
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Showroom Results -->
+  <Section bg="white" id="category-results" class="border-t border-border-soft/60">
+    <Container>
+      {categoryDesigns.length > 0 ? (
+        <>
+          <div class="flex items-center justify-between mb-8 border-b border-border-soft/30 pb-4">
+            <p class="text-[11px] font-sans font-semibold uppercase tracking-widest text-text-muted">
+              Menampilkan <span class="text-brand-950 font-bold">{categoryDesigns.length}</span> Desain Pilihan {category.label}
+            </p>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 stagger">
+            {categoryDesigns.map((design) => (
+              <DesignCard design={design} />
+            ))}
+          </div>
+        </>
+      ) : (
+        <div class="text-center py-24 max-w-md mx-auto space-y-6">
+          <div class="w-16 h-16 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold mx-auto bg-cream">
+            <Icon name="palette" size={24} />
+          </div>
+          <div class="space-y-2">
+            <h3 class="font-serif text-2xl text-brand-950">Desain Segera Hadir</h3>
+            <p class="text-xs text-text-muted font-sans tracking-wide leading-relaxed">
+              Template khusus untuk kategori {category.label} sedang dirancang secara personal oleh desainer kami.
+            </p>
+          </div>
+          <div class="pt-2">
+            <a href="/order-undangan/?notes=Request+Custom+Design+Kategori" class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-950 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-900 transition-all duration-300 shadow-card">
+              Request Desain Custom
+            </a>
+          </div>
+        </div>
+      )}
+    </Container>
+  </Section>
+
+  <!-- Premium Bottom Banner -->
+  <Section bg="cream" class="border-t border-border-soft/60">
+    <Container narrow>
+      <div class="space-y-6 text-center max-w-2xl mx-auto">
+        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">
+          {category.longContent?.subtitle || 'Kenapa Memilih Kami?'}
+        </span>
+        <h2 class="font-serif text-3xl text-brand-950 leading-tight">
+          {category.longContent?.title || 'Menampilkan keanggunan sejati dalam format digital'}
+        </h2>
+        <div class="text-text-secondary text-sm leading-relaxed space-y-4 font-sans tracking-wide">
+          {category.longContent?.paragraphs ? (
+            category.longContent.paragraphs.map((p) => <p>{p}</p>)
+          ) : (
+            <>
+              <p>
+                Undangan digital kategori {category.label.toLowerCase()} dari Acaranya.id memprioritaskan estetika premium khas butik serta kualitas performa yang sangat ringan dan cepat diakses. 
+              </p>
+              <p class="text-xs text-text-muted">
+                Mulai dari {pricingPlans[0].priceDisplay}, seluruh undangan Anda sudah dilengkapi dengan navigasi Google Maps presisi, RSVP otomatis, dan alunan musik pilihan.
+              </p>
+            </>
+          )}
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

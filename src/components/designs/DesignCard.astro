@@ -1,0 +1,77 @@
+---
+import Icon from '../ui/Icon.astro';
+
+interface Props {
+  design: {
+    id: string;
+    data: {
+      title: string;
+      category: string;
+      thumbnail: string;
+      previewUrl: string;
+      isFeatured: boolean;
+      isPremium: boolean;
+      tags: string[];
+      package?: string;
+    };
+  };
+}
+
+const { design } = Astro.props;
+const { title, category, thumbnail, previewUrl, isPremium, tags = [] } = design.data;
+const slug = design.id;
+---
+
+<article class="group relative bg-surface border border-border-soft/60 rounded-3xl overflow-hidden hover:border-[#B59A73]/50 hover:-translate-y-1 transition-all duration-300 shadow-card hover:shadow-card-hover" id={`design-card-${slug}`}>
+  <!-- Thumbnail -->
+  <div class="relative aspect-[3/4] overflow-hidden bg-surface-muted">
+    <div class="w-full h-full bg-gradient-to-br from-cream-warm via-blush/20 to-champagne/15 flex flex-col items-center justify-center p-6 text-center">
+      <div class="w-10 h-10 rounded-full border border-champagne/30 flex items-center justify-center mb-3">
+        <span class="font-serif text-lg text-brand-500 font-semibold">A</span>
+      </div>
+      <span class="font-sans text-[10px] uppercase tracking-widest text-[#B59A73] mb-0.5 font-bold">Template</span>
+      <p class="font-serif text-lg text-brand-900 font-medium italic">"{title}"</p>
+    </div>
+    
+    {isPremium && (
+      <div class="absolute top-4 left-4 flex items-center gap-1 px-3 py-1.5 bg-[#FAF9F6] border border-[#B59A73]/30 backdrop-blur-md text-soft-gold rounded-full shadow-sm">
+        <Icon name="crown" size={10} class="text-soft-gold" />
+        <span class="text-[9px] font-bold uppercase tracking-widest">Premium</span>
+      </div>
+    )}
+    
+    <!-- Hover overlay -->
+    <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 backdrop-blur-[2px]">
+      <div class="flex gap-2.5">
+        <a href={previewUrl} target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center gap-1.5 px-5 py-2.5 bg-[#FAF9F6] text-brand-950 text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white transition-colors duration-300 shadow-sm"
+          onclick="event.stopPropagation()">
+          <Icon name="eye" size={11} />
+          Preview
+        </a>
+        <a href={`/order-undangan/?template=${slug}`}
+          class="inline-flex items-center gap-1.5 px-5 py-2.5 bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-colors duration-300 shadow-sm"
+          onclick="event.stopPropagation()">
+          Order
+          <Icon name="arrow-right" size={11} />
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="p-5 space-y-2.5">
+    <div>
+      <h3 class="font-serif text-base text-brand-900 font-semibold line-clamp-1 group-hover:text-soft-gold transition-colors duration-300">{title}</h3>
+      <p class="text-[10px] text-text-muted capitalize font-semibold tracking-wider">{category}</p>
+    </div>
+    
+    {tags.length > 0 && (
+      <div class="flex flex-wrap gap-1.5 pt-1">
+        {tags.slice(0, 3).map((tag) => (
+          <span class="text-[9px] text-[#A7B8B9] bg-brand-50/50 px-2 py-0.5 rounded-full font-medium capitalize border border-brand-100/40">{tag}</span>
+        ))}
+      </div>
+    )}
+  </div>
+</article>

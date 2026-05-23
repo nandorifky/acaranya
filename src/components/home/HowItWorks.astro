@@ -1,0 +1,64 @@
+---
+import Container from '../base/Container.astro';
+import Section from '../base/Section.astro';
+import SectionHeader from '../base/SectionHeader.astro';
+import Icon from '../ui/Icon.astro';
+
+const steps = [
+  { icon: 'palette', num: '01', title: 'Pilih Desain', description: 'Jelajahi galeri template premium kami dan pilih desain yang paling berkesan.' },
+  { icon: 'send', num: '02', title: 'Kirim Data Acara', description: 'Isi detail data pernikahan/acara Anda lewat form digital yang intuitif.' },
+  { icon: 'pen-line', num: '03', title: 'Review & Revisi', description: 'Tim desainer kami memproses undangan, dan Anda bebas melakukan revisi.' },
+  { icon: 'share-2', num: '04', title: 'Siap Bagikan', description: 'Undangan digital aktif dan siap disebarkan ke seluruh tamu undangan.' },
+];
+---
+
+<Section bg="white" id="how-it-works">
+  <Container>
+    <div class="mb-16 text-center space-y-3">
+      <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Cara Kerja</span>
+      <h2 class="font-serif text-3xl md:text-5xl text-brand-950 max-w-xl mx-auto leading-tight">
+        Langkah mudah mewujudkan undangan impian
+      </h2>
+      <p class="text-sm text-text-secondary max-w-md mx-auto font-sans tracking-wide">
+        Proses pembuatan undangan digital yang terstruktur, cepat, dan tanpa repot.
+      </p>
+    </div>
+
+    <div class="max-w-5xl mx-auto">
+      {/* Desktop Layout */}
+      <div class="hidden md:grid md:grid-cols-4 gap-6 relative">
+        {/* Connecting timeline line (desktop only) */}
+        <div class="absolute top-[28px] left-[12.5%] right-[12.5%] h-px bg-[#B59A73]/25 z-0"></div>
+
+        {steps.map((step, i) => (
+          <div class="relative text-center px-4 group z-10">
+            {/* Circular step badge */}
+            <div class="w-14 h-14 mx-auto mb-6 rounded-full bg-surface border border-border-soft flex items-center justify-center group-hover:border-soft-gold group-hover:bg-[#fff8ec]/30 transition-all duration-300 shadow-sm">
+              <span class="font-serif text-base font-bold text-soft-gold">{step.num}</span>
+            </div>
+
+            <h3 class="font-serif text-lg font-semibold text-brand-900 mb-2 group-hover:text-soft-gold transition-colors duration-300">{step.title}</h3>
+            <p class="text-text-secondary text-sm leading-relaxed font-sans tracking-wide">{step.description}</p>
+          </div>
+        ))}
+      </div>
+
+      {/* Mobile & Tablet — Vertical Timeline */}
+      <div class="md:hidden relative border-l border-[#B59A73]/30 pl-8 ml-4 space-y-10 py-2">
+        {steps.map((step) => (
+          <div class="relative group">
+            {/* Circular marker on the vertical timeline */}
+            <div class="absolute -left-[45px] top-0 w-8 h-8 rounded-full bg-surface border border-border-soft flex items-center justify-center shadow-sm group-hover:border-soft-gold transition-all duration-300">
+              <span class="font-serif text-[11px] font-bold text-soft-gold">{step.num}</span>
+            </div>
+            
+            <div class="space-y-1.5">
+              <h3 class="font-serif text-lg font-semibold text-brand-900 group-hover:text-soft-gold transition-colors duration-300">{step.title}</h3>
+              <p class="text-text-secondary text-sm leading-relaxed font-sans tracking-wide">{step.description}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </Container>
+</section>

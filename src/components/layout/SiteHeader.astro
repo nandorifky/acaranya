@@ -1,0 +1,72 @@
+---
+import { siteConfig } from '../../data/site';
+import { mainNavigation, ctaNavItem } from '../../data/navigation';
+import Icon from '../ui/Icon.astro';
+import MobileNav from './MobileNav';
+---
+
+<header id="site-header" class="fixed top-4 left-4 right-4 z-50 transition-all duration-300">
+  <div class="max-w-5xl mx-auto px-5 py-2.5 sm:py-3 bg-surface/80 backdrop-blur-md rounded-full border border-border-soft/60 shadow-card flex items-center justify-between transition-all duration-300" id="header-container">
+    
+    <!-- Logo -->
+    <a href="/" class="flex items-center gap-2.5 group" id="header-logo">
+      <!-- Monogram -->
+      <div class="w-8 h-8 bg-brand-500 rounded-full flex items-center justify-center group-hover:bg-brand-600 transition-colors duration-300 shadow-sm">
+        <span class="font-serif text-sm text-white font-bold leading-none">A</span>
+      </div>
+      <div>
+        <span class="text-[15px] font-serif font-semibold text-text-primary tracking-tight leading-none group-hover:text-soft-gold transition-colors duration-300">
+          {siteConfig.name}
+        </span>
+      </div>
+    </a>
+
+    <!-- Desktop Navigation -->
+    <nav class="hidden lg:flex items-center gap-1" id="desktop-nav">
+      {mainNavigation.map((item) => (
+        <a
+          href={item.href}
+          class="relative px-4 py-2 text-[11px] font-bold tracking-widest uppercase text-text-secondary hover:text-soft-gold transition-all duration-300"
+        >
+          {item.label}
+        </a>
+      ))}
+    </nav>
+
+    <!-- Desktop CTA -->
+    <div class="hidden lg:flex items-center gap-3">
+      <a
+        href={ctaNavItem.href}
+        class="inline-flex items-center gap-2 px-5 py-2.5 bg-brand-900 hover:bg-brand-950 text-white text-[11px] font-bold tracking-widest uppercase rounded-full transition-all duration-300 shadow-sm hover:shadow active:scale-[0.98]"
+        id="header-cta"
+      >
+        {ctaNavItem.label}
+        <Icon name="arrow-right" size={13} />
+      </a>
+    </div>
+
+    <!-- Mobile Menu Button -->
+    <div class="lg:hidden flex items-center">
+      <MobileNav client:only="react" />
+    </div>
+  </div>
+</header>
+
+<!-- Spacer to prevent content overlapping under fixed floating header -->
+<div class="h-20 lg:h-24"></div>
+
+<script>
+  const headerContainer = document.getElementById('header-container');
+
+  window.addEventListener('scroll', () => {
+    if (headerContainer) {
+      if (window.scrollY > 20) {
+        headerContainer.classList.add('py-2', 'bg-surface/90', 'border-brand-200/50', 'shadow-card-hover');
+        headerContainer.classList.remove('py-2.5', 'sm:py-3', 'bg-surface/80', 'border-border-soft/60', 'shadow-card');
+      } else {
+        headerContainer.classList.remove('py-2', 'bg-surface/90', 'border-brand-200/50', 'shadow-card-hover');
+        headerContainer.classList.add('py-2.5', 'sm:py-3', 'bg-surface/80', 'border-border-soft/60', 'shadow-card');
+      }
+    }
+  });
+</script>

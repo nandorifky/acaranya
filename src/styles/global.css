@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Allura&display=swap');
+@import "tailwindcss";
+
+/* ──────────────────────────────────────────────
+   Design Tokens — Premium / Editorial
+   ────────────────────────────────────────────── */
+
+@theme {
+  --color-brand-50: #f5f7f7;
+  --color-brand-100: #e7ecec;
+  --color-brand-200: #ccd6d7;
+  --color-brand-300: #a7b8b9;
+  --color-brand-400: #7c9294;
+  --color-brand-500: #4d5859;
+  --color-brand-600: #465052;
+  --color-brand-700: #394244;
+  --color-brand-800: #303738;
+  --color-brand-900: #2a3031;
+  --color-brand-950: #171b1c;
+
+  --color-cream: #fbfaf7;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f6f3ee;
+  --color-surface-soft: #f1eee8;
+  --color-text-primary: #1a1d1e;
+  --color-text-secondary: #4a5455;
+  --color-text-muted: #8a9293;
+  --color-border-soft: #e8e3da;
+  --color-border-strong: #cfc8bc;
+
+  --color-champagne: #c9b77d;
+  --color-soft-gold: #a88c4a;
+  --color-blush: #ead8d2;
+  --color-sage: #c8d2c4;
+  --color-cream-warm: #fff8ec;
+  --color-error: #b42318;
+  --color-success: #2f6b4f;
+  --color-warning: #b7791f;
+
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  --font-latin: 'Allura', cursive;
+
+  --color-kinto-cream: #FAF9F6;
+  --color-kinto-dark: #121110;
+  --color-kinto-gold: #B59A73;
+  --color-kinto-gold-light: rgba(181, 154, 115, 0.15);
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-pulse-slow: pulse-slow 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+
+  --shadow-card: 0 4px 24px rgba(23, 27, 28, 0.05);
+  --shadow-card-hover: 0 12px 48px rgba(23, 27, 28, 0.09);
+  --shadow-header: 0 1px 0 rgba(23, 27, 28, 0.06);
+  --shadow-elevated: 0 20px 60px rgba(23, 27, 28, 0.12);
+}
+
+/* ──────────────────────────────────────────────
+   Base Styles — Refined
+   ────────────────────────────────────────────── */
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+  color: var(--color-text-primary);
+  line-height: 1.65;
+  letter-spacing: -0.01em;
+}
+
+::selection {
+  background-color: var(--color-champagne);
+  color: var(--color-brand-950);
+}
+
+/* ──────────────────────────────────────────────
+   Typography Overrides
+   ────────────────────────────────────────────── */
+
+.font-serif {
+  font-family: var(--font-serif);
+  letter-spacing: -0.02em;
+}
+
+.font-latin {
+  font-family: var(--font-latin);
+}
+
+/* Refined heading styles */
+h1, h2, h3 {
+  text-wrap: balance;
+}
+
+/* ──────────────────────────────────────────────
+   Premium Divider
+   ────────────────────────────────────────────── */
+
+.divider-ornament {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  justify-content: center;
+}
+.divider-ornament::before,
+.divider-ornament::after {
+  content: '';
+  height: 1px;
+  width: 40px;
+  background: linear-gradient(90deg, transparent, var(--color-champagne), transparent);
+}
+
+/* ──────────────────────────────────────────────
+   Animations — Subtle & Refined
+   ────────────────────────────────────────────── */
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slide-in-right {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-10px) rotate(1deg); }
+}
+
+@keyframes pulse-slow {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.7s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out forwards;
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right 0.35s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Stagger */
+.stagger > * {
+  opacity: 0;
+  animation: fade-in-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+.stagger > *:nth-child(1) { animation-delay: 0.05s; }
+.stagger > *:nth-child(2) { animation-delay: 0.1s; }
+.stagger > *:nth-child(3) { animation-delay: 0.15s; }
+.stagger > *:nth-child(4) { animation-delay: 0.2s; }
+.stagger > *:nth-child(5) { animation-delay: 0.25s; }
+.stagger > *:nth-child(6) { animation-delay: 0.3s; }
+
+/* ──────────────────────────────────────────────
+   Prose / Article — Editorial
+   ────────────────────────────────────────────── */
+
+.prose h2 {
+  font-family: var(--font-serif);
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-text-primary);
+  letter-spacing: -0.02em;
+}
+
+.prose h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose p {
+  margin-bottom: 1.35rem;
+  color: var(--color-text-secondary);
+  line-height: 1.8;
+}
+
+.prose ul, .prose ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+  color: var(--color-text-secondary);
+}
+
+.prose a {
+  color: var(--color-brand-500);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: var(--color-brand-200);
+  transition: text-decoration-color 0.2s;
+}
+
+.prose a:hover {
+  text-decoration-color: var(--color-brand-500);
+}
+
+.prose blockquote {
+  border-left: 2px solid var(--color-champagne);
+  padding-left: 1.5rem;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--color-text-secondary);
+  margin: 2rem 0;
+}
+
+.prose strong {
+  color: var(--color-text-primary);
+  font-weight: 600;
+}
+
+/* ──────────────────────────────────────────────
+   Scrollbar — Minimal
+   ────────────────────────────────────────────── */
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--color-brand-200); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-brand-300); }
+
+/* ──────────────────────────────────────────────
+   Utility Classes
+   ────────────────────────────────────────────── */
+
+.glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px) saturate(1.5);
+  -webkit-backdrop-filter: blur(16px) saturate(1.5);
+}
+
+.text-gradient-gold {
+  background: linear-gradient(135deg, var(--color-champagne) 0%, var(--color-soft-gold) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.border-gradient {
+  border-image: linear-gradient(135deg, var(--color-border-soft), var(--color-champagne), var(--color-border-soft)) 1;
+}

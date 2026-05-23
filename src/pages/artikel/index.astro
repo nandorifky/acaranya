@@ -1,0 +1,74 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import SectionHeader from '../../components/base/SectionHeader.astro';
+import Icon from '../../components/ui/Icon.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const publishedPosts = allPosts
+  .filter(p => p.data.status === 'published')
+  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+---
+
+<MarketingLayout title="Artikel — Inspirasi dan Tips Undangan Digital" description="Inspirasi, tips, dan panduan seputar undangan digital dari Acaranya.id.">
+  <section class="pt-8 pb-6 lg:pt-12 lg:pb-8 bg-cream">
+    <Container>
+      <div class="max-w-3xl mx-auto text-center">
+        <SectionHeader
+          eyebrow="Artikel"
+          title="Inspirasi & Tips Undangan Digital"
+          subtitle="Artikel, tips, dan panduan untuk membantu kamu membuat undangan digital terbaik."
+        />
+      </div>
+    </Container>
+  </section>
+
+  <Section bg="white">
+    <Container>
+      {publishedPosts.length > 0 ? (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
+          {publishedPosts.map((post) => (
+            <a href={`/artikel/${post.id}/`} class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300">
+              {post.data.image ? (
+                <div class="aspect-[16/9] overflow-hidden">
+                  <img
+                    src={post.data.image}
+                    alt={post.data.title}
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+              ) : (
+                <div class="aspect-[16/9] bg-gradient-to-br from-brand-50 via-champagne/10 to-blush/20 flex items-center justify-center">
+                  <span class="font-serif text-lg text-brand-300 italic">Artikel</span>
+                </div>
+              )}
+              <div class="p-5">
+                <div class="flex items-center gap-2 mb-2">
+                  <span class="text-[10px] text-champagne font-semibold uppercase tracking-[0.15em]">{post.data.category}</span>
+                  <span class="text-[10px] text-text-muted">·</span>
+                  <span class="text-[10px] text-text-muted">{post.data.publishedAt.toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' })}</span>
+                </div>
+                <h3 class="font-semibold text-text-primary text-[15px] mb-2 group-hover:text-brand-500 transition-colors line-clamp-2">{post.data.title}</h3>
+                <p class="text-sm text-text-muted line-clamp-2">{post.data.description}</p>
+                <div class="flex items-center gap-1.5 mt-3 text-[12px] text-brand-500 font-medium">
+                  Baca selengkapnya <Icon name="arrow-right" size={12} />
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="text-center py-20">
+          <div class="w-14 h-14 rounded-full bg-brand-50 border border-brand-100 flex items-center justify-center mx-auto mb-5">
+            <Icon name="pen-line" size={24} class="text-brand-400" />
+          </div>
+          <h3 class="font-serif text-xl font-semibold text-text-primary mb-2">Artikel segera hadir</h3>
+          <p class="text-text-muted text-sm">Kami sedang menyiapkan konten inspiratif untuk kamu.</p>
+        </div>
+      )}
+    </Container>
+  </Section>
+</MarketingLayout>

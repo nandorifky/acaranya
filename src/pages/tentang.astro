@@ -1,0 +1,111 @@
+---
+import MarketingLayout from '../layouts/MarketingLayout.astro';
+import Container from '../components/base/Container.astro';
+import Section from '../components/base/Section.astro';
+import { siteConfig } from '../data/site';
+---
+
+<MarketingLayout 
+  title="Tentang Acaranya.id — Butik Undangan Digital" 
+  description="Ketahui cerita dan misi Acaranya.id dalam merancang undangan digital premium berestetika tinggi untuk momen terindah hidup Anda."
+>
+  <!-- Hero Section -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl mx-auto text-center space-y-4">
+        <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Tentang Kami</span>
+        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+          Layanan undangan digital <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold">dengan dedikasi seni</span>
+        </h1>
+        <p class="text-text-secondary text-sm md:text-base max-w-lg mx-auto font-sans tracking-wide leading-relaxed">
+          Kami memadukan fungsionalitas teknologi modern dengan estetika editorial butik untuk menciptakan kartu undangan digital yang berkelas.
+        </p>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Content Section -->
+  <Section bg="white" class="border-t border-border-soft/60">
+    <Container narrow>
+      <div class="prose max-w-none font-sans text-text-secondary leading-relaxed space-y-12">
+        
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Cerita Kami</span>
+          <h2 class="font-serif text-3xl text-brand-950 leading-snug">
+            Membangun keindahan di ranah digital
+          </h2>
+          <p class="text-sm tracking-wide">
+            Acaranya.id hadir dari keinginan sederhana: membuat undangan acara menjadi lebih praktis, cantik, dan berkelas bagi semua kalangan. Sejak didirikan pada tahun {siteConfig.business.foundedYear}, kami telah berdedikasi membantu ribuan pasangan calon pengantin and keluarga membagikan kabar bahagia mereka dengan kemewahan visual yang memukau.
+          </p>
+        </div>
+
+        <div class="space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Misi Mulia</span>
+          <h2 class="font-serif text-3xl text-brand-950 leading-snug">
+            Dedikasi penuh pada presisi & kelestarian alam
+          </h2>
+          <p class="text-sm tracking-wide">
+            Kami percaya bahwa setiap perayaan yang sakral layak mendapatkan gerbang pembuka yang anggun. Lewat inovasi undangan digital, kami tidak hanya menawarkan kemudahan and kecepatan, tetapi juga berkontribusi nyata dalam mengurangi penggunaan kertas sekali pakai demi kelestarian alam lingkungan kita bersama.
+          </p>
+        </div>
+
+        <div class="space-y-6 pt-4 border-t border-border-soft/60">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Kenapa Memilih Kami?</span>
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 text-sm tracking-wide text-brand-950">
+            <div class="flex items-start gap-3">
+              <span class="w-1.5 h-1.5 rounded-full bg-soft-gold mt-2 flex-shrink-0"></span>
+              <p>Ratusan pilihan template berkarakter kuat and bercita rasa seni tinggi.</p>
+            </div>
+            <div class="flex items-start gap-3">
+              <span class="w-1.5 h-1.5 rounded-full bg-soft-gold mt-2 flex-shrink-0"></span>
+              <p>Proses integrasi and pengaktifan cepat hanya dalam hitungan jam.</p>
+            </div>
+            <div class="flex items-start gap-3">
+              <span class="w-1.5 h-1.5 rounded-full bg-soft-gold mt-2 flex-shrink-0"></span>
+              <p>Fitur interaktif terlengkap (RSVP, Maps, e-Gift, dan QR Check-in).</p>
+            </div>
+            <div class="flex items-start gap-3">
+              <span class="w-1.5 h-1.5 rounded-full bg-soft-gold mt-2 flex-shrink-0"></span>
+              <p>Layanan konsultasi and bantuan pelanggan yang ramah and suportif.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </Container>
+  </Section>
+
+  <!-- Big Numbers Stats Block (Kinto layout) -->
+  <Section bg="cream" class="border-t border-border-soft/50">
+    <Container>
+      <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12 max-w-4xl mx-auto text-center stagger">
+        <div class="space-y-1">
+          <p class="font-serif text-4xl lg:text-5xl font-bold text-soft-gold">{siteConfig.stats.totalInvitations}</p>
+          <div class="w-6 h-px bg-soft-gold/30 mx-auto my-2"></div>
+          <p class="text-[10px] uppercase tracking-[0.18em] text-text-muted font-bold">Undangan Dibuat</p>
+        </div>
+        <div class="space-y-1">
+          <p class="font-serif text-4xl lg:text-5xl font-bold text-soft-gold">{siteConfig.stats.totalGuests}</p>
+          <div class="w-6 h-px bg-soft-gold/30 mx-auto my-2"></div>
+          <p class="text-[10px] uppercase tracking-[0.18em] text-text-muted font-bold">Tamu Diundang</p>
+        </div>
+        <div class="space-y-1">
+          <p class="font-serif text-4xl lg:text-5xl font-bold text-soft-gold">{siteConfig.stats.totalDesigns}</p>
+          <div class="w-6 h-px bg-soft-gold/30 mx-auto my-2"></div>
+          <p class="text-[10px] uppercase tracking-[0.18em] text-text-muted font-bold">Desain Pilihan</p>
+        </div>
+        <div class="space-y-1">
+          <p class="font-serif text-4xl lg:text-5xl font-bold text-soft-gold">{siteConfig.stats.since}</p>
+          <div class="w-6 h-px bg-soft-gold/30 mx-auto my-2"></div>
+          <p class="text-[10px] uppercase tracking-[0.18em] text-text-muted font-bold">Berpengalaman</p>
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

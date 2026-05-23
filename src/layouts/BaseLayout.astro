@@ -1,0 +1,98 @@
+---
+import '../styles/global.css';
+import { siteConfig } from '../data/site';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+  canonical?: string;
+  robots?: string;
+  type?: 'website' | 'article';
+  jsonLd?: Record<string, unknown>[];
+}
+
+const {
+  title = siteConfig.seo.defaultTitle,
+  description = siteConfig.seo.defaultDescription,
+  ogImage = siteConfig.ogImage,
+  canonical,
+  robots = 'index,follow',
+  type = 'website',
+  jsonLd = [],
+} = Astro.props;
+
+const pageTitle = title === siteConfig.seo.defaultTitle
+  ? title
+  : siteConfig.seo.titleTemplate.replace('%s', title);
+
+const canonicalUrl = canonical || new URL(Astro.url.pathname, siteConfig.url).toString();
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : new URL(ogImage, siteConfig.url).toString();
+
+// Default JSON-LD: Organization + WebSite
+const defaultJsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: siteConfig.name,
+    url: siteConfig.url,
+    logo: new URL('/favicon.svg', siteConfig.url).toString(),
+    contactPoint: {
+      '@type': 'ContactPoint',
+      telephone: `+${siteConfig.contact.whatsapp}`,
+      contactType: 'customer service',
+      availableLanguage: 'Indonesian',
+    },
+    sameAs: [siteConfig.contact.instagramUrl],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: siteConfig.name,
+    url: siteConfig.url,
+  },
+];
+
+const allJsonLd = [...defaultJsonLd, ...jsonLd];
+---
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO Meta -->
+  <title>{pageTitle}</title>
+  <meta name="description" content={description} />
+  <meta name="robots" content={robots} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImageUrl} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:type" content={type} />
+  <meta property="og:locale" content={siteConfig.locale} />
+  <meta property="og:site_name" content={siteConfig.name} />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={pageTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImageUrl} />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="generator" content={Astro.generator} />
+
+  <!-- JSON-LD -->
+  {allJsonLd.map((ld) => (
+    <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+  ))}
+</head>
+<body class="min-h-screen flex flex-col">
+  <slot />
+</body>
+</html>

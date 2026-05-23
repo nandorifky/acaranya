@@ -1,0 +1,100 @@
+---
+import Icon from '../ui/Icon.astro';
+
+interface BreadcrumbItem {
+  label: string;
+  href?: string;
+}
+
+interface Props {
+  items?: BreadcrumbItem[];
+}
+
+const { items } = Astro.props;
+
+// Auto-generate breadcrumbs from URL if not provided
+const pathname = Astro.url.pathname;
+let breadcrumbItems: BreadcrumbItem[] = items || [];
+
+if (!items && pathname !== '/') {
+  breadcrumbItems = [{ label: 'Home', href: '/' }];
+  const segments = pathname.split('/').filter(Boolean);
+  
+  const labelMap: Record<string, string> = {
+    'fitur': 'Fitur',
+    'harga': 'Harga',
+    'desain-undangan-digital': 'Desain Undangan Digital',
+    'kategori': 'Kategori',
+    'order-undangan': 'Order Undangan',
+    'artikel': 'Artikel',
+    'tag': 'Tag',
+    'kontak': 'Kontak',
+    'tentang': 'Tentang',
+    'legal': 'Legal',
+    'syarat-ketentuan': 'Syarat & Ketentuan',
+    'kebijakan-privasi': 'Kebijakan Privasi',
+    'refund-policy': 'Refund Policy',
+    'pernikahan': 'Pernikahan',
+    'khitanan': 'Khitanan',
+    'ulang-tahun': 'Ulang Tahun',
+    'aqiqah': 'Aqiqah',
+    'corporate': 'Corporate',
+    'graduation': 'Graduation',
+  };
+
+  let currentPath = '';
+  segments.forEach((segment, index) => {
+    currentPath += `/${segment}`;
+    const label = labelMap[segment] || segment.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    const isLast = index === segments.length - 1;
+    breadcrumbItems.push({
+      label,
+      href: isLast ? undefined : `${currentPath}/`,
+    });
+  });
+}
+
+// Don't render on homepage
+const isHome = pathname === '/';
+
+// JSON-LD
+const jsonLd = !isHome ? {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbItems.map((item, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: item.label,
+    ...(item.href ? { item: new URL(item.href, 'https://acaranya.id').toString() } : {}),
+  })),
+} : null;
+---
+
+{!isHome && (
+  <nav aria-label="Breadcrumb" class="border-b border-border-soft/60 bg-white/60 backdrop-blur-sm">
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+      <ol class="flex items-center flex-wrap gap-1 text-[13px]">
+        {breadcrumbItems.map((item, index) => (
+          <li class="flex items-center gap-1">
+            {index > 0 && (
+              <Icon name="chevron-right" size={14} class="text-text-muted/50" />
+            )}
+            {item.href ? (
+              <a href={item.href} class="text-text-muted hover:text-brand-500 transition-colors">
+                {index === 0 ? (
+                  <span class="flex items-center gap-1">
+                    <Icon name="home" size={13} />
+                    <span class="sr-only sm:not-sr-only">{item.label}</span>
+                  </span>
+                ) : item.label}
+              </a>
+            ) : (
+              <span class="text-text-secondary font-medium truncate max-w-[200px] sm:max-w-none">{item.label}</span>
+            )}
+          </li>
+        ))}
+      </ol>
+    </div>
+  </nav>
+)}

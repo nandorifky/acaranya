@@ -1,0 +1,244 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+import TableOfContents from '../../components/blog/TableOfContents.astro';
+import { getCollection, render, getEntry } from 'astro:content';
+import { siteConfig } from '../../data/site';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const published = posts.filter(p => p.data.status === 'published');
+  return published.map(post => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+
+// Fetch author data
+const authorEntry = await getEntry('authors', post.data.author);
+const authorName = authorEntry ? authorEntry.data.name : post.data.author;
+const authorSlug = authorEntry ? authorEntry.id : '#';
+
+const publishedDate = post.data.publishedAt.toISOString();
+const modifiedDate = post.data.updatedAt ? post.data.updatedAt.toISOString() : publishedDate;
+const publishedDisplay = post.data.publishedAt.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' });
+const modifiedDisplay = post.data.updatedAt ? post.data.updatedAt.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' }) : null;
+
+const canonicalUrl = post.data.canonicalUrl || `${siteConfig.url}/artikel/${post.id}/`;
+const pageTitle = post.data.customTitle || post.data.title;
+const robots = post.data.noIndex ? 'noindex,nofollow' : 'index,follow';
+
+const shareTitle = encodeURIComponent(post.data.title);
+const shareUrl = encodeURIComponent(canonicalUrl);
+const shareText = encodeURIComponent(`${post.data.title} — ${post.data.description}`);
+
+// JSON-LD Article schema
+const jsonLd = [{
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: publishedDate,
+  dateModified: modifiedDate,
+  author: {
+    '@type': 'Person',
+    name: authorName,
+    url: authorEntry ? `${siteConfig.url}/penulis/${authorEntry.id}/` : undefined,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: siteConfig.name,
+    url: siteConfig.url,
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonicalUrl,
+  },
+  ...(post.data.image ? { image: `${siteConfig.url}${post.data.image}` } : {}),
+  keywords: post.data.tags.join(', '),
+}];
+---
+
+<MarketingLayout
+  title={pageTitle}
+  description={post.data.description}
+  type="article"
+  canonical={canonicalUrl}
+  robots={robots}
+  jsonLd={jsonLd}
+>
+  <!-- Featured Image -->
+  {post.data.image && (
+    <section class="bg-cream pt-6 pb-0 lg:pt-8">
+      <Container narrow>
+        <figure>
+          <div class="aspect-[2/1] sm:aspect-[21/9] overflow-hidden rounded-sm">
+            <img
+              src={post.data.image}
+              alt={post.data.imageAlt || post.data.title}
+              title={post.data.imageTitle}
+              class="w-full h-full object-cover"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </div>
+          {post.data.imageCaption && (
+            <figcaption class="text-center text-[11px] text-text-muted mt-2 italic">
+              {post.data.imageCaption}
+            </figcaption>
+          )}
+        </figure>
+      </Container>
+    </section>
+  )}
+
+  <!-- Article Header -->
+  <section class:list={['pt-6 pb-4 lg:pt-8 lg:pb-6', post.data.image ? 'bg-cream' : 'bg-cream pt-8 lg:pt-12']}>
+    <Container narrow>
+      <div class="max-w-2xl">
+        <!-- Category & Date -->
+        <div class="flex items-center gap-2 mb-3">
+          <span class="text-[11px] text-champagne font-semibold uppercase tracking-[0.2em]">
+            {post.data.category}
+          </span>
+          <span class="text-text-muted/30">·</span>
+          <time datetime={publishedDate} class="text-[12px] text-text-muted">
+            {publishedDisplay}
+          </time>
+        </div>
+
+        <!-- Title -->
+        <h1 class="font-serif text-[1.75rem] sm:text-[2.25rem] lg:text-[2.5rem] font-semibold text-text-primary leading-[1.15] mb-4">
+          {post.data.title}
+        </h1>
+
+        <!-- Description -->
+        <p class="text-text-secondary text-[15px] leading-relaxed mb-5">
+          {post.data.description}
+        </p>
+
+        <!-- Author + Updated -->
+        <div class="flex items-center justify-between flex-wrap gap-3 pb-5 border-b border-border-soft/60">
+          <div class="flex items-center gap-3">
+            <a href={`/penulis/${authorSlug}/`} class="flex items-center gap-3 group">
+              <div class="w-9 h-9 rounded-full bg-brand-100 flex items-center justify-center overflow-hidden">
+                {authorEntry?.data.avatar ? (
+                  <img src={authorEntry.data.avatar} alt={authorName} class="w-full h-full object-cover" />
+                ) : (
+                  <Icon name="user" size={16} class="text-brand-500" />
+                )}
+              </div>
+              <div>
+                <p class="text-sm font-medium text-text-primary group-hover:text-brand-500 transition-colors">{authorName}</p>
+                <p class="text-[11px] text-text-muted">{authorEntry?.data.role || siteConfig.name}</p>
+              </div>
+            </a>
+          </div>
+          {modifiedDisplay && (
+            <p class="text-[11px] text-text-muted flex items-center gap-1">
+              <Icon name="refresh-cw" size={11} />
+              Diperbarui {modifiedDisplay}
+            </p>
+          )}
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Article Body -->
+  <Section bg="white">
+    <Container narrow>
+      <article class="max-w-2xl">
+        <!-- Table of Contents -->
+        <TableOfContents headings={headings} />
+
+        <!-- Content -->
+        <div class="prose max-w-none">
+          <Content />
+        </div>
+
+        <!-- Tags -->
+        {post.data.tags.length > 0 && (
+          <div class="mt-10 pt-6 border-t border-border-soft/60">
+            <div class="flex items-center gap-2 flex-wrap">
+              <Icon name="tag" size={14} class="text-text-muted" />
+              {post.data.tags.map((tag) => (
+                <a
+                  href={`/artikel/tag/${tag}/`}
+                  class="text-[12px] text-text-muted bg-surface-muted px-2.5 py-1 rounded-sm capitalize hover:bg-brand-50 hover:text-brand-500 transition-colors"
+                >
+                  {tag}
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <!-- Share -->
+        <div class="mt-6 pt-6 border-t border-border-soft/60">
+          <p class="text-[11px] font-semibold uppercase tracking-[0.15em] text-text-muted mb-3">Bagikan artikel</p>
+          <div class="flex items-center gap-2">
+            <a
+              href={`https://wa.me/?text=${shareText}%20${shareUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-9 h-9 flex items-center justify-center rounded-full bg-[#25D366]/10 text-[#25D366] hover:bg-[#25D366]/20 transition-colors"
+              aria-label="Share di WhatsApp"
+            >
+              <Icon name="whatsapp" size={16} />
+            </a>
+            <a
+              href={`https://twitter.com/intent/tweet?text=${shareTitle}&url=${shareUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-9 h-9 flex items-center justify-center rounded-full bg-brand-50 text-brand-500 hover:bg-brand-100 transition-colors"
+              aria-label="Share di X/Twitter"
+            >
+              <Icon name="share-2" size={15} />
+            </a>
+            <button
+              id="copy-url-btn"
+              type="button"
+              class="w-9 h-9 flex items-center justify-center rounded-full bg-surface-muted text-text-muted hover:bg-surface-soft hover:text-text-secondary transition-colors"
+              aria-label="Salin link"
+            >
+              <Icon name="copy" size={15} />
+            </button>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <div class="mt-14 p-7 bg-cream border border-border-soft text-center">
+          <h3 class="font-serif text-xl font-semibold text-text-primary mb-2">Tertarik membuat undangan digital?</h3>
+          <p class="text-sm text-text-muted mb-5">Lihat koleksi desain eksklusif kami dan order dengan mudah.</p>
+          <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-6 py-3 bg-brand-900 text-white text-[13px] font-medium uppercase tracking-wider rounded-sm hover:bg-brand-950 transition-colors">
+            Lihat Desain
+            <Icon name="arrow-right" size={14} />
+          </a>
+        </div>
+      </article>
+    </Container>
+  </Section>
+</MarketingLayout>
+
+<script>
+  const copyBtn = document.getElementById('copy-url-btn');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
+        copyBtn.classList.add('!bg-success/10', '!text-success');
+        setTimeout(() => {
+          copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>';
+          copyBtn.classList.remove('!bg-success/10', '!text-success');
+        }, 2000);
+      } catch (e) { /* noop */ }
+    });
+  }
+</script>

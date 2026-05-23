@@ -1,0 +1,210 @@
+---
+import MarketingLayout from '../layouts/MarketingLayout.astro';
+import Container from '../components/base/Container.astro';
+import Section from '../components/base/Section.astro';
+import SectionHeader from '../components/base/SectionHeader.astro';
+import { pricingPlans } from '../data/pricing-static';
+import { createWhatsappUrl } from '../lib/whatsapp/create-whatsapp-url';
+import Icon from '../components/ui/Icon.astro';
+
+const jsonLd = pricingPlans.map(plan => ({
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: `Paket ${plan.name} - Undangan Digital`,
+  description: plan.description,
+  offers: {
+    '@type': 'Offer',
+    price: plan.price,
+    priceCurrency: 'IDR',
+    availability: 'https://schema.org/InStock',
+  },
+}));
+
+const comparisonFeatures = [
+  { name: 'Unlimited tamu', simple: true, mengundang: true, meriah: true },
+  { name: 'Google Maps', simple: true, mengundang: true, meriah: true },
+  { name: 'RSVP', simple: true, mengundang: true, meriah: true },
+  { name: 'Ucapan & Doa', simple: true, mengundang: true, meriah: true },
+  { name: 'Custom nama tamu', simple: true, mengundang: true, meriah: true },
+  { name: 'Countdown timer', simple: true, mengundang: true, meriah: true },
+  { name: 'Musik background', simple: true, mengundang: true, meriah: true },
+  { name: 'Share WhatsApp', simple: true, mengundang: true, meriah: true },
+  { name: 'Galeri foto', simple: '5 foto', mengundang: '15 foto', meriah: 'Unlimited' },
+  { name: 'Love story / Timeline', simple: false, mengundang: true, meriah: true },
+  { name: 'Rundown acara', simple: false, mengundang: true, meriah: true },
+  { name: 'Amplop digital', simple: false, mengundang: true, meriah: true },
+  { name: 'QR Code check-in', simple: false, mengundang: true, meriah: true },
+  { name: 'Video embed', simple: false, mengundang: true, meriah: true },
+  { name: 'Buku tamu', simple: false, mengundang: true, meriah: true },
+  { name: 'Live streaming', simple: false, mengundang: false, meriah: true },
+  { name: 'Custom domain', simple: false, mengundang: false, meriah: true },
+  { name: 'Multiple sesi', simple: false, mengundang: false, meriah: true },
+  { name: 'Desain custom', simple: false, mengundang: false, meriah: true },
+  { name: 'Priority support', simple: false, mengundang: false, meriah: true },
+  { name: 'Revisi', simple: '2x', mengundang: '5x', meriah: 'Unlimited' },
+  { name: 'Masa aktif', simple: '6 bulan', mengundang: '6 bulan', meriah: '1 tahun' },
+];
+---
+
+<MarketingLayout
+  title="Investasi Paket Undangan Digital Mulai dari Rp75.000"
+  description="Lihat perbandingan paket undangan digital Acaranya.id. Dapatkan desain premium, fitur RSVP lengkap, dan sistem order yang aman."
+  jsonLd={jsonLd}
+>
+  <!-- Hero Section -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl mx-auto text-center space-y-4">
+        <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Daftar Harga</span>
+        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+          Investasi terbaik untuk <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold">momen sekali seumur hidup</span>
+        </h1>
+        <p class="text-text-secondary text-sm md:text-base max-w-lg mx-auto font-sans tracking-wide leading-relaxed">
+          Semua harga transparan tanpa ada biaya tersembunyi. Dapatkan kualitas desain berstandar butik dengan harga terjangkau.
+        </p>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Pricing Cards -->
+  <Section bg="white" id="pricing-preview" class="border-t border-border-soft/60">
+    <Container>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-10 max-w-5xl mx-auto stagger">
+        {pricingPlans.map((plan) => (
+          <div class:list={[
+            'relative bg-cream rounded-3xl border overflow-hidden transition-all duration-300 flex flex-col justify-between group',
+            plan.isPopular
+              ? 'border-soft-gold shadow-card-hover ring-1 ring-soft-gold/30 md:-translate-y-4 scale-[1.02] md:scale-[1.03] z-10 bg-white'
+              : 'border-border-soft/80 hover:border-soft-gold/50 shadow-card hover:shadow-card-hover',
+          ]}>
+            {plan.isPopular && (
+              <div class="absolute top-0 right-0 bg-soft-gold text-cream text-[9px] font-bold py-1 px-4 uppercase tracking-[0.2em] rounded-bl-xl">
+                Terpopuler
+              </div>
+            )}
+            
+            <div class="p-8 lg:p-10 flex-grow">
+              <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block mb-2">{plan.slug}</span>
+              <h3 class="font-serif text-3xl text-brand-950 mb-2">{plan.name}</h3>
+              <p class="text-xs text-text-secondary font-sans leading-relaxed tracking-wide mb-8">{plan.description}</p>
+              
+              <div class="mb-8 border-b border-border-soft/50 pb-6">
+                <span class="text-xs text-text-muted font-sans font-medium">Mulai dari</span>
+                <div class="flex items-baseline gap-1 mt-1">
+                  <span class="font-serif text-4xl lg:text-5xl text-brand-950 font-bold">{plan.priceDisplay}</span>
+                </div>
+              </div>
+              
+              <ul class="space-y-4 mb-10">
+                {plan.features.map((feature) => (
+                  <li class="flex items-start gap-3 text-xs text-text-secondary font-sans tracking-wide">
+                    <span class="w-1.5 h-1.5 rounded-full bg-soft-gold mt-1.5 flex-shrink-0"></span>
+                    <span>{feature}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div class="p-8 lg:p-10 pt-0">
+              <a
+                href={`/order-undangan/?package=${plan.slug}`}
+                class:list={[
+                  'w-full inline-flex items-center justify-center gap-2 py-4 text-[10px] font-bold uppercase tracking-widest rounded-full transition-all duration-300',
+                  plan.isPopular
+                    ? 'bg-brand-950 text-cream hover:bg-brand-900 shadow-card hover:shadow-card-hover'
+                    : 'border border-brand-300/80 text-brand-800 hover:bg-brand-950 hover:text-cream hover:border-brand-950',
+                ]}
+              >
+                {plan.ctaLabel}
+                <Icon name="arrow-right" size={10} />
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </Container>
+  </Section>
+
+  <!-- Detailed Feature Comparison -->
+  <Section bg="cream" id="comparison" class="border-t border-border-soft/60">
+    <Container>
+      <div class="max-w-3xl mx-auto mb-16 text-center space-y-4">
+        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Perbandingan</span>
+        <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight">
+          Peta Perbandingan Fitur Paket
+        </h2>
+        <p class="text-sm text-text-secondary max-w-lg mx-auto font-sans tracking-wide">
+          Bandingkan dan tentukan secara presisi fitur-fitur yang paling Anda butuhkan untuk undangan Anda.
+        </p>
+      </div>
+
+      <div class="max-w-4xl mx-auto overflow-x-auto rounded-3xl border border-border-soft/60 shadow-card bg-white p-2">
+        <table class="w-full min-w-[600px] border-collapse">
+          <thead>
+            <tr class="border-b border-border-soft/60">
+              <th class="text-left px-6 py-5 text-[10px] font-bold uppercase tracking-[0.15em] text-text-muted">Fitur Unggulan</th>
+              <th class="text-center px-4 py-5 text-[10px] font-bold uppercase tracking-[0.15em] text-text-muted">Simple</th>
+              <th class="text-center px-4 py-5 text-[10px] font-bold uppercase tracking-[0.15em] text-soft-gold">Mengundang</th>
+              <th class="text-center px-4 py-5 text-[10px] font-bold uppercase tracking-[0.15em] text-text-muted">Meriah</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-border-soft/40">
+            {comparisonFeatures.map((feat) => (
+              <tr class="hover:bg-cream/40 transition-colors">
+                <td class="px-6 py-4 text-xs font-sans font-medium text-brand-950 tracking-wide">{feat.name}</td>
+                {['simple', 'mengundang', 'meriah'].map((plan) => {
+                  const val = feat[plan as keyof typeof feat];
+                  return (
+                    <td class="text-center px-4 py-4 text-xs font-sans">
+                      {val === true ? (
+                        <div class="inline-flex w-5 h-5 rounded-full bg-soft-gold/15 items-center justify-center text-soft-gold">
+                          <Icon name="check" size={10} />
+                        </div>
+                      ) : val === false ? (
+                        <span class="text-text-muted/40">—</span>
+                      ) : (
+                        <span class="text-text-secondary font-medium tracking-wide">{val}</span>
+                      )}
+                    </td>
+                  );
+                })}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </Container>
+  </Section>
+
+  <!-- Bottom CTA Banner -->
+  <Section bg="white" class="border-t border-border-soft/50">
+    <Container>
+      <div class="text-center max-w-xl mx-auto space-y-6">
+        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Konsultasi Gratis</span>
+        <h2 class="font-serif text-3xl sm:text-4xl text-brand-950 leading-tight">
+          Butuh penyesuaian khusus atau bantuan memilih?
+        </h2>
+        <p class="text-text-secondary text-sm font-sans tracking-wide max-w-md mx-auto">
+          Hubungi tim ramah kami via WhatsApp untuk mendapatkan rekomendasi paket terbaik sesuai dengan konsep acara Anda.
+        </p>
+        <div class="pt-4">
+          <a
+            href={createWhatsappUrl({ context: 'pricing_inquiry' })}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2.5 px-8 py-4 bg-brand-950 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-900 transition-all duration-300 shadow-card"
+          >
+            <Icon name="whatsapp" size={12} class="text-[#25D366]" />
+            Tanya via WhatsApp
+          </a>
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

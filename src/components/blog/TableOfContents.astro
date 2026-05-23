@@ -1,0 +1,50 @@
+---
+/**
+ * Minimalist Table of Contents component.
+ * Extracts headings from rendered markdown and generates
+ * anchor links with proper slug format (lowercase, hyphens).
+ */
+import Icon from '../ui/Icon.astro';
+
+interface Props {
+  headings: { depth: number; slug: string; text: string }[];
+}
+
+const { headings } = Astro.props;
+
+// Filter to h2 and h3 only
+const tocItems = headings.filter(h => h.depth >= 2 && h.depth <= 3);
+
+// Don't render if fewer than 2 headings
+const shouldRender = tocItems.length >= 2;
+---
+
+{shouldRender && (
+  <nav aria-label="Daftar Isi" class="toc mb-10" id="table-of-contents">
+    <details open class="group">
+      <summary class="flex items-center gap-2 cursor-pointer select-none list-none text-[12px] font-semibold uppercase tracking-[0.15em] text-text-muted hover:text-text-secondary transition-colors mb-3">
+        <Icon name="list-ordered" size={14} />
+        Daftar Isi
+        <Icon name="chevron-down" size={12} class="ml-auto group-open:rotate-180 transition-transform duration-200" />
+      </summary>
+
+      <ol class="space-y-0 border-l-2 border-border-soft/50 pl-0">
+        {tocItems.map((item) => (
+          <li>
+            <a
+              href={`#${item.slug}`}
+              class:list={[
+                'block border-l-2 -ml-[2px] transition-colors hover:text-brand-500 hover:border-brand-500',
+                item.depth === 2
+                  ? 'pl-4 py-1.5 text-[13px] text-text-secondary font-medium border-transparent'
+                  : 'pl-7 py-1 text-[12px] text-text-muted border-transparent',
+              ]}
+            >
+              {item.text}
+            </a>
+          </li>
+        ))}
+      </ol>
+    </details>
+  </nav>
+)}

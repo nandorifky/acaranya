@@ -1,0 +1,41 @@
+---
+import MarketingLayout from '../layouts/MarketingLayout.astro';
+import HeroSection from '../components/home/HeroSection.astro';
+import TrustStats from '../components/home/TrustStats.astro';
+import FeaturedDesigns from '../components/home/FeaturedDesigns.astro';
+import FeatureHighlights from '../components/home/FeatureHighlights.astro';
+import HowItWorks from '../components/home/HowItWorks.astro';
+import PricingPreview from '../components/home/PricingPreview.astro';
+import Testimonials from '../components/home/Testimonials.astro';
+import FAQSection from '../components/home/FAQSection.astro';
+import FinalCTA from '../components/home/FinalCTA.astro';
+import { siteConfig } from '../data/site';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Undangan Digital',
+    provider: {
+      '@type': 'Organization',
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+    description: siteConfig.description,
+    areaServed: 'ID',
+    serviceType: 'Undangan Digital',
+  },
+];
+---
+
+<MarketingLayout jsonLd={jsonLd}>
+  <HeroSection />
+  <TrustStats />
+  <FeaturedDesigns />
+  <FeatureHighlights />
+  <HowItWorks />
+  <PricingPreview />
+  <Testimonials />
+  <FAQSection />
+  <FinalCTA />
+</MarketingLayout>

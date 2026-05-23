@@ -1,0 +1,101 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+
+const policies = [
+  {
+    title: 'Syarat & Ketentuan',
+    desc: 'Aturan umum penggunaan layanan, hak cipta desain, batas kewajiban, ketentuan revisi, dan masa aktif undangan digital Anda.',
+    href: '/legal/syarat-ketentuan/',
+    icon: 'book',
+  },
+  {
+    title: 'Kebijakan Privasi',
+    desc: 'Bagaimana kami mengumpulkan, menyimpan, melindungi, dan menggunakan data pribadi Anda serta detail informasi tamu undangan secara aman.',
+    href: '/legal/kebijakan-privasi/',
+    icon: 'shield',
+  },
+  {
+    title: 'Refund Policy',
+    desc: 'Kebijakan pembatalan pemesanan, pengembalian dana investasi, and prosedur klaim pembatalan sebelum atau sesudah pengerjaan.',
+    href: '/legal/refund-policy/',
+    icon: 'zap',
+  },
+];
+---
+
+<MarketingLayout
+  title="Pusat Dokumen Hukum & Kebijakan Layanan"
+  description="Pusat informasi hukum Acaranya.id: Syarat & Ketentuan, Kebijakan Privasi, dan Kebijakan Refund Layanan Undangan Digital."
+  robots="noindex,follow"
+>
+  <!-- Hero Section -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <!-- Subtle Background Dot Pattern -->
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl space-y-4">
+        <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Pusat Legalitas</span>
+        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+          Ketentuan hukum & <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold">kebijakan layanan kami</span>
+        </h1>
+        <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+          Transparansi, keamanan data pribadi Anda, serta kenyamanan selama proses transaksi adalah komitmen hukum utama kami.
+        </p>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Content Directory Grid (Kinto Style) -->
+  <Section bg="white" id="legal-directory" class="border-t border-border-soft/60">
+    <Container>
+      <div class="grid lg:grid-cols-3 gap-12 max-w-5xl mx-auto items-start">
+        
+        <!-- Left Statement (Editorial) -->
+        <div class="lg:col-span-1 space-y-4">
+          <span class="text-[9px] uppercase tracking-[0.2em] text-soft-gold font-bold block">Prinsip Kami</span>
+          <h2 class="font-serif text-3xl text-brand-950 leading-snug">
+            Keterbukaan and komitmen tanpa kompromi
+          </h2>
+          <p class="text-xs text-text-secondary font-sans leading-relaxed tracking-wide">
+            Kami menyusun seluruh berkas hukum and kebijakan operasional ini dalam kalimat yang lugas and mudah dipahami. Kami berkomitmen melindungi privasi data digital Anda and keluarga demi kenyamanan momen sakral Anda.
+          </p>
+        </div>
+
+        <!-- Right Policies List -->
+        <div class="lg:col-span-2 space-y-6">
+          {policies.map((policy) => (
+            <a href={policy.href} class="group block bg-cream rounded-3xl border border-border-soft/60 p-8 hover:border-soft-gold hover:shadow-card transition-all duration-300">
+              <div class="flex items-start gap-5">
+                <div class="w-10 h-10 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold bg-white group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300">
+                  <Icon name={policy.icon} size={14} />
+                </div>
+                <div class="flex-grow space-y-2">
+                  <div class="flex items-center justify-between">
+                    <h3 class="font-serif text-xl text-brand-950 group-hover:text-soft-gold transition-colors duration-300">
+                      {policy.title}
+                    </h3>
+                    <div class="text-soft-gold group-hover:translate-x-1 transition-transform duration-300">
+                      <Icon name="arrow-right" size={12} />
+                    </div>
+                  </div>
+                  <p class="text-xs text-text-secondary font-sans leading-relaxed tracking-wide">
+                    {policy.desc}
+                  </p>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

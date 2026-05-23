@@ -1,0 +1,31 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import SiteHeader from '../components/layout/SiteHeader.astro';
+import SiteFooter from '../components/layout/SiteFooter.astro';
+import FloatingWhatsapp from '../components/layout/FloatingWhatsapp.astro';
+import Breadcrumbs from '../components/base/Breadcrumbs.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+  canonical?: string;
+  robots?: string;
+  type?: 'website' | 'article';
+  jsonLd?: Record<string, unknown>[];
+  hideFloatingWa?: boolean;
+  breadcrumbs?: { label: string; href?: string }[];
+}
+
+const { hideFloatingWa = false, breadcrumbs, ...seoProps } = Astro.props;
+---
+
+<BaseLayout {...seoProps}>
+  <SiteHeader />
+  <Breadcrumbs items={breadcrumbs} />
+  <main class="flex-1">
+    <slot />
+  </main>
+  <SiteFooter />
+  {!hideFloatingWa && <FloatingWhatsapp />}
+</BaseLayout>

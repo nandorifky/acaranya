@@ -1,0 +1,103 @@
+---
+import MarketingLayout from '../layouts/MarketingLayout.astro';
+import Container from '../components/base/Container.astro';
+import Section from '../components/base/Section.astro';
+import { siteConfig } from '../data/site';
+import { createWhatsappUrl } from '../lib/whatsapp/create-whatsapp-url';
+import Icon from '../components/ui/Icon.astro';
+---
+
+<MarketingLayout
+  title="Hubungi Kami — Konsultasi Undangan Digital"
+  description="Hubungi tim Acaranya.id via WhatsApp, Email, atau Instagram untuk mewujudkan undangan digital impian Anda."
+>
+  <!-- Hero Section -->
+  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+    <!-- Subtle Background Dot Pattern -->
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl mx-auto text-center space-y-4">
+        <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Hubungi Kami</span>
+        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+          Kami siap membantu <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold">mewujudkan konsep Anda</span>
+        </h1>
+        <p class="text-text-secondary text-sm md:text-base max-w-lg mx-auto font-sans tracking-wide leading-relaxed">
+          Silakan hubungi tim kami untuk konsultasi desain kustom, pertanyaan paket harga, atau bantuan saat pembuatan undangan.
+        </p>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Contact Cards (Kinto style) -->
+  <Section bg="white" id="contact-channels" class="border-t border-border-soft/60">
+    <Container>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto stagger">
+        
+        <!-- WhatsApp -->
+        <a href={createWhatsappUrl()} target="_blank" rel="noopener noreferrer" 
+          class="group bg-cream rounded-3xl border border-border-soft/60 p-8 lg:p-10 text-center hover:border-soft-gold hover:shadow-card transition-all duration-300 flex flex-col justify-between items-center">
+          <div class="space-y-6 flex flex-col items-center">
+            <div class="w-12 h-12 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold group-hover:bg-[#25D366]/10 group-hover:border-[#25D366]/30 transition-colors duration-300">
+              <Icon name="whatsapp" size={18} />
+            </div>
+            <div class="space-y-2">
+              <h3 class="font-serif text-2xl text-brand-950 group-hover:text-soft-gold transition-colors duration-300">WhatsApp</h3>
+              <p class="text-xs text-text-muted font-sans tracking-wide">Respon cepat dan interaktif pada jam operasional kerja.</p>
+            </div>
+          </div>
+          <span class="mt-8 text-xs font-sans font-bold tracking-widest uppercase text-soft-gold group-hover:text-brand-950 transition-colors duration-300">
+            {siteConfig.contact.whatsappDisplay}
+          </span>
+        </a>
+
+        <!-- Email -->
+        <a href={`mailto:${siteConfig.contact.email}`} 
+          class="group bg-cream rounded-3xl border border-border-soft/60 p-8 lg:p-10 text-center hover:border-soft-gold hover:shadow-card transition-all duration-300 flex flex-col justify-between items-center">
+          <div class="space-y-6 flex flex-col items-center">
+            <div class="w-12 h-12 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold group-hover:bg-brand-950/5 group-hover:border-brand-950/20 transition-colors duration-300">
+              <Icon name="zap" size={18} />
+            </div>
+            <div class="space-y-2">
+              <h3 class="font-serif text-2xl text-brand-950 group-hover:text-soft-gold transition-colors duration-300">Surel Resmi</h3>
+              <p class="text-xs text-text-muted font-sans tracking-wide">Untuk keperluan kerja sama, proposal bisnis, atau administrasi umum.</p>
+            </div>
+          </div>
+          <span class="mt-8 text-xs font-sans font-bold tracking-widest uppercase text-soft-gold group-hover:text-brand-950 transition-colors duration-300">
+            {siteConfig.contact.email}
+          </span>
+        </a>
+
+        <!-- Instagram -->
+        <a href={siteConfig.contact.instagramUrl} target="_blank" rel="noopener noreferrer" 
+          class="group bg-cream rounded-3xl border border-border-soft/60 p-8 lg:p-10 text-center hover:border-soft-gold hover:shadow-card transition-all duration-300 flex flex-col justify-between items-center">
+          <div class="space-y-6 flex flex-col items-center">
+            <div class="w-12 h-12 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold group-hover:bg-brand-950/5 group-hover:border-brand-950/20 transition-colors duration-300">
+              <Icon name="palette" size={18} />
+            </div>
+            <div class="space-y-2">
+              <h3 class="font-serif text-2xl text-brand-950 group-hover:text-soft-gold transition-colors duration-300">Instagram</h3>
+              <p class="text-xs text-text-muted font-sans tracking-wide">Inspirasi layout, rilisan desain terbaru, dan portofolio live.</p>
+            </div>
+          </div>
+          <span class="mt-8 text-xs font-sans font-bold tracking-widest uppercase text-soft-gold group-hover:text-brand-950 transition-colors duration-300">
+            @{siteConfig.contact.instagram}
+          </span>
+        </a>
+
+      </div>
+
+      <!-- Working Hours -->
+      <div class="text-center mt-16 space-y-2">
+        <span class="text-[9px] uppercase tracking-[0.2em] text-text-muted font-bold block">Jam Kerja Operasional</span>
+        <p class="text-sm font-serif text-brand-950">
+          Setiap Hari — <span class="italic font-normal text-soft-gold">{siteConfig.business.operatingHours} WIB</span>
+        </p>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>
