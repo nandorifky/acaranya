@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: nandorifky/acaranya
   branch: main
 
 # Enable local backend proxy for offline development (npx decap-server)
