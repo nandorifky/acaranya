@@ -1,0 +1,94 @@
+---
+import Icon from './Icon.astro';
+
+interface Props {
+  page: any; // Astro's Page object
+  baseUrl: string;
+}
+
+const { page, baseUrl } = Astro.props;
+
+// Ensure baseUrl ends with a slash for consistent trailingSlash: 'always'
+const normalizedBaseUrl = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
+
+const prevUrl = page.url.prev ? (page.url.prev === '/' || page.url.prev === normalizedBaseUrl.slice(0, -1) ? normalizedBaseUrl : `${page.url.prev}/`) : null;
+const nextUrl = page.url.next ? `${page.url.next}/` : null;
+
+// Generate page numbers
+const totalPages = page.lastPage;
+const currentPage = page.currentPage;
+
+// Logic for showing a limited range of pages
+let startPage = Math.max(1, currentPage - 2);
+let endPage = Math.min(totalPages, startPage + 4);
+
+if (endPage - startPage < 4) {
+  startPage = Math.max(1, endPage - 4);
+}
+---
+
+{totalPages > 1 && (
+  <nav class="flex items-center justify-center gap-2 mt-12" aria-label="Pagination">
+    {/* Previous Button */}
+    {page.url.prev ? (
+      <a
+        href={prevUrl}
+        class="w-10 h-10 flex items-center justify-center rounded-sm border border-border-soft bg-white text-text-muted hover:border-[#B59A73] hover:text-[#B59A73] transition-all duration-300 shadow-sm"
+        aria-label="Halaman Sebelumnya"
+      >
+        <Icon name="arrow-right" size={14} class="rotate-180" />
+      </a>
+    ) : (
+      <span class="w-10 h-10 flex items-center justify-center rounded-sm border border-border-soft bg-surface-muted text-text-muted/30 cursor-not-allowed shadow-sm">
+        <Icon name="arrow-right" size={14} class="rotate-180" />
+      </span>
+    )}
+
+    {/* Page Numbers */}
+    <div class="flex items-center gap-1.5">
+      {startPage > 1 && (
+        <>
+          <a href={normalizedBaseUrl} class="w-10 h-10 flex items-center justify-center rounded-sm border border-border-soft bg-white text-[12px] font-bold text-text-muted hover:border-[#B59A73] hover:text-[#B59A73] transition-all duration-300 shadow-sm">1</a>
+          {startPage > 2 && <span class="px-1 text-text-muted/50 text-[12px]">...</span>}
+        </>
+      )}
+
+      {Array.from({ length: endPage - startPage + 1 }, (_, i) => startPage + i).map((num) => (
+        <a
+          href={num === 1 ? normalizedBaseUrl : `${normalizedBaseUrl}${num}/`}
+          class:list={[
+            "w-10 h-10 flex items-center justify-center rounded-sm border transition-all duration-300 text-[12px] font-bold shadow-sm",
+            num === currentPage
+              ? "bg-[#B59A73] border-[#B59A73] text-white"
+              : "bg-white border-border-soft text-text-muted hover:border-[#B59A73] hover:text-[#B59A73]"
+          ]}
+          aria-current={num === currentPage ? "page" : undefined}
+        >
+          {num}
+        </a>
+      ))}
+
+      {endPage < totalPages && (
+        <>
+          {endPage < totalPages - 1 && <span class="px-1 text-text-muted/50 text-[12px]">...</span>}
+          <a href={`${normalizedBaseUrl}${totalPages}/`} class="w-10 h-10 flex items-center justify-center rounded-sm border border-border-soft bg-white text-[12px] font-bold text-text-muted hover:border-[#B59A73] hover:text-[#B59A73] transition-all duration-300 shadow-sm">{totalPages}</a>
+        </>
+      )}
+    </div>
+
+    {/* Next Button */}
+    {page.url.next ? (
+      <a
+        href={nextUrl}
+        class="w-10 h-10 flex items-center justify-center rounded-sm border border-border-soft bg-white text-text-muted hover:border-[#B59A73] hover:text-[#B59A73] transition-all duration-300 shadow-sm"
+        aria-label="Halaman Berikutnya"
+      >
+        <Icon name="arrow-right" size={14} />
+      </a>
+    ) : (
+      <span class="w-10 h-10 flex items-center justify-center rounded-sm border border-border-soft bg-surface-muted text-text-muted/30 cursor-not-allowed shadow-sm">
+        <Icon name="arrow-right" size={14} />
+      </span>
+    )}
+  </nav>
+)}

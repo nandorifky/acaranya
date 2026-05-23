@@ -6,6 +6,7 @@ import Icon from '../../components/ui/Icon.astro';
 import TableOfContents from '../../components/blog/TableOfContents.astro';
 import { getCollection, render, getEntry } from 'astro:content';
 import { siteConfig } from '../../data/site';
+import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -78,10 +79,11 @@ const jsonLd = [{
       <Container narrow>
         <figure>
           <div class="aspect-[2/1] sm:aspect-[21/9] overflow-hidden rounded-sm">
-            <img
+            <Image
               src={post.data.image}
               alt={post.data.imageAlt || post.data.title}
-              title={post.data.imageTitle}
+              width={1200}
+              height={630}
               class="w-full h-full object-cover"
               loading="eager"
               fetchpriority="high"
@@ -128,7 +130,7 @@ const jsonLd = [{
             <a href={`/penulis/${authorSlug}/`} class="flex items-center gap-3 group">
               <div class="w-9 h-9 rounded-full bg-brand-100 flex items-center justify-center overflow-hidden">
                 {authorEntry?.data.avatar ? (
-                  <img src={authorEntry.data.avatar} alt={authorName} class="w-full h-full object-cover" />
+                  <Image src={authorEntry.data.avatar} alt={authorName} width={128} height={128} class="w-full h-full object-cover" />
                 ) : (
                   <Icon name="user" size={16} class="text-brand-500" />
                 )}
@@ -180,34 +182,52 @@ const jsonLd = [{
         )}
 
         <!-- Share -->
-        <div class="mt-6 pt-6 border-t border-border-soft/60">
-          <p class="text-[11px] font-semibold uppercase tracking-[0.15em] text-text-muted mb-3">Bagikan artikel</p>
-          <div class="flex items-center gap-2">
+        <div class="mt-8 pt-8 border-t border-border-soft/60">
+          <p class="text-[11px] font-semibold uppercase tracking-[0.15em] text-text-muted mb-4">Bagikan artikel</p>
+          <div class="flex items-center gap-3">
             <a
               href={`https://wa.me/?text=${shareText}%20${shareUrl}`}
               target="_blank"
               rel="noopener noreferrer"
-              class="w-9 h-9 flex items-center justify-center rounded-full bg-[#25D366]/10 text-[#25D366] hover:bg-[#25D366]/20 transition-colors"
+              class="w-10 h-10 flex items-center justify-center rounded-full bg-[#25D366]/10 text-[#25D366] hover:bg-[#25D366] hover:text-white transition-all duration-300"
               aria-label="Share di WhatsApp"
             >
-              <Icon name="whatsapp" size={16} />
+              <Icon name="whatsapp" size={18} />
+            </a>
+            <a
+              href={`https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-10 h-10 flex items-center justify-center rounded-full bg-[#1877F2]/10 text-[#1877F2] hover:bg-[#1877F2] hover:text-white transition-all duration-300"
+              aria-label="Share di Facebook"
+            >
+              <Icon name="facebook" size={18} />
+            </a>
+            <a
+              href={`https://t.me/share/url?url=${shareUrl}&text=${shareText}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-10 h-10 flex items-center justify-center rounded-full bg-[#26A5E4]/10 text-[#26A5E4] hover:bg-[#26A5E4] hover:text-white transition-all duration-300"
+              aria-label="Share di Telegram"
+            >
+              <Icon name="brand-telegram" size={18} />
             </a>
             <a
               href={`https://twitter.com/intent/tweet?text=${shareTitle}&url=${shareUrl}`}
               target="_blank"
               rel="noopener noreferrer"
-              class="w-9 h-9 flex items-center justify-center rounded-full bg-brand-50 text-brand-500 hover:bg-brand-100 transition-colors"
-              aria-label="Share di X/Twitter"
+              class="w-10 h-10 flex items-center justify-center rounded-full bg-brand-950/5 text-brand-950 hover:bg-brand-950 hover:text-white transition-all duration-300"
+              aria-label="Share di X"
             >
-              <Icon name="share-2" size={15} />
+              <Icon name="brand-x" size={16} />
             </a>
             <button
               id="copy-url-btn"
               type="button"
-              class="w-9 h-9 flex items-center justify-center rounded-full bg-surface-muted text-text-muted hover:bg-surface-soft hover:text-text-secondary transition-colors"
+              class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-muted text-text-muted hover:bg-brand-950 hover:text-white transition-all duration-300"
               aria-label="Salin link"
             >
-              <Icon name="copy" size={15} />
+              <Icon name="copy" size={18} />
             </button>
           </div>
         </div>
@@ -232,11 +252,11 @@ const jsonLd = [{
     copyBtn.addEventListener('click', async () => {
       try {
         await navigator.clipboard.writeText(window.location.href);
-        copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
-        copyBtn.classList.add('!bg-success/10', '!text-success');
+        copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
+        copyBtn.classList.add('!bg-[#B59A73]', '!text-white');
         setTimeout(() => {
-          copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>';
-          copyBtn.classList.remove('!bg-success/10', '!text-success');
+          copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>';
+          copyBtn.classList.remove('!bg-[#B59A73]', '!text-white');
         }, 2000);
       } catch (e) { /* noop */ }
     });

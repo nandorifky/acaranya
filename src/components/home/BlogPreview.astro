@@ -1,0 +1,70 @@
+---
+import Container from '../base/Container.astro';
+import Section from '../base/Section.astro';
+import Icon from '../ui/Icon.astro';
+import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
+
+const allPosts = await getCollection('blog');
+const publishedPosts = allPosts.filter(p => p.data.status === 'published');
+
+// Select 3 random articles
+const randomPosts = publishedPosts
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 3);
+---
+
+<Section bg="white" id="blog-preview" class="border-t border-border-soft/40 py-16 lg:py-20">
+  <Container>
+    <div class="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-6">
+      <div class="space-y-2">
+        <span class="text-[9px] uppercase tracking-[0.3em] text-soft-gold font-bold block">Journal</span>
+        <h2 class="font-serif text-2xl md:text-3xl text-brand-950 leading-tight">
+          Inspirasi & <span class="italic font-normal">Cerita Kami</span>
+        </h2>
+      </div>
+      <a href="/artikel/" class="inline-flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-text-muted hover:text-brand-950 transition-colors duration-300 group">
+        Lihat Semua Artikel
+        <Icon name="arrow-right" size={12} class="group-hover:translate-x-1 transition-transform" />
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-x-8 gap-y-10">
+      {randomPosts.map((post) => (
+        <a href={`/artikel/${post.id}/`} class="group block space-y-4">
+          <div class="aspect-[16/9] overflow-hidden rounded-sm grayscale-[0.3] group-hover:grayscale-0 transition-all duration-700">
+            {post.data.image ? (
+              <Image 
+                src={post.data.image} 
+                alt={post.data.title} 
+                width={800}
+                height={450}
+                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
+              />
+            ) : (
+              <div class="w-full h-full bg-cream/50 flex items-center justify-center text-brand-200">
+                <Icon name="image" size={32} />
+              </div>
+            )}
+          </div>
+          
+          <div class="space-y-2">
+            <div class="flex items-center gap-2 text-[9px] font-bold uppercase tracking-widest text-soft-gold/80">
+              <span>{post.data.category}</span>
+              <span class="w-1 h-1 rounded-full bg-border-soft"></span>
+              <time datetime={post.data.publishedAt.toISOString()}>
+                {post.data.publishedAt.toLocaleDateString('id-ID', { month: 'short', year: 'numeric' })}
+              </time>
+            </div>
+            <h3 class="font-serif text-base text-brand-950 leading-snug group-hover:text-soft-gold transition-colors duration-300 line-clamp-2">
+              {post.data.title}
+            </h3>
+            <p class="text-[12px] text-text-secondary line-clamp-2 leading-relaxed font-sans opacity-80 group-hover:opacity-100 transition-opacity">
+              {post.data.description}
+            </p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </Container>
+</Section>

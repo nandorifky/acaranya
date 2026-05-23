@@ -3,10 +3,14 @@ import { siteConfig } from '../../data/site';
 import { mainNavigation, ctaNavItem } from '../../data/navigation';
 import Icon from '../ui/Icon.astro';
 import MobileNav from './MobileNav';
+
+const pathname = Astro.url.pathname;
 ---
 
 <header id="site-header" class="fixed top-4 left-4 right-4 z-50 transition-all duration-300">
-  <div class="max-w-5xl mx-auto px-5 py-2.5 sm:py-3 bg-surface/80 backdrop-blur-md rounded-full border border-border-soft/60 shadow-card flex items-center justify-between transition-all duration-300" id="header-container">
+  <div class="max-w-5xl mx-auto px-5 py-2.5 sm:py-3 bg-surface/80 backdrop-blur-md rounded-full border border-border-soft/60 shadow-card flex items-center justify-between transition-all duration-300 relative overflow-hidden" id="header-container">
+    {/* Reading Progress Bar (Hidden by default, shown via JS on articles) */}
+    <div id="reading-progress" class="absolute top-0 left-0 h-[2px] bg-soft-gold w-0 transition-all duration-150 z-20"></div>
     
     <!-- Logo -->
     <a href="/" class="flex items-center gap-2.5 group" id="header-logo">
@@ -23,14 +27,23 @@ import MobileNav from './MobileNav';
 
     <!-- Desktop Navigation -->
     <nav class="hidden lg:flex items-center gap-1" id="desktop-nav">
-      {mainNavigation.map((item) => (
-        <a
-          href={item.href}
-          class="relative px-4 py-2 text-[11px] font-bold tracking-widest uppercase text-text-secondary hover:text-soft-gold transition-all duration-300"
-        >
-          {item.label}
-        </a>
-      ))}
+      {mainNavigation.map((item) => {
+        const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
+        return (
+          <a
+            href={item.href}
+            class:list={[
+              "relative px-4 py-2 text-[11px] font-bold tracking-widest uppercase transition-all duration-300",
+              isActive ? "text-soft-gold" : "text-text-secondary hover:text-soft-gold"
+            ]}
+          >
+            {item.label}
+            {isActive && (
+              <span class="absolute bottom-1 left-4 right-4 h-px bg-soft-gold/40"></span>
+            )}
+          </a>
+        );
+      })}
     </nav>
 
     <!-- Desktop CTA -->
@@ -69,4 +82,26 @@ import MobileNav from './MobileNav';
       }
     }
   });
+
+  // Reading Progress Bar Logic
+  const progressBar = document.getElementById('reading-progress');
+  const updateProgress = () => {
+    if (!progressBar) return;
+    
+    // Only show on article pages or long scrollable content
+    const isArticle = window.location.pathname.startsWith('/artikel/');
+    if (!isArticle) {
+      progressBar.style.display = 'none';
+      return;
+    }
+
+    const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrolled = (winScroll / height) * 100;
+    progressBar.style.width = scrolled + "%";
+  };
+
+  window.addEventListener('scroll', updateProgress);
+  // Initial check
+  updateProgress();
 </script>

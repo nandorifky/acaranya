@@ -156,10 +156,19 @@ import { siteConfig } from '../../data/site';
                 placeholder="Tulis instruksi warna, tema lagu, atau fitur kustom lain jika ada..."></textarea>
             </div>
 
-            <!-- Selected template indicator (populated by JS) -->
             <div id="selected-info" class="hidden p-5 bg-[#B59A73]/10 border border-[#B59A73]/30 text-xs text-soft-gold rounded-2xl flex items-center gap-2">
               <Icon name="sparkles" size={12} />
               <span>Template dipilih secara otomatis: <strong class="font-bold font-serif" id="selected-template-name"></strong></span>
+            </div>
+
+            <div class="space-y-1.5 pt-2">
+              <label for="referralCode" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
+                Kode Partner / Referal <span class="text-text-muted font-sans font-medium">(opsional)</span>
+              </label>
+              <input type="text" id="referralCode" name="referralCode" 
+                class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide" 
+                placeholder="Contoh: PARTNER-KEDIRI-01" />
+              <p class="text-[10px] text-text-muted italic">Isi jika Anda mendapatkan rekomendasi dari WO atau Partner kami.</p>
             </div>
 
             <button
@@ -309,6 +318,7 @@ import { siteConfig } from '../../data/site';
         const template = fd.get('template');
         const eventDate = fd.get('eventDate');
         const notes = fd.get('notes');
+        const referralCode = fd.get('referralCode');
 
         const message = `Halo Acaranya.id, saya mau order undangan digital premium.
 
@@ -318,7 +328,8 @@ Jenis Acara: ${eventType}
 Paket Pilihan: ${pkg}
 Desain Pilihan: ${template || '-'}
 Tanggal Acara: ${eventDate || '-'}
-Catatan Desain: ${notes || '-'}`;
+Catatan Desain: ${notes || '-'}
+Kode Referal: ${referralCode || '-'}`;
 
         const url = `https://wa.me/${waPhone}?text=${encodeURIComponent(message)}`;
         window.open(url, '_blank');

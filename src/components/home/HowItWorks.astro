@@ -1,64 +1,106 @@
 ---
 import Container from '../base/Container.astro';
 import Section from '../base/Section.astro';
-import SectionHeader from '../base/SectionHeader.astro';
 import Icon from '../ui/Icon.astro';
 
 const steps = [
-  { icon: 'palette', num: '01', title: 'Pilih Desain', description: 'Jelajahi galeri template premium kami dan pilih desain yang paling berkesan.' },
-  { icon: 'send', num: '02', title: 'Kirim Data Acara', description: 'Isi detail data pernikahan/acara Anda lewat form digital yang intuitif.' },
-  { icon: 'pen-line', num: '03', title: 'Review & Revisi', description: 'Tim desainer kami memproses undangan, dan Anda bebas melakukan revisi.' },
-  { icon: 'share-2', num: '04', title: 'Siap Bagikan', description: 'Undangan digital aktif dan siap disebarkan ke seluruh tamu undangan.' },
+  { 
+    icon: 'palette', 
+    title: 'Pilih Desain', 
+    description: 'Jelajahi galeri template premium kami dan pilih desain yang paling berkesan.' 
+  },
+  { 
+    icon: 'clipboard-list', 
+    title: 'Kirim Data Acara', 
+    description: 'Isi detail data acara Anda melalui formulir digital kami yang intuitif.' 
+  },
+  { 
+    icon: 'message-square-quote', 
+    title: 'Review & Revisi', 
+    description: 'Tim desainer kami memproses undangan, dan Anda bebas melakukan revisi.' 
+  },
+  { 
+    icon: 'send', 
+    title: 'Siap Bagikan', 
+    description: 'Undangan digital aktif dan siap disebarkan ke seluruh tamu undangan.' 
+  },
 ];
 ---
 
 <Section bg="white" id="how-it-works">
   <Container>
-    <div class="mb-16 text-center space-y-3">
-      <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Cara Kerja</span>
+    {/* Section Header */}
+    <div class="mb-20 text-center space-y-4">
+      <span class="text-[10px] uppercase tracking-[0.25em] text-[#B59A73] font-bold block">Alur Kerja</span>
       <h2 class="font-serif text-3xl md:text-5xl text-brand-950 max-w-xl mx-auto leading-tight">
-        Langkah mudah mewujudkan undangan impian
+        Langkah mudah mewujudkan <span class="italic font-normal text-[#B59A73]">undangan impian</span>
       </h2>
-      <p class="text-sm text-text-secondary max-w-md mx-auto font-sans tracking-wide">
-        Proses pembuatan undangan digital yang terstruktur, cepat, dan tanpa repot.
+      <p class="text-xs md:text-sm text-text-secondary max-w-md mx-auto font-sans tracking-wide leading-relaxed">
+        Proses pembuatan yang terstruktur untuk hasil yang elegan dan profesional.
       </p>
     </div>
 
-    <div class="max-w-5xl mx-auto">
-      {/* Desktop Layout */}
-      <div class="hidden md:grid md:grid-cols-4 gap-6 relative">
-        {/* Connecting timeline line (desktop only) */}
-        <div class="absolute top-[28px] left-[12.5%] right-[12.5%] h-px bg-[#B59A73]/25 z-0"></div>
+    <div class="max-w-6xl mx-auto">
+      {/* Desktop Layout (Horizontal Grid) */}
+      <div class="hidden md:grid md:grid-cols-4 gap-8 relative">
+        
+        {/* Decorative Connecting Line (Desktop Only) */}
+        <div class="absolute top-10 left-[12%] right-[12%] h-px hidden md:block">
+          <div class="w-full h-full border-t border-dashed border-[#B59A73]/40"></div>
+        </div>
 
         {steps.map((step, i) => (
-          <div class="relative text-center px-4 group z-10">
-            {/* Circular step badge */}
-            <div class="w-14 h-14 mx-auto mb-6 rounded-full bg-surface border border-border-soft flex items-center justify-center group-hover:border-soft-gold group-hover:bg-[#fff8ec]/30 transition-all duration-300 shadow-sm">
-              <span class="font-serif text-base font-bold text-soft-gold">{step.num}</span>
+          <div class="relative flex flex-col items-center text-center group">
+            {/* Icon Container */}
+            <div class="relative z-10 w-20 h-20 mb-6 rounded-3xl bg-cream border border-[#B59A73]/20 flex items-center justify-center transition-all duration-500 group-hover:border-[#B59A73] group-hover:rotate-6 group-hover:shadow-xl group-hover:shadow-[#B59A73]/10">
+              <div class="w-16 h-16 rounded-2xl border border-[#B59A73]/10 flex items-center justify-center bg-white">
+                <Icon name={step.icon} size={28} class="text-[#B59A73]" />
+              </div>
+              
+              {/* Step Number Badge */}
+              <div class="absolute -top-2 -right-2 w-7 h-7 bg-brand-950 text-cream text-[10px] font-bold rounded-full flex items-center justify-center border-2 border-white shadow-sm group-hover:bg-[#B59A73] transition-colors duration-300">
+                {i + 1}
+              </div>
             </div>
 
-            <h3 class="font-serif text-lg font-semibold text-brand-900 mb-2 group-hover:text-soft-gold transition-colors duration-300">{step.title}</h3>
-            <p class="text-text-secondary text-sm leading-relaxed font-sans tracking-wide">{step.description}</p>
+            {/* Content */}
+            <div class="space-y-3">
+              <h3 class="font-serif text-lg font-semibold text-brand-950 group-hover:text-[#B59A73] transition-colors duration-300">
+                {step.title}
+              </h3>
+              <p class="text-xs lg:text-[13px] text-text-secondary leading-relaxed font-sans tracking-wide">
+                {step.description}
+              </p>
+            </div>
           </div>
         ))}
       </div>
 
-      {/* Mobile & Tablet — Vertical Timeline */}
-      <div class="md:hidden relative border-l border-[#B59A73]/30 pl-8 ml-4 space-y-10 py-2">
-        {steps.map((step) => (
-          <div class="relative group">
-            {/* Circular marker on the vertical timeline */}
-            <div class="absolute -left-[45px] top-0 w-8 h-8 rounded-full bg-surface border border-border-soft flex items-center justify-center shadow-sm group-hover:border-soft-gold transition-all duration-300">
-              <span class="font-serif text-[11px] font-bold text-soft-gold">{step.num}</span>
+      {/* Mobile Layout (Vertical Centered) */}
+      <div class="md:hidden space-y-12">
+        {steps.map((step, i) => (
+          <div class="flex flex-col items-center text-center">
+            {/* Icon & Number */}
+            <div class="relative w-16 h-16 mb-6 rounded-2xl bg-cream border border-[#B59A73]/20 flex items-center justify-center">
+              <Icon name={step.icon} size={24} class="text-[#B59A73]" />
+              <div class="absolute -top-2 -right-2 w-6 h-6 bg-brand-950 text-cream text-[9px] font-bold rounded-full flex items-center justify-center border-2 border-white">
+                {i + 1}
+              </div>
             </div>
-            
-            <div class="space-y-1.5">
-              <h3 class="font-serif text-lg font-semibold text-brand-900 group-hover:text-soft-gold transition-colors duration-300">{step.title}</h3>
-              <p class="text-text-secondary text-sm leading-relaxed font-sans tracking-wide">{step.description}</p>
+
+            {/* Content */}
+            <div class="max-w-xs space-y-2">
+              <h3 class="font-serif text-lg font-semibold text-brand-950">{step.title}</h3>
+              <p class="text-xs text-text-secondary leading-relaxed font-sans">{step.description}</p>
             </div>
+
+            {/* Small vertical connector for mobile */}
+            {i !== steps.length - 1 && (
+              <div class="mt-8 w-px h-8 bg-gradient-to-b from-[#B59A73]/40 to-transparent"></div>
+            )}
           </div>
         ))}
       </div>
     </div>
   </Container>
-</section>
+</Section>

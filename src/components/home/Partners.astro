@@ -1,0 +1,100 @@
+---
+import Container from "../base/Container.astro";
+import Section from "../base/Section.astro";
+
+const partners = [
+  { name: "Grand Hyatt", location: "Jakarta" },
+  { name: "Ritz-Carlton", location: "Jakarta" },
+  { name: "Tirtha Uluwatu", location: "Bali" },
+  { name: "Ayana Resort", location: "Bali" },
+  { name: "Plataran Venues", location: "Jawa Tengah" },
+  { name: "Aman Resorts", location: "Bali" },
+  { name: "JalinJanji", location: "Kediri" },
+  { name: "Lumbung Wedding", location: "Surabaya" },
+  { name: "Meraki Wedding Organizer", location: "Yogyakarta" },
+  { name: "Kencana Catering & Co.", location: "Solo" },
+  { name: "Lumina Photography", location: "Bandung" },
+  { name: "Saraswati Decoration", location: "Bali" },
+];
+
+// Duplicate for infinite loop
+const doublePartners = [...partners, ...partners];
+---
+
+<Section bg="white" id="partners" class="py-12 lg:py-20 overflow-hidden">
+  <Container>
+    <div class="text-center space-y-12">
+      <div class="flex items-center justify-center gap-4">
+        <div class="h-px bg-border-soft flex-1 max-w-[100px]"></div>
+        <span
+          class="text-[9px] uppercase tracking-[0.4em] text-[#B59A73] font-bold"
+          >Partners & Trusted Venues</span
+        >
+        <div class="h-px bg-border-soft flex-1 max-w-[100px]"></div>
+      </div>
+
+      {/* Marquee Wrapper */}
+      <div class="relative w-full">
+        {/* Gradient overlays for fade effect at edges */}
+        <div
+          class="absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-white to-transparent z-10"
+        >
+        </div>
+        <div
+          class="absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-white to-transparent z-10"
+        >
+        </div>
+
+        <div class="flex overflow-hidden group">
+          <div
+            class="flex animate-marquee whitespace-nowrap py-4 items-center gap-16 group-hover:[animation-play-state:paused]"
+          >
+            {
+              doublePartners.map((partner) => (
+                <div class="flex flex-col items-center text-center space-y-1.5 opacity-40 grayscale group-hover:opacity-100 group-hover:grayscale-0 transition-all duration-700">
+                  <span class="font-serif text-lg md:text-xl text-brand-950 font-medium tracking-tight">
+                    {partner.name}
+                  </span>
+                  <span class="text-[9px] uppercase tracking-[0.2em] text-[#B59A73] font-bold">
+                    {partner.location}
+                  </span>
+                </div>
+              ))
+            }
+          </div>
+        </div>
+      </div>
+
+      <p
+        class="text-[10px] text-text-muted italic max-w-lg mx-auto pt-4 border-t border-border-soft/30"
+      >
+        Telah dipercaya oleh ratusan wedding organizer and venue ternama untuk
+        mewujudkan kolaborasi digital yang berkelas.
+      </p>
+    </div>
+  </Container>
+</Section>
+
+<style>
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  .animate-marquee {
+    animation: marquee 40s linear infinite;
+    display: flex;
+    width: max-content;
+  }
+
+  /* Increase speed on mobile for better experience if content is short */
+  @media (max-width: 768px) {
+    .animate-marquee {
+      animation-duration: 25s;
+    }
+  }
+</style>

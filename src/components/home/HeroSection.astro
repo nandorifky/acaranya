@@ -2,6 +2,7 @@
 import Container from "../base/Container.astro";
 import Icon from "../ui/Icon.astro";
 import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
+import { Image } from "astro:assets";
 ---
 
 <section
@@ -106,9 +107,11 @@ import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
             class="absolute inset-0 bg-gradient-to-t from-brand-950/40 via-transparent to-brand-950/20 z-10"
           >
           </div>
-          <img
+          <Image
             src="https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800"
             alt="Pernikahan Estetis"
+            width={800}
+            height={600}
             class="w-full h-full object-cover filter sepia-[15%] contrast-[105%] hover:scale-105 transition-transform duration-700 ease-out"
             loading="eager"
           />
