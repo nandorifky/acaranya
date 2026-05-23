@@ -1,0 +1,635 @@
+---
+import MarketingLayout from "../../layouts/MarketingLayout.astro";
+import Container from "../../components/base/Container.astro";
+import Section from "../../components/base/Section.astro";
+import Icon from "../../components/ui/Icon.astro";
+import { pricingPlans } from "../../data/pricing-static";
+import { siteConfig } from "../../data/site";
+---
+
+<MarketingLayout
+  title="Formulir Order Undangan Aqiqah / Tasyakuran Premium - Acaranya.id"
+  description="Lengkapi detail data acara aqiqah dan tasyakuran buah hati Anda di formulir premium Acaranya.id untuk undangan digital berkelas."
+  hideFloatingWa={true}
+>
+  <!-- Hero Header -->
+  <section
+    class="relative pt-28 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden"
+  >
+    <div
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    >
+    </div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl mx-auto text-center space-y-4">
+        <span
+          class="text-[10px] uppercase tracking-[0.25em] text-[#B59A73] font-bold block"
+          >Pemesanan Spesial</span
+        >
+        <h1
+          class="font-serif text-3xl sm:text-5xl text-brand-950 leading-tight"
+        >
+          Data Undangan <span class="italic font-normal text-[#B59A73]"
+            >Aqiqah & Syukuran</span
+          >
+        </h1>
+        <p
+          class="text-text-secondary text-xs sm:text-sm max-w-lg mx-auto font-sans tracking-wide leading-relaxed"
+        >
+          Isi detail data tasyakuran / aqiqah buah hati Anda dengan teliti di
+          bawah ini. Semua data akan diformat secara otomatis dan dikirimkan ke
+          WhatsApp admin kami.
+        </p>
+
+        <!-- Event Type Quick Switcher (Ribbon) -->
+        <div class="pt-4 space-y-2 flex flex-col items-center">
+          <span
+            class="block text-[8px] font-bold uppercase tracking-widest text-[#B59A73]"
+            >Pilih Formulir Spesifik Acara:</span
+          >
+          <div class="flex flex-wrap gap-2.5 justify-center max-w-2xl">
+            <a
+              href="/order-undangan/pernikahan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="heart" size={10} class="text-[#B59A73]" /> Pernikahan
+            </a>
+            <a
+              href="/order-undangan/khitanan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="user" size={10} class="text-[#B59A73]" /> Khitanan
+            </a>
+            <a
+              href="/order-undangan/ulang-tahun/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="cake" size={10} class="text-[#B59A73]" /> Ulang Tahun
+            </a>
+            <a
+              href="/order-undangan/aqiqah/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-[#B59A73]/10 border border-[#B59A73]/40 text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="baby" size={10} /> Aqiqah
+            </a>
+            <a
+              href="/order-undangan/corporate/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="building" size={10} class="text-[#B59A73]" /> Corporate
+            </a>
+            <a
+              href="/order-undangan/wisuda/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="graduation-cap" size={10} class="text-[#B59A73]" /> Wisuda
+            </a>
+            <a
+              href="/order-undangan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="sparkles" size={10} class="text-[#B59A73]" /> Umum (Lainnya)
+            </a>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Checkout/Form Section -->
+  <Section bg="white" class="border-t border-border-soft/60">
+    <Container>
+      <div class="grid lg:grid-cols-3 gap-12 max-w-6xl mx-auto items-start">
+        <!-- Form Column -->
+        <div class="lg:col-span-2 space-y-8">
+          <!-- Sticky Visual Selection Helpers -->
+          <div
+            class="grid grid-cols-2 gap-4 p-4 bg-cream/70 rounded-2xl border border-[#B59A73]/15"
+          >
+            <a
+              href="/desain-undangan-digital/aqiqah/"
+              class="flex items-center justify-center gap-2 px-4 py-3 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-850 hover:text-[#B59A73] text-[10px] font-bold uppercase tracking-widest rounded-xl transition-all duration-300 shadow-sm text-center"
+            >
+              <Icon name="image" size={12} class="text-[#B59A73]" />
+              Pilih Desain
+            </a>
+            <a
+              href="/harga/"
+              class="flex items-center justify-center gap-2 px-4 py-3 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-850 hover:text-[#B59A73] text-[10px] font-bold uppercase tracking-widest rounded-xl transition-all duration-300 shadow-sm text-center"
+            >
+              <Icon name="tag" size={12} class="text-[#B59A73]" />
+              Daftar Harga
+            </a>
+          </div>
+
+          <form id="order-aqiqah-form" class="space-y-10">
+            <!-- Honeypot -->
+            <div class="hidden" aria-hidden="true">
+              <input type="text" name="_hp" tabindex="-1" autocomplete="off" />
+            </div>
+
+            <!-- SECTION 1: INFORMASI PEMESAN -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >1</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Informasi Pemesan
+                </h3>
+              </div>
+
+              <div class="grid sm:grid-cols-2 gap-6">
+                <div class="space-y-1.5">
+                  <label
+                    for="name"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                  >
+                    Nama Pemesan <span class="text-error">*</span>
+                  </label>
+                  <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    required
+                    minlength="2"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: Bapak Rudi Hermawan"
+                  />
+                </div>
+                <div class="space-y-1.5">
+                  <label
+                    for="whatsapp"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                  >
+                    Nomor WhatsApp <span class="text-error">*</span>
+                  </label>
+                  <input
+                    type="tel"
+                    id="whatsapp"
+                    name="whatsapp"
+                    required
+                    minlength="8"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: 081234567890"
+                  />
+                </div>
+              </div>
+
+              <div class="grid sm:grid-cols-2 gap-6">
+                <div class="space-y-1.5">
+                  <label
+                    for="template"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                  >
+                    Nama Desain Undangan <span class="text-error">*</span>
+                  </label>
+                  <input
+                    type="text"
+                    id="template"
+                    name="template"
+                    required
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: Aqiqah Warm Minimalist"
+                  />
+                </div>
+                <div class="space-y-1.5">
+                  <label
+                    for="package"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                  >
+                    Paket Harga <span class="text-error">*</span>
+                  </label>
+                  <select
+                    id="package"
+                    name="package"
+                    required
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans appearance-none"
+                  >
+                    <option value="">Pilih paket undangan</option>
+                    {
+                      pricingPlans.map((p) => (
+                        <option value={p.slug}>
+                          {p.name} — {p.priceDisplay}
+                        </option>
+                      ))
+                    }
+                  </select>
+                </div>
+              </div>
+
+              <div class="space-y-1.5">
+                <label
+                  for="email"
+                  class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                >
+                  Email Aktif <span
+                    class="text-text-muted font-sans font-medium"
+                    >(opsional)</span
+                  >
+                </label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                  placeholder="Contoh: rudi@gmail.com"
+                />
+              </div>
+            </div>
+
+            <!-- SECTION 2: DATA BAYI & ORANG TUA -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >2</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Data Bayi & Orang Tua
+                </h3>
+              </div>
+
+              <div
+                class="p-6 bg-cream/30 rounded-2xl border border-border-soft/60 space-y-5"
+              >
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="babyName"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Lengkap Bayi <span class="text-error">*</span
+                      ></label
+                    >
+                    <input
+                      type="text"
+                      id="babyName"
+                      name="babyName"
+                      required
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                      placeholder="Contoh: Aisha Humaira"
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="babyBirthDetails"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Hari & Tanggal Lahir <span class="text-error">*</span
+                      ></label
+                    >
+                    <input
+                      type="text"
+                      id="babyBirthDetails"
+                      name="babyBirthDetails"
+                      required
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                      placeholder="Contoh: Senin, 10 Mei 2026"
+                    />
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="babyOrder"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Anak ke-berapa <span class="text-error">*</span></label
+                  >
+                  <input
+                    type="text"
+                    id="babyOrder"
+                    name="babyOrder"
+                    required
+                    class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                    placeholder="Contoh: Putri kedua dari tiga bersaudara"
+                  />
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="fatherName"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Bapak <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="fatherName"
+                      name="fatherName"
+                      required
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                      placeholder="Contoh: Bapak Rudi Hermawan"
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="motherName"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Ibu <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="motherName"
+                      name="motherName"
+                      required
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                      placeholder="Contoh: Ibu Rina Amalia"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION 3: DATA ACARA -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >3</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Informasi Aqiqah & Syukuran
+                </h3>
+              </div>
+
+              <div
+                class="p-6 bg-cream/30 rounded-2xl border border-border-soft/60 space-y-5"
+              >
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="eventDate"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Hari & Tanggal <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="eventDate"
+                      name="eventDate"
+                      required
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                      placeholder="Contoh: Minggu, 24 Mei 2026"
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="eventTime"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Waktu Acara (Mulai - Selesai) <span class="text-error"
+                        >*</span
+                      ></label
+                    >
+                    <div class="flex gap-2 items-center">
+                      <input
+                        type="text"
+                        id="eventTime"
+                        name="eventTime"
+                        required
+                        class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                        placeholder="Contoh: 10:00 - Selesai"
+                      />
+                      <select
+                        name="eventTz"
+                        required
+                        class="px-2 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none"
+                      >
+                        <option value="WIB">WIB</option>
+                        <option value="WITA">WITA</option>
+                        <option value="WIT">WIT</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="eventAddress"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Alamat Lengkap Tertulis <span class="text-error">*</span
+                    ></label
+                  >
+                  <textarea
+                    id="eventAddress"
+                    name="eventAddress"
+                    required
+                    rows="3"
+                    class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] resize-none"
+                    placeholder="Tuliskan nama tempat dan alamat lengkap acara tasyakuran aqiqah..."
+                  ></textarea>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="eventMaps"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Link Google Maps Lokasi <span
+                      class="text-text-muted font-sans font-medium"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="url"
+                    id="eventMaps"
+                    name="eventMaps"
+                    class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]"
+                    placeholder="https://maps.google.com/..."
+                  />
+                  <p
+                    class="text-[9px] text-[#B59A73]/80 italic pt-1 flex items-center gap-1"
+                  >
+                    <Icon name="message-circle" size={10} /> Link maps bisa dikirimkan
+                    manual via WhatsApp chat ke admin nantinya jika belum ada.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION 4: DEKLARASI & CHECKOUT -->
+            <div class="space-y-6 pt-4">
+              <label
+                class="flex items-start gap-3 p-4 bg-cream/40 rounded-2xl border border-border-soft cursor-pointer hover:bg-cream/60 transition-colors"
+              >
+                <input
+                  type="checkbox"
+                  id="check-confirm"
+                  required
+                  class="accent-[#B59A73] mt-0.5"
+                />
+                <span
+                  class="text-[10px] text-text-secondary font-medium tracking-wide font-sans leading-relaxed"
+                >
+                  Saya menyatakan bahwa data yang saya masukkan di atas
+                  benar-benar valid, lengkap, dan siap dikirimkan kepada tim
+                  admin pembuat undangan.
+                </span>
+              </label>
+
+              <button
+                type="submit"
+                class="w-full py-4 bg-brand-950 hover:bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-2xl transition-all duration-300 shadow-md flex items-center justify-center gap-2 hover:scale-[1.01]"
+              >
+                <Icon name="whatsapp" size={14} class="text-[#25D366]" />
+                Kirim Data via WhatsApp Admin
+              </button>
+            </div>
+          </form>
+        </div>
+
+        <!-- Sidebar Step Guidelines -->
+        <div class="space-y-6 lg:sticky lg:top-24">
+          <div
+            class="bg-cream rounded-3xl border border-border-soft/60 p-8 space-y-6"
+          >
+            <h3
+              class="font-serif text-xl text-brand-950 pb-3 border-b border-border-soft/50"
+            >
+              Panduan Pemesanan
+            </h3>
+            <ol
+              class="space-y-4 text-xs font-sans text-text-secondary tracking-wide leading-relaxed"
+            >
+              <li class="flex items-start gap-3.5">
+                <span
+                  class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5"
+                  >1</span
+                >
+                <span
+                  >Pilih template dan paket harga yang Anda minati melalui
+                  tombol di atas form.</span
+                >
+              </li>
+              <li class="flex items-start gap-3.5">
+                <span
+                  class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5"
+                  >2</span
+                >
+                <span
+                  >Lengkapi data kelahiran buah hati, nama orang tua, serta
+                  detail waktu dan lokasi aqiqah.</span
+                >
+              </li>
+              <li class="flex items-start gap-3.5">
+                <span
+                  class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5"
+                  >3</span
+                >
+                <span
+                  >Centang verifikasi data, lalu klik tombol hijau untuk
+                  mengirim seluruh data ke WhatsApp kami secara instan.</span
+                >
+              </li>
+            </ol>
+          </div>
+
+          <div
+            class="bg-cream rounded-3xl border border-border-soft/60 p-8 space-y-4"
+          >
+            <h3
+              class="font-serif text-xl text-brand-950 pb-2 border-b border-border-soft/50"
+            >
+              Konsultasi Dulu
+            </h3>
+            <p
+              class="text-xs text-text-secondary font-sans leading-relaxed tracking-wide"
+            >
+              Punya pertanyaan seputar kustom di luar template?
+            </p>
+            <a
+              href={`https://wa.me/${siteConfig.contact.whatsapp}?text=Halo%20Acaranya.id%20saya%20ingin%20tanya-tanya%20mengenai%20undangan%20aqiqah%20custom`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-full inline-flex items-center justify-center gap-2 py-3 border border-brand-300/85 text-brand-850 text-[9px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 hover:text-cream transition-all duration-300"
+            >
+              <Icon name="whatsapp" size={12} class="text-[#25D366]" />
+              Tanya Admin Chat
+            </a>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>
+
+<script define:vars={{ waPhone: siteConfig.contact.whatsapp }}>
+  // Handle auto-selected query params on mount
+  const params = new URLSearchParams(window.location.search);
+  const selectedTemplate = params.get("template");
+  const selectedPackage = params.get("package");
+  const designInput = document.getElementById("template");
+  const packageSelect = document.getElementById("package");
+
+  if (selectedTemplate && designInput) {
+    designInput.value = selectedTemplate;
+  }
+  if (selectedPackage && packageSelect) {
+    packageSelect.value = selectedPackage;
+  }
+
+  // FORM SUBMIT -> FORMAT BEAUTIFUL WHATSAPP MESSAGE
+  const form = document.getElementById("order-aqiqah-form");
+  if (form) {
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const fd = new FormData(form);
+      if (fd.get("_hp")) return; // Honeypot match
+
+      const name = fd.get("name");
+      const whatsapp = fd.get("whatsapp");
+      const email = fd.get("email") || "-";
+      const template = fd.get("template");
+      const pkg = fd.get("package");
+
+      const babyName = fd.get("babyName");
+      const babyBirthDetails = fd.get("babyBirthDetails");
+      const babyOrder = fd.get("babyOrder");
+      const fatherName = fd.get("fatherName");
+      const motherName = fd.get("motherName");
+
+      const eventDate = fd.get("eventDate");
+      const eventTime = fd.get("eventTime");
+      const eventTz = fd.get("eventTz");
+      const eventAddress = fd.get("eventAddress");
+      const eventMaps = fd.get("eventMaps") || "Kirim manual ke WhatsApp admin";
+
+      const waMessage = `Halo Acaranya.id, saya ingin memesan Undangan Aqiqah Digital Premium!
+
+📋 INFORMASI PEMESAN
+------------------------------
+• Nama Pemesan: ${name}
+• Nomor WhatsApp: ${whatsapp}
+• Pilihan Desain: ${template}
+• Email Aktif: ${email}
+• Paket Harga: ${pkg.toUpperCase()}
+
+👶 DATA BAYI & ORANG TUA
+------------------------------
+• Nama Lengkap Bayi: ${babyName}
+• Hari & Tanggal Lahir: ${babyBirthDetails}
+• Urutan Anak: ${babyOrder}
+• Nama Bapak: ${fatherName}
+• Nama Ibu: ${motherName}
+
+📅 INFORMASI ACARA
+------------------------------
+🎉 TASYAKURAN AQIQAH:
+• Hari & Tanggal: ${eventDate}
+• Waktu: ${eventTime} ${eventTz}
+• Alamat: ${eventAddress}
+• Google Maps: ${eventMaps}
+
+------------------------------
+Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
+
+      const targetUrl = `https://wa.me/${waPhone}?text=${encodeURIComponent(waMessage)}`;
+      window.open(targetUrl, "_blank");
+    });
+  }
+</script>

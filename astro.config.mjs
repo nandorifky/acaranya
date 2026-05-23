@@ -12,6 +12,9 @@ export default defineConfig({
   site: 'https://acaranya.id',
   trailingSlash: 'always',
   output: 'static',
+  build: {
+    format: 'directory'
+  },
 
   prefetch: {
     prefetchAll: true,

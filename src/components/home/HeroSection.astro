@@ -1,131 +1,217 @@
 ---
-import Container from '../base/Container.astro';
-import Icon from '../ui/Icon.astro';
-import { createWhatsappUrl } from '../../lib/whatsapp/create-whatsapp-url';
+import Container from "../base/Container.astro";
+import Icon from "../ui/Icon.astro";
+import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
 ---
 
-<section class="relative min-h-[90vh] flex items-center justify-center pt-16 pb-20 overflow-hidden bg-cream" id="hero">
+<section
+  class="relative min-h-[90vh] flex items-center justify-center pt-16 pb-20 overflow-hidden bg-cream"
+  id="hero"
+>
   <!-- Mesh Gold Glow Background (Kinto style) -->
   <div class="absolute inset-0 pointer-events-none opacity-40">
-    <div class="absolute top-[-20%] left-[-10%] w-[600px] h-[600px] rounded-full bg-champagne/15 blur-[120px]"></div>
-    <div class="absolute bottom-[-10%] right-[-10%] w-[500px] h-[500px] rounded-full bg-brand-200/20 blur-[100px]"></div>
+    <div
+      class="absolute top-[-20%] left-[-10%] w-[600px] h-[600px] rounded-full bg-champagne/15 blur-[120px]"
+    >
+    </div>
+    <div
+      class="absolute bottom-[-10%] right-[-10%] w-[500px] h-[500px] rounded-full bg-brand-200/20 blur-[100px]"
+    >
+    </div>
   </div>
 
   <Container>
-    <div class="relative grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center min-h-[calc(100vh-100px)] py-8 lg:py-0">
-      
+    <div
+      class="relative grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center min-h-[calc(100vh-100px)] py-8 lg:py-0"
+    >
       <!-- Left Column: Content -->
       <div class="lg:col-span-7 space-y-8 animate-fade-in-up">
-        <div class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md">
-          <span class="w-1.5 h-1.5 rounded-full bg-soft-gold animate-pulse"></span>
-          <span class="text-[10px] uppercase tracking-[0.2em] font-bold text-brand-700">Premium Digital Invitation</span>
+        <div
+          class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md"
+        >
+          <span class="w-1.5 h-1.5 rounded-full bg-soft-gold animate-pulse"
+          ></span>
+          <span
+            class="text-[10px] uppercase tracking-[0.2em] font-bold text-brand-700"
+            >Premium Digital Invitation</span
+          >
         </div>
-        
-        <h1 class="font-serif text-5xl sm:text-6xl lg:text-[4.75rem] text-brand-950 leading-[1.06] tracking-tight">
+
+        <h1
+          class="font-serif text-5xl sm:text-6xl lg:text-[4.75rem] text-brand-950 leading-[1.06] tracking-tight"
+        >
           Undangan digital<br class="hidden sm:block" />
-          cantik untuk momen <span class="italic font-normal text-soft-gold">terindahmu.</span>
+          cantik untuk momen <span class="italic font-normal text-soft-gold"
+            >terindahmu.</span
+          >
         </h1>
-        
-        <p class="text-base sm:text-lg text-text-secondary max-w-[500px] font-sans tracking-wide leading-relaxed">
-          Pilih desain mewah, kirim data acara, dan bagikan undangan Anda secara instan. Dilengkapi RSVP otomatis, musik latar premium, dan peta navigasi presisi.
+
+        <p
+          class="text-base sm:text-lg text-text-secondary max-w-[500px] font-sans tracking-wide leading-relaxed"
+        >
+          Pilih desain mewah, kirim data acara, dan bagikan undangan Anda secara
+          instan. Dilengkapi RSVP otomatis, musik latar premium, dan peta
+          navigasi presisi.
         </p>
-        
+
         <div class="flex flex-wrap gap-4 pt-2">
-          <a href="/desain-undangan-digital/" 
+          <a
+            href="/desain-undangan-digital/"
             class="px-8 py-4 bg-brand-900 text-cream rounded-full hover:bg-brand-950 transition-all font-semibold tracking-widest text-[11px] uppercase active:scale-[0.98] shadow-card hover:shadow-card-hover duration-300"
-            id="hero-cta-primary">
+            id="hero-cta-primary"
+          >
             Lihat Desain
           </a>
-          <a href={createWhatsappUrl()} target="_blank" rel="noopener noreferrer" 
+          <a
+            href={createWhatsappUrl()}
+            target="_blank"
+            rel="noopener noreferrer"
             class="px-8 py-4 border border-brand-300/80 rounded-full hover:bg-white hover:border-brand-500 transition-all font-semibold tracking-widest text-[11px] uppercase duration-300 text-brand-800 flex items-center gap-2"
-            id="hero-cta-whatsapp">
+            id="hero-cta-whatsapp"
+          >
             <Icon name="whatsapp" size={15} class="text-[#25D366]" />
             Order via WhatsApp
           </a>
         </div>
 
-        <!-- Trust Mini-signals / Stats Grid -->
-        <div class="pt-8 border-t border-border-soft flex gap-10">
-          <div>
-            <p class="font-serif text-2xl font-semibold text-brand-900 leading-none">2,000+</p>
-            <p class="text-[10px] text-text-muted uppercase tracking-widest font-sans font-bold mt-2">Undangan Aktif</p>
+        <!-- Trust Mini-signals / Small Horizontal Points -->
+        <div class="pt-6 border-t border-border-soft/60 flex flex-wrap items-center gap-x-6 gap-y-3">
+          <div class="flex items-center gap-2.5 text-text-secondary text-[12px] font-medium tracking-wide">
+            <Icon name="gem" size={14} class="text-[#B59A73]" />
+            <span>Desain Premium & Mewah</span>
           </div>
-          <div>
-            <p class="font-serif text-2xl font-semibold text-brand-900 leading-none">150k+</p>
-            <p class="text-[10px] text-text-muted uppercase tracking-widest font-sans font-bold mt-2">Tamu Terundang</p>
+          <div class="hidden md:block w-[1px] h-3.5 bg-border-strong/30"></div>
+          <div class="flex items-center gap-2.5 text-text-secondary text-[12px] font-medium tracking-wide">
+            <Icon name="zap" size={14} class="text-[#B59A73]" />
+            <span>Aktif dalam 5 Menit</span>
           </div>
-          <div>
-            <p class="font-serif text-2xl font-semibold text-brand-900 leading-none">Rp75k</p>
-            <p class="text-[10px] text-text-muted uppercase tracking-widest font-sans font-bold mt-2">Harga Mulai</p>
+          <div class="hidden md:block w-[1px] h-3.5 bg-border-strong/30"></div>
+          <div class="flex items-center gap-2.5 text-text-secondary text-[12px] font-medium tracking-wide">
+            <Icon name="shield-check" size={14} class="text-[#B59A73]" />
+            <span>Garansi Pembayaran Aman</span>
           </div>
         </div>
       </div>
 
-      <!-- Right Column: Layered Mockups -->
-      <div class="lg:col-span-5 relative flex justify-center lg:justify-end animate-fade-in" style="animation-delay: 0.2s;">
-        <!-- Phone Device Mockup -->
-        <div class="relative w-full max-w-[280px] sm:max-w-[300px] aspect-[9/16] rounded-[42px] border-[7px] border-brand-950 bg-kinto-dark shadow-elevated overflow-hidden animate-float">
-          <!-- Mockup Screen Content -->
-          <div class="absolute inset-0 bg-cover bg-center p-6 flex flex-col justify-between text-center text-cream-warm" style="background-image: linear-gradient(rgba(18, 17, 16, 0.45), rgba(18, 17, 16, 0.9)), url('https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=600');">
-            
-            <div class="space-y-2">
-              <span class="text-[9px] uppercase tracking-[0.3em] font-sans text-champagne/80 font-bold">The Wedding of</span>
-              <p class="font-serif text-2xl font-light italic">Sarah & Rian</p>
+      <!-- Right Column: Elegant Editorial Mosaic -->
+      <div
+        class="lg:col-span-5 relative w-full lg:h-[600px] flex flex-col gap-6 sm:gap-8 animate-fade-in"
+        style="animation-delay: 0.2s;"
+      >
+        <!-- Element 1: Large Background Photo Card -->
+        <div
+          class="relative lg:absolute lg:top-[5%] lg:left-[5%] lg:w-[75%] lg:h-[80%] w-full h-[250px] sm:h-[340px] rounded-[24px] lg:rounded-[32px] overflow-hidden shadow-elevated border border-brand-200/40 animate-float-slow"
+        >
+          <div
+            class="absolute inset-0 bg-gradient-to-t from-brand-950/40 via-transparent to-brand-950/20 z-10"
+          >
+          </div>
+          <img
+            src="https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800"
+            alt="Pernikahan Estetis"
+            class="w-full h-full object-cover filter sepia-[15%] contrast-[105%] hover:scale-105 transition-transform duration-700 ease-out"
+            loading="eager"
+          />
+          <!-- Luxury Overlay Badge -->
+          <div
+            class="absolute top-6 left-6 z-20 flex items-center gap-2 px-3 py-1.5 bg-[#FAF9F6]/90 backdrop-blur-md rounded-full border border-champagne/30"
+          >
+            <span class="w-1.5 h-1.5 rounded-full bg-[#B59A73]"></span>
+            <span
+              class="text-[8px] uppercase tracking-widest font-bold text-brand-900 font-sans"
+              >Vintage Cream</span
+            >
+          </div>
+        </div>
+
+        <!-- Element 2: Specimen Typography Card -->
+        <div
+          class="relative lg:absolute lg:top-[35%] lg:right-[2%] lg:w-[60%] w-full bg-[#FAF9F6] border border-[#B59A73]/30 p-6 rounded-2xl shadow-elevated z-20 animate-float-reverse"
+        >
+          <!-- Textures & Border Details inside the card for high luxury look -->
+          <div
+            class="border border-[#B59A73]/15 p-4 rounded-xl space-y-3.5 text-center"
+          >
+            <span
+              class="text-[9px] uppercase tracking-[0.25em] text-[#B59A73] font-bold font-sans block"
+              >Save the Date</span
+            >
+            <div class="space-y-1">
+              <span
+                class="text-[10px] text-text-muted font-bold uppercase tracking-widest font-sans"
+                >The Wedding of</span
+              >
+              <p
+                class="font-serif text-2xl md:text-3xl text-brand-950 font-normal italic leading-none"
+              >
+                Sarah & Rian
+              </p>
             </div>
-            
-            <!-- Glassmorphic Countdown Widget -->
-            <div class="glass p-4 rounded-2xl border border-white/10 text-brand-950 space-y-3.5 shadow-elevated">
-              <span class="text-[9px] uppercase tracking-widest font-bold text-soft-gold block">Countdown to Special Day</span>
-              <div class="grid grid-cols-3 gap-1.5 text-center">
-                <div class="bg-surface-muted/60 py-1.5 rounded-lg">
-                  <span class="font-serif text-sm font-bold block">12</span>
-                  <span class="text-[8px] text-text-muted font-bold">HARI</span>
-                </div>
-                <div class="bg-surface-muted/60 py-1.5 rounded-lg">
-                  <span class="font-serif text-sm font-bold block">08</span>
-                  <span class="text-[8px] text-text-muted font-bold">JAM</span>
-                </div>
-                <div class="bg-surface-muted/60 py-1.5 rounded-lg">
-                  <span class="font-serif text-sm font-bold block">45</span>
-                  <span class="text-[8px] text-text-muted font-bold">MENIT</span>
-                </div>
+            <div class="w-8 h-[1px] bg-[#B59A73]/30 mx-auto"></div>
+            <p
+              class="font-serif text-sm text-[#B59A73] tracking-widest uppercase font-bold leading-none"
+            >
+              12 . 12 . 2026
+            </p>
+          </div>
+        </div>
+
+        <!-- Element 3: Agenda Glassmorphic Card -->
+        <div
+          class="relative lg:absolute lg:bottom-[2%] lg:left-[2%] lg:w-[55%] w-full glass backdrop-blur-xl border border-white/20 p-5 rounded-2xl shadow-elevated z-30 animate-pulse-slow"
+        >
+          <span
+            class="text-[8px] uppercase tracking-[0.2em] font-sans font-bold text-soft-gold mb-3.5 block"
+            >Jadwal Acara</span
+          >
+          <div class="space-y-3">
+            <div class="flex items-start gap-2.5">
+              <span
+                class="text-[10px] font-bold text-brand-900 font-sans w-12 shrink-0"
+                >10:00 WIB</span
+              >
+              <div class="h-3 w-[1px] bg-border-strong/50 self-center"></div>
+              <div>
+                <h4
+                  class="text-[11px] font-bold text-brand-950 uppercase tracking-wider"
+                >
+                  Akad Nikah
+                </h4>
+                <p class="text-[9px] text-text-muted font-sans font-semibold">
+                  Masjid Raya Al-Mabrur
+                </p>
               </div>
-              <button class="w-full py-2 bg-brand-900 text-cream rounded-xl text-[10px] font-bold tracking-widest uppercase hover:bg-brand-950 transition-colors">
-                Buka Undangan
-              </button>
             </div>
-            
-          </div>
-        </div>
-
-        <!-- Floating Glass Widget: RSVP Success -->
-        <div class="absolute top-[20%] -left-6 glass p-4 rounded-2xl border border-border-soft/60 shadow-card max-w-[170px] animate-pulse-slow">
-          <div class="flex items-center gap-3">
-            <div class="w-7 h-7 rounded-full bg-success/15 flex items-center justify-center text-success text-[10px] font-bold">✓</div>
-            <div>
-              <span class="text-[9px] text-text-muted uppercase tracking-wider block font-semibold">RSVP Hadir</span>
-              <span class="font-serif text-xs font-semibold text-brand-900">Sarah & Rian</span>
+            <div class="w-full h-[1px] bg-border-soft/60"></div>
+            <div class="flex items-start gap-2.5">
+              <span
+                class="text-[10px] font-bold text-brand-900 font-sans w-12 shrink-0"
+                >12:00 WIB</span
+              >
+              <div class="h-3 w-[1px] bg-border-strong/50 self-center"></div>
+              <div>
+                <h4
+                  class="text-[11px] font-bold text-brand-950 uppercase tracking-wider"
+                >
+                  Resepsi
+                </h4>
+                <p class="text-[9px] text-text-muted font-sans font-semibold">
+                  Gedung Grand Ballroom
+                </p>
+              </div>
             </div>
           </div>
-        </div>
-
-        <!-- Floating Glass Widget: Star Rating -->
-        <div class="absolute bottom-[15%] -right-4 glass p-3.5 rounded-xl border border-border-soft/60 shadow-card animate-pulse-slow" style="animation-delay: 1.5s;">
-          <div class="flex gap-0.5 mb-1.5">
-            {Array.from({ length: 5 }).map(() => (
-              <Icon name="star" size={10} class="text-soft-gold fill-soft-gold" />
-            ))}
-          </div>
-          <p class="text-[10px] text-text-muted font-bold uppercase tracking-wider">Premium Rating</p>
         </div>
       </div>
-      
     </div>
   </Container>
 
   <!-- Scroll Indicator (Kinto signature element) -->
   <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
-    <a href="#trust-stats" class="flex flex-col items-center gap-1 text-text-muted hover:text-soft-gold transition-colors duration-300">
+    <a
+      href="#trust-stats"
+      class="flex flex-col items-center gap-1 text-text-muted hover:text-soft-gold transition-colors duration-300"
+    >
       <Icon name="chevron-down" size={20} />
     </a>
   </div>

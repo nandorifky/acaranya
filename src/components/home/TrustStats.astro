@@ -6,23 +6,29 @@ const stats = [
   { value: siteConfig.stats.totalInvitations, label: 'Undangan Dibuat' },
   { value: siteConfig.stats.totalGuests, label: 'Tamu Diundang' },
   { value: siteConfig.stats.totalDesigns, label: 'Pilihan Desain' },
-  { value: siteConfig.stats.since, label: 'Berpengalaman' },
+  { value: siteConfig.stats.since, label: 'Sejak' },
 ];
 ---
 
-<section class="relative bg-[#FAF9F6]" id="trust-stats">
-  <div class="h-px bg-gradient-to-r from-transparent via-[#C9B77D]/20 to-transparent"></div>
+<section class="relative bg-cream py-1" id="trust-stats">
+  <div class="h-px bg-border-soft/60"></div>
   <Container>
-    <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 py-12 lg:py-16">
-      {stats.map((stat, i) => (
-        <div class:list={['text-center space-y-2', i < stats.length - 1 ? 'lg:border-r lg:border-border-soft/60' : '']}>
-          <p class="font-serif text-4xl lg:text-[2.75rem] font-medium text-brand-950 leading-none tracking-tight">
+    <div class="grid grid-cols-2 lg:flex lg:flex-row lg:justify-between lg:items-center gap-y-5 gap-x-4 py-5 md:py-6">
+      {stats.map((stat) => (
+        <div class="flex flex-col items-center lg:flex-row lg:items-center gap-1 lg:gap-2.5 group">
+          <!-- Numbers: Clean Playfair Display -->
+          <span class="font-serif text-xl sm:text-2xl font-medium text-brand-950 group-hover:text-soft-gold transition-colors duration-300">
             {stat.value}
-          </p>
-          <p class="text-[10px] text-text-muted uppercase tracking-[0.2em] font-bold">{stat.label}</p>
+          </span>
+          <!-- Thin gold dot: hidden on mobile (stacked), visible on desktop (inline) -->
+          <span class="hidden lg:block w-1 h-1 rounded-full bg-[#B59A73]/40"></span>
+          <!-- Labels: Clean Plus Jakarta Sans -->
+          <span class="text-[9px] text-text-muted uppercase tracking-[0.2em] font-bold group-hover:text-brand-950 transition-colors duration-300">
+            {stat.label}
+          </span>
         </div>
       ))}
     </div>
   </Container>
-  <div class="h-px bg-gradient-to-r from-transparent via-[#C9B77D]/20 to-transparent"></div>
+  <div class="h-px bg-border-soft/60"></div>
 </section>

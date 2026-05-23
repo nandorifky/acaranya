@@ -142,9 +142,14 @@ h1, h2, h3 {
   50% { transform: translateY(-10px) rotate(1deg); }
 }
 
+@keyframes float-reverse {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(8px) rotate(-1deg); }
+}
+
 @keyframes pulse-slow {
   0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
+  50% { opacity: 0.7; }
 }
 
 .animate-fade-in-up {
@@ -159,12 +164,22 @@ h1, h2, h3 {
   animation: slide-in-right 0.35s cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 
-.animate-float {
-  animation: float 6s ease-in-out infinite;
+@media (min-width: 1024px) {
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-float-slow {
+    animation: float 9s ease-in-out infinite;
+  }
+
+  .animate-float-reverse {
+    animation: float-reverse 8s ease-in-out infinite;
+  }
 }
 
 .animate-pulse-slow {
-  animation: pulse-slow 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  animation: pulse-slow 5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 }
 
 /* Stagger */

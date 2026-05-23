@@ -31,6 +31,34 @@ import { siteConfig } from '../../data/site';
         <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
           Silakan isi beberapa detail awal di bawah ini. Data Anda akan diteruskan secara instan untuk konsultasi eksklusif bersama tim desainer kami.
         </p>
+
+        <!-- Event Type Quick Switcher (Ribbon) -->
+        <div class="pt-4 space-y-2">
+          <span class="block text-[8px] font-bold uppercase tracking-widest text-[#B59A73]">Pilih Formulir Spesifik Acara:</span>
+          <div class="flex flex-wrap gap-2.5">
+            <a href="/order-undangan/pernikahan/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+              <Icon name="heart" size={10} class="text-[#B59A73]" /> Pernikahan
+            </a>
+            <a href="/order-undangan/khitanan/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+              <Icon name="user" size={10} class="text-[#B59A73]" /> Khitanan
+            </a>
+            <a href="/order-undangan/ulang-tahun/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+              <Icon name="cake" size={10} class="text-[#B59A73]" /> Ulang Tahun
+            </a>
+            <a href="/order-undangan/aqiqah/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+              <Icon name="baby" size={10} class="text-[#B59A73]" /> Aqiqah
+            </a>
+            <a href="/order-undangan/corporate/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+              <Icon name="building" size={10} class="text-[#B59A73]" /> Corporate
+            </a>
+            <a href="/order-undangan/wisuda/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+              <Icon name="graduation-cap" size={10} class="text-[#B59A73]" /> Wisuda
+            </a>
+            <a href="/order-undangan/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-[#B59A73]/10 border border-[#B59A73]/40 text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+              <Icon name="sparkles" size={10} /> Umum (Lainnya)
+            </a>
+          </div>
+        </div>
       </div>
     </Container>
   </section>
@@ -195,6 +223,49 @@ import { siteConfig } from '../../data/site';
     const params = new URLSearchParams(window.location.search);
     const templateParam = params.get('template') || '';
     const packageParam = params.get('package') || '';
+
+    // Auto-redirect to dedicated event form if template keyword matches or category matches
+    const templateLower = templateParam.toLowerCase();
+    if (templateLower.includes('wedding') || templateLower.includes('nikah')) {
+      window.location.href = '/order-undangan/pernikahan/' + window.location.search;
+      return;
+    } else if (templateLower.includes('khitan')) {
+      window.location.href = '/order-undangan/khitanan/' + window.location.search;
+      return;
+    } else if (templateLower.includes('ultah') || templateLower.includes('birthday') || templateLower.includes('lahir')) {
+      window.location.href = '/order-undangan/ulang-tahun/' + window.location.search;
+      return;
+    } else if (templateLower.includes('aqiqah')) {
+      window.location.href = '/order-undangan/aqiqah/' + window.location.search;
+      return;
+    } else if (templateLower.includes('corporate') || templateLower.includes('kantor') || templateLower.includes('gathering')) {
+      window.location.href = '/order-undangan/corporate/' + window.location.search;
+      return;
+    } else if (templateLower.includes('wisuda') || templateLower.includes('grad')) {
+      window.location.href = '/order-undangan/wisuda/' + window.location.search;
+      return;
+    }
+
+    const eventSelect = document.getElementById('eventType');
+    if (eventSelect) {
+      // Auto-redirect if they change select to a specific event
+      eventSelect.addEventListener('change', (e) => {
+        const val = e.target.value;
+        if (val === 'pernikahan') {
+          window.location.href = '/order-undangan/pernikahan/' + window.location.search;
+        } else if (val === 'khitanan') {
+          window.location.href = '/order-undangan/khitanan/' + window.location.search;
+        } else if (val === 'ulang-tahun' || val === 'ultah') {
+          window.location.href = '/order-undangan/ulang-tahun/' + window.location.search;
+        } else if (val === 'aqiqah') {
+          window.location.href = '/order-undangan/aqiqah/' + window.location.search;
+        } else if (val === 'corporate') {
+          window.location.href = '/order-undangan/corporate/' + window.location.search;
+        } else if (val === 'wisuda') {
+          window.location.href = '/order-undangan/wisuda/' + window.location.search;
+        }
+      });
+    }
 
     // Auto-select package
     if (packageParam) {

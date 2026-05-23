@@ -1,0 +1,1026 @@
+---
+import MarketingLayout from "../../layouts/MarketingLayout.astro";
+import Container from "../../components/base/Container.astro";
+import Section from "../../components/base/Section.astro";
+import Icon from "../../components/ui/Icon.astro";
+import { getCollection } from "astro:content";
+import { pricingPlans } from "../../data/pricing-static";
+import { siteConfig } from "../../data/site";
+
+// Fetch all wedding designs from content collection
+const allDesigns = await getCollection("designs");
+const weddingDesigns = allDesigns
+  .filter(
+    (d) => d.data.status === "published" && d.data.category === "pernikahan",
+  )
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+---
+
+<MarketingLayout
+  title="Formulir Order Undangan Pernikahan Premium | Acaranya.id"
+  description="Isi detail data pernikahan Anda untuk pembuatan undangan digital premium berestetika tinggi di Acaranya.id."
+  hideFloatingWa={true}
+>
+  <!-- Hero Header -->
+  <section
+    class="relative pt-28 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden"
+  >
+    <div
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    >
+    </div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl mx-auto text-center space-y-4">
+        <span
+          class="text-[10px] uppercase tracking-[0.25em] text-[#B59A73] font-bold block"
+          >Pemesanan Spesial</span
+        >
+        <h1
+          class="font-serif text-3xl sm:text-5xl text-brand-950 leading-tight"
+        >
+          Data Undangan <span class="italic font-normal text-[#B59A73]"
+            >Pernikahan</span
+          >
+        </h1>
+        <p
+          class="text-text-secondary text-xs sm:text-sm max-w-lg mx-auto font-sans tracking-wide leading-relaxed"
+        >
+          Isi detail data acara pernikahan Anda dengan teliti di bawah ini.
+          Semua data akan diformat secara otomatis dan dikirimkan ke WhatsApp
+          admin kami.
+        </p>
+
+        <!-- Event Type Quick Switcher (Ribbon) -->
+        <div class="pt-4 space-y-2 flex flex-col items-center">
+          <span
+            class="block text-[8px] font-bold uppercase tracking-widest text-[#B59A73]"
+            >Pilih Formulir Spesifik Acara:</span
+          >
+          <div class="flex flex-wrap gap-2.5 justify-center max-w-2xl">
+            <a
+              href="/order-undangan/pernikahan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-[#B59A73]/10 border border-[#B59A73]/40 text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="heart" size={10} /> Pernikahan
+            </a>
+            <a
+              href="/order-undangan/khitanan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="user" size={10} class="text-[#B59A73]" /> Khitanan
+            </a>
+            <a
+              href="/order-undangan/ulang-tahun/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="cake" size={10} class="text-[#B59A73]" /> Ulang Tahun
+            </a>
+            <a
+              href="/order-undangan/aqiqah/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="baby" size={10} class="text-[#B59A73]" /> Aqiqah
+            </a>
+            <a
+              href="/order-undangan/corporate/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="building" size={10} class="text-[#B59A73]" /> Corporate
+            </a>
+            <a
+              href="/order-undangan/wisuda/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="graduation-cap" size={10} class="text-[#B59A73]" /> Wisuda
+            </a>
+            <a
+              href="/order-undangan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="sparkles" size={10} class="text-[#B59A73]" /> Umum (Lainnya)
+            </a>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Checkout/Form Section -->
+  <Section bg="white" class="border-t border-border-soft/60">
+    <Container>
+      <div class="grid lg:grid-cols-3 gap-12 max-w-6xl mx-auto items-start">
+        <!-- Form Column -->
+        <div class="lg:col-span-2 space-y-8">
+          <!-- Sticky Visual Selection Helpers -->
+          <div
+            class="grid grid-cols-2 gap-4 p-4 bg-cream/70 rounded-2xl border border-[#B59A73]/15"
+          >
+            <a
+              href="/desain-undangan-digital/pernikahan/"
+              class="flex items-center justify-center gap-2 px-4 py-3 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-850 hover:text-[#B59A73] text-[10px] font-bold uppercase tracking-widest rounded-xl transition-all duration-300 shadow-sm text-center"
+            >
+              <Icon name="image" size={12} class="text-[#B59A73]" />
+              Pilih Desain
+            </a>
+            <a
+              href="/harga/"
+              class="flex items-center justify-center gap-2 px-4 py-3 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-850 hover:text-[#B59A73] text-[10px] font-bold uppercase tracking-widest rounded-xl transition-all duration-300 shadow-sm text-center"
+            >
+              <Icon name="tag" size={12} class="text-[#B59A73]" />
+              Daftar Harga
+            </a>
+          </div>
+
+          <form id="order-wedding-form" class="space-y-10">
+            <!-- Honeypot -->
+            <div class="hidden" aria-hidden="true">
+              <input type="text" name="_hp" tabindex="-1" autocomplete="off" />
+            </div>
+
+            <!-- SECTION 1: INFORMASI PEMESAN -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >1</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Informasi Pemesan
+                </h3>
+              </div>
+
+              <div class="grid sm:grid-cols-2 gap-6">
+                <div class="space-y-1.5">
+                  <label
+                    for="name"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Nama Pemesan <span class="text-error">*</span></label
+                  >
+                  <input
+                    type="text"
+                    id="name"
+                    name="name"
+                    required
+                    minlength="2"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: Sarah Aulia"
+                  />
+                </div>
+                <div class="space-y-1.5">
+                  <label
+                    for="whatsapp"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Nomor WhatsApp <span class="text-error">*</span></label
+                  >
+                  <input
+                    type="tel"
+                    id="whatsapp"
+                    name="whatsapp"
+                    required
+                    minlength="8"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: 081234567890"
+                  />
+                </div>
+              </div>
+
+              <div class="grid sm:grid-cols-2 gap-6">
+                <div class="space-y-1.5">
+                  <label
+                    for="template"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Nama Desain Undangan <span class="text-error">*</span
+                    ></label
+                  >
+                  <input
+                    type="text"
+                    id="template"
+                    name="template"
+                    required
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: Elegant Gold Wedding"
+                  />
+                </div>
+                <div class="space-y-1.5">
+                  <label
+                    for="package"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Paket Harga <span class="text-error">*</span></label
+                  >
+                  <select
+                    id="package"
+                    name="package"
+                    required
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans appearance-none"
+                  >
+                    <option value="">Pilih paket undangan</option>
+                    {
+                      pricingPlans.map((p) => (
+                        <option value={p.slug}>
+                          {p.name} — {p.priceDisplay}
+                        </option>
+                      ))
+                    }
+                  </select>
+                </div>
+              </div>
+
+              <div class="space-y-1.5">
+                <label
+                  for="email"
+                  class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                  >Email Aktif <span
+                    class="text-text-muted font-sans font-medium"
+                    >(opsional)</span
+                  ></label
+                >
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                  placeholder="Contoh: sarah@gmail.com"
+                />
+              </div>
+            </div>
+
+            <!-- SECTION 2: DATA PENGANTIN -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >2</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Informasi Pengantin
+                </h3>
+              </div>
+
+              <!-- Nama yang Didahulukan -->
+              <div class="space-y-2">
+                <label
+                  class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                >
+                  Nama yang Didahulukan <span class="text-error">*</span>
+                </label>
+                <div class="grid grid-cols-2 gap-4">
+                  <label
+                    class="relative flex items-center justify-center gap-2 p-3 bg-cream/30 border border-[#B59A73]/20 rounded-xl cursor-pointer hover:bg-cream/50 transition-all font-sans text-xs"
+                  >
+                    <input
+                      type="radio"
+                      name="priorityName"
+                      value="pria"
+                      required
+                      class="accent-[#B59A73]"
+                      checked
+                    />
+                    <span class="font-semibold text-brand-950"
+                      >Mempelai Pria</span
+                    >
+                  </label>
+                  <label
+                    class="relative flex items-center justify-center gap-2 p-3 bg-cream/30 border border-[#B59A73]/20 rounded-xl cursor-pointer hover:bg-cream/50 transition-all font-sans text-xs"
+                  >
+                    <input
+                      type="radio"
+                      name="priorityName"
+                      value="wanita"
+                      required
+                      class="accent-[#B59A73]"
+                    />
+                    <span class="font-semibold text-brand-950"
+                      >Mempelai Wanita</span
+                    >
+                  </label>
+                </div>
+              </div>
+
+              <!-- DATA MEMPELAI PRIA -->
+              <div
+                class="p-6 bg-cream/30 rounded-2xl border border-border-soft/60 space-y-5"
+              >
+                <div
+                  class="flex items-center gap-2 pb-2 border-b border-border-soft/40"
+                >
+                  <span class="text-brand-900 font-bold text-xs font-sans"
+                    >Data Mempelai Pria</span
+                  >
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="groomFullName"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Lengkap <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="groomFullName"
+                      name="groomFullName"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Rian Anggara, S.T."
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="groomNickName"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Panggilan <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="groomNickName"
+                      name="groomNickName"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Rian"
+                    />
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="groomOrder"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Anak ke-berapa <span class="text-error">*</span></label
+                  >
+                  <input
+                    type="text"
+                    id="groomOrder"
+                    name="groomOrder"
+                    required
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: Putra pertama dari dua bersaudara"
+                  />
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="groomFather"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Bapak <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="groomFather"
+                      name="groomFather"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Bapak Herman Wijaya"
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="groomMother"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Ibu <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="groomMother"
+                      name="groomMother"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Ibu Rita Sugiarto"
+                    />
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="groomInstagram"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Username Instagram <span
+                      class="text-text-muted font-sans font-medium"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="text"
+                    id="groomInstagram"
+                    name="groomInstagram"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: @rian.anggara"
+                  />
+                </div>
+              </div>
+
+              <!-- DATA MEMPELAI WANITA -->
+              <div
+                class="p-6 bg-cream/30 rounded-2xl border border-border-soft/60 space-y-5"
+              >
+                <div
+                  class="flex items-center gap-2 pb-2 border-b border-border-soft/40"
+                >
+                  <span class="text-brand-900 font-bold text-xs font-sans"
+                    >Data Mempelai Wanita</span
+                  >
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="brideFullName"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Lengkap <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="brideFullName"
+                      name="brideFullName"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Sarah Aulia, S.E."
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="brideNickName"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Panggilan <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="brideNickName"
+                      name="brideNickName"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Sarah"
+                    />
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="brideOrder"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Anak ke-berapa <span class="text-error">*</span></label
+                  >
+                  <input
+                    type="text"
+                    id="brideOrder"
+                    name="brideOrder"
+                    required
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: Putri kedua dari tiga bersaudara"
+                  />
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="brideFather"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Bapak <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="brideFather"
+                      name="brideFather"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Bapak Ahmad Syarif"
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="brideMother"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Nama Ibu <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="brideMother"
+                      name="brideMother"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Ibu Lilis Kartika"
+                    />
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="brideInstagram"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Username Instagram <span
+                      class="text-text-muted font-sans font-medium"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="text"
+                    id="brideInstagram"
+                    name="brideInstagram"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="Contoh: @sarah.aulia"
+                  />
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION 3: DATA ACARA -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >3</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Informasi Acara
+                </h3>
+              </div>
+
+              <!-- DATA AKAD/PEMBERKATAN -->
+              <div
+                class="p-6 bg-cream/30 rounded-2xl border border-border-soft/60 space-y-5"
+              >
+                <div
+                  class="flex items-center gap-2 pb-2 border-b border-border-soft/40"
+                >
+                  <span class="text-brand-900 font-bold text-xs font-sans"
+                    >Akad Nikah / Pemberkatan</span
+                  >
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="akadDate"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Hari & Tanggal <span class="text-error">*</span></label
+                    >
+                    <input
+                      type="text"
+                      id="akadDate"
+                      name="akadDate"
+                      required
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Minggu, 12 Desember 2026"
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="akadTime"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Waktu Acara (Mulai - Selesai) <span class="text-error"
+                        >*</span
+                      ></label
+                    >
+                    <div class="flex gap-2 items-center">
+                      <input
+                        type="text"
+                        id="akadTime"
+                        name="akadTime"
+                        required
+                        class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                        placeholder="Contoh: 09:00 - Selesai"
+                      />
+                      <select
+                        name="akadTz"
+                        required
+                        class="px-3 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      >
+                        <option value="WIB">WIB</option>
+                        <option value="WITA">WITA</option>
+                        <option value="WIT">WIT</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="akadAddress"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Alamat Lengkap Tertulis <span class="text-error">*</span
+                    ></label
+                  >
+                  <textarea
+                    id="akadAddress"
+                    name="akadAddress"
+                    required
+                    rows="3"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans resize-none"
+                    placeholder="Tuliskan nama tempat dan alamat lengkap akad nikah..."
+                  ></textarea>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="akadMaps"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Link Google Maps Lokasi <span
+                      class="text-text-muted font-sans font-medium"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="url"
+                    id="akadMaps"
+                    name="akadMaps"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="https://maps.google.com/..."
+                  />
+                  <p
+                    class="text-[9px] text-[#B59A73]/80 italic pt-1 flex items-center gap-1"
+                  >
+                    Link maps bisa dikirimkan manual via WhatsApp chat ke admin
+                    nantinya jika belum ada.
+                  </p>
+                </div>
+              </div>
+
+              <!-- TOGGLE RESEPSI -->
+              <div
+                class="p-4 bg-cream/20 rounded-2xl border border-border-soft flex items-center justify-between"
+              >
+                <div class="space-y-0.5">
+                  <span class="text-brand-950 font-bold text-xs font-sans"
+                    >Tambah Acara Resepsi?</span
+                  >
+                  <p class="text-[9px] text-text-muted font-sans font-semibold">
+                    Aktifkan jika memiliki acara syukuran resepis khusus.
+                  </p>
+                </div>
+                <label class="relative inline-flex items-center cursor-pointer">
+                  <input
+                    type="checkbox"
+                    id="toggle-resepsi"
+                    class="sr-only peer"
+                  />
+                  <div
+                    class="w-9 h-5 bg-border-soft peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#B59A73]"
+                  >
+                  </div>
+                </label>
+              </div>
+
+              <!-- DATA RESEPSI (COLLAPSIBLE / CONDITIONAL) -->
+              <div
+                id="resepsi-form-container"
+                class="hidden p-6 bg-cream/30 rounded-2xl border border-border-soft/60 space-y-5 transition-all duration-500 ease-in-out opacity-0 translate-y-[-10px]"
+              >
+                <div
+                  class="flex items-center gap-2 pb-2 border-b border-border-soft/40"
+                >
+                  <span class="text-brand-900 font-bold text-xs font-sans"
+                    >Acara Resepsi Pernikahan</span
+                  >
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label
+                      for="resepsiDate"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Hari & Tanggal</label
+                    >
+                    <input
+                      type="text"
+                      id="resepsiDate"
+                      name="resepsiDate"
+                      class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      placeholder="Contoh: Minggu, 12 Desember 2026"
+                    />
+                  </div>
+                  <div class="space-y-1">
+                    <label
+                      for="resepsiTime"
+                      class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                      >Waktu Acara (Mulai - Selesai)</label
+                    >
+                    <div class="flex gap-2 items-center">
+                      <input
+                        type="text"
+                        id="resepsiTime"
+                        name="resepsiTime"
+                        class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                        placeholder="Contoh: 12:00 - 15:00"
+                      />
+                      <select
+                        name="resepsiTz"
+                        class="px-3 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                      >
+                        <option value="WIB">WIB</option>
+                        <option value="WITA">WITA</option>
+                        <option value="WIT">WIT</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="resepsiAddress"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Alamat Lengkap Tertulis</label
+                  >
+                  <textarea
+                    id="resepsiAddress"
+                    name="resepsiAddress"
+                    rows="3"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans resize-none"
+                    placeholder="Tuliskan nama tempat dan alamat lengkap acara resepsi..."
+                  ></textarea>
+                </div>
+
+                <div class="space-y-1">
+                  <label
+                    for="resepsiMaps"
+                    class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]"
+                    >Link Google Maps Lokasi <span
+                      class="text-text-muted font-sans font-medium"
+                      >(opsional)</span
+                    ></label
+                  >
+                  <input
+                    type="url"
+                    id="resepsiMaps"
+                    name="resepsiMaps"
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans"
+                    placeholder="https://maps.google.com/..."
+                  />
+                  <p
+                    class="text-[9px] text-[#B59A73]/80 italic pt-1 flex items-center gap-1"
+                  >
+                    Link maps bisa dikirimkan manual via WhatsApp chat ke admin
+                    nantinya jika belum ada.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION 4: DEKLARASI & CHECKOUT -->
+            <div class="pt-6 border-t border-border-soft space-y-6">
+              <label
+                class="flex items-start gap-3 p-4 bg-cream/40 rounded-2xl border border-border-soft cursor-pointer hover:bg-cream/60 transition-colors"
+              >
+                <input
+                  type="checkbox"
+                  id="check-confirm"
+                  required
+                  class="accent-[#B59A73] mt-0.5"
+                />
+                <span
+                  class="text-[10px] text-text-secondary font-medium tracking-wide font-sans leading-relaxed"
+                >
+                  Saya menyatakan bahwa data yang saya masukkan di atas
+                  benar-benar valid, lengkap, dan siap dikirimkan kepada tim
+                  admin pembuat undangan.
+                </span>
+              </label>
+
+              <button
+                type="submit"
+                class="w-full py-4 bg-brand-950 hover:bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-2xl transition-all duration-300 shadow-md flex items-center justify-center gap-2 hover:scale-[1.01]"
+              >
+                <Icon name="whatsapp" size={14} class="text-[#25D366]" />
+                Kirim Data via WhatsApp Admin
+              </button>
+            </div>
+          </form>
+        </div>
+
+        <!-- Sidebar Step Guidelines -->
+        <div class="space-y-6 lg:sticky lg:top-28">
+          <div
+            class="bg-cream rounded-3xl border border-border-soft/60 p-8 space-y-6"
+          >
+            <h3
+              class="font-serif text-xl text-brand-950 pb-3 border-b border-border-soft/50"
+            >
+              Panduan Pemesanan
+            </h3>
+            <ol
+              class="space-y-4 text-xs font-sans text-text-secondary tracking-wide leading-relaxed"
+            >
+              <li class="flex items-start gap-3.5">
+                <span
+                  class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5"
+                  >1</span
+                >
+                <span
+                  >Pilih template dan paket harga yang Anda minati melalui
+                  tombol di atas form.</span
+                >
+              </li>
+              <li class="flex items-start gap-3.5">
+                <span
+                  class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5"
+                  >2</span
+                >
+                <span
+                  >Lengkapi data mempelai pria, wanita, akad nikah, serta
+                  aktifkan toggle resepsi jika diperlukan.</span
+                >
+              </li>
+              <li class="flex items-start gap-3.5">
+                <span
+                  class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5"
+                  >3</span
+                >
+                <span
+                  >Centang verifikasi data, lalu klik tombol hijau untuk
+                  mengirim seluruh data ke WhatsApp kami secara instan.</span
+                >
+              </li>
+            </ol>
+          </div>
+
+          <div
+            class="bg-cream rounded-3xl border border-border-soft/60 p-8 space-y-4"
+          >
+            <h3
+              class="font-serif text-xl text-brand-950 pb-2 border-b border-border-soft/50"
+            >
+              Konsultasi Dulu
+            </h3>
+            <p
+              class="text-xs text-text-secondary font-sans leading-relaxed tracking-wide"
+            >
+              Punya pertanyaan seputar adat pernikahan atau request kustom di
+              luar template?
+            </p>
+            <a
+              href={`https://wa.me/${siteConfig.contact.whatsapp}?text=Halo%20Acaranya.id%20saya%20ingin%20tanya-tanya%20mengenai%20undangan%20pernikahan%20custom`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-full inline-flex items-center justify-center gap-2 py-3 border border-brand-300/85 text-brand-850 text-[9px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 hover:text-cream transition-all duration-300"
+            >
+              <Icon name="whatsapp" size={12} class="text-[#25D366]" />
+              Tanya Admin Chat
+            </a>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>
+
+<script define:vars={{ waPhone: siteConfig.contact.whatsapp }}>
+  // Toggle Resepsi Form Container
+  const toggleResepsi = document.getElementById("toggle-resepsi");
+  const resepsiContainer = document.getElementById("resepsi-form-container");
+  const resepsiInputs = resepsiContainer
+    ? resepsiContainer.querySelectorAll("input, select, textarea")
+    : [];
+
+  if (toggleResepsi && resepsiContainer) {
+    toggleResepsi.addEventListener("change", () => {
+      if (toggleResepsi.checked) {
+        resepsiContainer.classList.remove("hidden");
+        // trigger animation frames
+        requestAnimationFrame(() => {
+          resepsiContainer.classList.remove("opacity-0", "translate-y-[-10px]");
+          resepsiContainer.classList.add("opacity-100", "translate-y-0");
+        });
+        // Make inputs required except maps
+        resepsiInputs.forEach((input) => {
+          if (input.name !== "resepsiMaps" && input.name !== "resepsiTz") {
+            input.setAttribute("required", "true");
+          }
+        });
+      } else {
+        resepsiContainer.classList.add("opacity-0", "translate-y-[-10px]");
+        resepsiContainer.classList.remove("opacity-100", "translate-y-0");
+        setTimeout(() => {
+          resepsiContainer.classList.add("hidden");
+        }, 300);
+        // Remove required attribute
+        resepsiInputs.forEach((input) => {
+          input.removeAttribute("required");
+        });
+      }
+    });
+  }
+
+  // Handle auto-selected query params on mount
+  const params = new URLSearchParams(window.location.search);
+  const selectedTemplate = params.get("template");
+  const selectedPackage = params.get("package");
+  const designInput = document.getElementById("template");
+  const packageSelect = document.getElementById("package");
+
+  if (selectedTemplate && designInput) {
+    designInput.value = selectedTemplate;
+  }
+  if (selectedPackage && packageSelect) {
+    packageSelect.value = selectedPackage;
+  }
+
+  // FORM SUBMIT -> FORMAT BEAUTIFUL WHATSAPP MESSAGE
+  const form = document.getElementById("order-wedding-form");
+  if (form) {
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const fd = new FormData(form);
+      if (fd.get("_hp")) return; // Honeypot match
+
+      const name = fd.get("name");
+      const whatsapp = fd.get("whatsapp");
+      const email = fd.get("email") || "-";
+      const template = fd.get("template");
+      const pkg = fd.get("package");
+
+      const priorityName =
+        fd.get("priorityName") === "pria"
+          ? "Mempelai Pria Didahulukan"
+          : "Mempelai Wanita Didahulukan";
+
+      const groomFullName = fd.get("groomFullName");
+      const groomNickName = fd.get("groomNickName");
+      const groomOrder = fd.get("groomOrder");
+      const groomFather = fd.get("groomFather");
+      const groomMother = fd.get("groomMother");
+      const groomInstagram = fd.get("groomInstagram") || "-";
+
+      const brideFullName = fd.get("brideFullName");
+      const brideNickName = fd.get("brideNickName");
+      const brideOrder = fd.get("brideOrder");
+      const brideFather = fd.get("brideFather");
+      const brideMother = fd.get("brideMother");
+      const brideInstagram = fd.get("brideInstagram") || "-";
+
+      const akadDate = fd.get("akadDate");
+      const akadTime = fd.get("akadTime");
+      const akadTz = fd.get("akadTz");
+      const akadAddress = fd.get("akadAddress");
+      const akadMaps = fd.get("akadMaps") || "Kirim manual ke WhatsApp admin";
+
+      let resepsiMessage = "❌ Tidak Ada Acara Resepsi";
+      if (toggleResepsi && toggleResepsi.checked) {
+        const resepsiDate = fd.get("resepsiDate") || "-";
+        const resepsiTime = fd.get("resepsiTime") || "-";
+        const resepsiTz = fd.get("resepsiTz") || "WIB";
+        const resepsiAddress = fd.get("resepsiAddress") || "-";
+        const resepsiMaps =
+          fd.get("resepsiMaps") || "Kirim manual ke WhatsApp admin";
+
+        resepsiMessage = `💍 ACARA RESEPSI:
+• Hari & Tanggal: ${resepsiDate}
+• Waktu: ${resepsiTime} ${resepsiTz}
+• Alamat: ${resepsiAddress}
+• Google Maps: ${resepsiMaps}`;
+      }
+
+      const waMessage = `Halo Acaranya.id, saya ingin memesan Undangan Pernikahan Digital Premium!
+
+📋 INFORMASI PEMESAN
+------------------------------
+• Nama Pemesan: ${name}
+• Nomor WhatsApp: ${whatsapp}
+• Pilihan Desain: ${template}
+• Email Aktif: ${email}
+• Paket Harga: ${pkg.toUpperCase()}
+
+🤵👰 INFORMASI PENGANTIN
+------------------------------
+• Urutan Tampil: ${priorityName}
+
+♂️ MEMPELAI PRIA:
+• Nama Lengkap: ${groomFullName}
+• Nama Panggilan: ${groomNickName}
+• Urutan Anak: ${groomOrder}
+• Nama Bapak: ${groomFather}
+• Nama Ibu: ${groomMother}
+• Instagram: ${groomInstagram}
+
+♀️ MEMPELAI WANITA:
+• Nama Lengkap: ${brideFullName}
+• Nama Panggilan: ${brideNickName}
+• Urutan Anak: ${brideOrder}
+• Nama Bapak: ${brideFather}
+• Nama Ibu: ${brideMother}
+• Instagram: ${brideInstagram}
+
+📅 INFORMASI ACARA
+------------------------------
+💍 ACARA AKAD / PEMBERKATAN:
+• Hari & Tanggal: ${akadDate}
+• Waktu: ${akadTime} ${akadTz}
+• Alamat: ${akadAddress}
+• Google Maps: ${akadMaps}
+
+${resepsiMessage}
+
+------------------------------
+Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
+
+      const targetUrl = `https://wa.me/${waPhone}?text=${encodeURIComponent(waMessage)}`;
+      window.open(targetUrl, "_blank");
+    });
+  }
+</script>
