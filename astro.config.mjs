@@ -7,6 +7,7 @@ import markdoc from '@astrojs/markdoc';
 import rehypeSlug from 'rehype-slug';
 
 // https://astro.build/config
+// Triggering fresh build
 export default defineConfig({
   site: 'https://acaranya.id',
   trailingSlash: 'always',
