@@ -35,7 +35,7 @@ function MenuOverlay({ onClose }: { onClose: () => void }) {
     >
       {/* Header */}
       <div
-        className="flex items-center justify-between px-5 shrink-0"
+        className="flex items-center justify-between px-5 shrink-0 relative z-10"
         style={{
           height: '68px',
           borderBottom: '1px solid color-mix(in srgb, var(--color-border-soft) 50%, transparent)',
@@ -63,11 +63,11 @@ function MenuOverlay({ onClose }: { onClose: () => void }) {
         <button
           type="button"
           onClick={(e) => { e.stopPropagation(); onClose(); }}
-          className="w-10 h-10 flex items-center justify-center rounded-full transition-colors"
+          className="w-10 h-10 flex items-center justify-center rounded-full transition-colors relative z-20"
           style={{ backgroundColor: 'var(--color-surface-muted)', color: 'var(--color-text-secondary)' }}
           aria-label="Tutup menu"
         >
-          <X size={18} strokeWidth={2} />
+          <X size={18} strokeWidth={2} className="pointer-events-none" />
         </button>
       </div>
 

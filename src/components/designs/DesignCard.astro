@@ -41,7 +41,7 @@ const slug = design.id;
     )}
     
     <!-- Hover overlay -->
-    <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 backdrop-blur-[2px]">
+    <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 group-[.active-overlay]:opacity-100 pointer-events-none group-hover:pointer-events-auto group-[.active-overlay]:pointer-events-auto backdrop-blur-[2px]">
       <div class="flex gap-2.5">
         <a href={previewUrl} target="_blank" rel="noopener noreferrer"
           class="inline-flex items-center gap-1.5 px-5 py-2.5 bg-[#FAF9F6] text-brand-950 text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white transition-colors duration-300 shadow-sm"
@@ -75,3 +75,50 @@ const slug = design.id;
     )}
   </div>
 </article>
+
+<script>
+  function initDesignCards() {
+    const cards = document.querySelectorAll('article[id^="design-card-"]');
+    
+    cards.forEach(card => {
+      card.addEventListener('click', (e) => {
+        // Hanya jalan pada layar sentuh/mobile yang lebar layarnya <= 1024px
+        if (window.matchMedia('(max-width: 1024px)').matches) {
+          // Jika yang di-klik adalah tombol link di dalam overlay, biarkan default navigation jalan
+          if ((e.target as HTMLElement).closest('a')) {
+            return;
+          }
+          
+          e.preventDefault();
+          e.stopPropagation();
+          
+          const isActive = card.classList.contains('active-overlay');
+          
+          // Tutup semua overlay card lain
+          cards.forEach(c => {
+            if (c !== card) c.classList.remove('active-overlay');
+          });
+          
+          // Toggle overlay untuk card yang di-klik
+          if (isActive) {
+            card.classList.remove('active-overlay');
+          } else {
+            card.classList.add('active-overlay');
+          }
+        }
+      });
+    });
+
+    // Klik di mana saja di luar untuk menutup semua overlay card yang aktif
+    document.addEventListener('click', (e) => {
+      if (!(e.target as HTMLElement).closest('article[id^="design-card-"]')) {
+        cards.forEach(card => card.classList.remove('active-overlay'));
+      }
+    });
+  }
+
+  // Jalankan saat load pertama kali
+  initDesignCards();
+  // Jalankan juga saat Astro Page transition selesai (jika menggunakan View Transitions)
+  document.addEventListener('astro:page-load', initDesignCards);
+</script>
