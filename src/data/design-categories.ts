@@ -27,7 +27,7 @@ export const designCategories: DesignCategory[] = [
       subtitle: 'Kenapa memilih undangan pernikahan digital?',
       paragraphs: [
         'Hari pernikahan adalah salah satu momen paling bersejarah dalam hidup Anda. Undangan digital pernikahan kami dirancang secara eksklusif untuk memantulkan keanggunan, kesakralan, dan kepribadian romantis Anda dan pasangan.',
-        'Setiap template pernikahan didukung oleh ornamen tipografi Cormorant Garamond, tata letak bergaya majalah butik, peta koordinat GPS interaktif untuk kelancaran tamu, serta kolom RSVP dan amplop e-gift instan yang mempermudah restu digital.'
+        'Setiap template pernikahan didukung oleh ornamen tipografi Playfair Display yang menawan, tata letak bergaya majalah butik, peta koordinat GPS interaktif untuk kelancaran tamu, serta kolom RSVP dan amplop e-gift instan yang mempermudah restu digital.'
       ]
     }
   },

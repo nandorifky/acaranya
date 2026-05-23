@@ -47,14 +47,14 @@ function MenuOverlay({ onClose }: { onClose: () => void }) {
             style={{ backgroundColor: 'var(--color-brand-500)' }}
           >
             <span
-              style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
+              style={{ fontFamily: 'var(--font-serif)' }}
               className="text-base text-white font-bold"
             >
               A
             </span>
           </div>
           <span
-            style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
+            style={{ fontFamily: 'var(--font-serif)' }}
             className="text-[17px] font-semibold"
           >
             Acaranya.id
