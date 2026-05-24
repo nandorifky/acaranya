@@ -1,19 +1,15 @@
 ---
 title: Contoh Surat Undangan Pernikahan Tulis Tangan Simple
-description: >-
-  Kenapa sih harus repot-repot bikin undangan pernikahan tulis tangan? Bukankah
-  tinggal cetak di percetakan atau pesan online bisa jauh lebih simpel? Nah, di
-  era 
+description: Lebih personal & berkesan! Simak cara membuat undangan pernikahan tulis tangan yang estetik lengkap dengan contoh isi teksnya untuk tamu spesial di hari h.
 publishedAt: '2026-04-08T17:50:36'
 updatedAt: '2026-04-08T17:50:36'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
+  - etika
   - kata-kata
+  - inspirasi
+  - manual
 image: /images/blog/featured/undangan-pernikahan-tulis-tangan.jpg
 imageAlt: Contoh Surat Undangan Pernikahan Tulis Tangan Simple
 imageTitle: Contoh Surat Undangan Pernikahan Tulis Tangan Simple

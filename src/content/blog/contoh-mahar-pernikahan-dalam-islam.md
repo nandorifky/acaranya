@@ -1,20 +1,17 @@
 ---
 title: 6 Contoh Mahar Pernikahan dalam Islam dan Ketentuannya
 description: >-
-  Dalam ajaran Islam, mahar pernikahan atau mas kawin merupakan pemberian wajib
-  dari seorang mempelai pria kepada mempelai wanita. Pemberian ini menjadi
-  simbol ke
+  Bingung pilih mahar? Cek 6 contoh mahar pernikahan dalam Islam & ketentuannya.
+  Dari seperangkat alat shalat hingga logam mulia yang penuh makna spiritual.
 publishedAt: '2026-04-08T17:51:21'
 updatedAt: '2026-04-08T17:51:21'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
-  - tips
-  - desain
+  - mahar
+  - inspirasi
+  - pernikahan
 image: /images/blog/featured/contoh-mahar-pernikahan-dalam-islam.jpg
 imageAlt: 6 Contoh Mahar Pernikahan dalam Islam dan Ketentuannya
 imageTitle: 6 Contoh Mahar Pernikahan dalam Islam dan Ketentuannya

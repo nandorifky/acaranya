@@ -1,18 +1,18 @@
 ---
 title: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas dan Syaratnya
 description: >-
-  Menjelang pernikahan, ada banyak hal yang harus dipersiapkan, termasuk urusan
-  administrasi seperti mendapatkan sertifikat layak nikah. Sertifikat ini adalah
-  sal
+  Syarat dan cara mendapatkan Sertifikat Layak Nikah dari Puskesmas. Dokumen
+  wajib bagi catin di beberapa daerah untuk memastikan kesiapan kesehatan
+  keluarga.
 publishedAt: '2026-04-08T17:50:26'
 updatedAt: '2026-04-08T17:50:26'
 author: tim-acaranya
 category: Legalitas
 tags:
-  - pernikahan
-  - undangan-digital
+  - legalitas
   - tips
-  - kata-kata
+  - kesehatan
+  - wajib-tahu
 image: /images/blog/featured/cara-mendapatkan-sertifikat-layak-nikah.jpg
 imageAlt: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas dan Syaratnya
 imageTitle: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas dan Syaratnya

@@ -1,19 +1,15 @@
 ---
 title: Inilah Makna Roti Buaya dalam Budaya Pernikahan Adat Betawi
-description: >-
-  Pernah dengar istilah roti buaya saat membahas adat pernikahan Betawi? Bagi
-  banyak orang, terutama yang masih asing dengan budaya Betawi, roti buaya
-  mungkin ter
+description: Kenapa harus ada roti buaya? Simak filosofi mendalam roti buaya dalam pernikahan adat Betawi sebagai simbol kesetiaan, keteguhan hati, dan kestabilan rumah tangga.
 publishedAt: '2026-04-08T17:49:26'
 updatedAt: '2026-04-08T17:49:26'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
   - adat
-  - tips
-  - desain
+  - budaya
+  - betawi
+  - pernikahan
 image: /images/blog/featured/makna-roti-buaya-pernikahan-adat-betawi.jpg
 imageAlt: Inilah Makna Roti Buaya dalam Budaya Pernikahan Adat Betawi
 imageTitle: Inilah Makna Roti Buaya dalam Budaya Pernikahan Adat Betawi

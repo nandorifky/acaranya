@@ -1,20 +1,15 @@
 ---
 title: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan
-description: >-
-  Pernikahan adalah salah satu momen terpenting dalam hidup seseorang, sehingga
-  memberi kado pernikahan sering kali diiringi dengan kartu ucapan yang penuh
-  makna.
+description: Bingung mau tulis apa di kado nikahan? Cek 50+ ide kata-kata kartu ucapan kado pernikahan yang romantis, islami, hingga lucu agar kado darimu makin berkesan!
 publishedAt: '2026-04-08T17:51:14'
 updatedAt: '2026-04-08T17:51:14'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
   - kata-kata
-  - desain
+  - inspirasi
+  - kado-pernikahan
+  - tips
 image: /images/blog/featured/kartu-ucapan-untuk-kado-pernikahan.jpg
 imageAlt: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan
 imageTitle: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan

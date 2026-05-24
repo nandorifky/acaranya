@@ -1,17 +1,15 @@
 ---
 title: Contoh Undangan Pernikahan Digital
-description: >-
-  Cukup banyak contoh undangan pernikahan digital baik itu desain atau bentuk
-  yang kini telah menjamur. Sebelum menggunakannya, pastikan kamu mengetahui
-  beberapa 
+description: Cari referensi undangan pernikahan digital? Intip berbagai contoh desain gambar, video, hingga website yang sedang tren dan banyak diminati calon pengantin muda.
 publishedAt: '2026-04-08T17:50:27'
 updatedAt: '2026-04-08T17:50:27'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
   - undangan-digital
-  - adat
+  - desain
+  - tips
+  - pernikahan
   - tips
   - kata-kata
   - desain

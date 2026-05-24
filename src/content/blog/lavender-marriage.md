@@ -1,19 +1,15 @@
 ---
 title: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'
-description: >-
-  Pernahkah Kamu mendengar istilah lavender marriage? Istilah ini mungkin
-  terdengar asing di telingamu, tetapi konsepnya memiliki sejarah yang cukup
-  panjang dan m
+description: Mengenal apa itu Lavender Marriage, sejarah kemunculannya di era klasik, serta tujuan dan dampaknya dalam konteks perubahan norma sosial masyarakat dari masa ke masa.
 publishedAt: '2026-04-08T17:49:10'
 updatedAt: '2026-04-08T17:49:10'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
   - pernikahan
-  - undangan-digital
-  - adat
-  - tips
-  - kata-kata
+  - edukasi
+  - sejarah
+  - wajib-tahu
 image: /images/blog/featured/lavender-marriage.jpg
 imageAlt: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'
 imageTitle: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'

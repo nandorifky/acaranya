@@ -1,19 +1,15 @@
 ---
 title: Tren Desain Undangan Digital Tahun 2024
-description: >-
-  Di era serba digital seperti sekarang, undangan pernikahan pun mengalami
-  transformasi yang signifikan. Tren desain undangan digital terus berkembang
-  mengikuti k
+description: Tetap kekinian! Simak ulasan tren desain undangan digital tahun 2024 mulai dari konsep minimalis modern hingga fitur interaktif yang bikin undanganmu makin wow.
 publishedAt: '2026-04-08T17:50:51'
 updatedAt: '2026-04-08T17:50:51'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - tips
-  - kata-kata
+  - tren
   - desain
+  - undangan-digital
+  - inspirasi
 image: /images/blog/featured/tren-desain-undangan-digital-tahun-2024.jpg
 imageAlt: Tren Desain Undangan Digital Tahun 2024
 imageTitle: Tren Desain Undangan Digital Tahun 2024

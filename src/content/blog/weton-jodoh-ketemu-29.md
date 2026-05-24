@@ -1,19 +1,15 @@
 ---
 title: 'Arti Weton Jodoh Ketemu 29, Apakah Boleh Menikah?'
-description: >-
-  Weton jodoh merupakan salah satu konsep yang menarik dalam budaya Jawa.
-  Melalui perhitungan weton, orang Jawa menafsirkan kecocokan dan potensi
-  hubungan antar p
+description: Berkah melimpah! Pahami arti Weton Jodoh Ketemu 29 kategori Tibo Tinari yang dipercaya membawa kemakmuran, rezeki lancar, dan kebahagiaan bagi pasangan suami istri.
 publishedAt: '2026-04-08T17:49:51'
 updatedAt: '2026-04-08T17:49:51'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-29.jpg
 imageAlt: 'Arti Weton Jodoh Ketemu 29, Apakah Boleh Menikah?'
 imageTitle: 'Arti Weton Jodoh Ketemu 29, Apakah Boleh Menikah?'

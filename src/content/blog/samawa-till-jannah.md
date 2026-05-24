@@ -1,20 +1,15 @@
 ---
 title: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
-description: >-
-  Di era modern ini, banyak pasangan muslim yang mendambakan pernikahan ideal
-  dengan mengucapkan doa “samawa till jannah”. Ungkapan ini bukan sekadar trend
-  atau k
+description: Mendambakan pernikahan langgeng? Simak filosofi & cara mewujudkan Samawa Till Jannah agar hubungan suami istri penuh ketenteraman & cinta kasih hingga ke surga.
 publishedAt: '2026-04-08T17:51:27'
 updatedAt: '2026-04-08T17:51:27'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
-  - tips
-  - kata-kata
+  - pernikahan
+  - hubungan
+  - edukasi
 image: /images/blog/featured/samawa-till-jannah.jpg
 imageAlt: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
 imageTitle: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'

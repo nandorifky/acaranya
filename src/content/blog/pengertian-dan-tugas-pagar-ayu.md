@@ -1,21 +1,15 @@
 ---
 title: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'
-description: >-
-  Pernah dengar istilah pagar ayu saat datang ke acara pernikahan? Dalam adat
-  pernikahan di Indonesia, pagar ayu menjadi salah satu elemen penting yang
-  sering kal
+description: Mengenal peran Pagar Ayu dalam pernikahan adat. Simak pengertian, tugas penyambutan tamu, hingga tips memilih seragam agar tampil harmonis di hari bahagia.
 publishedAt: '2026-04-08T17:51:20'
 updatedAt: '2026-04-08T17:51:20'
 author: tim-acaranya
 category: Pernikahan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - pagar-ayu
   - adat
+  - tradisi
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/pengertian-dan-tugas-pagar-ayu.jpg
 imageAlt: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'
 imageTitle: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'

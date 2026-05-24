@@ -1,19 +1,17 @@
 ---
 title: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
 description: >-
-  Pertanyaan mengenai cuti menikah berapa hari kerap muncul, terutama bagi
-  mereka yang sedang merencanakan pernikahan. Pertanyaan ini wajar karena cuti
-  menikah ad
+  Panduan lengkap aturan cuti menikah sesuai UU Ketenagakerjaan. Cek jatah hari,
+  syarat pengajuan ke atasan, hingga tips agar tetap tenang saat hari H!
 publishedAt: '2026-04-08T17:50:18'
 updatedAt: '2026-04-08T17:50:18'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
   - tips
-  - desain
+  - pernikahan
+  - karir
+  - wajib-tahu
 image: /images/blog/featured/aturan-cuti-menikah.jpg
 imageAlt: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
 imageTitle: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini

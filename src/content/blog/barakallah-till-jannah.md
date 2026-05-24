@@ -1,20 +1,17 @@
 ---
 title: Barakallah Till Jannah Artinya? Ini Makna dan Penerapannya
 description: >-
-  Pernah mendengar ungkapan “Barakallah Till Jannah”? Frasa ini kerap terdengar
-  di tengah masyarakat, terutama dalam konteks memberikan doa atau harapan baik.
-  Tap
+  Apa arti sebenarnya dari doa Barakallah Till Jannah? Simak ulasan mendalam
+  mengenai makna, penggunaan yang tepat, dan harapan mulia di balik kalimat ini.
 publishedAt: '2026-04-08T17:51:18'
 updatedAt: '2026-04-08T17:51:18'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - tips
   - kata-kata
-  - desain
+  - pernikahan
+  - doa
 image: /images/blog/featured/barakallah-till-jannah.jpg
 imageAlt: Barakallah Till Jannah Artinya? Ini Makna dan Penerapannya
 imageTitle: Barakallah Till Jannah Artinya? Ini Makna dan Penerapannya

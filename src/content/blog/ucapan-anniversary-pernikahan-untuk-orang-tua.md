@@ -1,12 +1,15 @@
 ---
 title: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
-description: Perayaan anniversary pernikahan untuk orang tua bukan sekadar pengingat tahun-tahun kebersamaan mereka. Ini adalah momen untuk menghargai cinta, kerja keras, da
+description: Rayakan hari jadi Papa Mama! Simak 50 ucapan anniversary pernikahan untuk orang tua yang menyentuh hati, lucu, & penuh doa sebagai ungkapan syukur keluarga.
 publishedAt: 2026-04-08T17:50:00
 updatedAt: 2026-04-08T17:50:00
 author: tim-acaranya
 category: Inspirasi
 tags:
   - kata-kata
+  - hubungan
+  - keluarga
+  - anniversary
 image: /images/blog/featured/ucapan-anniversary-pernikahan-untuk-orang-tua.jpg
 imageAlt: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
 imageTitle: 50 Ucapan Anniversary Pernikahan untuk Orang Tua

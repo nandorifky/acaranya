@@ -1,20 +1,15 @@
 ---
 title: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat
-description: >-
-  Dalam artikel ini, kamu akan mengetahui beberapa kata-kata undangan lewat WA
-  tanpa mengurangi rasa hormat yang bisa kamu jadikan sebagai referensi. Sebelum
-  meng
+description: Mau sebar undangan via WhatsApp? Simak contoh kata-kata undangan lewat WA yang sopan tanpa mengurangi rasa hormat, lengkap dengan etika pengiriman yang benar.
 publishedAt: '2026-04-08T17:50:28'
 updatedAt: '2026-04-08T17:50:28'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
   - kata-kata
-  - desain
+  - undangan-digital
+  - whatsapp
+  - etika
 image: /images/blog/featured/kata-kata-undangan-lewat-wa.jpg
 imageAlt: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat
 imageTitle: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat

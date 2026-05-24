@@ -1,18 +1,15 @@
 ---
 title: Mengetahui Kecocokan Pasangan Hitungan Weton Jawa untuk Pernikahan
-description: >-
-  Perhitungan kecocokan pasangan hitungan weton Jawa telah lama digunakan oleh
-  masyarakat Jawa sebagai panduan dalam menentukan keserasian antara dua orang
-  yang a
+description: Pahami arti neptu dalam kecocokan pasangan menurut weton Jawa. Simak panduan menghitung & mengenali kategori ramalan nasib rumah tangga berdasarkan tradisi luhur.
 publishedAt: '2026-04-08T17:49:46'
 updatedAt: '2026-04-08T17:49:46'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
   - adat
-  - tips
+  - weton
+  - pernikahan
+  - budaya
 image: >-
   /images/blog/featured/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan.jpg
 imageAlt: Mengetahui Kecocokan Pasangan Hitungan Weton Jawa untuk Pernikahan

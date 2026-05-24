@@ -1,19 +1,15 @@
 ---
 title: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam
-description: >-
-  Pernikahan dalam Islam memiliki makna yang sangat mendalam dan suci. Setiap
-  pasangan Muslim yang menikah tentu mendambakan kehidupan rumah tangga yang
-  harmonis 
+description: Apa arti sebenarnya dari doa SAMAWA? Pahami makna Sakinah, Mawaddah, dan Warahmah dalam pernikahan Islam serta cara mewujudkannya agar berkah hingga jannah.
 publishedAt: '2026-04-08T17:51:26'
 updatedAt: '2026-04-08T17:51:26'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - tips
-  - kata-kata
+  - edukasi
+  - pernikahan
+  - doa
 image: /images/blog/featured/sakinah-mawaddah-warahmah.jpg
 imageAlt: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam
 imageTitle: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam

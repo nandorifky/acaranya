@@ -1,21 +1,15 @@
 ---
 title: Pahami Perbedaan Akad dan Resepsi Pernikahan
-description: >-
-  Pernikahan adalah momen sakral yang penuh makna dalam kehidupan seseorang.
-  Bagi pasangan yang sedang mempersiapkan pernikahan, memahami setiap tahap
-  prosesi per
+description: Jangan salah kaprah! Pahami perbedaan akad dan resepsi pernikahan mulai dari aspek hukum, tujuan, hingga tata cara pelaksanaannya dalam tradisi di Indonesia.
 publishedAt: '2026-04-08T17:50:23'
 updatedAt: '2026-04-08T17:50:23'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
+  - akad-nikah
+  - resepsi
+  - edukasi
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/pahami-perbedaan-akad-dan-resepsi-pernikahan.jpg
 imageAlt: Pahami Perbedaan Akad dan Resepsi Pernikahan
 imageTitle: Pahami Perbedaan Akad dan Resepsi Pernikahan

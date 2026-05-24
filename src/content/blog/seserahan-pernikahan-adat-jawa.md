@@ -1,21 +1,15 @@
 ---
 title: 20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya
-description: >-
-  Dalam tradisi pernikahan adat Jawa, seserahan menjadi salah satu bagian
-  penting yang tak bisa diabaikan. Namun, sering kali muncul pertanyaan, “Apa
-  saja yang pe
+description: Cek 20 daftar isi seserahan pernikahan adat Jawa sederhana beserta biaya & maknanya. Siapkan seserahan penuh filosofi tanpa harus membuat kantong jebol!
 publishedAt: '2026-04-08T17:49:25'
 updatedAt: '2026-04-08T17:49:25'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
   - adat
+  - jawa
+  - seserahan
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/seserahan-pernikahan-adat-jawa.jpg
 imageAlt: 20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya
 imageTitle: 20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya

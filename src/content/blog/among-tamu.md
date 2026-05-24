@@ -1,20 +1,17 @@
 ---
 title: 'Among Tamu Adalah: Pengertian, Peran, dan Tradisi dalam Acara Pernikahan'
 description: >-
-  Dalam acara pernikahan tradisional Jawa, ada banyak elemen yang melibatkan
-  nilai-nilai budaya yang khas. Salah satunya adalah among tamu. Istilah ini
-  merujuk pa
+  Mengenal peran Among Tamu dalam pernikahan adat Jawa. Simak pengertian, tugas
+  penyambutan, hingga tradisi yang membuat tamu merasa dihormati di sini!
 publishedAt: '2026-04-08T17:50:18'
 updatedAt: '2026-04-08T17:50:18'
 author: tim-acaranya
 category: Pernikahan
 tags:
-  - pernikahan
-  - undangan-digital
   - adat
+  - pernikahan
+  - budaya
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/among-tamu.jpg
 imageAlt: 'Among Tamu Adalah: Pengertian, Peran, dan Tradisi dalam Acara Pernikahan'
 imageTitle: 'Among Tamu Adalah: Pengertian, Peran, dan Tradisi dalam Acara Pernikahan'

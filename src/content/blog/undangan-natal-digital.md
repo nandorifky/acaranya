@@ -1,15 +1,14 @@
 ---
 title: Undangan Natal Digital
-description: "Pada penghujung tahun, tentu perayaan Natal tidak akan dilupakan oleh umat\_Kristiani. Yang mana, tentu ini akan menjadi salah satu hari menyenangkan. Jika kamu "
+description: Meriahkan malam Natal bersama orang terdekat! Gunakan undangan Natal digital berbasis website yang praktis, estetik, dan punya fitur lengkap untuk acaramu.
 publishedAt: '2026-04-08T17:49:57'
 updatedAt: '2026-04-08T17:49:57'
 author: tim-acaranya
 category: Blog
 tags:
-  - pernikahan
   - undangan-digital
+  - natal
   - tips
-  - kata-kata
   - desain
 image: /images/blog/featured/undangan-natal-digital.jpg
 imageAlt: Undangan Natal Digital

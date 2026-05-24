@@ -1,19 +1,15 @@
 ---
 title: Deretan Tanggal Baik untuk Menikah di Tahun 2025
-description: >-
-  Menikah adalah salah satu momen paling berharga dalam hidup seseorang. Namun,
-  memilih tanggal yang tepat untuk melangsungkan pernikahan sering kali menjadi
-  tant
+description: Rencanakan hari bahagiamu! Cek deretan tanggal baik untuk menikah di tahun 2025 berdasarkan berbagai perspektif untuk membawa keberkahan dalam rumah tangga.
 publishedAt: '2026-04-08T17:50:06'
 updatedAt: '2026-04-08T17:50:06'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
+  - perencanaan
   - tips
+  - tanggal-baik
+  - pernikahan
 image: /images/blog/featured/tanggal-baik-untuk-menikah-di-tahun-2025.jpg
 imageAlt: Deretan Tanggal Baik untuk Menikah di Tahun 2025
 imageTitle: Deretan Tanggal Baik untuk Menikah di Tahun 2025

@@ -1,20 +1,15 @@
 ---
 title: 'Weton Jodoh Ketemu 17, Cocok atau Tidak?'
-description: >-
-  Dalam budaya Jawa, weton merupakan salah satu elemen penting dalam menentukan
-  kecocokan pasangan. Weton Jodoh Ketemu 17, khususnya, menarik perhatian banyak
-  ora
+description: Weton Jodoh Ketemu 17, bagaimana nasibnya? Pahami kategori Tibo Pegat dalam hitungan Jawa, potensi cobaan yang dihadapi, serta cara menyikapinya dengan bijaksana.
 publishedAt: '2026-04-08T17:49:31'
 updatedAt: '2026-04-08T17:49:31'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - desain
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-17.jpg
 imageAlt: 'Weton Jodoh Ketemu 17, Cocok atau Tidak?'
 imageTitle: 'Weton Jodoh Ketemu 17, Cocok atau Tidak?'

@@ -1,21 +1,15 @@
 ---
 title: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!
-description: >-
-  Seserahan pernikahan merupakan salah satu adat yang masih kuat dijaga dalam
-  berbagai budaya pernikahan di Indonesia. Adat ini melibatkan pemberian
-  serangkaian h
+description: Bingung mau bawa apa saat seserahan? Simak list lengkap isi seserahan pernikahan mulai dari perlengkapan ibadah hingga modern, beserta makna filosofisnya di sini.
 publishedAt: '2026-04-08T17:49:58'
 updatedAt: '2026-04-08T17:49:58'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - seserahan
+  - hantaran
+  - persiapan-nikah
   - adat
-  - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/seserahan-pernikahan.jpg
 imageAlt: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!
 imageTitle: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!

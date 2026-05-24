@@ -1,19 +1,15 @@
 ---
 title: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
-description: >-
-  Weton, sebuah konsep perhitungan hari lahir dalam budaya Jawa, telah menjadi
-  bagian tak terpisahkan dari tradisi masyarakat Jawa. Konsep ini digunakan
-  untuk mem
+description: Weton Jodoh Ketemu 31 artinya apa? Simak penjelasan kategori Tibo Sujanan dalam primbon Jawa, makna peringatannya, serta panduan menjaga kesetiaan dalam hubungan.
 publishedAt: '2026-04-08T17:49:52'
 updatedAt: '2026-04-08T17:49:52'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-31.jpg
 imageAlt: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
 imageTitle: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa

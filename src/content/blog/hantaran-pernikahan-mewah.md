@@ -1,17 +1,15 @@
 ---
 title: 10 Contoh Hantaran Pernikahan Mewah yang Berkesan
-description: >-
-  Pernahkah terpikir seberapa penting hantaran pernikahan mewah dalam sebuah
-  acara pernikahan? Hantaran bukan sekadar pelengkap, melainkan simbol
-  penghormatan dan
+description: 10 Inspirasi hantaran pernikahan mewah sebagai simbol penghormatan. Dari perhiasan hingga set pakaian tradisional, temukan model seserahan terbaru di sini!
 publishedAt: '2026-04-08T17:49:19'
 updatedAt: '2026-04-08T17:49:19'
 author: tim-acaranya
 category: Inspirasi
 tags:
+  - inspirasi
   - pernikahan
-  - undangan-digital
-  - islami
+  - seserahan
+  - hantaran
   - adat
   - tips
   - desain

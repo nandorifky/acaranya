@@ -1,21 +1,15 @@
 ---
 title: 20 Contoh Tema Undangan Digital Tanpa Foto
-description: >-
-  Undangan digital menjadi salah satu jenis undangan tren undangan yang saat ini
-  memiliki banyak peminat. Selain berbagai kemudahan yang ditawarkan, undangan
-  ini 
+description: Tak punya foto prewedding? Tenang! Cek 20 contoh tema undangan digital tanpa foto yang tetap estetik, elegan, dan menawan untuk mengundang kerabat di hari h.
 publishedAt: '2026-04-08T17:50:42'
 updatedAt: '2026-04-08T17:50:42'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
   - undangan-digital
-  - islami
-  - adat
-  - tips
-  - kata-kata
   - desain
+  - inspirasi
+  - aesthetic
 image: /images/blog/featured/undangan-digital-tanpa-foto.jpg
 imageAlt: 20 Contoh Tema Undangan Digital Tanpa Foto
 imageTitle: 20 Contoh Tema Undangan Digital Tanpa Foto

@@ -1,20 +1,15 @@
 ---
 title: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak
-description: >-
-  Merayakan hari ulang tahun anak adalah momen spesial yang tak terlupakan bagi
-  setiap orang tua. Di era digital seperti sekarang, membuat undangan ulang
-  tahun an
+description: Rayakan momen spesial si kecil dengan 5 contoh kata-kata undangan ulang tahun anak yang menarik. Cocok untuk sebar via WhatsApp dengan desain digital yang lucu!
 publishedAt: '2026-04-08T17:51:25'
 updatedAt: '2026-04-08T17:51:25'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - undangan-digital
-  - islami
-  - adat
-  - tips
   - kata-kata
-  - desain
+  - ulang-tahun
+  - anak-anak
+  - undangan-digital
 image: /images/blog/featured/kata-kata-undangan-ulang-tahun-anak.jpg
 imageAlt: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak
 imageTitle: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak

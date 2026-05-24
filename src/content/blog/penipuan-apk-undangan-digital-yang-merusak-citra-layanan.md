@@ -1,19 +1,15 @@
 ---
 title: Penipuan APK Undangan Digital yang Merusak Citra Layanan
-description: >-
-  Layanan undangan pernikahan digital telah menjadi tren baru dalam beberapa
-  tahun terakhir. Selain praktis, undangan digital memberikan sentuhan modern
-  dan lebih
+description: Waspada modus penipuan APK undangan digital! Kenali cara kerja malware penyedot saldo bank dan tips aman membedakan undangan asli dengan tautan berbahaya.
 publishedAt: '2026-04-08T17:50:03'
 updatedAt: '2026-04-08T17:50:03'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - keamanan
   - tips
-  - kata-kata
+  - edukasi
+  - wajib-tahu
 image: >-
   /images/blog/featured/penipuan-apk-undangan-digital-yang-merusak-citra-layanan.jpg
 imageAlt: Penipuan APK Undangan Digital yang Merusak Citra Layanan

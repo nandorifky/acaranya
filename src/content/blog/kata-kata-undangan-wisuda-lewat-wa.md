@@ -1,20 +1,15 @@
 ---
 title: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
-description: >-
-  Mengundang orang-orang terdekat untuk hadir di acara wisuda merupakan bagian
-  penting dalam perjalanan akademis. Di era digital seperti sekarang, penggunaan
-  unda
+description: Bagikan kabar bahagia kelulusanmu! Cek 5 contoh kata-kata undangan wisuda lewat WA yang sopan & sesuai format Indonesia untuk mengundang orang-orang terdekat.
 publishedAt: '2026-04-08T17:51:04'
 updatedAt: '2026-04-08T17:51:04'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
-  - tips
   - kata-kata
+  - wisuda
+  - whatsapp
+  - etika
 image: /images/blog/featured/kata-kata-undangan-wisuda-lewat-wa.jpg
 imageAlt: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 imageTitle: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA

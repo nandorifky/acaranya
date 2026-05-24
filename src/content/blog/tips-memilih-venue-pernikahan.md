@@ -1,18 +1,15 @@
 ---
 title: 8 Tips Memilih Venue Pernikahan yang Tepat
-description: >-
-  Salah satu keputusan paling penting dalam persiapan pernikahan adalah memilih
-  venue. Venue pernikahan adalah lokasi atau tempat di mana sebuah acara
-  pernikahan 
+description: Pilih lokasi impianmu! Simak 8 tips cerdas memilih venue pernikahan yang tepat, mulai dari penyesuaian tema hingga pertimbangan anggaran agar acaramu berkesan.
 publishedAt: '2026-04-08T17:49:47'
 updatedAt: '2026-04-08T17:49:47'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
+  - venue
   - tips
-  - desain
+  - pernikahan
+  - perencanaan
 image: /images/blog/featured/tips-memilih-venue-pernikahan.jpg
 imageAlt: 8 Tips Memilih Venue Pernikahan yang Tepat
 imageTitle: 8 Tips Memilih Venue Pernikahan yang Tepat

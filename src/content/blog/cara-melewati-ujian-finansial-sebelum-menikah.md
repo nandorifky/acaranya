@@ -1,17 +1,18 @@
 ---
 title: Cara Melewati Ujian Finansial Sebelum Menikah
 description: >-
-  Pernah dengar cerita tentang pasangan yang baru menikah langsung terjun ke
-  lautan hutang? Cerita itu bukan dongeng, tapi realita yang bisa menghantui
-  siapa saja
+  Ujian finansial sebelum menikah sering jadi tantangan berat. Simak tips
+  mengatur keuangan, menyiapkan dana darurat, dan menjaga kejujuran bersama
+  pasangan.
 publishedAt: '2026-04-08T17:49:23'
 updatedAt: '2026-04-08T17:49:23'
 author: tim-acaranya
 category: Anggaran
 tags:
-  - pernikahan
-  - undangan-digital
+  - anggaran
   - tips
+  - pernikahan
+  - keuangan
 image: /images/blog/featured/cara-melewati-ujian-finansial-sebelum-menikah.jpg
 imageAlt: Cara Melewati Ujian Finansial Sebelum Menikah
 imageTitle: Cara Melewati Ujian Finansial Sebelum Menikah

@@ -1,19 +1,15 @@
 ---
 title: '10 Kata-Kata Membujuk Pacar Agar Tidak Jadi Putus, Bikin Luluh!'
-description: >-
-  Hubungan asmara memang penuh dengan liku-liku, kadang dihadapkan pada
-  permasalahan yang membuat salah satu pihak berpikir untuk berpisah.
-  Pertanyaannya, bagaima
+description: Hubungan di ujung tanduk? Gunakan 10 kata-kata ampuh membujuk pacar agar tidak jadi putus. Sampaikan dengan tulus untuk meluluhkan hati dan memperbaiki komunikasi.
 publishedAt: '2026-04-08T17:51:17'
 updatedAt: '2026-04-08T17:51:17'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
-  - tips
+  - hubungan
   - kata-kata
+  - tips
+  - relationship
 image: /images/blog/featured/kata-kata-membujuk-pacar-agar-tidak-jadi-putus.jpg
 imageAlt: '10 Kata-Kata Membujuk Pacar Agar Tidak Jadi Putus, Bikin Luluh!'
 imageTitle: '10 Kata-Kata Membujuk Pacar Agar Tidak Jadi Putus, Bikin Luluh!'

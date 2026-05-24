@@ -1,18 +1,15 @@
 ---
 title: 5 Contoh Undangan Ngunduh Mantu dan Cara Membuatnya
-description: >-
-  Ngunduh Mantu adalah tradisi yang tetap hidup dan dijalankan oleh sebagian
-  besar masyarakat Jawa dan Sunda. Tradisi ini adalah rangkaian lanjutan setelah
-  pesta 
+description: Inspirasi 5+ contoh undangan Ngunduh Mantu yang berkesan. Pahami makna tradisi, rangkaian prosesi, hingga tips membuat undangan yang sesuai dengan nilai adat.
 publishedAt: '2026-04-08T17:50:39'
 updatedAt: '2026-04-08T17:50:39'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - pernikahan
-  - undangan-digital
-  - islami
   - adat
+  - tips
+  - kata-kata
   - tips
   - kata-kata
   - desain

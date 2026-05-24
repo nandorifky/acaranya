@@ -1,15 +1,17 @@
 ---
 title: Biaya Akad Nikah di KUA Terbaru dan Syaratnya
 description: >-
-  Merencanakan pernikahan adalah sebuah perjalanan yang penuh lika-liku manis.
-  Mulai dari mencari vendor, mencocokkan tanggal, hingga mempersiapkan daftar
-  tamu. D
+  Update rincian biaya akad nikah di KUA tahun terbaru. Dari tarif gratis hingga
+  biaya nikah di luar kantor, serta dokumen apa saja yang harus disiapkan!
 publishedAt: '2026-04-08T17:49:54'
 updatedAt: '2026-04-08T17:49:54'
 author: tim-acaranya
 category: Anggaran
 tags:
-  - Pernikahan
+  - tips
+  - pernikahan
+  - biaya
+  - wajib-tahu
 image: /images/blog/featured/biaya-akad-nikah-di-kua.jpg
 imageAlt: Biaya Akad Nikah di KUA Terbaru dan Syaratnya
 imageTitle: Biaya Akad Nikah di KUA Terbaru dan Syaratnya

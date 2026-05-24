@@ -1,18 +1,17 @@
 ---
 title: 10 Tips Memilih Desain Undangan Digital Sesuai Seleramu
 description: >-
-  Perkembangan teknologi membawa banyak kemudahan, salah satunya dalam hal
-  merencanakan pernikahan. Sekarang, undangan pernikahan digital menjadi tren
-  yang semaki
+  Bingung pilih desain undangan digital? Simak 10 tips jitu memilih tema, warna,
+  hingga font yang sesuai dengan karakter pernikahanmu agar tampil menawan!
 publishedAt: '2026-04-08T17:50:57'
 updatedAt: '2026-04-08T17:50:57'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
   - undangan-digital
-  - tips
   - desain
+  - tips
+  - pernikahan
 image: >-
   /images/blog/featured/10-tips-memilih-desain-undangan-digital-sesuai-seleramu.jpg
 imageAlt: 10 Tips Memilih Desain Undangan Digital Sesuai Seleramu

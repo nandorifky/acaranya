@@ -1,19 +1,15 @@
 ---
 title: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'
-description: >-
-  Save the Date artinya apasih? secara harfiah, ini adalah istilah dalam bahasa
-  Inggris yang berarti “simpan tanggal” atau kita bisa menyebutnya
-  “pemberitahuan ta
+description: Save the Date artinya apa? Pahami pengertian, fungsi penting pemberitahuan tanggal acara, serta cara membuatnya agar tamu undangan bisa mengatur jadwal jauh hari.
 publishedAt: '2026-04-08T17:50:25'
 updatedAt: '2026-04-08T17:50:25'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
   - undangan-digital
   - tips
-  - kata-kata
-  - desain
+  - persiapan-nikah
+  - edukasi
 image: /images/blog/featured/save-the-date.jpg
 imageAlt: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'
 imageTitle: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'

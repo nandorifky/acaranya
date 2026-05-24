@@ -1,21 +1,17 @@
 ---
 title: Bacaan Istighfar dan Syahadat Sebelum Akad Nikah
 description: >-
-  Pentingnya Membaca Istighfar dan Syahadat Sebelum Akad Nikah Menjelang momen
-  sakral dalam hidup, yaitu akad nikah, banyak calon pengantin yang merasa gugup
-  bahk
+  Pahami makna dan bacaan Istighfar serta Syahadat sebelum akad nikah dimulai.
+  Langkah penting untuk mensucikan hati demi keberkahan rumah tangga baru.
 publishedAt: '2026-04-08T17:49:18'
 updatedAt: '2026-04-08T17:49:18'
 author: tim-acaranya
 category: Pernikahan
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
+  - pernikahan
   - tips
-  - kata-kata
-  - desain
+  - akad
 image: /images/blog/featured/bacaan-istighfar-dan-syahadat-sebelum-akad-nikah.jpg
 imageAlt: Bacaan Istighfar dan Syahadat Sebelum Akad Nikah
 imageTitle: Bacaan Istighfar dan Syahadat Sebelum Akad Nikah

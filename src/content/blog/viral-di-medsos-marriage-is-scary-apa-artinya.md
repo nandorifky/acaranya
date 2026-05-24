@@ -1,18 +1,15 @@
 ---
 title: 'Viral di Medsos, “Marriage is Scary” Apa Artinya?'
-description: >-
-  Pernikahan. Seharusnya menjadi momen bahagia yang ditunggu-tunggu banyak
-  orang, tetapi mengapa banyak yang berpikir bahwa pernikahan itu menakutkan?
-  Apakah bena
+description: Apa itu Marriage is Scary? Bedah fenomena viral yang bikin generasi muda takut menikah, serta ulasan mendalam mengenai tanggung jawab & risiko dalam pernikahan.
 publishedAt: '2026-04-08T17:49:11'
 updatedAt: '2026-04-08T17:49:11'
 author: tim-acaranya
 category: Pernikahan
 tags:
   - pernikahan
-  - undangan-digital
-  - adat
-  - tips
+  - edukasi
+  - tren
+  - hubungan
 image: /images/blog/featured/viral-di-medsos-marriage-is-scary-apa-artinya.jpg
 imageAlt: 'Viral di Medsos, “Marriage is Scary” Apa Artinya?'
 imageTitle: 'Viral di Medsos, “Marriage is Scary” Apa Artinya?'

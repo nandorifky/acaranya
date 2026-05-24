@@ -1,16 +1,15 @@
 ---
 title: 5 Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar
-description: >-
-  Saat merencanakan pernikahan, banyak detail kecil yang perlu diperhatikan, dan
-  salah satu yang sering kali terabaikan adalah etika penulisan nama tamu
-  undangan.
+description: Pahami etika penulisan nama tamu undangan pernikahan agar lebih menghargai. Dari ejaan yang benar hingga penggunaan gelar, pastikan detail kecil ini tidak terlewat!
 publishedAt: '2026-04-08T17:50:44'
 updatedAt: '2026-04-08T17:50:44'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - pernikahan
-  - undangan-digital
+  - etika
+  - tips
+  - kata-kata
   - adat
   - tips
   - kata-kata

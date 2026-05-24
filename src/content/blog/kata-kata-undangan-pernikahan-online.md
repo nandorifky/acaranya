@@ -1,20 +1,14 @@
 ---
 title: Kata-Kata Undangan Pernikahan Online
-description: >-
-  Rangkaian kata dalam undangan pernikahan online tentu perlu diperhatikan oleh
-  penyelenggara acara. Tentunya, ini menjadi salah satu faktor penting karena
-  terkan
+description: Rangkai kata undangan pernikahan onlinemu dengan indah & sopan. Simak contoh teks undangan digital yang sesuai tema acara, dari formal hingga santai di sini.
 publishedAt: '2026-04-08T17:50:00'
 updatedAt: '2026-04-08T17:50:00'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
-  - tips
   - kata-kata
+  - undangan-digital
+  - etika
   - desain
 image: /images/blog/featured/kata-kata-undangan-pernikahan-online.webp
 imageAlt: Kata-Kata Undangan Pernikahan Online

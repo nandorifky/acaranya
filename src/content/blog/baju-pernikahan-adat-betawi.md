@@ -1,19 +1,17 @@
 ---
 title: Baju Pernikahan Adat Betawi yang Penuh Makna
 description: >-
-  Buat kamu yang sedang merancang momen pernikahan dan ingin menampilkan
-  kekayaan budaya Indonesia, pasti sempat bertanya: seperti apa sih baju
-  pernikahan adat Be
+  Mengenal keunikan baju pernikahan adat Betawi: Rias Besar Dandanan Care Haji
+  dan Care None Pengantin Belade. Simak detail filosofi dan aksesorisnya!
 publishedAt: '2026-04-08T17:51:05'
 updatedAt: '2026-04-08T17:51:05'
 author: tim-acaranya
 category: Busana
 tags:
-  - pernikahan
-  - undangan-digital
   - adat
-  - tips
-  - desain
+  - budaya
+  - pernikahan
+  - fashion
 image: /images/blog/featured/baju-pernikahan-adat-betawi.jpg
 imageAlt: Baju Pernikahan Adat Betawi yang Penuh Makna
 imageTitle: Baju Pernikahan Adat Betawi yang Penuh Makna

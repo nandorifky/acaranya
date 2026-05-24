@@ -1,21 +1,15 @@
 ---
 title: Bolehkah Menikah di Bulan Ramadhan? Penjelasan Lengkap Berdasarkan Hukum Islam
-description: >-
-  Banyak pertanyaan bermunculan di masyarakat mengenai hukum menikah di bulan
-  Ramadhan. Beberapa orang mungkin ragu karena bulan Ramadhan identik dengan
-  ibadah pu
+description: Menikah di bulan Ramadhan, bolehkah? Simak penjelasan lengkap hukum Islam, tips mengatur waktu akad & resepsi agar ibadah puasa tetap berjalan maksimal.
 publishedAt: '2026-04-08T17:51:03'
 updatedAt: '2026-04-08T17:51:03'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
+  - ramadhan
+  - hukum-nikah
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/menikah-di-bulan-ramadhan.jpg
 imageAlt: Bolehkah Menikah di Bulan Ramadhan? Penjelasan Lengkap Berdasarkan Hukum Islam
 imageTitle: Bolehkah Menikah di Bulan Ramadhan? Penjelasan Lengkap Berdasarkan Hukum Islam

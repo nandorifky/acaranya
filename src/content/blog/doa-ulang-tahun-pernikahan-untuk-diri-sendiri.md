@@ -1,16 +1,15 @@
 ---
 title: Ini 10 Doa Ulang Tahun Pernikahan untuk Diri Sendiri
-description: >-
-  Ulang tahun pernikahan merupakan momen istimewa dalam perjalanan hidup. Saat
-  ulang tahun pernikahan tiba, tidak hanya pasangan yang patut dirayakan, tetapi
-  juga
+description: 10 Doa ulang tahun pernikahan untuk diri sendiri. Langkah reflektif memohon keharmonisan, kesetiaan, dan keberkahan dalam menjalani bahtera rumah tangga.
 publishedAt: '2026-04-08T17:51:07'
 updatedAt: '2026-04-08T17:51:07'
 author: tim-acaranya
 category: Inspirasi
 tags:
+  - islami
+  - kata-kata
   - pernikahan
-  - undangan-digital
+  - doa
   - islami
   - tips
   - kata-kata

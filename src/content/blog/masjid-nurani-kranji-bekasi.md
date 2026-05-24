@@ -1,18 +1,15 @@
 ---
 title: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!'
-description: >-
-  Pernikahan adalah momen sakral yang menjadi impian setiap pasangan. Memilih
-  venue pernikahan yang tepat tentu menjadi salah satu langkah penting untuk
-  mewujudka
+description: Cari wedding venue di Bekasi? Masjid Nurani Kranji menawarkan arsitektur megah & sakral yang cocok untuk akad nikah khidmat dengan fasilitas pendukung lengkap.
 publishedAt: '2026-04-08T17:50:07'
 updatedAt: '2026-04-08T17:50:07'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
+  - venue
+  - bekasi
+  - akad-nikah
   - tips
-  - desain
 image: /images/blog/featured/masjid-nurani-kranji-bekasi.webp
 imageAlt: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!'
 imageTitle: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!'

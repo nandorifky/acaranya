@@ -1,18 +1,16 @@
 ---
 title: Buat Undangan Digital Pakai Aplikasi Apa?
 description: >-
-  Dalam era digital saat ini, pertanyaan tentang buat undangan digital pakai
-  aplikasi apa? menjadi sangat relevan. Masyarakat semakin beralih dari undangan
-  cetak 
+  Cari aplikasi buat undangan digital? Cek rekomendasi terbaik mulai dari Canva
+  hingga website instan yang praktis, hemat biaya, dan hasilnya profesional!
 publishedAt: '2026-04-08T17:50:45'
 updatedAt: '2026-04-08T17:50:45'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
   - undangan-digital
   - tips
-  - kata-kata
+  - aplikasi
   - desain
 image: /images/blog/featured/buat-undangan-digital-pakai-aplikasi-apa.jpg
 imageAlt: Buat Undangan Digital Pakai Aplikasi Apa?

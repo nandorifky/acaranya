@@ -1,18 +1,18 @@
 ---
 title: Bingkai Undangan Pernikahan
 description: >-
-  Pernikahan adalah momen yang paling ditunggu-tunggu dalam hidup banyak orang.
-  Oleh karena itu, persiapan pernikahan harus dilakukan dengan baik, termasuk
-  dalam 
+  Kumpulan bingkai undangan pernikahan gratis dengan berbagai tema: bunga,
+  vintage, hingga minimalis. Bikin desain undanganmu makin menawan & elegan di
+  sini!
 publishedAt: '2026-04-08T17:50:35'
 updatedAt: '2026-04-08T17:50:35'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - tips
   - desain
+  - undangan-digital
+  - inspirasi
+  - background
 image: /images/blog/featured/bingkai-undangan-pernikahan.jpg
 imageAlt: Bingkai Undangan Pernikahan
 imageTitle: Bingkai Undangan Pernikahan

@@ -1,19 +1,18 @@
 ---
 title: Cara Membuat Website Undangan Pernikahan Sendiri Tanpa Coding
 description: >-
-  Pernikahan adalah salah satu momen paling penting dalam hidup. Tentu kamu
-  ingin membagikan kabar bahagia ini dengan cara yang paling berkesan. Di era
-  digital sa
+  Bikin website undangan pernikahan sendiri tanpa ribet coding! Simak pilihan
+  platform terbaik dan fitur interaktif yang bikin undanganmu tampil beda &
+  mewah.
 publishedAt: '2026-04-08T17:49:56'
 updatedAt: '2026-04-08T17:49:56'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
   - undangan-digital
+  - perencanaan
+  - website
   - tips
-  - kata-kata
-  - desain
 image: >-
   /images/blog/featured/cara-membuat-website-undangan-pernikahan-sendiri-tanpa-coding.jpg
 imageAlt: Cara Membuat Website Undangan Pernikahan Sendiri Tanpa Coding

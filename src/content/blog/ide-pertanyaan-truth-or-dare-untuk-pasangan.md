@@ -1,17 +1,15 @@
 ---
 title: 50 Ide Pertanyaan Truth or Dare untuk Pasangan
-description: >-
-  Permainan Truth or Dare adalah cara klasik untuk mengenal pasangan lebih dekat
-  sekaligus menciptakan momen menyenangkan bersama. Dengan memilih antara
-  “truth” u
+description: 50 Ide pertanyaan Truth or Dare untuk pasangan agar makin dekat & seru! Cara asyik menggali kejujuran sekaligus menciptakan momen emosional yang tak terlupakan.
 publishedAt: '2026-04-08T17:50:08'
 updatedAt: '2026-04-08T17:50:08'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - inspirasi
+  - hubungan
+  - tips
+  - game
   - tips
   - kata-kata
   - desain

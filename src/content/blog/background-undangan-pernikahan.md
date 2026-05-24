@@ -1,19 +1,18 @@
 ---
 title: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong
 description: >-
-  Gambar latar belakang merupakan hal yang tidak boleh disepelekan dalam
-  pemilihan desain undangan. Nah, dalam artikel ini, kami akan membagikan
-  kumpulan backgrou
+  Lagi cari background undangan pernikahan yang aesthetic? Cek kumpulan
+  inspirasi motif floral, rustic, hingga minimalis yang bikin undanganmu tampil
+  elegan!
 publishedAt: '2026-04-08T17:50:52'
 updatedAt: '2026-04-08T17:50:52'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
-  - tips
   - desain
+  - undangan-digital
+  - pernikahan
+  - background
 image: /images/blog/featured/background-undangan-pernikahan.jpg
 imageAlt: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong
 imageTitle: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong

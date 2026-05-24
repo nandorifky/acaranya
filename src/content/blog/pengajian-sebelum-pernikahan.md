@@ -1,21 +1,15 @@
 ---
 title: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan
-description: >-
-  Acara pengajian sebelum pernikahan sering menjadi momen penuh makna bagi calon
-  pengantin dan keluarga. Namun, mungkin banyak yang bertanya-tanya, bagaimana
-  sih 
+description: Ingin acara doa bersama berjalan khidmat? Simak susunan acara pengajian sebelum pernikahan lengkap dengan rundown dan tips persiapan untuk keluarga & catin.
 publishedAt: '2026-04-08T17:51:16'
 updatedAt: '2026-04-08T17:51:16'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
+  - pengajian
+  - persiapan-nikah
   - islami
-  - adat
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/pengajian-sebelum-pernikahan.jpg
 imageAlt: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan
 imageTitle: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan

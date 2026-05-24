@@ -1,20 +1,15 @@
 ---
 title: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan
-description: >-
-  Mengirim undangan pernikahan lewat WhatsApp (WA) kini sudah menjadi solusi
-  praktis bagi banyak pasangan. Selain lebih cepat, cara ini juga membantu dalam
-  hal ef
+description: Kumpulan kata-kata undangan pernikahan online lewat WA yang praktis & sopan. Tetap jaga etika dan kesantunan saat mengundang kerabat di era digital saat ini.
 publishedAt: '2026-04-08T17:49:45'
 updatedAt: '2026-04-08T17:49:45'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
   - kata-kata
-  - desain
+  - undangan-digital
+  - whatsapp
+  - islami
 image: /images/blog/featured/kata-kata-undangan-pernikahan-online-lewat-wa.jpg
 imageAlt: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan
 imageTitle: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan

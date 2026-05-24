@@ -1,19 +1,15 @@
 ---
 title: 'Weton Jodoh Ketemu 22, Apa Artinya?'
-description: >-
-  Dalam tradisi Jawa, weton atau hari kelahiran seseorang memiliki makna
-  tersendiri, termasuk dalam menentukan kecocokan pasangan. Salah satu kombinasi
-  weton yang
+description: Weton Jodoh Ketemu 22, apa artinya? Kenali kategori Tibo Padu dalam tradisi Jawa yang dipercaya sering memicu cekcok sepele, serta tips mengelola ego demi keutuhan hubungan.
 publishedAt: '2026-04-08T17:49:36'
 updatedAt: '2026-04-08T17:49:36'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-22.jpg
 imageAlt: 'Weton Jodoh Ketemu 22, Apa Artinya?'
 imageTitle: 'Weton Jodoh Ketemu 22, Apa Artinya?'

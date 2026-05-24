@@ -1,18 +1,15 @@
 ---
 title: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tahu!'
-description: >-
-  Menikah adalah momen penting yang menandai awal babak baru dalam hidup.
-  Pernikahan bukan hanya tentang cinta dan kebahagiaan, tetapi juga tentang
-  membangun masa
+description: Jangan sampai pusing pasca nikah! Simak 8 tips cerdas mempersiapkan keuangan sebelum menikah, mulai dari rencana anggaran bersama hingga menyiapkan dana darurat.
 publishedAt: '2026-04-08T17:49:24'
 updatedAt: '2026-04-08T17:49:24'
 author: tim-acaranya
 category: Anggaran
 tags:
-  - pernikahan
-  - undangan-digital
+  - anggaran
   - tips
-  - desain
+  - pernikahan
+  - keuangan
 image: /images/blog/featured/mempersiapkan-keuangan-sebelum-menikah.jpg
 imageAlt: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tahu!'
 imageTitle: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tahu!'

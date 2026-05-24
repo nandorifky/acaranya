@@ -1,19 +1,15 @@
 ---
 title: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa
-description: >-
-  Dalam tradisi Jawa, weton memegang peran penting dalam memahami karakter
-  seseorang dan juga dalam menentukan kecocokan pasangan. Weton adalah hari
-  lahir seseora
+description: Hidup bak diratukan! Simak arti Weton Jodoh Ketemu 18 kategori Tibo Ratu yang dipercaya membawa kemakmuran, kehormatan, dan keharmonisan luar biasa bagi pasangan.
 publishedAt: '2026-04-08T17:49:31'
 updatedAt: '2026-04-08T17:49:31'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-18.jpg
 imageAlt: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa
 imageTitle: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa

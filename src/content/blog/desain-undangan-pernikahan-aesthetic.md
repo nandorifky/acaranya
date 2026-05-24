@@ -1,17 +1,15 @@
 ---
 title: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
-description: >-
-  Undangan pernikahan merupakan hal yang paling utama diperlihatkan kepada tamu
-  undangan, karena itu jangan asal memilih desain! Undangan pernikahan dengan
-  desain
+description: Kumpulan desain undangan pernikahan aesthetic yang jarang dipakai! Dari tema Vintage Forest hingga Floral Purple, bikin undangan digitalmu tampil beda & indah.
 publishedAt: '2026-04-08T17:50:36'
 updatedAt: '2026-04-08T17:50:36'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
+  - desain
   - undangan-digital
-  - adat
+  - aesthetic
+  - inspirasi
   - tips
   - kata-kata
   - desain

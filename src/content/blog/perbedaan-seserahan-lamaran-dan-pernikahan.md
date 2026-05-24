@@ -1,21 +1,15 @@
 ---
 title: Ketahui Apa Saja Perbedaan Seserahan Lamaran dan Pernikahan
-description: >-
-  Seserahan merupakan salah satu tradisi penting dalam rangkaian acara
-  pernikahan di Indonesia, termasuk dalam budaya Jawa. Seserahan berfungsi
-  sebagai simbol pen
+description: Jangan sampai salah bawa! Simak perbedaan isi & makna seserahan lamaran vs seserahan pernikahan (hantaran) lengkap dengan contoh barang wajib bagi calon pengantin.
 publishedAt: '2026-04-08T17:49:59'
 updatedAt: '2026-04-08T17:49:59'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
+  - seserahan
+  - hantaran
+  - lamaran
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/perbedaan-seserahan-lamaran-dan-pernikahan.webp
 imageAlt: Ketahui Apa Saja Perbedaan Seserahan Lamaran dan Pernikahan
 imageTitle: Ketahui Apa Saja Perbedaan Seserahan Lamaran dan Pernikahan

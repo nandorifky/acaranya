@@ -1,20 +1,15 @@
 ---
 title: 'Weton Jodoh Ketemu 20: Arti dan Cara Menghitungnya'
-description: >-
-  Dalam budaya Jawa, Weton Jodoh merupakan salah satu metode tradisional untuk
-  menafsirkan kecocokan pasangan berdasarkan hari lahir dan pasaran. Di antara
-  beraga
+description: Weton Jodoh Ketemu 20 artinya apa? Simak ulasan kategori Tibo Topo dalam hitungan Jawa, tantangan di awal pernikahan, serta kunci sukses melaluinya agar makin solid.
 publishedAt: '2026-04-08T17:49:34'
 updatedAt: '2026-04-08T17:49:34'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - kata-kata
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-20.jpg
 imageAlt: 'Weton Jodoh Ketemu 20: Arti dan Cara Menghitungnya'
 imageTitle: 'Weton Jodoh Ketemu 20: Arti dan Cara Menghitungnya'

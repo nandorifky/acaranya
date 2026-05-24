@@ -1,15 +1,18 @@
 ---
 title: Biaya Akad Nikah Ditanggung Siapa? Jangan Sampai Salah Paham!
 description: >-
-  Mempersiapkan pernikahan memang penuh dengan euforia, tetapi tak jarang juga
-  diiringi dengan berbagai pertanyaan krusial yang bisa membuat pusing. Salah
-  satu to
+  Siapa yang menanggung biaya akad nikah? Simak pembahasannya dari sisi adat,
+  agama, hingga solusi modern bagi pasangan yang ingin berbagi budget
+  pernikahan.
 publishedAt: '2026-04-08T17:49:20'
 updatedAt: '2026-04-08T17:49:20'
 author: tim-acaranya
 category: Anggaran
 tags:
-  - Pernikahan
+  - anggaran
+  - pernikahan
+  - tips
+  - biaya
 image: /images/blog/featured/biaya-akad-nikah-ditanggung-siapa.jpg
 imageAlt: Biaya Akad Nikah Ditanggung Siapa? Jangan Sampai Salah Paham!
 imageTitle: Biaya Akad Nikah Ditanggung Siapa? Jangan Sampai Salah Paham!

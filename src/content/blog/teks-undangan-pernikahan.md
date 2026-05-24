@@ -1,21 +1,15 @@
 ---
 title: 7 Contoh Teks Undangan Pernikahan Menarik
-description: >-
-  Pernikahan adalah momen sakral dan berharga dalam hidup seseorang. Pada momen
-  ini, kedua belah pihak, baik pengantin dan keluarganya, ingin membagikan
-  kebahagia
+description: Susun kalimat undanganmu dengan indah! Intip 7 contoh teks undangan pernikahan menarik dari berbagai gaya & budaya agar hari bahagiamu makin berkesan bagi tamu.
 publishedAt: '2026-04-08T17:49:22'
 updatedAt: '2026-04-08T17:49:22'
 author: tim-acaranya
 category: Inspirasi
 tags:
+  - kata-kata
+  - inspirasi
   - pernikahan
   - undangan-digital
-  - islami
-  - adat
-  - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/teks-undangan-pernikahan.jpg
 imageAlt: 7 Contoh Teks Undangan Pernikahan Menarik
 imageTitle: 7 Contoh Teks Undangan Pernikahan Menarik

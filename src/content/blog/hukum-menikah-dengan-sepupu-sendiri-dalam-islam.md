@@ -1,17 +1,15 @@
 ---
 title: Hukum Menikah dengan Sepupu Sendiri dalam Islam
-description: >-
-  Pernikahan dalam Islam memiliki aturan dan ketentuan yang sangat detail,
-  termasuk dalam hal memilih pasangan hidup. Salah satu pertanyaan yang sering
-  muncul di 
+description: Bagaimana hukum menikah dengan sepupu dalam Islam? Simak penjelasan lengkap berdasarkan dalil syariah, sejarah, serta jenis-jenis hubungan sepupu yang halal dinikahi.
 publishedAt: '2026-04-08T17:50:12'
 updatedAt: '2026-04-08T17:50:12'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
+  - wajib-tahu
   - islami
+  - pernikahan
+  - hukum
   - adat
   - tips
   - kata-kata

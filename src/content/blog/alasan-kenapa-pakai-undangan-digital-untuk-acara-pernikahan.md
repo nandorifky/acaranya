@@ -1,20 +1,17 @@
 ---
 title: Alasan Kenapa Pakai Undangan Digital untuk Acara Pernikahan
 description: >-
-  Dalam acara pernikahan, kurang lengkap rasanya jika tidak menggunakan undangan
-  online. Terlebih, di era digital ini cukup banyak platform dan layanan yang
-  memun
+  Kenapa harus pakai undangan digital? Temukan 5+ alasan mulai dari hemat biaya,
+  proses cepat, hingga fitur lengkap yang bikin acaramu makin praktis!
 publishedAt: '2026-04-08T17:50:49'
 updatedAt: '2026-04-08T17:50:49'
 author: tim-acaranya
 category: Undangan
 tags:
-  - pernikahan
   - undangan-digital
-  - adat
   - tips
-  - kata-kata
-  - desain
+  - pernikahan
+  - efisiensi
 image: >-
   /images/blog/featured/alasan-kenapa-pakai-undangan-digital-untuk-acara-pernikahan.jpg
 imageAlt: Alasan Kenapa Pakai Undangan Digital untuk Acara Pernikahan

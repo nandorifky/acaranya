@@ -1,17 +1,18 @@
 ---
 title: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'
 description: >-
-  Mengetahui status pernikahan seseorang menjadi hal yang penting dalam berbagai
-  keperluan, baik untuk urusan personal maupun legal. Hal ini bisa sangat
-  bermanfaa
+  Cara mengecek status pernikahan seseorang secara online melalui SIMKAH atau
+  Dukcapil. Penting untuk validasi legalitas sebelum melangkah ke jenjang
+  serius.
 publishedAt: '2026-04-08T17:50:02'
 updatedAt: '2026-04-08T17:50:02'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
+  - wajib-tahu
   - tips
+  - legalitas
+  - edukasi
 image: /images/blog/featured/cara-mengecek-status-pernikahan.jpg
 imageAlt: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'
 imageTitle: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'

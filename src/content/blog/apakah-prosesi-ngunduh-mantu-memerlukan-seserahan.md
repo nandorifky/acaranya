@@ -1,18 +1,17 @@
 ---
 title: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?
 description: >-
-  Ngunduh Mantu, sebuah tradisi yang dikenal di berbagai daerah, sering kali
-  menimbulkan pertanyaan mengenai keharusan adanya seserahan. Sering kali,
-  prosesi ini 
+  Masih bingung soal seserahan di acara Ngunduh Mantu? Temukan jawaban lengkap
+  mengenai tradisi, makna, dan persiapan penting untuk penyatuan dua keluarga.
 publishedAt: '2026-04-08T17:49:39'
 updatedAt: '2026-04-08T17:49:39'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
   - adat
+  - pernikahan
   - tips
+  - seserahan
 image: ''
 imageAlt: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?
 imageTitle: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?

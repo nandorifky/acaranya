@@ -1,15 +1,15 @@
 ---
 title: 'Perbandingan Cetak Undangan vs. Undangan Digital, Pilih Mana?'
-description: >-
-  Menentukan format undangan seringkali menjadi perdebatan panjang bagi pasangan
-  yang tengah menyiapkan pernikahan. Kami memahami bahwa setiap pilihan membawa
-  kon
+description: Bingung pilih format? Simak perbandingan cetak undangan vs undangan digital dari sisi anggaran, tradisi, hingga fitur interaktif untuk pernikahan modernmu.
 publishedAt: '2026-04-16T20:25:26'
 updatedAt: '2026-04-16T20:25:28'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - Undangan
+  - undangan-digital
+  - tips
+  - perencanaan
+  - edukasi
 image: /images/blog/featured/undangan-cetak-vs-undangan-digital.jpg
 imageAlt: 'Perbandingan Cetak Undangan vs. Undangan Digital, Pilih Mana?'
 imageTitle: 'Perbandingan Cetak Undangan vs. Undangan Digital, Pilih Mana?'

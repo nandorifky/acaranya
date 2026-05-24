@@ -1,15 +1,15 @@
 ---
 title: 10 Souvenir Pernikahan Harga 2000 yang Unik dan Berkesan
-description: >-
-  Halo Acaris! Dalam persiapan pernikahan, tentu ada hal yang sangat
-  membingungkan, salah satunya adalah souvernir. Terlebih, jika kamu
-  menyelenggarakan pernikaha
+description: Nikah hemat bukan halangan! Cek 10 rekomendasi souvenir pernikahan harga 2000-an yang unik, berkesan, dan tetap bermanfaat untuk tamu spesial di hari bahagiamu.
 publishedAt: '2026-04-08T17:49:55'
 updatedAt: '2026-04-08T17:49:55'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - Souvenir
+  - souvenir
+  - anggaran
+  - tips
+  - persiapan-nikah
 image: /images/blog/featured/souvenir-pernikahan-harga-2000.jpg
 imageAlt: 10 Souvenir Pernikahan Harga 2000 yang Unik dan Berkesan
 imageTitle: 10 Souvenir Pernikahan Harga 2000 yang Unik dan Berkesan

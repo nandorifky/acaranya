@@ -1,19 +1,15 @@
 ---
 title: 'Inilah Arti Weton Jodoh Ketemu 27, Apakah Boleh Menikah?'
-description: >-
-  Dalam tradisi Jawa, weton memegang peranan penting dalam berbagai aspek
-  kehidupan, termasuk dalam menentukan kecocokan pasangan. Weton jodoh ketemu
-  27, merupaka
+description: Jodoh sejati! Pahami makna Weton Jodoh Ketemu 27 kategori Tibo Jodoh yang diramalkan akan saling melengkapi, harmonis, dan sukses dalam berbagai aspek kehidupan.
 publishedAt: '2026-04-08T17:49:48'
 updatedAt: '2026-04-08T17:49:48'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-27.jpg
 imageAlt: 'Inilah Arti Weton Jodoh Ketemu 27, Apakah Boleh Menikah?'
 imageTitle: 'Inilah Arti Weton Jodoh Ketemu 27, Apakah Boleh Menikah?'

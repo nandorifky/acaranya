@@ -1,18 +1,15 @@
 ---
 title: '11 List Persiapan Pernikahan tanpa WO, Rahasia Nikah Hemat!'
-description: >-
-  Merencanakan pernikahan adalah momen yang penuh semangat dan emosi, tetapi
-  juga bisa menjadi tantangan besar, terutama jika dilakukan tanpa bantuan
-  Wedding Orga
+description: Nikah hemat tetap mewah? Simak 11 list persiapan pernikahan tanpa WO yang wajib kamu tahu, mulai dari atur anggaran hingga pilih vendor terbaik demi acara lancar.
 publishedAt: '2026-04-08T17:51:11'
 updatedAt: '2026-04-08T17:51:11'
 author: tim-acaranya
 category: Perencanaan
 tags:
   - pernikahan
-  - undangan-digital
   - tips
-  - desain
+  - anggaran
+  - perencanaan
 image: /images/blog/featured/list-persiapan-pernikahan-tanpa-wo.jpg
 imageAlt: '11 List Persiapan Pernikahan tanpa WO, Rahasia Nikah Hemat!'
 imageTitle: '11 List Persiapan Pernikahan tanpa WO, Rahasia Nikah Hemat!'

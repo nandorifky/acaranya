@@ -1,19 +1,15 @@
 ---
 title: '8 Tips Persiapan Mental Sebelum Menikah, Ini Penting!'
-description: >-
-  Menikah adalah salah satu keputusan terbesar dalam hidup. Banyak yang berfokus
-  pada persiapan fisik seperti gaun, venue, atau katering, tapi sebenarnya ada
-  hal 
+description: Menikah bukan cuma soal pesta! Simak 8 tips persiapan mental sebelum menikah agar kamu & pasangan makin solid menghadapi perubahan & tantangan hidup baru.
 publishedAt: '2026-04-08T17:49:46'
 updatedAt: '2026-04-08T17:49:46'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - psikologi
   - tips
-  - desain
+  - pernikahan
+  - edukasi
 image: /images/blog/featured/persiapan-mental-sebelum-menikah.jpg
 imageAlt: '8 Tips Persiapan Mental Sebelum Menikah, Ini Penting!'
 imageTitle: '8 Tips Persiapan Mental Sebelum Menikah, Ini Penting!'

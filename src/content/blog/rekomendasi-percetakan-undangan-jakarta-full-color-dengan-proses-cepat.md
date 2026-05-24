@@ -1,15 +1,15 @@
 ---
 title: Rekomendasi Percetakan Undangan Jakarta Full Color dengan Proses Cepat
-description: >-
-  Undangan masih menjadi bagian penting dalam sebuah acara, baik untuk
-  pernikahan, ulang tahun, gathering perusahaan, seminar, maupun acara keluarga.
-  Meski undang
+description: Butuh undangan cetak cepat & berkualitas? Cek rekomendasi percetakan undangan Jakarta dengan kualitas full color tajam & pengerjaan kilat untuk momen spesialmu.
 publishedAt: '2026-05-19T16:59:10'
 updatedAt: '2026-05-22T17:12:08'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - Percetakan
+  - percetakan
+  - jakarta
+  - tips
+  - pernikahan
 image: >-
   /images/blog/featured/rekomendasi-percetakan-undangan-jakarta-full-color-dengan-proses-cepat.jpg
 imageAlt: Rekomendasi Percetakan Undangan Jakarta Full Color dengan Proses Cepat

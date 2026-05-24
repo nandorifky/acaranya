@@ -1,19 +1,15 @@
 ---
 title: 5 Rekomendasi Wedding Organizer Terbaik di Malang
-description: >-
-  Merencanakan pernikahan impian di Kota Malang tentunya membutuhkan bantuan
-  wedding organizer profesional yang berpengalaman. Mencari vendor pernikahan
-  terpercay
+description: Mau nikah di Malang? Intip 5 rekomendasi Wedding Organizer terbaik di Malang dengan paket lengkap & dekorasi estetik untuk momen bahagiamu yang tak terlupakan.
 publishedAt: '2026-04-08T17:51:23'
 updatedAt: '2026-04-10T16:43:03'
 author: tim-acaranya
 category: Vendor
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - wedding-organizer
+  - malang
+  - vendor
   - tips
-  - desain
 image: /images/blog/featured/wedding-organizer-terbaik-di-malang.jpg
 imageAlt: 5 Rekomendasi Wedding Organizer Terbaik di Malang
 imageTitle: 5 Rekomendasi Wedding Organizer Terbaik di Malang

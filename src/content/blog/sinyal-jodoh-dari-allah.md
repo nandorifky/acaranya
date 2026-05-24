@@ -1,21 +1,15 @@
 ---
 title: 'Sinyal Jodoh dari Allah: Ini 11 Tandanya'
-description: >-
-  Mencari jodoh adalah perjalanan yang penuh harapan dan tantangan. Banyak orang
-  percaya bahwa Allah memberikan sinyal-sinyal tertentu sebagai petunjuk dalam
-  mene
+description: Ingin tahu apakah si dia jodohmu? Simak 11 tanda sinyal jodoh dari Allah mulai dari perasaan tenang hingga kemudahan dalam urusan, agar kamu makin yakin melangkah.
 publishedAt: '2026-04-08T17:50:09'
 updatedAt: '2026-04-08T17:50:09'
 author: tim-acaranya
 category: Relationship
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
-  - tips
-  - kata-kata
-  - desain
+  - hubungan
+  - jodoh
+  - edukasi
 image: /images/blog/featured/sinyal-jodoh-dari-allah.jpg
 imageAlt: 'Sinyal Jodoh dari Allah: Ini 11 Tandanya'
 imageTitle: 'Sinyal Jodoh dari Allah: Ini 11 Tandanya'

@@ -1,18 +1,15 @@
 ---
 title: 8 Keuntungan Menggunakan Undangan Digital
-description: >-
-  Apakah sudah saatnya berpindah dari undangan kertas yang seringkali memakan
-  biaya dan waktu, menuju undangan digital yang lebih praktis dan efisien?
-  Bagaimana j
+description: Masih ragu pakai undangan online? Simak 8 keuntungan undangan digital mulai dari hemat biaya hingga ramah lingkungan yang bikin persiapan acaramu makin praktis!
 publishedAt: '2026-04-08T17:50:46'
 updatedAt: '2026-04-08T17:50:46'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - undangan-digital
-  - adat
   - tips
-  - desain
+  - efisiensi
+  - lifestyle
 image: /images/blog/featured/keuntungan-menggunakan-undangan-digital.jpg
 imageAlt: 8 Keuntungan Menggunakan Undangan Digital
 imageTitle: 8 Keuntungan Menggunakan Undangan Digital

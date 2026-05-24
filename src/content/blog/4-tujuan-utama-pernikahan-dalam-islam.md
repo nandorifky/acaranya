@@ -1,20 +1,17 @@
 ---
 title: '4 Tujuan Utama Pernikahan dalam Islam, Catin Wajib Tahu!'
 description: >-
-  Pernikahan adalah salah satu ikatan suci yang memiliki peran sangat penting
-  dalam kehidupan setiap muslim. Tidak hanya sebagai perjanjian yang mengikat
-  dua insa
+  Bagi Catin, pahami 4 tujuan mulia pernikahan dalam Islam untuk meraih sakinah,
+  mawaddah, dan warahmah. Wajib tahu sebelum melangkah ke pelaminan!
 publishedAt: '2026-04-08T17:50:15'
 updatedAt: '2026-04-08T17:50:15'
 author: tim-acaranya
 category: Pernikahan
 tags:
   - pernikahan
-  - undangan-digital
   - islami
-  - adat
   - tips
-  - desain
+  - edukasi
 image: /images/blog/featured/4-tujuan-utama-pernikahan-dalam-islam.jpg
 imageAlt: '4 Tujuan Utama Pernikahan dalam Islam, Catin Wajib Tahu!'
 imageTitle: '4 Tujuan Utama Pernikahan dalam Islam, Catin Wajib Tahu!'

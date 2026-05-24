@@ -1,21 +1,15 @@
 ---
 title: Sinduran Adalah Simbol Kasih Sayang dan Doa Orang Tua
-description: >-
-  Pernikahan adat Jawa kaya akan prosesi penuh makna, salah satunya adalah
-  sinduran. Bagi masyarakat Jawa, prosesi sinduran memiliki arti mendalam dan
-  menjadi bag
+description: Mengenal Sinduran, prosesi sakral dalam pernikahan adat Jawa yang melambangkan kasih sayang & restu orang tua untuk menuntun anak menuju gerbang rumah tangga baru.
 publishedAt: '2026-04-08T17:50:15'
 updatedAt: '2026-04-08T17:50:15'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
   - adat
-  - tips
-  - kata-kata
-  - desain
+  - jawa
+  - tradisi
+  - edukasi
 image: /images/blog/featured/sinduran-simbol-kasih-sayang-dan-doa-orang-tua.png
 imageAlt: Sinduran Adalah Simbol Kasih Sayang dan Doa Orang Tua
 imageTitle: Sinduran Adalah Simbol Kasih Sayang dan Doa Orang Tua

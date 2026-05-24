@@ -1,19 +1,18 @@
 ---
 title: 8 Cara Membangun Hubungan Baik dengan Calon Mertua
 description: >-
-  Membangun hubungan yang baik dengan calon mertua adalah langkah penting dalam
-  menjalin hubungan yang serius. Hubungan ini tidak hanya akan mempengaruhi
-  hubungan
+  8 Cara ampuh membangun hubungan harmonis dengan calon mertua. Dari cara
+  bersikap sopan hingga memberi perhatian kecil demi restu dan kebahagiaan
+  keluarga.
 publishedAt: '2026-04-10T14:54:00'
 updatedAt: '2026-04-10T14:54:02'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - wajib-tahu
   - tips
-  - kata-kata
+  - hubungan
+  - etika
 image: /images/blog/featured/cara-membangun-hubungan-baik-dengan-calon-mertua.webp
 imageAlt: 8 Cara Membangun Hubungan Baik dengan Calon Mertua
 imageTitle: 8 Cara Membangun Hubungan Baik dengan Calon Mertua

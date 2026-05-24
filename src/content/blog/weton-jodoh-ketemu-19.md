@@ -1,19 +1,15 @@
 ---
 title: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya
-description: >-
-  Weton Jodoh Ketemu 19 dalam primbon Jawa merujuk pada total neptu (nilai) dari
-  weton dua orang yang ingin menjalin hubungan asmara atau pernikahan.
-  Pengetahuan 
+description: Sudah suratan takdir! Pahami makna Weton Jodoh Ketemu 19 kategori Tibo Jodoh yang diramalkan langgeng, saling melengkapi, & penuh kasih sayang hingga akhir hayat.
 publishedAt: '2026-04-08T17:49:32'
 updatedAt: '2026-04-08T17:49:32'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-19.jpg
 imageAlt: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya
 imageTitle: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya

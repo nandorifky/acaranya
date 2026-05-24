@@ -1,19 +1,15 @@
 ---
 title: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'
-description: >-
-  Ketika mendengar kabar bahwa mantan akan menempuh hidup baru, muncul berbagai
-  pertanyaan, Haruskah mengucapkan selamat? Apa yang harus dikatakan? Meski
-  hubungan
+description: Menunjukkan kedewasaan itu keren! Simak 20 ucapan selamat menikah untuk mantan yang sopan, tulus, dan penuh doa baik agar kamu tetap bisa move on dengan elegan.
 publishedAt: '2026-04-08T17:51:10'
 updatedAt: '2026-04-08T17:51:10'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
   - kata-kata
+  - hubungan
+  - psikologi
+  - etika
 image: /images/blog/featured/ucapan-selamat-menikah-untuk-mantan.jpg
 imageAlt: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'
 imageTitle: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'

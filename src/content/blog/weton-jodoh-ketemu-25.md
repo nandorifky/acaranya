@@ -1,19 +1,15 @@
 ---
 title: Weton Jodoh Ketemu 25 Apa Artinya? Penjelasan Primbon Jawa
-description: >-
-  Dalam budaya Jawa, weton merupakan sebuah konsep yang diyakini dapat
-  memberikan gambaran tentang karakter seseorang dan kecocokannya dengan orang
-  lain. Salah sa
+description: Weton Jodoh Ketemu 25, bagaimana nasibnya? Pahami kategori Tibo Pegat dalam hitungan Jawa, potensi cobaan ekonomi & perselisihan, serta cara mengantisipasinya.
 publishedAt: '2026-04-08T17:49:38'
 updatedAt: '2026-04-08T17:49:38'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-25.jpg
 imageAlt: Weton Jodoh Ketemu 25 Apa Artinya? Penjelasan Primbon Jawa
 imageTitle: Weton Jodoh Ketemu 25 Apa Artinya? Penjelasan Primbon Jawa

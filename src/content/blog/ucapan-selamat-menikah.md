@@ -1,21 +1,15 @@
 ---
 title: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan
-description: >-
-  Pernikahan selalu menjadi momen istimewa, penuh kebahagiaan, dan harapan.
-  Ucapan selamat menikah sering kali menjadi ungkapan kasih dan doa untuk
-  pengantin baru
+description: Sampaikan doa restumu dengan indah! Cek 60 ucapan selamat menikah penuh makna dari gaya santai hingga religi (Islam/Kristen) untuk momen bahagia pengantin baru.
 publishedAt: '2026-04-08T17:49:39'
 updatedAt: '2026-04-08T17:49:39'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
-  - tips
   - kata-kata
-  - desain
+  - pernikahan
+  - inspirasi
+  - doa
 image: /images/blog/featured/ucapan-selamat-menikah.jpg
 imageAlt: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan
 imageTitle: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan

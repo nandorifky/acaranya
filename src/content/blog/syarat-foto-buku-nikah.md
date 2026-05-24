@@ -1,19 +1,15 @@
 ---
 title: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
-description: >-
-  Pernikahan adalah momen sakral yang penuh dengan persiapan, dan salah satu
-  yang kadang terlupakan adalah syarat foto buku nikah. Ya, jangan kira urusan
-  pas foto
+description: Jangan sampai salah cetak! Simak aturan & syarat foto buku nikah terbaru mulai dari ukuran, jumlah lembar, hingga warna background biru sesuai ketentuan KUA.
 publishedAt: '2026-04-08T17:50:21'
 updatedAt: '2026-04-08T17:50:21'
 author: tim-acaranya
 category: Legalitas
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - buku-nikah
+  - legalitas
   - tips
-  - desain
+  - wajib-tahu
 image: /images/blog/featured/syarat-foto-buku-nikah.jpg
 imageAlt: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
 imageTitle: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'

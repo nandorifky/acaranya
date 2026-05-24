@@ -1,19 +1,15 @@
 ---
 title: 5 Wedding Organizer Terbaik di Kediri
-description: >-
-  Merencanakan pernikahan bukanlah hal yang mudah. Kamu perlu memperhatikan
-  banyak detail, mulai dari dekorasi, katering, dokumentasi, hingga hal-hal
-  kecil lainny
+description: Rencana nikah di Kediri? Cek daftar 5 Wedding Organizer terbaik di Kediri yang siap mewujudkan pernikahan impianmu dengan dekorasi elegan & pelayanan profesional.
 publishedAt: '2026-04-08T17:51:22'
 updatedAt: '2026-04-08T17:51:22'
 author: tim-acaranya
 category: Vendor
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - wedding-organizer
+  - kediri
+  - vendor
   - tips
-  - desain
 image: /images/blog/featured/wedding-organizer-terbaik-di-kediri.jpg
 imageAlt: 5 Wedding Organizer Terbaik di Kediri
 imageTitle: 5 Wedding Organizer Terbaik di Kediri

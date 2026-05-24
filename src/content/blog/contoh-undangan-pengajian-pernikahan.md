@@ -1,18 +1,15 @@
 ---
 title: Cara Membuat dan Contoh Undangan Pengajian Pernikahan
-description: >-
-  Sudah mendekati hari besar dan masih bingung bagaimana cara membuat undangan
-  pengajian pernikahan yang benar? Bukan hal yang aneh, apalagi dengan semakin
-  banyak
+description: Panduan membuat & contoh undangan pengajian pernikahan yang benar. Gunakan bahasa yang formal & sopan untuk momen doa restu bersama keluarga besar & kerabat.
 publishedAt: '2026-04-08T17:50:37'
 updatedAt: '2026-04-08T17:50:37'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - pernikahan
-  - undangan-digital
   - islami
-  - adat
+  - tips
+  - kata-kata
   - tips
   - kata-kata
   - desain

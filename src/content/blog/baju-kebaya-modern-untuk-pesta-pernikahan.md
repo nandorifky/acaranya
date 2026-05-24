@@ -1,19 +1,16 @@
 ---
 title: 10 Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan
 description: >-
-  Baju kebaya modern menjadi pilihan utama bagi banyak wanita Indonesia yang
-  ingin tampil anggun dan elegan dalam acara pernikahan. Dengan berbagai desain
-  dan mod
+  Tampil memukau di pesta pernikahan dengan pilihan baju kebaya modern terbaru.
+  Cek tren model, padu padan warna, dan tips memilih kebaya sesuai bentuk tubuh!
 publishedAt: '2026-04-08T17:50:21'
 updatedAt: '2026-04-08T17:50:21'
 author: tim-acaranya
 category: Busana
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
+  - fashion
   - tips
+  - pernikahan
   - desain
 image: /images/blog/featured/baju-kebaya-modern-untuk-pesta-pernikahan.jpg
 imageAlt: 10 Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan

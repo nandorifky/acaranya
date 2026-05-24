@@ -1,18 +1,17 @@
 ---
 title: Cara Membuat Barcode Lokasi untuk Undangan Pernikahan
 description: >-
-  Undangan pernikahan kini semakin modern, tidak hanya sekadar mencantumkan
-  alamat acara, tetapi juga menyertakan barcode atau kode QR. Kehadiran barcode
-  ini memu
+  Mudahkan tamu temukan lokasi acaramu! Simak langkah praktis cara membuat
+  barcode Google Maps untuk undangan pernikahan digital agar akurat dan efisien.
 publishedAt: '2026-04-08T17:50:47'
 updatedAt: '2026-04-08T17:50:47'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
   - undangan-digital
   - tips
-  - kata-kata
+  - tutorial
+  - teknologi
 image: >-
   /images/blog/featured/cara-membuat-barcode-lokasi-untuk-undangan-pernikahan.jpg
 imageAlt: Cara Membuat Barcode Lokasi untuk Undangan Pernikahan

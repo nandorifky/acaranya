@@ -1,19 +1,15 @@
 ---
 title: 5 Rekomendasi Wedding Organizer Terbaik di Bandung
-description: >-
-  Merencanakan pernikahan impian membutuhkan persiapan yang matang dan tentunya
-  bantuan dari para profesional yang berpengalaman. Di Bandung, kota yang
-  terkenal d
+description: Cari WO terpercaya di Kota Kembang? Simak 5 rekomendasi Wedding Organizer terbaik di Bandung yang profesional, berpengalaman, dan punya paket harga terjangkau.
 publishedAt: '2026-04-08T17:51:23'
 updatedAt: '2026-04-08T17:51:23'
 author: tim-acaranya
 category: Vendor
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - wedding-organizer
+  - bandung
+  - vendor
   - tips
-  - desain
 image: /images/blog/featured/wedding-organizer-terbaik-di-bandung.jpg
 imageAlt: 5 Rekomendasi Wedding Organizer Terbaik di Bandung
 imageTitle: 5 Rekomendasi Wedding Organizer Terbaik di Bandung

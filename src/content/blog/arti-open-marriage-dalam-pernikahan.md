@@ -1,19 +1,17 @@
 ---
 title: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
 description: >-
-  Pernahkah bertanya-tanya apa sebenarnya yang dimaksud dengan open marriage
-  atau pernikahan terbuka? Meskipun konsep ini mungkin terdengar tidak biasa
-  bagi sebag
+  Mengenal apa itu Open Marriage, risiko, serta pandangan hukum dan agama
+  terkait konsep hubungan ini. Simak penjelasan lengkapnya untuk wawasan baru.
 publishedAt: '2026-04-08T17:49:21'
 updatedAt: '2026-04-08T17:49:21'
 author: tim-acaranya
 category: Pernikahan
 tags:
   - pernikahan
-  - undangan-digital
-  - adat
+  - edukasi
   - tips
-  - kata-kata
+  - hubungan
 image: /images/blog/featured/arti-open-marriage-dalam-pernikahan.jpg
 imageAlt: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
 imageTitle: Pahami Arti Open Marriage dalam Pernikahan di Indonesia

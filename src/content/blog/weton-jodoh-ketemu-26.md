@@ -1,20 +1,15 @@
 ---
 title: Weton Jodoh Ketemu 26 Apa Artinya? Penjelasan Primbon Jawa
-description: >-
-  Weton jodoh ketemu 26 merupakan salah satu hasil perhitungan weton dalam
-  primbon Jawa. Perhitungan ini dilakukan dengan menjumlahkan neptu hari lahir
-  dan pasara
+description: Hidup bak diratukan! Simak arti Weton Jodoh Ketemu 26 kategori Tibo Ratu yang dipercaya membawa kemuliaan, rezeki melimpah, dan kebahagiaan sejati bagi pasangan.
 publishedAt: '2026-04-08T17:49:49'
 updatedAt: '2026-04-08T17:49:49'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - kata-kata
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-26.jpg
 imageAlt: Weton Jodoh Ketemu 26 Apa Artinya? Penjelasan Primbon Jawa
 imageTitle: Weton Jodoh Ketemu 26 Apa Artinya? Penjelasan Primbon Jawa

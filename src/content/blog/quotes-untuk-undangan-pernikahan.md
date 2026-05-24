@@ -1,20 +1,15 @@
 ---
 title: 50 Inspirasi Quotes untuk Undangan Pernikahan Digital Romantis
-description: >-
-  Pernikahan merupakan momen sakral dan penuh makna. Menghadirkan kutipan atau
-  quotes pernikahan dalam undangan bisa jadi cara yang indah untuk menyampaikan
-  pesan
+description: Butuh inspirasi kalimat indah? Intip 50 quotes untuk undangan pernikahan digital dari gaya romantis, islami, hingga bahasa inggris yang bikin tamu terkesan.
 publishedAt: '2026-04-08T17:50:08'
 updatedAt: '2026-04-08T17:50:08'
 author: tim-acaranya
 category: Inspirasi
 tags:
+  - kata-kata
+  - inspirasi
   - pernikahan
   - undangan-digital
-  - islami
-  - adat
-  - tips
-  - kata-kata
 image: /images/blog/featured/quotes-untuk-undangan-pernikahan.jpg
 imageAlt: 50 Inspirasi Quotes untuk Undangan Pernikahan Digital Romantis
 imageTitle: 50 Inspirasi Quotes untuk Undangan Pernikahan Digital Romantis

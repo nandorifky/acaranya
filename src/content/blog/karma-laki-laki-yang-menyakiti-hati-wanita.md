@@ -1,20 +1,15 @@
 ---
 title: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Islam
-description: >-
-  Karma seringkali menjadi topik yang menarik untuk dibahas, apalagi dalam
-  konteks hubungan antara pria dan wanita. Lalu, bagaimana karma berperan bagi
-  laki-laki 
+description: Bagaimana pandangan Islam terhadap laki-laki yang menyakiti hati wanita? Simak ulasan mengenai tanggung jawab moral, spiritual, serta konsep balasan (karma) di sini.
 publishedAt: '2026-04-08T17:51:16'
 updatedAt: '2026-04-08T17:51:16'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
-  - tips
-  - kata-kata
+  - hubungan
+  - edukasi
+  - wajib-tahu
 image: /images/blog/featured/karma-laki-laki-yang-menyakiti-hati-wanita.jpg
 imageAlt: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Islam
 imageTitle: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Islam

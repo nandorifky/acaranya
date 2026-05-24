@@ -1,19 +1,15 @@
 ---
 title: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'
-description: >-
-  Pernahkah terpikir, apa sih perbedaan surat resmi dan tidak resmi? Mengapa ada
-  surat yang harus menggunakan tata bahasa yang baku dan formal, sementara yang
-  lai
+description: Pahami perbedaan surat resmi & tidak resmi dari segi format, bahasa, hingga fungsinya. Dilengkapi contoh nyata agar kamu tidak salah dalam berkomunikasi formal.
 publishedAt: '2026-04-08T17:49:44'
 updatedAt: '2026-04-08T17:49:44'
 author: tim-acaranya
 category: Surat
 tags:
-  - pernikahan
-  - undangan-digital
+  - edukasi
   - tips
-  - kata-kata
-  - desain
+  - surat-resmi
+  - tata-krama
 image: /images/blog/featured/perbedaan-surat-resmi-dan-tidak-resmi.jpg
 imageAlt: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'
 imageTitle: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'

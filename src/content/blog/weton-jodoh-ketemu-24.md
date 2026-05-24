@@ -1,20 +1,15 @@
 ---
 title: Weton Jodoh Ketemu 24 Artinya Cocok! Penjelasan Primbon Jawa
-description: >-
-  Dalam budaya Jawa, weton, yaitu hari lahir seseorang berdasarkan penanggalan
-  Jawa, memiliki makna penting dalam berbagai aspek kehidupan. Salah satunya
-  adalah d
+description: Kabar baik! Weton Jodoh Ketemu 24 masuk kategori Tibo Pesthi yang artinya harmonis & rukun. Simak ulasan lengkap makna keberuntungannya menurut primbon Jawa di sini.
 publishedAt: '2026-04-08T17:49:37'
 updatedAt: '2026-04-08T17:49:37'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - kata-kata
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-24.jpg
 imageAlt: Weton Jodoh Ketemu 24 Artinya Cocok! Penjelasan Primbon Jawa
 imageTitle: Weton Jodoh Ketemu 24 Artinya Cocok! Penjelasan Primbon Jawa

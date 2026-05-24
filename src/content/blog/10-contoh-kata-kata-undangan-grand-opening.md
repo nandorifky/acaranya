@@ -1,18 +1,17 @@
 ---
 title: 10+ Contoh Kata-Kata Undangan Grand Opening
 description: >-
-  Menyusun kata-kata undangan untuk acara grand opening merupakan salah satu
-  langkah penting untuk menarik tamu yang relevan. Undangan ini mencerminkan
-  identitas 
+  Cari inspirasi kata-kata undangan grand opening yang elegan & profesional? Cek
+  10+ contoh kalimat untuk pembukaan toko, restoran, hingga kantor di sini!
 publishedAt: '2026-04-08T17:50:04'
 updatedAt: '2026-04-08T17:50:04'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - undangan-digital
-  - tips
   - kata-kata
-  - desain
+  - tips
+  - bisnis
 image: /images/blog/featured/10-contoh-kata-kata-undangan-grand-opening.jpg
 imageAlt: 10+ Contoh Kata-Kata Undangan Grand Opening
 imageTitle: 10+ Contoh Kata-Kata Undangan Grand Opening

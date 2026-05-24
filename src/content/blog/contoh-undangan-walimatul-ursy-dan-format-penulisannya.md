@@ -1,18 +1,15 @@
 ---
 title: Contoh Undangan Walimatul Ursy dan Format Penulisannya
-description: >-
-  Walimatul Ursy merupakan tradisi penting dalam masyarakat yang menjadi bagian
-  tak terpisahkan dari pernikahan. Namun, bagaimana cara menyusun undangan
-  walimatul
+description: Panduan menyusun undangan Walimatul Ursy yang sopan & sesuai sunnah. Lengkap dengan format penulisan dasar mulai dari salam hingga detail informasi acara.
 publishedAt: '2026-04-08T17:50:43'
 updatedAt: '2026-04-08T17:50:43'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
+  - pernikahan
+  - tips
+  - kata-kata
   - tips
   - kata-kata
   - desain

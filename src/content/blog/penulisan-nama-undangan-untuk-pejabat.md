@@ -1,19 +1,15 @@
 ---
 title: Panduan Penulisan Nama Undangan untuk Pejabat yang Benar
-description: >-
-  Menulis nama undangan, khususnya untuk pejabat, bukan hanya soal kesopanan,
-  tetapi juga menunjukkan penghormatan terhadap jabatan dan kedudukan orang yang
-  diund
+description: Jangan sampai keliru! Simak panduan penulisan nama & gelar pejabat di undangan resmi agar tetap sopan dan sesuai protokol kenegaraan yang benar.
 publishedAt: '2026-04-08T17:50:48'
 updatedAt: '2026-04-08T17:50:48'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - etika
   - tips
-  - kata-kata
+  - undangan-digital
+  - tata-krama
 image: /images/blog/featured/penulisan-nama-undangan-untuk-pejabat.jpg
 imageAlt: Panduan Penulisan Nama Undangan untuk Pejabat yang Benar
 imageTitle: Panduan Penulisan Nama Undangan untuk Pejabat yang Benar

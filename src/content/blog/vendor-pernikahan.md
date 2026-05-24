@@ -1,18 +1,15 @@
 ---
 title: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H
-description: >-
-  Merencanakan pernikahan memang momen yang penuh antusiasme, namun juga bisa
-  terasa menantang jika dilakukan tanpa bantuan profesional seperti wedding
-  organizer.
+description: Persiapkan hari h dengan matang! Simak daftar 9 vendor pernikahan yang wajib kamu booking, mulai dari katering hingga dokumentasi, beserta tips koordinasinya.
 publishedAt: '2026-04-08T17:50:14'
 updatedAt: '2026-04-08T17:50:14'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
+  - vendor
   - tips
-  - desain
+  - persiapan-nikah
+  - perencanaan
 image: /images/blog/featured/vendor-pernikahan.jpg
 imageAlt: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H
 imageTitle: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H

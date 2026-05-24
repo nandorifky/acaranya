@@ -1,19 +1,15 @@
 ---
 title: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar
-description: >-
-  Pernah nggak sih, ketika nerima undangan pernikahan, lihat ada istilah “turut
-  mengundang” yang tertera? Apa sebenarnya arti dari istilah ini? Apakah hanya
-  sekad
+description: Pahami arti & cara penulisan “Turut Mengundang” di undangan pernikahan yang benar sebagai bentuk penghormatan bagi keluarga besar & pihak yang terlibat.
 publishedAt: '2026-04-08T17:50:40'
 updatedAt: '2026-04-08T17:50:40'
 author: tim-acaranya
 category: Inspirasi
 tags:
+  - etika
+  - kata-kata
   - pernikahan
-  - undangan-digital
   - adat
-  - tips
-  - desain
 image: /images/blog/featured/turut-mengundang-di-undangan.jpg
 imageAlt: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar
 imageTitle: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar

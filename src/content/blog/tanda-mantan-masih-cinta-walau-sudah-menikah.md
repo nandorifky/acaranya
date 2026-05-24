@@ -1,19 +1,15 @@
 ---
 title: Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah
-description: >-
-  Apakah mantan masih cinta walau sudah menikah? Pertanyaan ini bisa jadi
-  mencuat saat mantan tiba-tiba muncul kembali, entah dalam bentuk pesan singkat
-  atau seka
+description: Penasaran dengan sikap si dia? Kenali 8 tanda mantan masih cinta walau sudah menikah, dari aktivitas media sosial hingga usahanya untuk terus menjaga komunikasi.
 publishedAt: '2026-04-08T17:51:18'
 updatedAt: '2026-04-08T17:51:18'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
+  - hubungan
+  - psikologi
+  - relationship
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/tanda-mantan-masih-cinta-walau-sudah-menikah.jpg
 imageAlt: Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah
 imageTitle: Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah

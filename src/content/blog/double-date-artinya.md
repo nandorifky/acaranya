@@ -1,15 +1,15 @@
 ---
 title: 'Double Date Artinya? Pengertian, Manfaat, dan Tips Melakukannya'
-description: >-
-  Double date kini menjadi tren populer di kalangan Gen Z yang mencari cara baru
-  untuk menjaga hubungan tetap menarik. Kencan ganda ini menawarkan pengalaman
-  yang
+description: Apa itu Double Date? Pahami pengertian, manfaat untuk keharmonisan hubungan, serta tips kencan ganda yang seru & bermakna bareng pasangan sahabatmu!
 publishedAt: '2026-04-08T17:51:09'
 updatedAt: '2026-04-08T17:51:09'
 author: tim-acaranya
 category: Relationship
 tags:
-  - undangan-digital
+  - relationship
+  - tips
+  - hubungan
+  - lifestyle
   - tips
   - kata-kata
   - desain

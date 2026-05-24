@@ -1,17 +1,15 @@
 ---
 title: Contoh Undangan Pernikahan
-description: >-
-  Bagi banyak orang, menikah adalah peristiwa yang membahagiakan. Dalam momen
-  ini, tentu kamu ingin mengundang semua orang, baik itu keluarga, kerabat, atau
-  orang
+description: Lagi cari ide undangan? Cek kumpulan contoh undangan pernikahan mulai dari gaya simple, minimalis, hingga mewah yang bisa kamu jadikan referensi hari spesial.
 publishedAt: '2026-04-08T17:50:31'
 updatedAt: '2026-04-08T17:50:31'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - pernikahan
-  - undangan-digital
-  - islami
+  - inspirasi
+  - desain
+  - tips
   - tips
   - kata-kata
   - desain

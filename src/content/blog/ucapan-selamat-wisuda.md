@@ -1,19 +1,15 @@
 ---
 title: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!
-description: >-
-  Momen wisuda sering kali jadi ajang penuh haru dan bangga. Setelah
-  bertahun-tahun berjuang menghadapi tugas, skripsi, dan ujian yang bikin stres,
-  akhirnya semua
+description: Rayakan keberhasilan kelulusan! Intip 40 ucapan selamat wisuda simple tapi berkesan untuk sahabat, pacar, hingga keluarga agar momen spesialnya makin haru.
 publishedAt: '2026-04-08T17:51:06'
 updatedAt: '2026-04-08T17:51:06'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - undangan-digital
-  - islami
-  - tips
   - kata-kata
-  - desain
+  - wisuda
+  - edukasi
+  - tips
 image: /images/blog/featured/ucapan-selamat-wisuda.jpg
 imageAlt: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!
 imageTitle: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!

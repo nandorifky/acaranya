@@ -1,19 +1,15 @@
 ---
 title: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia
-description: >-
-  Pernikahan di Indonesia tidak hanya menjadi momen sakral bagi pasangan
-  pengantin, tetapi juga sarat dengan tradisi dan budaya yang diwariskan
-  turun-temurun. Sal
+description: Sering dianggap sama, ternyata beda! Pahami perbedaan Ngunduh Mantu dan Resepsi mulai dari makna tradisi, waktu pelaksanaan, hingga pihak penyelenggaranya di sini.
 publishedAt: '2026-04-08T17:51:08'
 updatedAt: '2026-04-08T17:51:08'
 author: tim-acaranya
 category: Pernikahan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
   - adat
-  - tips
+  - jawa
+  - ngunduh-mantu
+  - resepsi
 image: /images/blog/featured/perbedaan-ngunduh-mantu-dan-resepsi.jpg
 imageAlt: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia
 imageTitle: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia

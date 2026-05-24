@@ -1,19 +1,15 @@
 ---
 title: Wedding Checklist Indonesia
-description: >-
-  Merencanakan pernikahan adalah momen yang penuh dengan sukacita dan tentunya
-  antisipasi. Hari bahagia ini menyatukan dua insan dalam ikatan cinta, dan
-  tentunya 
+description: Nikah lancar tanpa stres! Gunakan panduan wedding checklist Indonesia yang terstruktur & lengkap untuk memantau setiap detail persiapan dari H-12 bulan hingga hari h.
 publishedAt: '2026-04-08T17:49:43'
 updatedAt: '2026-04-08T17:49:43'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - persiapan-nikah
   - tips
-  - desain
+  - perencanaan
+  - timeline
 image: /images/blog/featured/wedding-checklist.jpg
 imageAlt: Wedding Checklist Indonesia
 imageTitle: Wedding Checklist Indonesia

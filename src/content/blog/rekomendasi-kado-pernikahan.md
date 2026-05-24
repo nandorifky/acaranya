@@ -1,19 +1,15 @@
 ---
 title: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman
-description: >-
-  Pernikahan adalah momen yang sangat istimewa bagi setiap pasangan. Seringkali,
-  muncul pertanyaan seputar kado pernikahan yang tepat untuk teman atau kerabat.
-  Ba
+description: Bingung cari kado nikah? Simak 20 rekomendasi kado pernikahan unik, bermanfaat, dan berkesan untuk sahabat atau teman dekat yang baru saja menempuh hidup baru.
 publishedAt: '2026-04-08T17:49:41'
 updatedAt: '2026-04-08T17:49:41'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - inspirasi
   - tips
-  - desain
+  - kado-pernikahan
+  - gaya-hidup
 image: /images/blog/featured/rekomendasi-kado-pernikahan.webp
 imageAlt: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman
 imageTitle: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman

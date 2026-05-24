@@ -1,20 +1,15 @@
 ---
 title: Weton Jodoh Ketemu 16 Apa Artinya?
-description: >-
-  Dalam budaya Jawa, weton merupakan salah satu aspek penting yang diyakini
-  dapat menggambarkan karakter, nasib, dan kecocokan seseorang, termasuk dalam
-  hal perjo
+description: Kabar baik! Weton Jodoh Ketemu 16 masuk kategori Tibo Pesthi yang artinya harmonis & tenteram. Simak ulasan lengkap makna keberkahannya menurut primbon Jawa.
 publishedAt: '2026-04-08T17:49:30'
 updatedAt: '2026-04-08T17:49:30'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - kata-kata
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-16.jpg
 imageAlt: Weton Jodoh Ketemu 16 Apa Artinya?
 imageTitle: Weton Jodoh Ketemu 16 Apa Artinya?

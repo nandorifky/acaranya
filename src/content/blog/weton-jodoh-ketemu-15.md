@@ -1,19 +1,15 @@
 ---
 title: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'
-description: >-
-  Dalam tradisi Jawa, weton merupakan perhitungan hari lahir yang diyakini
-  memiliki pengaruh terhadap karakter, nasib, dan bahkan kecocokan pasangan.
-  Salah satu p
+description: Weton Jodoh Ketemu 15, cocok atau tidak? Simak penjelasan kategori Tibo Sujanan dalam primbon Jawa, makna peringatannya, serta panduan bijak menghadapi tantangan hubungan.
 publishedAt: '2026-04-08T17:49:29'
 updatedAt: '2026-04-08T17:49:29'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-15.jpg
 imageAlt: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'
 imageTitle: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'

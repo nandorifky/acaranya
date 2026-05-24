@@ -1,18 +1,15 @@
 ---
 title: Kata-Kata Undangan Pernikahan
-description: "Jika kamu telah memilih\_gaya undangan pernikahan\_yang kamu inginkan dan membaca dengan teliti\_artikel kami, maka inilah saatnya untuk memutuskan kata-kata undan"
+description: Bingung susun kalimat undangan? Simak panduan lengkap merangkai kata-kata undangan pernikahan yang berkesan, baik untuk format formal maupun kasual kekinian.
 publishedAt: '2026-04-08T17:51:24'
 updatedAt: '2026-04-08T17:51:24'
 author: tim-acaranya
 category: Teks
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
-  - tips
   - kata-kata
-  - desain
+  - pernikahan
+  - edukasi
+  - inspirasi
 image: /images/blog/featured/kata-kata-undangan-pernikahan.jpg
 imageAlt: Kata-Kata Undangan Pernikahan
 imageTitle: Kata-Kata Undangan Pernikahan

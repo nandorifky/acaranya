@@ -1,16 +1,15 @@
 ---
 title: Contoh Undangan Pembentukan Panitia Pernikahan
-description: >-
-  Pernikahan menjadi hari paling dinanti bagi calon pengantin baru. Pastinya,
-  pembentukan panitia pernikahan juga tidak boleh kamu lewatkan. Undangan rapat
-  dapat 
+description: Butuh referensi undangan pembentukan panitia pernikahan? Cek contoh teks undangan rapat yang sopan untuk meminta kehadiran teman & keluarga melancarkan hari H.
 publishedAt: '2026-04-08T17:49:21'
 updatedAt: '2026-04-08T17:49:21'
 author: tim-acaranya
 category: Teks
 tags:
   - pernikahan
-  - undangan-digital
+  - tips
+  - kata-kata
+  - organisasi
   - islami
   - tips
   - desain

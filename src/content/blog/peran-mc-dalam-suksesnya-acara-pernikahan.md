@@ -1,20 +1,15 @@
 ---
 title: Peran MC dalam Suksesnya Acara Pernikahan
-description: >-
-  Setiap detail dari acara ini, mulai dari dekorasi hingga makanan, harus
-  direncanakan dengan cermat untuk memastikan semuanya berjalan lancar. Salah
-  satu elemen 
+description: MC adalah kunci sukses acara! Pahami peran Master of Ceremony dalam mengatur alur pernikahan, menghibur tamu, hingga menjaga suasana tetap positif dan lancar.
 publishedAt: '2026-04-08T17:50:12'
 updatedAt: '2026-04-08T17:50:12'
 author: tim-acaranya
 category: Pernikahan
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - mc
   - tips
-  - kata-kata
-  - desain
+  - persiapan-nikah
+  - hiburan
 image: /images/blog/featured/peran-mc-dalam-suksesnya-acara-pernikahan.jpg
 imageAlt: Peran MC dalam Suksesnya Acara Pernikahan
 imageTitle: Peran MC dalam Suksesnya Acara Pernikahan

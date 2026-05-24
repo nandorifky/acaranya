@@ -1,21 +1,15 @@
 ---
 title: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan
-description: >-
-  Dalam perayaan pernikahan di Indonesia, seserahan memegang peranan penting
-  sebagai simbolisasi berbagai harapan baik yang diberikan kepada pengantin. Di
-  antara 
+description: Ingin tampil sempurna di hari h? Cek contoh isi seserahan make up sederhana yang fungsional & bermanfaat untuk pengantin wanita, lengkap dengan tips memilihnya.
 publishedAt: '2026-04-08T17:49:16'
 updatedAt: '2026-04-08T17:49:16'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
-  - tips
-  - kata-kata
-  - desain
+  - seserahan
+  - make-up
+  - kecantikan
+  - inspirasi
 image: /images/blog/featured/seserahan-make-up.jpg
 imageAlt: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan
 imageTitle: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan

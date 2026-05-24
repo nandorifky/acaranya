@@ -1,20 +1,17 @@
 ---
 title: 5 Contoh Ucapan Tidak Bisa Mengundang di Acara Pernikahan
 description: >-
-  Pernikahan adalah momen yang sangat penting dalam kehidupan seseorang, tetapi
-  kadang-kadang situasi tertentu membuat seseorang tidak bisa mengundang semua
-  orang
+  Cara menolak undangan dengan halus? Cek 5 contoh ucapan tidak bisa mengundang
+  di acara pernikahan agar tetap menjaga silaturahmi & perasaan teman.
 publishedAt: '2026-04-08T17:49:27'
 updatedAt: '2026-04-08T17:49:27'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
+  - inspirasi
   - kata-kata
-  - desain
+  - etika
+  - pernikahan
 image: >-
   /images/blog/featured/contoh-ucapan-tidak-bisa-mengundang-di-acara-pernikahan.jpg
 imageAlt: 5 Contoh Ucapan Tidak Bisa Mengundang di Acara Pernikahan

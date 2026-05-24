@@ -1,18 +1,18 @@
 ---
 title: 8 Cara Berpose Foto Prewedding yang Bagus
 description: >-
-  Prewedding merupakan salah satu momen penting yang sering dipersiapkan oleh
-  pasangan sebelum pernikahan. Selain menjadi kenangan indah, foto prewedding
-  juga ser
+  Ingin hasil foto prewedding romantis & natural? Simak 8 cara berpose yang
+  bagus, mulai dari interaksi natural hingga pemilihan angle yang pas untuk
+  pasangan!
 publishedAt: '2026-04-08T17:50:19'
 updatedAt: '2026-04-08T17:50:19'
 author: tim-acaranya
 category: Prewedding
 tags:
-  - pernikahan
-  - undangan-digital
+  - prewedding
   - tips
   - desain
+  - pernikahan
 image: /images/blog/featured/cara-berpose-foto-prewedding-yang-bagus.jpg
 imageAlt: 8 Cara Berpose Foto Prewedding yang Bagus
 imageTitle: 8 Cara Berpose Foto Prewedding yang Bagus

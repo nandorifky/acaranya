@@ -1,9 +1,6 @@
 ---
 title: Undangan Bukber Online
-description: >-
-  Terpikir untuk mengadakan buka bersama (bukber) secara online dengan keluarga,
-  teman, atau rekan kerja tanpa harus repot-repot mencetak undangan? Kini,
-  semuanya
+description: Praktis & hemat! Bikin undangan bukber online via WhatsApp dengan desain islami yang keren & fitur lengkap agar momen buka puasa bersamamu makin ramai.
 publishedAt: '2026-04-08T17:51:02'
 updatedAt: '2026-04-08T17:51:02'
 author: tim-acaranya
@@ -11,9 +8,8 @@ category: Blog
 tags:
   - undangan-digital
   - islami
+  - ramadhan
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/undangan-bukber-online.jpg
 imageAlt: Undangan Bukber Online
 imageTitle: Undangan Bukber Online

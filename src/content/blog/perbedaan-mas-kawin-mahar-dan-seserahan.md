@@ -1,19 +1,15 @@
 ---
 title: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'
-description: >-
-  Persiapan pernikahan memang melibatkan banyak hal yang perlu diperhatikan,
-  mulai dari venue, dekorasi, hingga berbagai pemberian yang memiliki makna
-  khusus. Dal
+description: Sering tertukar? Simak perbedaan mendasar antara Mas Kawin, Mahar, dan Seserahan dalam pernikahan, mulai dari fungsi hingga ketentuannya dalam agama & adat.
 publishedAt: '2026-04-08T17:51:21'
 updatedAt: '2026-04-08T17:51:21'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
-  - tips
+  - mahar
+  - seserahan
+  - edukasi
+  - wajib-tahu
 image: /images/blog/featured/perbedaan-mas-kawin-mahar-dan-seserahan.jpg
 imageAlt: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'
 imageTitle: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'

@@ -1,20 +1,15 @@
 ---
 title: Siapa Prioritas Suami Setelah Menikah? Penjelasan Menurut Islam
-description: >-
-  Menikah adalah fase baru dalam kehidupan yang membawa perubahan besar,
-  terutama dalam urusan tanggung jawab dan prioritas. Banyak yang bertanya,
-  siapa yang menj
+description: Istri atau Ibu? Pahami prioritas suami setelah menikah menurut ajaran Islam agar rumah tangga tetap harmonis & penuh keberkahan dalam membagi cinta serta bakti.
 publishedAt: '2026-04-08T17:50:17'
 updatedAt: '2026-04-08T17:50:17'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
-  - tips
-  - kata-kata
+  - hubungan
+  - edukasi
+  - wajib-tahu
 image: /images/blog/featured/prioritas-suami-setelah-menikah-menurut-islam.jpg
 imageAlt: Siapa Prioritas Suami Setelah Menikah? Penjelasan Menurut Islam
 imageTitle: Siapa Prioritas Suami Setelah Menikah? Penjelasan Menurut Islam

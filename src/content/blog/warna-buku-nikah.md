@@ -1,20 +1,15 @@
 ---
 title: 'Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?'
-description: >-
-  Pernah bertanya-tanya, warna buku nikah perempuan warna apa? dan mengapa warna
-  buku nikah perempuan dan buku nikah laki-laki itu berbeda? Satu merah maroon
-  untu
+description: Mengapa warna buku nikah suami & istri berbeda? Simak ulasan mengenai makna warna merah maroon dan hijau, serta fungsi penting buku nikah di mata hukum Indonesia.
 publishedAt: '2026-04-08T17:49:13'
 updatedAt: '2026-04-08T17:49:13'
 author: tim-acaranya
 category: Legalitas
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
-  - tips
-  - kata-kata
-  - desain
+  - buku-nikah
+  - legalitas
+  - edukasi
+  - wajib-tahu
 image: /images/blog/featured/warna-buku-nikah.jpg
 imageAlt: 'Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?'
 imageTitle: 'Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?'

@@ -1,21 +1,15 @@
 ---
 title: 33 Contoh Ucapan Selamat Menikah Kristen
-description: >-
-  Pernikahan, terutama yang diberkati dalam agama Kristen, adalah momen yang
-  luar biasa dalam hidup. Bagaimana cara mengungkapkan ucapan selamat menikah
-  kepada te
+description: Cari ucapan nikah dengan nuansa religi? Simak 33 contoh ucapan selamat menikah Kristen yang penuh berkat Tuhan, kutipan ayat Alkitab, dan harapan kebahagiaan.
 publishedAt: '2026-04-08T17:49:13'
 updatedAt: '2026-04-08T17:49:13'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - adat
-  - tips
   - kata-kata
-  - desain
+  - kristen
+  - doa
+  - inspirasi
 image: /images/blog/featured/ucapan-selamat-menikah-kristen.webp
 imageAlt: 33 Contoh Ucapan Selamat Menikah Kristen
 imageTitle: 33 Contoh Ucapan Selamat Menikah Kristen

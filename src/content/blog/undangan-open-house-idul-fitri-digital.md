@@ -1,9 +1,6 @@
 ---
 title: Undangan Open House Idul Fitri Digital
-description: >-
-  Hari Raya Idul Fitri adalah waktu spesial ketika kita merayakan akhir dari
-  bulan puasa, Ramadhan. Ini adalah hari penuh kegembiraan, saat keluarga dan
-  teman ber
+description: Sambung silaturahmi lebaran! Intip contoh undangan open house Idul Fitri digital yang modern & praktis untuk mengundang banyak kerabat hanya dalam satu klik.
 publishedAt: '2026-04-08T17:49:56'
 updatedAt: '2026-04-08T17:49:56'
 author: tim-acaranya
@@ -11,10 +8,8 @@ category: Blog
 tags:
   - undangan-digital
   - islami
-  - adat
+  - ramadhan
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/undangan-open-house-idul-fitri-digital.jpg
 imageAlt: Undangan Open House Idul Fitri Digital
 imageTitle: Undangan Open House Idul Fitri Digital

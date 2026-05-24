@@ -1,20 +1,15 @@
 ---
 title: Inilah Arti Weton Jodoh Ketemu 32 Menurut Primbon Jawa
-description: >-
-  Dalam budaya Jawa, weton merupakan hari lahir seseorang yang diyakini memiliki
-  pengaruh besar terhadap karakter dan peruntungannya. Salah satu aspek penting
-  yan
+description: Sangat harmonis! Weton Jodoh Ketemu 32 masuk kategori Tibo Pesthi yang artinya tenteram & damai. Simak ulasan lengkap makna keberuntungannya menurut primbon Jawa.
 publishedAt: '2026-04-08T17:49:53'
 updatedAt: '2026-04-08T17:49:53'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - desain
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-32.jpg
 imageAlt: Inilah Arti Weton Jodoh Ketemu 32 Menurut Primbon Jawa
 imageTitle: Inilah Arti Weton Jodoh Ketemu 32 Menurut Primbon Jawa

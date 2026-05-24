@@ -1,9 +1,6 @@
 ---
 title: Undangan Halal Bihalal Digital
-description: >-
-  Salah satu momen yang sangat berarti dalam kebudayaan adalah Halal Bihalal,
-  sebuah tradisi yang kental dengan nilai kekeluargaan dan kebersamaan. Tapi, di
-  era y
+description: Jalin silaturahmi lebih praktis! Cek contoh kata-kata & inspirasi undangan Halal Bihalal digital via WhatsApp agar momen lebaran keluargamu makin berkesan.
 publishedAt: '2026-04-08T17:51:28'
 updatedAt: '2026-04-08T17:51:28'
 author: tim-acaranya
@@ -11,10 +8,8 @@ category: Blog
 tags:
   - undangan-digital
   - islami
-  - adat
+  - etika
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/undangan-halal-bihalal-digital.jpg
 imageAlt: Undangan Halal Bihalal Digital
 imageTitle: Undangan Halal Bihalal Digital

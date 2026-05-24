@@ -1,9 +1,6 @@
 ---
 title: Contoh Undangan Bukber via WA
-description: >-
-  Pada bulan Ramadhan, buka puasa bersama atau yang sering disebut dengan
-  bukber, menjadi salah satu kegiatan yang dinanti-nanti. Namun, persiapan acara
-  ini terka
+description: Cari contoh undangan bukber via WA yang sopan & menarik? Simak ide kata-kata dan format undangan buka puasa bersama yang efektif untuk grup teman & keluarga.
 publishedAt: '2026-04-08T17:50:33'
 updatedAt: '2026-04-08T17:50:33'
 author: tim-acaranya
@@ -11,6 +8,8 @@ category: Inspirasi
 tags:
   - undangan-digital
   - islami
+  - tips
+  - kata-kata
   - tips
   - kata-kata
   - desain

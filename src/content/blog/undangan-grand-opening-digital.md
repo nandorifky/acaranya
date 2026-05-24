@@ -1,15 +1,13 @@
 ---
 title: Undangan Grand Opening Digital
-description: >-
-  Grand opening merupakan momen yang penting bagi setiap bisnis. Acara ini
-  menjadi kesempatan untuk memperkenalkan bisnis baru kepada masyarakat dan
-  menarik minat
+description: Perkenalkan bisnismu secara luas! Simak ragam desain & fitur undangan grand opening digital untuk pembukaan toko atau kantor yang profesional & efisien.
 publishedAt: '2026-04-08T17:51:30'
 updatedAt: '2026-04-08T17:51:30'
 author: tim-acaranya
 category: Blog
 tags:
   - undangan-digital
+  - bisnis
   - tips
   - desain
 image: /images/blog/featured/undangan-grand-opening-digital.jpg

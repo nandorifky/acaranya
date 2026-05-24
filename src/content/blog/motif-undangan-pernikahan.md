@@ -1,19 +1,15 @@
 ---
 title: Motif Undangan Pernikahan
-description: >-
-  Memilih motif undangan pernikahan merupakan bagian penting untuk menciptakan
-  desain wedding invitation kamu agar terlihat lebih menarik. Dengan menentukan
-  desai
+description: Percantik undangan digitalmu dengan motif yang tepat! Cek inspirasi motif undangan pernikahan mulai dari gaya simple, floral, hingga mewah yang paling populer.
 publishedAt: '2026-04-08T17:51:26'
 updatedAt: '2026-04-10T16:42:57'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
   - desain
+  - inspirasi
+  - motif
+  - undangan-digital
 image: /images/blog/featured/motif-undangan-pernikahan.jpg
 imageAlt: Motif Undangan Pernikahan
 imageTitle: Motif Undangan Pernikahan

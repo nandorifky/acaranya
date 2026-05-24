@@ -1,18 +1,18 @@
 ---
 title: Cara Menuliskan Pangkat TNI di Undangan yang Tepat
 description: >-
-  Ketika hendak membuat undangan resmi yang melibatkan perwira TNI, pernahkah
-  terlintas di benak tentang bagaimana cara yang tepat menuliskan pangkat
-  mereka? Tent
+  Jangan sampai keliru! Simak aturan & tata cara penulisan pangkat TNI di
+  undangan resmi pernikahan agar sesuai dengan protokol militer dan etika yang
+  benar.
 publishedAt: '2026-04-08T17:49:17'
 updatedAt: '2026-04-08T17:49:17'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - adat
+  - inspirasi
   - tips
+  - etika
+  - tni
 image: /images/blog/featured/cara-menuliskan-pangkat-tni-di-undangan-yang-tepat.jpg
 imageAlt: Cara Menuliskan Pangkat TNI di Undangan yang Tepat
 imageTitle: Cara Menuliskan Pangkat TNI di Undangan yang Tepat

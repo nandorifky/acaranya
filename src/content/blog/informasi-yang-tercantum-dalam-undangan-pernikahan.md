@@ -1,19 +1,15 @@
 ---
 title: 10 Informasi yang Tercantum dalam Undangan Pernikahan
-description: >-
-  Pernikahan adalah salah satu momen penting dan sakral dalam kehidupan
-  seseorang. Dalam pernikahan, kedua mempelai akan diikat oleh janji suci untuk
-  bersama-sama
+description: Pastikan undangan pernikahanmu lengkap! Simak 10 informasi penting yang wajib dicantumkan, mulai dari nama pengantin hingga detail lokasi, agar tamu tidak bingung.
 publishedAt: '2026-04-08T17:50:30'
 updatedAt: '2026-04-08T17:50:30'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - pernikahan
-  - undangan-digital
-  - adat
   - tips
-  - desain
+  - edukasi
+  - perencanaan
 image: /images/blog/featured/informasi-yang-tercantum-dalam-undangan-pernikahan.jpg
 imageAlt: 10 Informasi yang Tercantum dalam Undangan Pernikahan
 imageTitle: 10 Informasi yang Tercantum dalam Undangan Pernikahan

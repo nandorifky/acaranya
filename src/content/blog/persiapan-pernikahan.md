@@ -1,20 +1,15 @@
 ---
 title: 14 Daftar yang Harus Dipersiapkan untuk Pernikahan
-description: >-
-  Merencanakan pernikahan memang bisa jadi pengalaman yang penuh semangat, tapi
-  juga nggak lepas dari tantangan. Setuju, kan? Mulai dari memilih gaun
-  pengantin im
+description: Ingin hari spesial berjalan sempurna? Cek 14 daftar persiapan pernikahan yang wajib kamu siapkan, mulai dari atur budget, pilih tanggal, hingga cari vendor impian.
 publishedAt: '2026-04-08T17:49:44'
 updatedAt: '2026-04-08T17:49:44'
 author: tim-acaranya
 category: Perencanaan
 tags:
   - pernikahan
-  - undangan-digital
-  - islami
-  - adat
+  - persiapan-nikah
   - tips
-  - desain
+  - perencanaan
 image: /images/blog/featured/persiapan-pernikahan.jpg
 imageAlt: 14 Daftar yang Harus Dipersiapkan untuk Pernikahan
 imageTitle: 14 Daftar yang Harus Dipersiapkan untuk Pernikahan

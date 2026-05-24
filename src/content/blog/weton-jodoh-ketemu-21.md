@@ -1,19 +1,15 @@
 ---
 title: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'
-description: >-
-  Dalam budaya Jawa, weton memegang peranan penting dalam berbagai aspek
-  kehidupan, termasuk dalam menentukan kecocokan pasangan. Weton jodoh ketemu
-  21, yang meru
+description: Diselimuti keberuntungan! Pahami arti Weton Jodoh Ketemu 21 kategori Tibo Tinari yang dipercaya membawa rezeki lancar & rumah tangga tenteram tanpa kendala besar.
 publishedAt: '2026-04-08T17:49:34'
 updatedAt: '2026-04-08T17:49:34'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-21.jpg
 imageAlt: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'
 imageTitle: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'

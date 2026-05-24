@@ -1,17 +1,15 @@
 ---
 title: Perbedaan Undangan Digital dan Website
-description: >-
-  Pada dasarnya, perbedaan undangan digital dan website jelas berbeda. Kamu akan
-  mengetahuinya dibawah ini. Undangan digital kini marak digunakan oleh banyak
-  oran
+description: Kenali perbedaan undangan digital (gambar/video) vs undangan website. Mana yang lebih praktis & punya fitur lengkap untuk acaramu? Temukan jawabannya di sini!
 publishedAt: '2026-04-08T17:51:29'
 updatedAt: '2026-04-08T17:51:29'
 author: tim-acaranya
 category: Wajib Tahu
 tags:
-  - pernikahan
   - undangan-digital
-  - tips
+  - website-undangan
+  - teknologi
+  - tren
 image: /images/blog/featured/perbedaan-undangan-digital-dan-website.jpeg
 imageAlt: Perbedaan Undangan Digital dan Website
 imageTitle: Perbedaan Undangan Digital dan Website

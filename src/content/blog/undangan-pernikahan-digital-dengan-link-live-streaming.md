@@ -1,19 +1,15 @@
 ---
 title: Undangan Pernikahan Digital dengan Link Live Streaming
-description: >-
-  Di era digital saat ini, undangan pernikahan tidak lagi terbatas pada kertas
-  yang dikirim melalui pos. Dengan kemajuan teknologi, undangan pernikahan
-  digital me
+description: Tamu jauh tetap bisa hadir! Simak keunggulan undangan pernikahan digital dengan link live streaming agar momen bahagiamu bisa disaksikan keluarga dari mana saja.
 publishedAt: '2026-04-08T17:50:54'
 updatedAt: '2026-04-08T17:50:54'
 author: tim-acaranya
 category: Undangan
 tags:
-  - pernikahan
   - undangan-digital
+  - teknologi
+  - streaming
   - tips
-  - kata-kata
-  - desain
 image: >-
   /images/blog/featured/undangan-pernikahan-digital-dengan-link-live-streaming.jpg
 imageAlt: Undangan Pernikahan Digital dengan Link Live Streaming

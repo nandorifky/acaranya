@@ -1,20 +1,15 @@
 ---
 title: 70 Contoh Ucapan Happy Wedding untuk Sahabat
-description: >-
-  Pernikahan adalah momen istimewa dalam kehidupan seseorang, apalagi jika itu
-  adalah sahabat kita. Memberikan ucapan yang tepat untuk momen bahagia ini akan
-  memb
+description: Sampaikan doa terbaik untuk sahabat! Cek 70 contoh ucapan Happy Wedding untuk sahabat dalam bahasa Inggris & Indonesia yang menyentuh hati serta penuh makna.
 publishedAt: '2026-04-08T17:49:48'
 updatedAt: '2026-04-08T17:49:48'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
-  - tips
   - kata-kata
-  - desain
+  - hubungan
+  - kado-pernikahan
+  - inspirasi
 image: /images/blog/featured/ucapan-happy-wedding-untuk-sahabat.jpg
 imageAlt: 70 Contoh Ucapan Happy Wedding untuk Sahabat
 imageTitle: 70 Contoh Ucapan Happy Wedding untuk Sahabat

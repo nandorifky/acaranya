@@ -1,18 +1,14 @@
 ---
 title: Tema Undangan Pernikahan Digital Adat Bugis
-description: >-
-  Pernikahan adalah momen sakral yang tidak akan terlupakan dalam hidup.
-  Mempersiapkan segala sesuatunya dengan sempurna menjadi prioritas, termasuk
-  undangan pern
+description: Tampilkan identitas budayamu! Intip tema undangan pernikahan digital adat Bugis yang elegan, berkarakter, dan tetap modern untuk momen sakral kebanggaan keluarga.
 publishedAt: '2026-04-08T17:50:53'
 updatedAt: '2026-04-08T17:50:53'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
   - undangan-digital
   - adat
-  - tips
+  - bugis
   - desain
 image: /images/blog/featured/undangan-pernikahan-digital-adat-bugis.jpg
 imageAlt: Tema Undangan Pernikahan Digital Adat Bugis

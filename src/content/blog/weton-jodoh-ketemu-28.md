@@ -1,20 +1,15 @@
 ---
 title: 'Arti Weton Jodoh Ketemu 28, Apakah Boleh Menikah?'
-description: >-
-  Dalam budaya Jawa, weton memegang peranan penting dalam berbagai aspek
-  kehidupan, termasuk dalam menentukan kecocokan jodoh. Weton merupakan hari
-  lahir seseoran
+description: Weton Jodoh Ketemu 28 artinya apa? Simak ulasan kategori Tibo Topo dalam hitungan Jawa, tantangan di awal rumah tangga, serta tips menjaga komitmen tetap kuat.
 publishedAt: '2026-04-08T17:49:50'
 updatedAt: '2026-04-08T17:49:50'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - kata-kata
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-28.jpg
 imageAlt: 'Arti Weton Jodoh Ketemu 28, Apakah Boleh Menikah?'
 imageTitle: 'Arti Weton Jodoh Ketemu 28, Apakah Boleh Menikah?'

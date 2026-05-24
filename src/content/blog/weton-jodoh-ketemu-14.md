@@ -1,19 +1,15 @@
 ---
 title: Weton Jodoh Ketemu 14 Apa Artinya?
-description: >-
-  Weton jodoh merupakan salah satu konsep dalam budaya Jawa yang digunakan untuk
-  menafsirkan kecocokan pasangan berdasarkan hari lahir mereka. Perhitungan
-  weton j
+description: Weton Jodoh Ketemu 14 artinya apa? Pahami tafsir kategori Tibo Padu dalam primbon Jawa, potensi konflik, serta tips membangun hubungan tetap harmonis & sabar.
 publishedAt: '2026-04-08T17:49:28'
 updatedAt: '2026-04-08T17:49:28'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-14.jpg
 imageAlt: Weton Jodoh Ketemu 14 Apa Artinya?
 imageTitle: Weton Jodoh Ketemu 14 Apa Artinya?

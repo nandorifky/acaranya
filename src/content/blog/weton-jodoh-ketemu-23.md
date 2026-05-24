@@ -1,19 +1,15 @@
 ---
 title: Apa Arti Weton Jodoh Ketemu 23?
-description: >-
-  Dalam budaya Jawa, Weton Jodoh Ketemu 23 merupakan salah satu perhitungan yang
-  dipercaya dapat menafsirkan kecocokan pasangan dalam menjalani kehidupan rumah
-  ta
+description: Weton Jodoh Ketemu 23 artinya apa? Pahami tafsir kategori Tibo Sujanan dalam primbon Jawa, potensi tantangan kesetiaan, serta cara bijak menjaga keutuhan hubungan.
 publishedAt: '2026-04-08T17:49:35'
 updatedAt: '2026-04-08T17:49:35'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - kata-kata
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-23.jpg
 imageAlt: Apa Arti Weton Jodoh Ketemu 23?
 imageTitle: Apa Arti Weton Jodoh Ketemu 23?

@@ -1,19 +1,18 @@
 ---
 title: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk Akal
 description: >-
-  Tidak bisa hadir di acara pernikahan mungkin jadi dilema tersendiri. Apakah
-  harus memberikan alasan jujur atau mencari cara yang lebih halus? Kadang,
-  kesibukan 
+  Bingung cara menolak undangan? Cek 8 alasan tidak bisa hadir di acara
+  pernikahan yang sopan & masuk akal tanpa merusak silaturahmi. Lengkap dengan
+  tipsnya!
 publishedAt: '2026-04-08T17:49:28'
 updatedAt: '2026-04-08T17:49:28'
 author: tim-acaranya
 category: Inspirasi
 tags:
-  - pernikahan
-  - undangan-digital
   - tips
   - kata-kata
-  - desain
+  - etika
+  - pernikahan
 image: /images/blog/featured/alasan-tidak-bisa-hadir-di-acara-pernikahan.jpg
 imageAlt: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk Akal
 imageTitle: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk Akal

@@ -1,20 +1,17 @@
 ---
 title: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!'
 description: >-
-  Momen sakral pernikahan tak lepas dari prosesi ijab kabul. Ucapan “saya terima
-  nikah dan kawinnya” adalah kalimat sakti yang mengikat janji suci sepasang
-  pengan
+  Persiapkan akad nikahmu dengan menghafal bacaan ijab kabul yang benar &
+  lancar. Lengkap dengan teks bahasa Indonesia, Arab, dan tips agar tidak grogi!
 publishedAt: '2026-04-08T17:51:13'
 updatedAt: '2026-04-08T17:51:13'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
   - islami
-  - adat
+  - pernikahan
   - tips
-  - kata-kata
+  - akad
 image: /images/blog/featured/bacaan-ijab-kabul-nikah-yang-benar.jpg
 imageAlt: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!'
 imageTitle: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!'

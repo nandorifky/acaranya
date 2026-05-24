@@ -1,20 +1,15 @@
 ---
 title: Arti Weton Jodoh Ketemu 30 Menurut Primbon Jawa
-description: >-
-  Dalam tradisi Jawa, Weton Jodoh Ketemu 30 menjadi salah satu konsep penting
-  yang dipercaya dapat mengungkapkan kecocokan pasangan sebelum melangkah ke
-  jenjang p
+description: Weton Jodoh Ketemu 30, apa artinya? Kenali kategori Tibo Padu dalam tradisi Jawa yang dipercaya rawan konflik sepele, serta kunci sukses membangun kesabaran bersama.
 publishedAt: '2026-04-08T17:49:51'
 updatedAt: '2026-04-08T17:49:51'
 author: tim-acaranya
 category: Perencanaan
 tags:
-  - pernikahan
-  - undangan-digital
-  - islami
+  - weton
   - adat
-  - tips
-  - kata-kata
+  - ramalan-jodoh
+  - budaya
 image: /images/blog/featured/weton-jodoh-ketemu-30.jpg
 imageAlt: Arti Weton Jodoh Ketemu 30 Menurut Primbon Jawa
 imageTitle: Arti Weton Jodoh Ketemu 30 Menurut Primbon Jawa

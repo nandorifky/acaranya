@@ -1,19 +1,18 @@
 ---
 title: 40 Kata-Kata Islami untuk Undangan Pernikahan
 description: >-
-  Menjelang hari pernikahan, salah satu hal yang sering membingungkan adalah
-  memilih kata-kata Islami untuk undangan pernikahan. Bagaimana cara memilih
-  kalimat ya
+  Kumpulan 40+ kata-kata Islami untuk undangan pernikahan yang penuh doa &
+  makna. Dari kutipan Al-Qur'an hingga Hadis, bikin undanganmu terasa lebih
+  sakral!
 publishedAt: '2026-04-08T17:49:42'
 updatedAt: '2026-04-08T17:49:42'
 author: tim-acaranya
 category: Inspirasi
 tags:
+  - kata-kata
+  - islami
   - pernikahan
   - undangan-digital
-  - islami
-  - tips
-  - kata-kata
 image: /images/blog/featured/40-kata-kata-islami-untuk-undangan-pernikahan.jpg
 imageAlt: 40 Kata-Kata Islami untuk Undangan Pernikahan
 imageTitle: 40 Kata-Kata Islami untuk Undangan Pernikahan

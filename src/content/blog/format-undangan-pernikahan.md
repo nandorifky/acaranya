@@ -1,17 +1,15 @@
 ---
 title: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'
-description: >-
-  Format undangan pernikahan adalah salah satu hal yang paling penting dalam
-  persiapan pernikahan. Kenapa? Karena undangan adalah representasi pertama dari
-  acara 
+description: Susun undanganmu dengan format yang benar! Cek elemen penting mulai dari nama pengantin hingga RSVP agar informasi acara tersampaikan dengan jelas & informatif.
 publishedAt: '2026-04-08T17:50:34'
 updatedAt: '2026-04-08T17:50:34'
 author: tim-acaranya
 category: Inspirasi
 tags:
   - pernikahan
-  - undangan-digital
-  - islami
+  - tips
+  - desain
+  - format
   - tips
   - kata-kata
   - desain

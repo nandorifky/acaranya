@@ -1,18 +1,15 @@
 ---
 title: 'Pahami Arti Triple Date, Manfaat, dan Tips Melakukannya'
-description: >-
-  Triple date semakin populer di kalangan pasangan, baik yang baru berpacaran
-  maupun yang sudah menikah, karena memberikan pengalaman unik dalam membangun
-  hubunga
+description: Pernah dengar Triple Date? Pahami arti kencan tiga pasangan, manfaatnya untuk hubungan sosial, serta tips melakukannya agar momen kebersamaan makin seru & asyik.
 publishedAt: '2026-04-08T17:50:13'
 updatedAt: '2026-04-08T17:50:13'
 author: tim-acaranya
 category: Relationship
 tags:
-  - pernikahan
-  - undangan-digital
+  - relationship
   - tips
-  - desain
+  - hubungan
+  - lifestyle
 image: /images/blog/featured/triple-date.jpg
 imageAlt: 'Pahami Arti Triple Date, Manfaat, dan Tips Melakukannya'
 imageTitle: 'Pahami Arti Triple Date, Manfaat, dan Tips Melakukannya'

@@ -1,20 +1,15 @@
 ---
 title: 'Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah'
-description: >-
-  Pernikahan itu ibarat perahu, yang kadang tenang, kadang terombang-ambing.
-  Nah, pernah dengar tentang sighat taklik yang sering dicantumkan dalam buku
-  nikah? Ja
+description: Penting bagi suami istri! Pahami apa itu Sighat Taklik dalam buku nikah, teks bacaannya, serta kekuatan hukumnya dalam melindungi hak istri pasca pernikahan.
 publishedAt: '2026-04-08T17:49:15'
 updatedAt: '2026-04-08T17:49:15'
 author: tim-acaranya
 category: Pernikahan
 tags:
-  - pernikahan
-  - undangan-digital
+  - edukasi
   - islami
-  - adat
-  - tips
-  - kata-kata
+  - buku-nikah
+  - wajib-tahu
 image: /images/blog/featured/mengenal-apa-itu-sighat-taklik.jpg
 imageAlt: 'Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah'
 imageTitle: 'Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah'
