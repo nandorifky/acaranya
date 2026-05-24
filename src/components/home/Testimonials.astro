@@ -8,35 +8,10 @@ import { siteConfig } from '../../data/site';
 
 const allTestimonials = await getCollection('testimonials');
 const published = allTestimonials.filter(t => t.data.status === 'published').slice(0, 3);
-
-const testimonialsSchema = published.map(testimonial => ({
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": testimonial.data.rating,
-    "bestRating": "5"
-  },
-  "author": {
-    "@type": "Person",
-    "name": testimonial.data.name
-  },
-  "reviewBody": testimonial.data.message,
-  "itemReviewed": {
-    "@type": "Service",
-    "name": "Undangan Digital Acaranya.id",
-    "provider": {
-      "@type": "Organization",
-      "name": siteConfig.name,
-      "url": siteConfig.url
-    }
-  }
-}));
 ---
 
 <Section bg="white" id="testimonials">
   <Container>
-    <script type="application/ld+json" set:html={JSON.stringify(testimonialsSchema)} />
     <div class="mb-14 text-center space-y-3">
       <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Kisah Bahagia</span>
       <h2 class="font-serif text-3xl md:text-5xl text-brand-950 max-w-xl mx-auto leading-tight">
