@@ -13,22 +13,22 @@ const stats = [
 <section class="relative bg-cream py-1" id="trust-stats">
   <div class="h-px bg-border-soft/60"></div>
   <Container>
-    <div class="grid grid-cols-2 lg:flex lg:flex-row lg:justify-between lg:items-center gap-y-5 gap-x-4 py-5 md:py-6">
+    <dl class="grid grid-cols-2 lg:flex lg:flex-row lg:justify-between lg:items-center gap-y-5 gap-x-4 py-5 md:py-6">
       {stats.map((stat) => (
         <div class="flex flex-col items-center lg:flex-row lg:items-center gap-1 lg:gap-2.5 group">
           <!-- Numbers: Clean Playfair Display -->
-          <span class="font-serif text-xl sm:text-2xl font-medium text-brand-950 group-hover:text-soft-gold transition-colors duration-300">
+          <dd class="font-serif text-xl sm:text-2xl font-medium text-brand-950 group-hover:text-soft-gold transition-colors duration-300 m-0">
             {stat.value}
-          </span>
+          </dd>
           <!-- Thin gold dot: hidden on mobile (stacked), visible on desktop (inline) -->
           <span class="hidden lg:block w-1 h-1 rounded-full bg-[#B59A73]/40"></span>
           <!-- Labels: Clean Plus Jakarta Sans -->
-          <span class="text-[9px] text-text-muted uppercase tracking-[0.2em] font-bold group-hover:text-brand-950 transition-colors duration-300">
+          <dt class="text-[9px] text-text-muted uppercase tracking-[0.2em] font-bold group-hover:text-brand-950 transition-colors duration-300">
             {stat.label}
-          </span>
+          </dt>
         </div>
       ))}
-    </div>
+    </dl>
   </Container>
   <div class="h-px bg-border-soft/60"></div>
 </section>

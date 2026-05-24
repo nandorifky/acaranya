@@ -17,16 +17,45 @@ import { siteConfig } from "../data/site";
 const jsonLd = [
   {
     "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": siteConfig.name,
+    "url": siteConfig.url,
+    "logo": `${siteConfig.url}/favicon.svg`,
+    "description": siteConfig.description,
+    "sameAs": [
+      siteConfig.contact.instagramUrl
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": siteConfig.contact.whatsapp,
+      "contactType": "customer service",
+      "areaServed": "ID",
+      "availableLanguage": "Indonesian"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": siteConfig.name,
+    "url": siteConfig.url,
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": `${siteConfig.url}/artikel?q={search_term_string}`,
+      "query-input": "required name=search_term_string"
+    }
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Service",
-    name: "Undangan Digital",
-    provider: {
+    "name": "Undangan Digital",
+    "provider": {
       "@type": "Organization",
-      name: siteConfig.name,
-      url: siteConfig.url,
+      "name": siteConfig.name,
+      "url": siteConfig.url,
     },
-    description: siteConfig.description,
-    areaServed: "ID",
-    serviceType: "Undangan Digital",
+    "description": siteConfig.description,
+    "areaServed": "ID",
+    "serviceType": "Undangan Digital",
   },
 ];
 ---

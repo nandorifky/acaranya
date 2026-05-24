@@ -13,9 +13,9 @@ const pathname = Astro.url.pathname;
     <div id="reading-progress" class="absolute top-0 left-0 h-[2px] bg-soft-gold w-0 transition-all duration-150 z-20"></div>
     
     <!-- Logo -->
-    <a href="/" class="flex items-center gap-2.5 group" id="header-logo">
+    <a href="/" class="flex items-center gap-2.5 group" id="header-logo" aria-label={`Kembali ke beranda ${siteConfig.name}`}>
       <!-- Monogram -->
-      <div class="w-8 h-8 bg-brand-500 rounded-full flex items-center justify-center group-hover:bg-brand-600 transition-colors duration-300 shadow-sm">
+      <div class="w-8 h-8 bg-brand-500 rounded-full flex items-center justify-center group-hover:bg-brand-600 transition-colors duration-300 shadow-sm" aria-hidden="true">
         <span class="font-serif text-sm text-white font-bold leading-none">A</span>
       </div>
       <div>
@@ -26,7 +26,7 @@ const pathname = Astro.url.pathname;
     </a>
 
     <!-- Desktop Navigation -->
-    <nav class="hidden lg:flex items-center gap-1" id="desktop-nav">
+    <nav class="hidden lg:flex items-center gap-1" id="desktop-nav" aria-label="Navigasi Utama">
       {mainNavigation.map((item) => {
         const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
         return (

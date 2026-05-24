@@ -5,7 +5,11 @@ import Section from '../../components/base/Section.astro';
 import DesignCard from '../../components/designs/DesignCard.astro';
 import Icon from '../../components/ui/Icon.astro';
 import { getCollection } from 'astro:content';
-import { designCategories } from '../../data/design-categories';
+
+const allCategories = await getCollection('designCategories');
+const publishedCategories = allCategories
+  .filter(c => c.data.status === 'published')
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
 
 const allDesigns = await getCollection('designs');
 const publishedDesigns = allDesigns
@@ -40,13 +44,13 @@ const publishedDesigns = allDesigns
           <span class="px-5 py-2.5 bg-brand-950 text-cream text-[9px] font-bold uppercase tracking-widest rounded-full shadow-card">
             Semua Desain
           </span>
-          {designCategories.map((cat) => (
+          {publishedCategories.map((cat) => (
             <a
-              href={`/desain-undangan-digital/${cat.slug}/`}
+              href={`/desain-undangan-digital/${cat.id}/`}
               class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-brand-800 hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card hover:shadow-card-hover"
             >
-              <Icon name={cat.icon} size={11} />
-              {cat.labelShort}
+              <Icon name={cat.data.icon} size={11} />
+              {cat.data.labelShort}
             </a>
           ))}
         </div>
@@ -63,7 +67,7 @@ const publishedDesigns = allDesigns
         </p>
       </div>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 stagger">
+      <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 stagger">
         {publishedDesigns.map((design) => (
           <DesignCard design={design} />
         ))}
@@ -84,9 +88,9 @@ const publishedDesigns = allDesigns
         </div>
         <div class="pt-4 flex flex-wrap justify-center items-center gap-3">
           <span class="text-[10px] uppercase tracking-widest text-text-muted font-bold">Kategori Populer:</span>
-          {designCategories.slice(0, 4).map((cat) => (
-            <a href={`/desain-undangan-digital/${cat.slug}/`} class="text-[11px] font-sans font-semibold tracking-wider text-soft-gold hover:text-brand-950 underline underline-offset-4 decoration-soft-gold/30 hover:decoration-brand-950 transition-all">
-              Undangan {cat.label}
+          {publishedCategories.slice(0, 4).map((cat) => (
+            <a href={`/desain-undangan-digital/${cat.id}/`} class="text-[11px] font-sans font-semibold tracking-wider text-soft-gold hover:text-brand-950 underline underline-offset-4 decoration-soft-gold/30 hover:decoration-brand-950 transition-all">
+              Undangan {cat.data.title}
             </a>
           ))}
         </div>

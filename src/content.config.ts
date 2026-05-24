@@ -82,4 +82,27 @@ const authors = defineCollection({
   }),
 });
 
+export const collections = { designs, designCategories, blog, testimonials, faqs, authors };
+ault('published'),
+  }),
+});
+
+const authors = defineCollection({
+  loader: glob({ pattern: '**/*.{md,json,mdoc}', base: './src/content/authors' }),
+  schema: z.object({
+    name: z.string(),
+    role: z.string(),
+    bio: z.string(),
+    avatar: z.string().optional(),
+    socialTwitter: z.string().optional(),
+    socialInstagram: z.string().optional(),
+    socialFacebook: z.string().optional(),
+    socialLinkedin: z.string().optional(),
+    socialGithub: z.string().optional(),
+    socialWebsite: z.string().optional(),
+    metaTitle: z.string().optional(),
+    metaDescription: z.string().optional(),
+  }),
+});
+
 export const collections = { designs, blog, testimonials, faqs, authors };

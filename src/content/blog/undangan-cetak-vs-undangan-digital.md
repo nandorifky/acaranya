@@ -65,41 +65,13 @@ Ini sangat membantu bagi pasangan yang memiliki jadwal padat atau tamu yang ters
 
 Analisis biaya menunjukkan perbedaan signifikan antara produksi fisik dan aktivasi platform digital untuk keperluan **pernikahan**. Tabel berikut merangkum estimasi biaya yang biasanya dikeluarkan oleh pasangan pengantin di Indonesia.
 
-Aspek Perbandingan
-
-Undangan Cetak (Fisik)
-
-Undangan Digital (Website)
-
-Biaya Produksi
-
-Rp 5.000 – Rp 50.000 per pcs
-
-Rp 50.000 – Rp 500.000 (Flat/Paket)
-
-Biaya Pengiriman
-
-Tergantung jarak (Jasa Kurir)
-
-Gratis (Via Internet)
-
-Waktu Pengerjaan
-
-2 Minggu – 1 Bulan
-
-1 – 3 Hari Kerja
-
-Kapasitas Revisi
-
-Terbatas (Risiko cetak ulang)
-
-Fleksibel & Real-time
-
-Fitur Tambahan
-
-Stiker Label, Plastik, Kartu Ucapan
-
-RSVP, Maps, Musik, Video, Countdown
+| Aspek Perbandingan | Undangan Cetak (Fisik) | Undangan Digital (Website) |
+| :--- | :--- | :--- |
+| **Biaya Produksi** | Rp 5.000 – Rp 50.000 per pcs | Rp 50.000 – Rp 500.000 (Flat/Paket) |
+| **Biaya Pengiriman** | Tergantung jarak (Jasa Kurir) | Gratis (Via Internet) |
+| **Waktu Pengerjaan** | 2 Minggu – 1 Bulan | 1 – 3 Hari Kerja |
+| **Kapasitas Revisi** | Terbatas (Risiko cetak ulang) | Fleksibel & Real-time |
+| **Fitur Tambahan** | Stiker Label, Plastik, Kartu Ucapan | RSVP, Maps, Musik, Video, Countdown |
 
 Kami menyarankan Anda untuk menghitung jumlah total tamu terlebih dahulu. Jika tamu Anda mencapai 500 orang, cetak undangan dengan harga Rp 10.000 per lembar akan memakan biaya Rp 5.000.000, belum termasuk ongkos kirim.
 

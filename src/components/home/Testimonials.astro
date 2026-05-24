@@ -4,13 +4,39 @@ import Section from '../base/Section.astro';
 import SectionHeader from '../base/SectionHeader.astro';
 import Icon from '../ui/Icon.astro';
 import { getCollection } from 'astro:content';
+import { siteConfig } from '../../data/site';
 
 const allTestimonials = await getCollection('testimonials');
 const published = allTestimonials.filter(t => t.data.status === 'published').slice(0, 3);
+
+const testimonialsSchema = published.map(testimonial => ({
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": testimonial.data.rating,
+    "bestRating": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": testimonial.data.name
+  },
+  "reviewBody": testimonial.data.message,
+  "itemReviewed": {
+    "@type": "Service",
+    "name": "Undangan Digital Acaranya.id",
+    "provider": {
+      "@type": "Organization",
+      "name": siteConfig.name,
+      "url": siteConfig.url
+    }
+  }
+}));
 ---
 
 <Section bg="white" id="testimonials">
   <Container>
+    <script type="application/ld+json" set:html={JSON.stringify(testimonialsSchema)} />
     <div class="mb-14 text-center space-y-3">
       <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Kisah Bahagia</span>
       <h2 class="font-serif text-3xl md:text-5xl text-brand-950 max-w-xl mx-auto leading-tight">
@@ -23,13 +49,13 @@ const published = allTestimonials.filter(t => t.data.status === 'published').sli
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 stagger items-stretch">
       {published.map((testimonial) => (
-        <div class="relative bg-surface rounded-3xl p-7 lg:p-8 border border-border-soft/60 shadow-sm hover:shadow-card transition-all duration-300 flex flex-col justify-between">
+        <figure class="relative bg-surface rounded-3xl p-7 lg:p-8 border border-border-soft/60 shadow-sm hover:shadow-card transition-all duration-300 flex flex-col justify-between">
           <!-- Quote Icon Accent -->
           <div class="absolute top-6 right-6 text-soft-gold/10 font-serif text-7xl leading-none select-none pointer-events-none">“</div>
           
           <div class="space-y-6">
             <!-- Stars -->
-            <div class="flex gap-0.5">
+            <div class="flex gap-0.5" aria-label={`Rating ${testimonial.data.rating} dari 5 bintang`}>
               {Array.from({ length: testimonial.data.rating }).map(() => (
                 <Icon name="star" size={12} class="text-soft-gold fill-soft-gold" />
               ))}
@@ -42,7 +68,7 @@ const published = allTestimonials.filter(t => t.data.status === 'published').sli
           </div>
 
           <!-- Author Info -->
-          <div class="flex items-center gap-3.5 pt-6 border-t border-border-soft/50 mt-6">
+          <figcaption class="flex items-center gap-3.5 pt-6 border-t border-border-soft/50 mt-6">
             <div class="w-9 h-9 rounded-full bg-brand-50/60 border border-brand-100 flex items-center justify-center shrink-0">
               <span class="font-serif text-sm text-brand-700 font-bold uppercase">
                 {testimonial.data.name.charAt(0)}
@@ -52,9 +78,9 @@ const published = allTestimonials.filter(t => t.data.status === 'published').sli
               <p class="font-serif text-[15px] font-semibold text-brand-950">{testimonial.data.name}</p>
               <p class="text-[10px] text-text-muted font-bold uppercase tracking-wider mt-0.5">{testimonial.data.eventType}</p>
             </div>
-          </div>
-        </div>
+          </figcaption>
+        </figure>
       ))}
     </div>
   </Container>
-</section>
+</Section>

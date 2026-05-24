@@ -13,6 +13,27 @@ media_folder: "public/images"
 public_folder: "/images"
 
 collections:
+  - name: "design-categories"
+    label: "Kategori Desain"
+    folder: "src/content/design-categories"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Nama Kategori (Label)", name: "title", widget: "string" }
+      - { label: "Label Singkat (untuk menu)", name: "labelShort", widget: "string" }
+      - { label: "Icon Name (Lucide)", name: "icon", widget: "string", description: "Contoh: gem, cake, building, etc." }
+      - { label: "Deskripsi Ringkas", name: "description", widget: "text" }
+      - { label: "Meta SEO Title", name: "metaTitle", widget: "string" }
+      - { label: "Meta SEO Description", name: "metaDescription", widget: "text" }
+      - { label: "Urutan Tampil", name: "sortOrder", widget: "number", value_type: "int", default: 0 }
+      - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
+      - { label: "Custom Hero Title (H1)", name: "heroTitle", widget: "string", required: false }
+      - { label: "Custom Hero Subtitle", name: "heroSubtitle", widget: "text", required: false }
+      - { label: "Custom CTA Title", name: "ctaTitle", widget: "string", required: false }
+      - { label: "Custom CTA Subtitle", name: "ctaSubtitle", widget: "text", required: false }
+      - { label: "Konten SEO (Body)", name: "body", widget: "markdown" }
+
   - name: "designs"
     label: "Katalog Desain"
     folder: "src/content/designs"
@@ -21,7 +42,7 @@ collections:
     format: "frontmatter"
     fields:
       - { label: "Nama Template Desain", name: "title", widget: "string" }
-      - { label: "Kategori (Slug)", name: "category", widget: "string", description: "Contoh: pernikahan, khitanan, ulang-tahun, dll." }
+      - { label: "Kategori", name: "category", widget: "relation", collection: "design-categories", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"] }
       - { label: "Tipe Acara", name: "eventType", widget: "select", options: ["wedding", "khitanan", "birthday", "aqiqah", "corporate", "graduation", "other"] }
       - { label: "Gambar Thumbnail", name: "thumbnail", widget: "image", required: false }
       - { label: "Tautan Live Preview", name: "previewUrl", widget: "string", description: "Contoh: https://inv.acaranya.id/nama-desain" }
