@@ -19,6 +19,7 @@ export const mobileNavigation: NavItem[] = [
   { label: 'Harga', href: '/harga/' },
   { label: 'Desain Undangan', href: '/desain-undangan-digital/' },
   { label: 'Artikel', href: '/artikel/' },
+  { label: 'Mitra Reseller', href: '/reseller-undangan-digital/' },
   { label: 'Tentang', href: '/tentang/' },
   { label: 'Kontak', href: '/kontak/' },
 ];
@@ -41,6 +42,7 @@ export const footerNavigation = {
     { label: 'Tentang', href: '/tentang/' },
     { label: 'Kontak', href: '/kontak/' },
     { label: 'Artikel', href: '/artikel/' },
+    { label: 'Mitra Reseller', href: '/reseller-undangan-digital/' },
   ],
   bantuan: [
     { label: 'Harga', href: '/harga/' },

@@ -1,46 +1,56 @@
 ---
-import Container from '../base/Container.astro';
-import Section from '../base/Section.astro';
-import SectionHeader from '../base/SectionHeader.astro';
-import DesignCard from '../designs/DesignCard.astro';
-import Icon from '../ui/Icon.astro';
-import { getCollection } from 'astro:content';
+import Container from "../base/Container.astro";
+import Section from "../base/Section.astro";
+import SectionHeader from "../base/SectionHeader.astro";
+import DesignCard from "../designs/DesignCard.astro";
+import Icon from "../ui/Icon.astro";
+import { getCollection } from "astro:content";
 
-const allDesigns = await getCollection('designs');
+const allDesigns = await getCollection("designs");
 const featuredDesigns = allDesigns
-  .filter(d => d.data.status === 'published' && d.data.isFeatured)
+  .filter((d) => d.data.status === "published" && d.data.isFeatured)
   .sort((a, b) => a.data.sortOrder - b.data.sortOrder)
   .slice(0, 4);
 ---
 
 <Section bg="white" id="featured-designs">
   <Container>
-    <div class="flex flex-col sm:flex-row sm:items-end justify-between mb-14 gap-6">
+    <div
+      class="flex flex-col sm:flex-row sm:items-end justify-between mb-14 gap-6"
+    >
       <div class="space-y-3">
-        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Koleksi Desain</span>
-        <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight">
-          Template pilihan dengan estetika tinggi
+        <span
+          class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold"
+          >Koleksi Desain</span
+        >
+        <h2
+          class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight"
+        >
+          Template Pilihan Dengan Estetika Tinggi
         </h2>
         <p class="text-sm text-text-secondary max-w-lg font-sans tracking-wide">
-          Desain undangan digital premium yang dirancang khusus oleh desainer profesional kami untuk memukau para tamu undangan.
+          Deretan desain undangan premium yang dibuat khusus untuk membuat para
+          tamu undangan terpukau.
         </p>
       </div>
-      <a href="/desain-undangan-digital/"
-        class="hidden sm:inline-flex items-center gap-2 px-6 py-3 border border-[#B59A73]/30 text-soft-gold text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-[#fff8ec]/20 hover:border-soft-gold transition-all duration-300 whitespace-nowrap">
+      <a
+        href="/desain-undangan-digital/"
+        class="hidden sm:inline-flex items-center gap-2 px-6 py-3 border border-[#B59A73]/30 text-soft-gold text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-[#fff8ec]/20 hover:border-soft-gold transition-all duration-300 whitespace-nowrap"
+      >
         Lihat Semua
         <Icon name="arrow-right" size={12} />
       </a>
     </div>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 stagger">
-      {featuredDesigns.map((design) => (
-        <DesignCard design={design} />
-      ))}
+      {featuredDesigns.map((design) => <DesignCard design={design} />)}
     </div>
 
     <div class="sm:hidden mt-10 text-center">
-      <a href="/desain-undangan-digital/"
-        class="inline-flex items-center gap-2 px-8 py-3.5 border border-[#B59A73]/30 text-soft-gold text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-[#fff8ec]/20 hover:border-soft-gold transition-all duration-300">
+      <a
+        href="/desain-undangan-digital/"
+        class="inline-flex items-center gap-2 px-8 py-3.5 border border-[#B59A73]/30 text-soft-gold text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-[#fff8ec]/20 hover:border-soft-gold transition-all duration-300"
+      >
         Lihat Semua Desain
         <Icon name="arrow-right" size={12} />
       </a>

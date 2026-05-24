@@ -1,43 +1,67 @@
 ---
-import Container from '../base/Container.astro';
-import Icon from '../ui/Icon.astro';
-import { createWhatsappUrl } from '../../lib/whatsapp/create-whatsapp-url';
+import Container from "../base/Container.astro";
+import Icon from "../ui/Icon.astro";
+import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
 ---
 
-<section class="relative py-24 lg:py-40 bg-cream overflow-hidden" id="final-cta">
+<section
+  class="relative py-24 lg:py-40 bg-cream overflow-hidden"
+  id="final-cta"
+>
   <!-- Large decorative ampersand (Kinto signature) -->
-  <div class="absolute inset-0 flex items-center justify-center pointer-events-none select-none">
-    <span class="font-serif text-[20rem] sm:text-[28rem] lg:text-[36rem] text-champagne/[0.06] italic font-light leading-none">&</span>
+  <div
+    class="absolute inset-0 flex items-center justify-center pointer-events-none select-none"
+  >
+    <span
+      class="font-serif text-[20rem] sm:text-[28rem] lg:text-[36rem] text-champagne/[0.06] italic font-light leading-none"
+      >&</span
+    >
   </div>
 
   <Container>
     <div class="relative text-center max-w-2xl mx-auto space-y-8">
-      
-      <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Mulai Sekarang</span>
+      <span
+        class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold"
+        >Mulai Sekarang</span
+      >
 
-      <h2 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-[1.08] tracking-tight">
-        Siap membuat undangan digital<br class="hidden sm:block" />
-        untuk momen <span class="italic font-normal text-soft-gold">terindah Anda?</span>
+      <h2
+        class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-[1.08] tracking-tight"
+      >
+        Siap Membuat Undangan Digital<br class="hidden sm:block" />
+        untuk Momen <span class="italic font-normal text-soft-gold"
+          >Terindah Anda?</span
+        >
       </h2>
-      
-      <p class="text-text-secondary text-base leading-relaxed max-w-md mx-auto font-sans tracking-wide">
-        Pilih ratusan template eksklusif kami atau wujudkan undangan kustom impian Anda bersama desainer profesional kami.
+
+      <p
+        class="text-text-secondary text-base leading-relaxed max-w-md mx-auto font-sans tracking-wide"
+      >
+        Pilih ratusan template eksklusif kami atau wujudkan undangan kustom
+        impian Anda bersama desainer profesional kami.
       </p>
 
-      <div class="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
-        <a href="/desain-undangan-digital/"
+      <div
+        class="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4"
+      >
+        <a
+          href="/desain-undangan-digital/"
           class="px-8 py-4 bg-brand-950 text-cream text-[11px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-900 transition-all duration-300 shadow-card hover:shadow-card-hover active:scale-[0.98]"
-          id="final-cta-designs">
+          id="final-cta-designs"
+        >
           Lihat Desain
         </a>
-        <a href={createWhatsappUrl()} target="_blank" rel="noopener noreferrer"
+        <a
+          href={createWhatsappUrl()}
+          target="_blank"
+          rel="noopener noreferrer"
           class="px-8 py-4 border border-brand-300/80 text-brand-800 text-[11px] font-bold uppercase tracking-widest rounded-full hover:bg-white hover:border-brand-500 transition-all duration-300 flex items-center gap-2"
-          id="final-cta-whatsapp">
+          id="final-cta-whatsapp"
+        >
           <Icon name="whatsapp" size={14} class="text-[#25D366]" />
           Order via WhatsApp
         </a>
       </div>
-      
     </div>
   </Container>
 </section>
