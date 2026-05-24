@@ -2,7 +2,7 @@
 title: Rekomendasi Tanggal Cantik & Baik untuk Menikah Tahun 2027
 description: Rekomendasi tanggal yang baik untuk menikah 2027 berdasarkan akhir pekan, tanggal cantik, musim acara, dan pertimbangan weton agar persiapan akad serta resepsi lebih matang.
 publishedAt: 2026-05-25T06:22:00
-updatedAt: ''
+updatedAt: 2026-05-25T06:29:00
 author: indira
 category: Perencanaan
 tags:
