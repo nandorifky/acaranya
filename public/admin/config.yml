@@ -48,7 +48,7 @@ collections:
               - { label: "Icon Name (Lucide)", name: "icon", widget: "string", description: "Contoh: check-circle, zap, shield-check" }
       - { label: "Custom CTA Title", name: "ctaTitle", widget: "string", required: false }
       - { label: "Custom CTA Subtitle", name: "ctaSubtitle", widget: "text", required: false }
-      - { label: "Konten SEO (Body)", name: "body", widget: "markdown" }
+      - { label: "Konten SEO (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
 
   - name: "designs"
     label: "Katalog Desain"
@@ -99,7 +99,7 @@ collections:
       - { label: "Custom Breadcrumb Label (Optional)", name: "customBreadcrumbLabel", widget: "string", required: false }
       - { label: "Canonical URL (Optional)", name: "canonicalUrl", widget: "string", required: false }
       - { label: "Noindex Tag? (Sembunyikan dari Google)", name: "noindex", widget: "boolean", default: false }
-      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown" }
+      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
 
 
   - name: "testimonials"
@@ -176,4 +176,4 @@ collections:
       - { label: "Skema: Kategori Aplikasi", name: "schemaApplicationCategory", widget: "string", default: "WebApplication", required: false }
       - { label: "Skema: Harga (0 jika gratis)", name: "schemaOffersPrice", widget: "string", default: "0", required: false }
       - { label: "Skema: Mata Uang (IDR dll)", name: "schemaOffersPriceCurrency", widget: "string", default: "IDR", required: false }
-      - { label: "Isi Konten Artikel Panduan (Body)", name: "body", widget: "markdown" }
+      - { label: "Isi Konten Artikel Panduan (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
