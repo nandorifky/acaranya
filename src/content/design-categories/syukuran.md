@@ -9,8 +9,22 @@ sortOrder: 6
 status: published
 heroTitle: Gelar Syukuran dengan Penuh Kehangatan
 heroSubtitle: Sampaikan undangan tasyakuran Anda dengan bahasa yang santun dan tampilan visual yang berkelas.
+whyChooseUs:
+  title: Praktis untuk Segala Jenis Syukuran
+  subtitle: Memberikan kemudahan bagi Anda untuk mengumpulkan kerabat dalam momen penuh rasa syukur.
+  features:
+    - title: Serbaguna (Versatile)
+      description: Desain yang fleksibel untuk berbagai acara, mulai dari pindah rumah hingga syukuran kelancaran usaha.
+      icon: zap
+    - title: Bahasa yang Santun
+      description: Pilihan teks pengantar yang formal dan menghormati, cocok untuk segala kalangan usia tamu.
+      icon: message-circle
+    - title: Monitoring Tamu Akurat
+      description: Pastikan kapasitas ruangan dan konsumsi cukup dengan fitur konfirmasi kehadiran digital.
+      icon: clipboard-list
+    - title: Akses Peta Langsung
+      description: Hindari tamu tersasar dengan fitur navigasi langsung menuju lokasi rumah atau venue acara.
+      icon: map-pin
 ---
 
-Apapun alasan kebahagiaan Anda, bagikan kabar tersebut melalui undangan digital syukuran yang praktis. Cocok untuk acara pindah rumah, syukuran kehamilan (mitoni), hingga acara doa bersama keluarga besar.
-
-Format digital mempermudah Anda memantau jumlah tamu yang akan hadir melalui fitur **RSVP Real-time**, sehingga persiapan konsumsi menjadi lebih terukur.
+Tulis konten SEO Anda di sini melalui Sveltia CMS...

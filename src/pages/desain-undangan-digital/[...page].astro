@@ -1,0 +1,142 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import DesignCard from '../../components/designs/DesignCard.astro';
+import Icon from '../../components/ui/Icon.astro';
+import Pagination from '../../components/ui/Pagination.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../../data/site';
+
+export async function getStaticPaths({ paginate }) {
+  const allDesigns = await getCollection('designs');
+  const publishedDesigns = allDesigns
+    .filter(d => d.data.status === 'published')
+    .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+  return paginate(publishedDesigns, { pageSize: 12 });
+}
+
+const { page } = Astro.props;
+
+const allCategories = await getCollection('designCategories');
+const publishedCategories = allCategories
+  .filter(c => c.data.status === 'published')
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const isFirstPage = page.currentPage === 1;
+const baseUrl = '/desain-undangan-digital/';
+const canonicalUrl = isFirstPage 
+  ? `${siteConfig.url}${baseUrl}`
+  : `${siteConfig.url}${baseUrl}`;
+---
+
+<MarketingLayout
+  title={isFirstPage ? "Katalog Desain Undangan Digital Premium | Acaranya.id" : `Katalog Desain - Halaman ${page.currentPage} | ${siteConfig.name}`}
+  description="Pilih template undangan digital mewah untuk berbagai acara spesial Anda. Desain estetik, modern, dan profesional."
+  canonical={canonicalUrl}
+>
+  <!-- Hero Section -->
+  <header class:list={["relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden", !isFirstPage && "lg:pt-28 lg:pb-12"]}>
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl space-y-6">
+        <div class="flex items-center gap-2">
+          <div class="w-8 h-8 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold">
+            <Icon name="palette" size={13} />
+          </div>
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Showroom Katalog</span>
+        </div>
+
+        {isFirstPage ? (
+          <>
+            <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+              Koleksi desain dengan <br class="hidden sm:block" />
+              <span class="italic font-normal text-soft-gold">estetika butik mewah</span>
+            </h1>
+            <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+              Setiap template dirancang secara personal dengan detail hairline border, tipografi serif eksklusif, dan komposisi visual kelas tinggi.
+            </p>
+          </>
+        ) : (
+          <div class="space-y-2">
+            <p class="font-serif text-3xl text-brand-950">
+              Semua Desain <span class="text-soft-gold italic">— Halaman {page.currentPage}</span>
+            </p>
+            <p class="text-xs text-text-muted">Jelajahi seluruh koleksi desain undangan digital terbaik kami.</p>
+          </div>
+        )}
+
+        <!-- Dynamic Category Chips -->
+        <nav class="flex flex-wrap gap-2.5 pt-4" aria-label="Filter Kategori">
+          <span class="px-5 py-2.5 bg-brand-950 text-cream text-[9px] font-bold uppercase tracking-widest rounded-full shadow-card">
+            Semua Desain
+          </span>
+          {publishedCategories.map((cat) => (
+            <a
+              href={`/desain-undangan-digital/${cat.id}/`}
+              class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-brand-800 hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card hover:shadow-card-hover"
+            >
+              <Icon name={cat.data.icon} size={11} />
+              {cat.data.labelShort}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </Container>
+  </header>
+
+  <!-- Showroom Grid Results -->
+  <Section bg="white" id="showroom-results" class="border-t border-border-soft/60">
+    <Container>
+      <div class="flex items-center justify-between mb-8 border-b border-border-soft/30 pb-4">
+        <p class="text-[11px] font-sans font-semibold uppercase tracking-widest text-text-muted">
+          Menampilkan <span class="text-brand-950 font-bold">{page.start + 1} - {page.end + 1}</span> dari <span class="text-brand-950 font-bold">{page.total}</span> Desain Eksklusif
+        </p>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 stagger">
+        {page.data.map((design) => (
+          <DesignCard design={design} />
+        ))}
+      </div>
+
+      <Pagination page={page} baseUrl={baseUrl} />
+    </Container>
+  </Section>
+
+  {isFirstPage && (
+    <!-- Premium Bottom Banner (SEO Copywriting) -->
+    <Section bg="cream" class="border-t border-border-soft/60">
+      <Container narrow>
+        <div class="space-y-6 text-center max-w-2xl mx-auto">
+          <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Kualitas Seni</span>
+          <h2 class="font-serif text-3xl text-brand-950 leading-tight">
+            Menghadirkan pesona artistik ke dalam undangan digital Anda
+          </h2>
+          <div class="text-text-secondary text-sm leading-relaxed space-y-4 font-sans tracking-wide">
+            <p>Acaranya.id berkomitmen penuh menyediakan template undangan digital premium yang tidak hanya praktis tetapi juga menakjubkan secara visual. Kami menjamin setiap template dirancang secara teliti, responsif di semua browser, serta sangat ringan untuk diakses.</p>
+          </div>
+          
+          <div class="pt-8 border-t border-border-soft/40">
+            <div class="space-y-4">
+              <h3 class="font-serif text-2xl text-brand-950">Tertarik membuat undangan digital?</h3>
+              <p class="text-sm text-text-secondary max-w-md mx-auto">Lihat koleksi desain eksklusif kami dan miliki undangan mewah dalam hitungan jam.</p>
+              <div class="pt-2 flex flex-wrap justify-center items-center gap-3">
+                {publishedCategories.slice(0, 4).map((cat) => (
+                  <a href={`/desain-undangan-digital/${cat.id}/`} class="text-[11px] font-sans font-semibold tracking-wider text-soft-gold hover:text-brand-950 underline underline-offset-4 decoration-soft-gold/30 hover:decoration-brand-950 transition-all">
+                    Undangan {cat.data.title}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </Container>
+    </Section>
+  )}
+</MarketingLayout>

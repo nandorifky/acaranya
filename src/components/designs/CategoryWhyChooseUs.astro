@@ -1,0 +1,93 @@
+---
+import Icon from '../ui/Icon.astro';
+import { Image } from 'astro:assets';
+
+interface Props {
+  data: {
+    title?: string;
+    subtitle?: string;
+    image?: string;
+    features?: Array<{
+      title: string;
+      description: string;
+      icon: string;
+    }>;
+  };
+}
+
+const { data } = Astro.props;
+
+if (!data || !data.features || data.features.length === 0) {
+  return null;
+}
+---
+
+<div class="py-20 lg:py-28 overflow-hidden bg-cream/30">
+  <div class="max-w-6xl mx-auto px-6">
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
+      
+      <!-- Left: Content & Features -->
+      <div class="lg:col-span-7 space-y-12">
+        <div class="space-y-4">
+          <span class="text-[10px] uppercase tracking-[0.25em] text-soft-gold font-bold block">Exclusive Benefits</span>
+          <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight">
+            {data.title || 'Kenapa Memilih Acaranya.id?'}
+          </h2>
+          {data.subtitle && (
+            <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+              {data.subtitle}
+            </p>
+          )}
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-10">
+          {data.features.map((feature) => (
+            <div class="group">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-10 h-10 rounded-full bg-white border border-brand-100 flex items-center justify-center text-brand-700 shadow-sm group-hover:border-soft-gold/50 group-hover:bg-brand-50 transition-all duration-300">
+                  <Icon name={feature.icon} size={16} />
+                </div>
+                <h3 class="font-serif text-[17px] font-semibold text-brand-950">{feature.title}</h3>
+              </div>
+              <p class="text-text-muted text-[13px] leading-relaxed pl-[3.25rem]">
+                {feature.description}
+              </p>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- Right: Aesthetic Image -->
+      <div class="lg:col-span-5 relative">
+        <div class="relative z-10 rounded-[2.5rem] overflow-hidden shadow-elevated border-8 border-white/50 aspect-[4/5]">
+          {data.image ? (
+            <Image 
+              src={data.image} 
+              alt={data.title || 'Why Choose Us'} 
+              width={600} 
+              height={750} 
+              class="w-full h-full object-cover"
+            />
+          ) : (
+            <div class="w-full h-full bg-gradient-to-br from-brand-100 to-cream flex items-center justify-center p-12 text-center">
+              <div class="space-y-4">
+                <Icon name="gem" size={40} class="mx-auto text-soft-gold/40" />
+                <p class="font-serif text-xl italic text-brand-900 opacity-40">Luxury Aesthetic</p>
+              </div>
+            </div>
+          )}
+          
+          <!-- Decorative accent -->
+          <div class="absolute bottom-6 right-6 w-20 h-20 border-r border-b border-white/40 rounded-br-2xl"></div>
+        </div>
+
+        <!-- Floating Badge -->
+        <div class="absolute -bottom-6 -left-6 z-20 bg-brand-950 text-cream p-6 rounded-2xl shadow-card max-w-[180px] hidden sm:block">
+          <Icon name="check-circle" size={24} class="text-soft-gold mb-3" />
+          <p class="text-[11px] font-bold uppercase tracking-widest leading-tight">Terpercaya & Berpengalaman</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

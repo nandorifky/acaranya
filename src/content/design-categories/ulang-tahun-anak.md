@@ -9,8 +9,22 @@ sortOrder: 3
 status: published
 heroTitle: Momen Ceria untuk Buah Hati Tersayang
 heroSubtitle: Buat pesta ulang tahun si kecil tak terlupakan dengan undangan digital yang lucu dan penuh karakter.
+whyChooseUs:
+  title: Kebahagiaan Buah Hati Dimulai dari Sini
+  subtitle: Undangan penuh warna yang dirancang khusus untuk menceriakan hari spesial si kecil.
+  features:
+    - title: Tema Karakter Lucu
+      description: Beragam pilihan ilustrasi hewan, kartun, dan warna-warni ceria yang disukai anak-anak.
+      icon: sparkles
+    - title: Galeri Foto Menggemaskan
+      description: Tampilkan foto-foto lucu si kecil dalam balutan desain yang artistik dan rapi.
+      icon: image
+    - title: Navigasi Lokasi Akurat
+      description: Memudahkan teman-teman sekolah dan keluarga menemukan lokasi pesta tanpa tersesat.
+      icon: map-pin
+    - title: RSVP Mudah bagi Orang Tua
+      description: Pantau jumlah teman-teman yang akan hadir secara praktis melalui sistem konfirmasi otomatis.
+      icon: check-circle
 ---
 
-Rayakan setiap tumbuh kembang putra-putri Anda dengan penuh sukacita. Koleksi undangan digital ulang tahun anak kami hadir dengan ilustrasi yang menggemaskan dan skema warna yang membangkitkan kebahagiaan.
-
-Mudahkan teman-teman sekolah dan keluarga untuk melakukan **Konfirmasi Kehadiran (RSVP)** dan temukan lokasi pesta dengan **Integrasi Peta** yang akurat.
+Tulis konten SEO Anda di sini melalui Sveltia CMS...

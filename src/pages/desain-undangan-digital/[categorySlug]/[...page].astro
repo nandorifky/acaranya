@@ -1,0 +1,201 @@
+---
+import MarketingLayout from '../../../layouts/MarketingLayout.astro';
+import Container from '../../../components/base/Container.astro';
+import Section from '../../../components/base/Section.astro';
+import DesignCard from '../../../components/designs/DesignCard.astro';
+import CategoryWhyChooseUs from '../../../components/designs/CategoryWhyChooseUs.astro';
+import Icon from '../../../components/ui/Icon.astro';
+import Pagination from '../../../components/ui/Pagination.astro';
+import { getCollection, render } from 'astro:content';
+import { siteConfig } from '../../../data/site';
+
+export async function getStaticPaths({ paginate }) {
+  const categories = await getCollection('designCategories');
+  const publishedCategories = categories.filter(c => c.data.status === 'published');
+  
+  const allDesigns = await getCollection('designs');
+  const publishedDesigns = allDesigns.filter(d => d.data.status === 'published');
+
+  return publishedCategories.flatMap((category) => {
+    const categoryDesigns = publishedDesigns
+      .filter(d => d.data.category === category.id)
+      .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+    
+    return paginate(categoryDesigns, {
+      params: { categorySlug: category.id },
+      props: { category },
+      pageSize: 10,
+    });
+  });
+}
+
+const { page, category } = Astro.props;
+const { categorySlug } = Astro.params;
+const { Content } = await render(category);
+
+const allCategories = await getCollection('designCategories');
+const publishedCategories = allCategories
+  .filter(c => c.data.status === 'published')
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const isFirstPage = page.currentPage === 1;
+const baseUrl = `/desain-undangan-digital/${categorySlug}/`;
+const canonicalUrl = isFirstPage 
+  ? `${siteConfig.url}${baseUrl}`
+  : `${siteConfig.url}${baseUrl}`; // SEO: Subsequent pages also canonical to page 1
+
+// SEO: Noindex for pages > 1 to avoid thin content issues, or just follow. 
+// Standard SEO practice is to keep them indexable but canonical to page 1.
+---
+
+<MarketingLayout
+  title={isFirstPage ? category.data.metaTitle : `${category.data.title} - Halaman ${page.currentPage} | ${siteConfig.name}`}
+  description={category.data.metaDescription}
+  canonical={canonicalUrl}
+>
+  <!-- Category Header -->
+  <header class:list={["relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden", !isFirstPage && "lg:pt-28 lg:pb-12"]}>
+    <!-- Subtle Background Dot Pattern -->
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl space-y-6">
+        <div class="flex items-center gap-2">
+          <div class="w-8 h-8 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold">
+            <Icon name={category.data.icon} size={13} />
+          </div>
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Kategori {category.data.title}</span>
+        </div>
+
+        {isFirstPage ? (
+          <>
+            <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+              {category.data.heroTitle || (
+                <>
+                  Pilihan eksklusif undangan <br class="hidden sm:block" />
+                  <span class="italic font-normal text-soft-gold">{category.data.title.toLowerCase()}</span>
+                </>
+              )}
+            </h1>
+            <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+              {category.data.heroSubtitle || category.data.description}
+            </p>
+          </>
+        ) : (
+          <div class="space-y-2">
+            <p class="font-serif text-3xl text-brand-950">
+              Katalog {category.data.title} <span class="text-soft-gold italic">— Halaman {page.currentPage}</span>
+            </p>
+            <p class="text-xs text-text-muted">Menampilkan pilihan desain terbaik untuk hari spesial Anda.</p>
+          </div>
+        )}
+
+        <!-- Dynamic Capsule Chips (Kinto Style) -->
+        <nav class="flex flex-wrap gap-2.5 pt-4" aria-label="Navigasi Kategori Desain">
+          <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-[#B59A73] hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card">
+            <Icon name="arrow-right" size={10} class="rotate-180" /> Semua Desain
+          </a>
+          {publishedCategories.map((cat) => (
+            <a
+              href={`/desain-undangan-digital/${cat.id}/`}
+              class:list={[
+                'inline-flex items-center gap-2 px-5 py-2.5 text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card',
+                cat.id === categorySlug
+                  ? 'bg-brand-950 text-cream border border-brand-950'
+                  : 'bg-white border border-[#B59A73]/20 hover:border-soft-gold text-brand-800 hover:text-soft-gold hover:shadow-card-hover'
+              ]}
+            >
+              <Icon name={cat.data.icon} size={11} />
+              {cat.data.labelShort}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </Container>
+  </header>
+
+  <!-- Showroom Results Section -->
+  <Section bg="white" id="category-results" class="border-t border-border-soft/60">
+    <Container>
+      {page.data.length > 0 ? (
+        <>
+          <div class="flex items-center justify-between mb-8 border-b border-border-soft/30 pb-4">
+            <p class="text-[11px] font-sans font-semibold uppercase tracking-widest text-text-muted">
+              Menampilkan <span class="text-brand-950 font-bold">{page.start + 1} - {page.end + 1}</span> dari <span class="text-brand-950 font-bold">{page.total}</span> Desain {category.data.title}
+            </p>
+          </div>
+
+          <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 stagger">
+            {page.data.map((design) => (
+              <DesignCard design={design} />
+            ))}
+          </div>
+
+          <Pagination page={page} baseUrl={baseUrl} />
+        </>
+      ) : (
+        <div class="text-center py-24 max-w-md mx-auto space-y-6">
+          <div class="w-16 h-16 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold mx-auto bg-cream">
+            <Icon name="palette" size={24} />
+          </div>
+          <div class="space-y-2">
+            <h3 class="font-serif text-2xl text-brand-950">Katalog Belum Tersedia</h3>
+            <p class="text-xs text-text-muted font-sans tracking-wide leading-relaxed">
+              Template khusus untuk kategori {category.data.title} sedang dirancang secara personal oleh desainer kami.
+            </p>
+          </div>
+          <div class="pt-2">
+            <a href={`/order-undangan/?category=${categorySlug}&request=custom`} class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-all duration-300 shadow-card">
+              Request Desain Custom
+              <Icon name="arrow-right" size={12} />
+            </a>
+          </div>
+        </div>
+      )}
+    </Container>
+  </Section>
+
+  {isFirstPage && (
+    <>
+      <!-- Why Choose Us Section -->
+      <section id="why-choose-us">
+        <CategoryWhyChooseUs data={category.data.whyChooseUs || {}} />
+      </section>
+
+      <!-- Article SEO Content Section -->
+      <article class="bg-white border-t border-border-soft/60">
+        <Section>
+          <Container narrow>
+            <div class="space-y-12">
+              <!-- The actual long-form informative content -->
+              <div class="prose max-w-none prose-brand mx-auto">
+                <Content />
+              </div>
+
+              <!-- CTA Footer within the Article Context -->
+              <footer class="pt-12 border-t border-border-soft/40 text-center">
+                <div class="space-y-4">
+                  <h3 class="font-serif text-2xl text-brand-950">
+                    {category.data.ctaTitle || 'Tertarik membuat undangan digital?'}
+                  </h3>
+                  <p class="text-sm text-text-secondary max-w-md mx-auto">
+                    {category.data.ctaSubtitle || 'Lihat koleksi desain eksklusif kami dan miliki undangan mewah dalam hitungan jam.'}
+                  </p>
+                  <div class="pt-2 flex flex-wrap justify-center items-center gap-3">
+                    <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-900 text-white text-[11px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-all duration-300 shadow-card">
+                      Lihat Semua Desain
+                      <Icon name="arrow-right" size={12} />
+                    </a>
+                  </div>
+                </div>
+              </footer>
+            </div>
+          </Container>
+        </Section>
+      </article>
+    </>
+  )}
+</MarketingLayout>

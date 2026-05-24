@@ -9,8 +9,22 @@ sortOrder: 8
 status: published
 heroTitle: Kedamaian Natal dalam Balutan Digital
 heroSubtitle: Sebarkan sukacita Natal kepada orang-orang terkasih dengan undangan yang hangat dan penuh kasih.
+whyChooseUs:
+  title: Hangatnya Natal dalam Genggaman
+  subtitle: Menyebarkan kabar gembira malam Natal dengan sentuhan visual yang indah dan berkesan.
+  features:
+    - title: Ornamen Musim Dingin
+      description: Koleksi tema dengan detail snowflake, pine tree, dan palet warna merah-hijau yang ikonik.
+      icon: snowflake
+    - title: Musik Natal Syahdu
+      description: Lengkapi undangan dengan lagu-lagu Natal favorit untuk membangun suasana sejak awal.
+      icon: music
+    - title: Fitur RSVP Terintegrasi
+      description: Memudahkan panitia atau tuan rumah mengatur logistik dan bingkisan Natal sesuai jumlah tamu.
+      icon: check-circle
+    - title: Ramah Lingkungan
+      description: Rayakan Natal dengan lebih bijak tanpa limbah kertas, sejalan dengan semangat kelestarian bumi.
+      icon: sparkles
 ---
 
-Momen Natal adalah saat yang tepat untuk berkumpul dan berbagi kasih. Undangan digital Natal kami hadir dengan tema musim dingin yang estetik, ornamen khas yang cantik, dan fitur pengingat acara otomatis.
-
-Gunakan **Backsound Lagu Natal** pilihan untuk menambah nuansa syahdu saat tamu membuka tautan undangan Anda melalui ponsel mereka.
+Tulis konten SEO Anda di sini melalui Sveltia CMS...

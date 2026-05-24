@@ -9,8 +9,22 @@ sortOrder: 4
 status: published
 heroTitle: Tasyakuran Khitanan Penuh Keberkahan
 heroSubtitle: Bagikan kabar bahagia khitanan putra Anda dengan undangan digital yang rapi dan elegan.
+whyChooseUs:
+  title: Memuliakan Tradisi dengan Teknologi
+  subtitle: Solusi tasyakuran khitan yang praktis namun tetap khidmat dan penuh nilai islami.
+  features:
+    - title: Nuansa Islami Modern
+      description: Desain yang menggabungkan elemen ornamen islami dengan tata letak yang bersih dan rapi.
+      icon: gem
+    - title: Fitur Doa Restu
+      description: Kolom khusus bagi tamu untuk memberikan ucapan doa selamat bagi putra yang dikhitan.
+      icon: message-square-quote
+    - title: Pengelolaan Tamu Efisien
+      description: Manajemen data tamu yang lebih tertata dengan fitur konfirmasi kehadiran secara real-time.
+      icon: users
+    - title: Hemat Biaya & Waktu
+      description: Tanpa biaya cetak dan kirim, undang seluruh keluarga besar cukup melalui media digital.
+      icon: wallet
 ---
 
-Momen khitanan adalah salah satu tahapan penting dalam syariat. Kami menyediakan desain undangan digital khusus tasyakuran khitan yang memadukan nilai tradisi dengan efisiensi teknologi modern.
-
-Dilengkapi dengan kolom **Ucapan Doa** dari para tamu serta **QR Code Check-in** untuk memudahkan manajemen kehadiran tamu undangan di lokasi acara.
+Tulis konten SEO Anda di sini melalui Sveltia CMS...

@@ -3,6 +3,7 @@ import MarketingLayout from '../../layouts/MarketingLayout.astro';
 import Container from '../../components/base/Container.astro';
 import Section from '../../components/base/Section.astro';
 import DesignCard from '../../components/designs/DesignCard.astro';
+import CategoryWhyChooseUs from '../../components/designs/CategoryWhyChooseUs.astro';
 import Icon from '../../components/ui/Icon.astro';
 import { getCollection, render } from 'astro:content';
 import { pricingPlans } from '../../data/pricing-static';
@@ -36,8 +37,8 @@ const categoryDesigns = allDesigns
   title={category.data.metaTitle}
   description={category.data.metaDescription}
 >
-  <!-- Category Hero -->
-  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
+  <!-- Category Header -->
+  <header class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
     <!-- Subtle Background Dot Pattern -->
     <div 
       class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
@@ -66,7 +67,7 @@ const categoryDesigns = allDesigns
         </p>
 
         <!-- Dynamic Capsule Chips (Kinto Style) -->
-        <div class="flex flex-wrap gap-2.5 pt-4">
+        <nav class="flex flex-wrap gap-2.5 pt-4" aria-label="Navigasi Kategori Desain">
           <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-[#B59A73] hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card">
             <Icon name="arrow-right" size={10} class="rotate-180" /> Semua Desain
           </a>
@@ -84,12 +85,12 @@ const categoryDesigns = allDesigns
               {cat.data.labelShort}
             </a>
           ))}
-        </div>
+        </nav>
       </div>
     </Container>
-  </section>
+  </header>
 
-  <!-- Showroom Results -->
+  <!-- Showroom Results Section -->
   <Section bg="white" id="category-results" class="border-t border-border-soft/60">
     <Container>
       {categoryDesigns.length > 0 ? (
@@ -112,14 +113,15 @@ const categoryDesigns = allDesigns
             <Icon name="palette" size={24} />
           </div>
           <div class="space-y-2">
-            <h3 class="font-serif text-2xl text-brand-950">Desain Segera Hadir</h3>
+            <h3 class="font-serif text-2xl text-brand-950">Katalog Belum Tersedia</h3>
             <p class="text-xs text-text-muted font-sans tracking-wide leading-relaxed">
               Template khusus untuk kategori {category.data.title} sedang dirancang secara personal oleh desainer kami.
             </p>
           </div>
           <div class="pt-2">
-            <a href="/order-undangan/?notes=Request+Custom+Design+Kategori" class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-950 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-900 transition-all duration-300 shadow-card">
+            <a href={`/order-undangan/?category=${category.id}&request=custom`} class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-all duration-300 shadow-card">
               Request Desain Custom
+              <Icon name="arrow-right" size={12} />
             </a>
           </div>
         </div>
@@ -127,35 +129,40 @@ const categoryDesigns = allDesigns
     </Container>
   </Section>
 
-  <!-- Premium Bottom Banner -->
-  <Section bg="cream" class="border-t border-border-soft/60">
-    <Container narrow>
-      <div class="space-y-6 text-center max-w-2xl mx-auto">
-        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">
-          Kenapa Memilih Kami?
-        </span>
-        
-        <div class="prose max-w-none prose-brand text-center">
-          <Content />
-        </div>
+  <!-- Why Choose Us Section -->
+  <section id="why-choose-us">
+    <CategoryWhyChooseUs data={category.data.whyChooseUs || {}} />
+  </section>
 
-        <div class="pt-8 border-t border-border-soft/40">
-          <div class="space-y-4">
-            <h3 class="font-serif text-2xl text-brand-950">
-              {category.data.ctaTitle || 'Tertarik membuat undangan digital?'}
-            </h3>
-            <p class="text-sm text-text-secondary max-w-md mx-auto">
-              {category.data.ctaSubtitle || 'Lihat koleksi desain eksklusif kami dan miliki undangan mewah dalam hitungan jam.'}
-            </p>
-            <div class="pt-2">
-              <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-900 text-white text-[11px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-all duration-300 shadow-card">
-                Lihat Semua Desain
-                <Icon name="arrow-right" size={12} />
-              </a>
-            </div>
+  <!-- Article SEO Content Section -->
+  <article class="bg-white border-t border-border-soft/60">
+    <Section>
+      <Container narrow>
+        <div class="space-y-12">
+          <!-- The actual long-form informative content -->
+          <div class="prose max-w-none prose-brand mx-auto">
+            <Content />
           </div>
+
+          <!-- CTA Footer within the Article Context -->
+          <footer class="pt-12 border-t border-border-soft/40 text-center">
+            <div class="space-y-4">
+              <h3 class="font-serif text-2xl text-brand-950">
+                {category.data.ctaTitle || 'Tertarik membuat undangan digital?'}
+              </h3>
+              <p class="text-sm text-text-secondary max-w-md mx-auto">
+                {category.data.ctaSubtitle || 'Lihat koleksi desain eksklusif kami dan miliki undangan mewah dalam hitungan jam.'}
+              </p>
+              <div class="pt-2 flex flex-wrap justify-center items-center gap-3">
+                <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-900 text-white text-[11px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-all duration-300 shadow-card">
+                  Lihat Semua Desain
+                  <Icon name="arrow-right" size={12} />
+                </a>
+              </div>
+            </div>
+          </footer>
         </div>
-      </div>
-    </Container>
-  </Section>
+      </Container>
+    </Section>
+  </article>
 </MarketingLayout>

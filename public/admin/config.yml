@@ -30,6 +30,22 @@ collections:
       - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
       - { label: "Custom Hero Title (H1)", name: "heroTitle", widget: "string", required: false }
       - { label: "Custom Hero Subtitle", name: "heroSubtitle", widget: "text", required: false }
+      - label: "Bagian Kenapa Memilih Kami (Opsional)"
+        name: "whyChooseUs"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Judul Bagian", name: "title", widget: "string", required: false }
+          - { label: "Sub-judul", name: "subtitle", widget: "text", required: false }
+          - { label: "Gambar Placeholder", name: "image", widget: "image", required: false }
+          - label: "Daftar Keunggulan"
+            name: "features"
+            widget: "list"
+            required: false
+            fields:
+              - { label: "Judul Keunggulan", name: "title", widget: "string" }
+              - { label: "Deskripsi", name: "description", widget: "text" }
+              - { label: "Icon Name (Lucide)", name: "icon", widget: "string", description: "Contoh: check-circle, zap, shield-check" }
       - { label: "Custom CTA Title", name: "ctaTitle", widget: "string", required: false }
       - { label: "Custom CTA Subtitle", name: "ctaSubtitle", widget: "text", required: false }
       - { label: "Konten SEO (Body)", name: "body", widget: "markdown" }

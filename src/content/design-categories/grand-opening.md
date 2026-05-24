@@ -9,8 +9,22 @@ sortOrder: 10
 status: published
 heroTitle: Sukseskan Pembukaan Bisnis Baru Anda
 heroSubtitle: Perkenalkan toko, restoran, atau kantor baru Anda dengan undangan digital yang mengundang antusiasme publik.
+whyChooseUs:
+  title: Langkah Awal yang Mengesankan
+  subtitle: Ciptakan antusiasme dan pastikan kunjungan maksimal di hari pembukaan bisnis baru Anda.
+  features:
+    - title: Promo & Voucher Digital
+      description: Masukkan kode promo atau voucher spesial di dalam undangan untuk menarik minat kedatangan tamu.
+      icon: zap
+    - title: Navigasi Peta Langsung
+      description: Pastikan pelanggan tidak tersasar dengan fitur link langsung menuju lokasi bisnis baru Anda.
+      icon: map-pin
+    - title: Desain Profesional
+      description: Tingkatkan citra bisnis sejak hari pertama dengan undangan yang tampak solid dan kredibel.
+      icon: gem
+    - title: Distribusi Luas & Cepat
+      description: Sebarkan kabar pembukaan ke database pelanggan melalui pesan singkat dengan jangkauan tak terbatas.
+      icon: send
 ---
 
-Langkah awal bisnis Anda sangat menentukan. Pastikan semua relasi dan calon pelanggan tahu mengenai pembukaan bisnis Anda melalui undangan digital *Grand Opening* yang informatif.
-
-Sertakan **Voucher Promo Digital** di dalam undangan untuk menarik minat kunjungan dan pastikan tamu tidak tersasar dengan fitur **Peta Navigasi Langsung** ke lokasi bisnis baru Anda.
+Tulis konten SEO Anda di sini melalui Sveltia CMS...
