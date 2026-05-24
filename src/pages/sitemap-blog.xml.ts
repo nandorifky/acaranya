@@ -12,8 +12,8 @@ export const GET: APIRoute = async () => {
     return `  <url>
     <loc>${siteConfig.url}/artikel/${post.id}/</loc>
     <lastmod>${modifiedDate}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
   </url>`;
   }).join('\n');
 
