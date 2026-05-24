@@ -1,0 +1,279 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import DesignCard from '../../components/designs/DesignCard.astro';
+import CategoryWhyChooseUs from '../../components/designs/CategoryWhyChooseUs.astro';
+import Icon from '../../components/ui/Icon.astro';
+import Pagination from '../../components/ui/Pagination.astro';
+import { getCollection, render } from 'astro:content';
+import { siteConfig } from '../../data/site';
+
+export async function getStaticPaths() {
+  const categories = await getCollection('designCategories');
+  const allDesigns = await getCollection('designs');
+  const publishedDesigns = allDesigns
+    .filter(d => d.data.status === 'published')
+    .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+  const pageSize = 6; // Set to 6 to ensure pagination appears for Pernikahan (14 items)
+  const paths = [];
+
+  // Helper to build the pagination object expected by the UI
+  const buildPageObj = (data, page, total, baseUrl) => {
+    const lastPage = Math.ceil(total / pageSize);
+    return {
+      data,
+      start: (page - 1) * pageSize,
+      end: Math.min(page * pageSize - 1, total - 1),
+      total,
+      currentPage: page,
+      size: pageSize,
+      lastPage,
+      url: {
+        current: page === 1 ? baseUrl : `${baseUrl}${page}/`,
+        prev: page > 1 ? (page === 2 ? baseUrl : `${baseUrl}${page - 1}/`) : undefined,
+        next: page < lastPage ? `${baseUrl}${page + 1}/` : undefined,
+      }
+    };
+  };
+
+  // 1. ALL DESIGNS PATHS
+  const totalMain = publishedDesigns.length;
+  const mainLastPage = Math.ceil(totalMain / pageSize);
+  for (let i = 1; i <= mainLastPage; i++) {
+    const data = publishedDesigns.slice((i - 1) * pageSize, i * pageSize);
+    paths.push({
+      params: { path: i === 1 ? undefined : i.toString() },
+      props: { 
+        page: buildPageObj(data, i, totalMain, '/desain-undangan-digital/'),
+        isCategory: false 
+      }
+    });
+  }
+
+  // 2. CATEGORY PATHS
+  for (const cat of categories) {
+    const catDesigns = publishedDesigns.filter(d => d.data.category === cat.id);
+    const totalCat = catDesigns.length;
+    const catLastPage = Math.ceil(totalCat / pageSize) || 1;
+
+    for (let i = 1; i <= catLastPage; i++) {
+      const data = catDesigns.slice((i - 1) * pageSize, i * pageSize);
+      const baseUrl = `/desain-undangan-digital/${cat.id}/`;
+      paths.push({
+        params: { path: i === 1 ? cat.id : `${cat.id}/${i}` },
+        props: { 
+          page: buildPageObj(data, i, totalCat, baseUrl),
+          category: cat,
+          isCategory: true
+        }
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { page, category, isCategory } = Astro.props;
+const { path } = Astro.params;
+
+// Render content if it's a category and we are on page 1
+const Content = isCategory ? (await render(category)).Content : null;
+
+const allCategories = await getCollection('designCategories');
+const publishedCategories = allCategories
+  .filter(c => c.data.status === 'published')
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const isFirstPage = page.currentPage === 1;
+const siteName = siteConfig.name;
+
+// SEO logic
+const title = isCategory 
+  ? (isFirstPage ? category.data.metaTitle : `${category.data.title} - Halaman ${page.currentPage} | ${siteName}`)
+  : (isFirstPage ? "Katalog Desain Undangan Digital Premium | Acaranya.id" : `Semua Desain - Halaman ${page.currentPage} | ${siteName}`);
+
+const description = isCategory ? category.data.metaDescription : "Pilih template undangan digital mewah untuk berbagai acara spesial Anda. Desain estetik, modern, dan profesional.";
+const canonicalUrl = `${siteConfig.url}${page.url.current}`;
+---
+
+<MarketingLayout
+  title={title}
+  description={description}
+  canonical={canonicalUrl}
+>
+  <!-- Unified Hero Section -->
+  <header class:list={["relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden", !isFirstPage && "lg:pt-28 lg:pb-12"]}>
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl space-y-6">
+        <div class="flex items-center gap-2">
+          <div class="w-8 h-8 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold">
+            <Icon name={isCategory ? category.data.icon : "palette"} size={13} />
+          </div>
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">
+            {isCategory ? `Kategori ${category.data.title}` : "Showroom Katalog"}
+          </span>
+        </div>
+
+        {isFirstPage ? (
+          <>
+            <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+              {isCategory ? (category.data.heroTitle || (
+                <>
+                  Pilihan eksklusif undangan <br class="hidden sm:block" />
+                  <span class="italic font-normal text-soft-gold">{category.data.title.toLowerCase()}</span>
+                </>
+              )) : (
+                <>
+                  Koleksi desain dengan <br class="hidden sm:block" />
+                  <span class="italic font-normal text-soft-gold">estetika butik mewah</span>
+                </>
+              )}
+            </h1>
+            <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+              {isCategory ? (category.data.heroSubtitle || category.data.description) : "Setiap template dirancang secara personal dengan detail hairline border, tipografi serif eksklusif, dan komposisi visual kelas tinggi."}
+            </p>
+          </>
+        ) : (
+          <div class="space-y-2">
+            <p class="font-serif text-3xl text-brand-950">
+              {isCategory ? category.data.title : "Semua Desain"} <span class="text-soft-gold italic">— Halaman {page.currentPage}</span>
+            </p>
+            <p class="text-xs text-text-muted">Jelajahi koleksi desain undangan digital terbaik kami.</p>
+          </div>
+        )}
+
+        <!-- Dynamic Category Chips -->
+        <nav class="flex flex-wrap gap-2.5 pt-4" aria-label="Navigasi Kategori">
+          <a 
+            href="/desain-undangan-digital/" 
+            class:list={[
+              "inline-flex items-center gap-2 px-5 py-2.5 text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card",
+              !isCategory ? "bg-brand-950 text-cream" : "bg-white border border-[#B59A73]/20 text-[#B59A73] hover:text-soft-gold"
+            ]}
+          >
+            <Icon name="palette" size={10} class={!isCategory ? "" : "rotate-180"} /> Semua Desain
+          </a>
+          {publishedCategories.map((cat) => (
+            <a
+              href={`/desain-undangan-digital/${cat.id}/`}
+              class:list={[
+                'inline-flex items-center gap-2 px-5 py-2.5 text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card',
+                isCategory && cat.id === category.id
+                  ? 'bg-brand-950 text-cream border border-brand-950'
+                  : 'bg-white border border-[#B59A73]/20 hover:border-soft-gold text-brand-800 hover:text-soft-gold hover:shadow-card-hover'
+              ]}
+            >
+              <Icon name={cat.data.icon} size={11} />
+              {cat.data.labelShort}
+            </a>
+          ))}
+        </nav>
+      </div>
+    </Container>
+  </header>
+
+  <!-- Showroom Results Section -->
+  <Section bg="white" id="showroom-results" class="border-t border-border-soft/60">
+    <Container>
+      {page.data.length > 0 ? (
+        <>
+          <div class="flex items-center justify-between mb-8 border-b border-border-soft/30 pb-4">
+            <p class="text-[11px] font-sans font-semibold uppercase tracking-widest text-text-muted">
+              Menampilkan <span class="text-brand-950 font-bold">{page.start + 1} - {page.end + 1}</span> dari <span class="text-brand-950 font-bold">{page.total}</span> Desain {isCategory ? category.data.title : ""}
+            </p>
+          </div>
+
+          <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 stagger">
+            {page.data.map((design) => (
+              <DesignCard design={design} />
+            ))}
+          </div>
+
+          <Pagination page={page} baseUrl={isCategory ? `/desain-undangan-digital/${category.id}/` : '/desain-undangan-digital/'} />
+        </>
+      ) : (
+        <div class="text-center py-24 max-w-md mx-auto space-y-6">
+          <div class="w-16 h-16 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold mx-auto bg-cream">
+            <Icon name="palette" size={24} />
+          </div>
+          <div class="space-y-2">
+            <h3 class="font-serif text-2xl text-brand-950">Katalog Belum Tersedia</h3>
+            <p class="text-xs text-text-muted font-sans tracking-wide leading-relaxed">
+              Template khusus untuk kategori {isCategory ? category.data.title : ""} sedang dirancang secara personal oleh desainer kami.
+            </p>
+          </div>
+          <div class="pt-2">
+            <a href={`/order-undangan/?category=${isCategory ? category.id : "all"}&request=custom`} class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-all duration-300 shadow-card">
+              Request Desain Custom
+              <Icon name="arrow-right" size={12} />
+            </a>
+          </div>
+        </div>
+      )}
+    </Container>
+  </Section>
+
+  {isFirstPage && (
+    <>
+      <!-- Why Choose Us Section -->
+      <section id="why-choose-us">
+        <CategoryWhyChooseUs data={isCategory ? (category.data.whyChooseUs || {}) : {
+          title: "Kenapa Memilih Acaranya.id?",
+          subtitle: "Kami menghadirkan standar estetika butik ke dalam genggaman ponsel cerdas Anda.",
+          features: [
+            { title: "Desain Estetik", description: "Koleksi template mewah dengan tipografi dan layout profesional.", icon: "sparkles" },
+            { title: "Fitur Lengkap", description: "Navigasi Maps, RSVP otomatis, hingga galeri foto interaktif.", icon: "zap" },
+            { title: "Proses Cepat", description: "Undangan digital siap digunakan hanya dalam hitungan jam.", icon: "clock" },
+            { title: "Revisi Puas", description: "Layanan revisi sepuasnya demi hasil yang paling sempurna.", icon: "refresh-cw" }
+          ]
+        }} />
+      </section>
+
+      <!-- Article SEO Content Section -->
+      <article class="bg-white border-t border-border-soft/60">
+        <Section>
+          <Container narrow>
+            <div class="space-y-12">
+              {isCategory ? (
+                <div class="prose max-w-none prose-brand mx-auto">
+                  <Content />
+                </div>
+              ) : (
+                <div class="prose max-w-none prose-brand mx-auto">
+                  <h2>Menghadirkan Pesona Artistik ke dalam Undangan Digital Anda</h2>
+                  <p>Acaranya.id berkomitmen penuh menyediakan template undangan digital premium yang tidak hanya praktis tetapi juga menakjubkan secara visual. Kami menjamin setiap template dirancang secara teliti, responsif di semua browser, serta sangat ringan untuk diakses.</p>
+                </div>
+              )}
+
+              <!-- CTA Footer -->
+              <footer class="pt-12 border-t border-border-soft/40 text-center">
+                <div class="space-y-4">
+                  <h3 class="font-serif text-2xl text-brand-950">
+                    {isCategory ? (category.data.ctaTitle || 'Tertarik membuat undangan digital?') : 'Tertarik membuat undangan digital?'}
+                  </h3>
+                  <p class="text-sm text-text-secondary max-w-md mx-auto">
+                    {isCategory ? (category.data.ctaSubtitle || 'Lihat koleksi desain eksklusif kami dan miliki undangan mewah dalam hitungan jam.') : 'Lihat koleksi desain eksklusif kami dan miliki undangan mewah dalam hitungan jam.'}
+                  </p>
+                  <div class="pt-2 flex flex-wrap justify-center items-center gap-3">
+                    {publishedCategories.slice(0, 4).map((cat) => (
+                      <a href={`/desain-undangan-digital/${cat.id}/`} class="text-[11px] font-sans font-semibold tracking-wider text-soft-gold hover:text-brand-950 underline underline-offset-4 decoration-soft-gold/30 hover:decoration-brand-950 transition-all">
+                        Undangan {cat.data.title}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              </footer>
+            </div>
+          </Container>
+        </Section>
+      </article>
+    </>
+  )}
+</MarketingLayout>

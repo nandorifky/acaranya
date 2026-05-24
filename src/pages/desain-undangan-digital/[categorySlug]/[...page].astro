@@ -24,7 +24,7 @@ export async function getStaticPaths({ paginate }) {
     return paginate(categoryDesigns, {
       params: { categorySlug: category.id },
       props: { category },
-      pageSize: 6,
+      pageSize: 12,
     });
   });
 }
