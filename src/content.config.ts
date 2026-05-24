@@ -154,4 +154,23 @@ const portfolio = defineCollection({
   }),
 });
 
-export const collections = { designs, designCategories, blog, testimonials, faqs, authors, tools, portfolio };
+const area = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx,mdoc}', base: './src/content/area' }),
+  schema: ({ image }) => z.object({
+    title: z.string(),
+    description: z.string(),
+    cityName: z.string(),
+    province: z.string().optional(),
+    coverImage: image().optional(),
+    imageAlt: z.string().optional(),
+    publishedAt: z.coerce.date(),
+    updatedAt: z.coerce.date().optional(),
+    status: z.enum(['draft', 'published']).default('published'),
+    // SEO
+    seoTitle: z.string().optional(),
+    noindex: z.boolean().default(false),
+    whatsappText: z.string().optional(),
+  }),
+});
+
+export const collections = { designs, designCategories, blog, testimonials, faqs, authors, tools, portfolio, area };

@@ -1,0 +1,210 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+import DesignCard from '../../components/designs/DesignCard.astro';
+import { getCollection, render } from 'astro:content';
+import { siteConfig } from '../../data/site';
+
+export async function getStaticPaths() {
+  const areas = await getCollection('area');
+  const published = areas.filter(a => a.data.status === 'published');
+  return published.map(area => ({
+    params: { slug: area.id },
+    props: { area },
+  }));
+}
+
+const { area } = Astro.props;
+const { Content } = await render(area);
+
+const allDesigns = await getCollection('designs');
+const showcaseDesigns = allDesigns
+  .filter(d => d.data.status === 'published' && d.data.isFeatured)
+  .slice(0, 3);
+
+const canonicalUrl = `${siteConfig.url}/area/${area.id}/`;
+const pageTitle = area.data.seoTitle || area.data.title;
+const robots = area.data.noindex ? 'noindex,nofollow' : 'index,follow';
+
+// JSON-LD for Local SEO
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: area.data.title,
+    description: area.data.description,
+    provider: {
+      '@type': 'LocalBusiness',
+      name: siteConfig.name,
+      url: siteConfig.url,
+      image: `${siteConfig.url}/favicon.svg`,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: area.data.cityName,
+        addressRegion: area.data.province,
+        addressCountry: 'ID',
+      },
+      priceRange: 'Rp 50.000 - Rp 300.000',
+      telephone: `+${siteConfig.contact.whatsapp}`
+    },
+    areaServed: {
+      '@type': 'City',
+      name: area.data.cityName,
+    },
+    category: 'Jasa Pembuatan Undangan Digital',
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Beranda',
+        item: siteConfig.url,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Area Layanan',
+        item: `${siteConfig.url}/area/`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: area.data.cityName,
+        item: canonicalUrl,
+      },
+    ],
+  },
+];
+
+const waText = area.data.whatsappText || `Halo admin Acaranya, saya ingin pesan undangan digital untuk di kota ${area.data.cityName}`;
+const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComponent(waText)}`;
+---
+
+<MarketingLayout
+  title={pageTitle}
+  description={area.data.description}
+  canonical={canonicalUrl}
+  robots={robots}
+  jsonLd={jsonLd}
+  breadcrumbs={[
+    { label: 'Beranda', href: '/' },
+    { label: 'Area Layanan', href: '/area/' },
+    { label: area.data.cityName }
+  ]}
+>
+  <!-- Minimalist Editorial Hero -->
+  <header class="relative pt-12 pb-20 lg:pt-24 lg:pb-32 overflow-hidden bg-cream">
+    <!-- Mesh Gradient (Consistency with Homepage) -->
+    <div class="absolute inset-0 pointer-events-none opacity-40">
+      <div class="absolute top-[-10%] left-[-5%] w-[600px] h-[600px] rounded-full bg-champagne/15 blur-[120px]"></div>
+      <div class="absolute bottom-[-5%] right-[-5%] w-[500px] h-[500px] rounded-full bg-brand-200/20 blur-[100px]"></div>
+    </div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl mx-auto text-center space-y-8 animate-fade-in-up">
+        <div class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md">
+          <span class="w-1.5 h-1.5 rounded-full bg-soft-gold animate-pulse"></span>
+          <span class="text-[10px] uppercase tracking-[0.2em] font-bold text-brand-700">Area Layanan: {area.data.cityName}</span>
+        </div>
+
+        <h1 class="font-serif text-4xl sm:text-5xl lg:text-[4.25rem] text-brand-950 leading-[1.1] tracking-tight">
+          {area.data.title.split(' — ')[0]} <br/>
+          <span class="italic font-normal text-soft-gold">{area.data.cityName}</span>
+        </h1>
+
+        <p class="text-base sm:text-lg text-text-secondary max-w-2xl mx-auto font-sans tracking-wide leading-relaxed">
+          {area.data.description}
+        </p>
+
+        <div class="flex flex-wrap justify-center gap-4 pt-4">
+          <a href={waUrl} target="_blank" rel="noopener noreferrer" class="px-8 py-4 bg-brand-900 text-cream rounded-full hover:bg-brand-950 transition-all font-semibold tracking-widest text-[11px] uppercase shadow-card active:scale-[0.98] duration-300">
+            Pesan di {area.data.cityName}
+          </a>
+          <a href="/desain-undangan-digital/" class="px-8 py-4 border border-brand-300/80 rounded-full hover:bg-white hover:border-brand-500 transition-all font-semibold tracking-widest text-[11px] uppercase duration-300 text-brand-800">
+            Lihat Katalog Desain
+          </a>
+        </div>
+      </div>
+    </Container>
+  </header>
+
+  <!-- Clean Content Section -->
+  <Section bg="white">
+    <Container narrow>
+      <!-- Trust Signals Strip -->
+      <div class="flex flex-wrap justify-center gap-x-12 gap-y-6 pb-16 mb-16 border-b border-border-soft/60 opacity-80 text-center">
+        <div class="flex flex-col items-center gap-2">
+            <Icon name="shield-check" size={24} class="text-soft-gold" />
+            <span class="text-[10px] font-bold uppercase tracking-widest text-brand-900">100% Aman</span>
+        </div>
+        <div class="flex flex-col items-center gap-2">
+            <Icon name="zap" size={24} class="text-soft-gold" />
+            <span class="text-[10px] font-bold uppercase tracking-widest text-brand-900">Proses Kilat</span>
+        </div>
+        <div class="flex flex-col items-center gap-2">
+            <Icon name="palette" size={24} class="text-soft-gold" />
+            <span class="text-[10px] font-bold uppercase tracking-widest text-brand-900">Desain Mewah</span>
+        </div>
+      </div>
+
+      <!-- Markdown Content -->
+      <div class="max-w-none prose prose-brand 
+         prose-headings:font-serif prose-headings:font-semibold prose-headings:text-brand-950
+         prose-headings:tracking-tight
+         prose-p:text-text-secondary prose-p:leading-relaxed prose-p:text-base md:prose-p:text-lg
+         prose-blockquote:border-l-soft-gold prose-blockquote:italic prose-blockquote:bg-cream/30 prose-blockquote:py-4 prose-blockquote:px-8 prose-blockquote:rounded-r-lg prose-blockquote:text-brand-900">
+         <Content />
+      </div>
+    </Container>
+  </Section>
+
+  <!-- Featured Designs Showcase (Clean Grid) -->
+  <Section bg="cream-light">
+    <Container>
+      <div class="text-center mb-16 space-y-4">
+         <span class="text-[10px] uppercase tracking-[0.25em] text-soft-gold font-bold">Inspirasi Untukmu</span>
+         <h2 class="font-serif text-3xl md:text-4xl text-brand-950">Desain Terpopuler di {area.data.cityName}</h2>
+      </div>
+      
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
+         {showcaseDesigns.map(design => <DesignCard design={design} />)}
+      </div>
+
+      <div class="mt-16 text-center">
+         <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-8 py-4 border border-brand-300 rounded-full text-brand-900 text-[10px] font-bold uppercase tracking-[0.2em] hover:bg-white hover:border-brand-500 transition-all">
+            Jelajahi Semua Desain <Icon name="arrow-right" size={14} />
+         </a>
+      </div>
+    </Container>
+  </Section>
+
+  <!-- Simplified CTA -->
+  <Section bg="white" class="pb-24 lg:pb-32">
+    <Container>
+      <div class="relative max-w-4xl mx-auto p-12 lg:p-20 text-center rounded-[40px] border border-champagne/30 bg-cream/40 overflow-hidden">
+         <!-- Abstract decoration -->
+         <div class="absolute -top-10 -right-10 w-40 h-40 bg-soft-gold/5 rounded-full blur-3xl"></div>
+         
+         <div class="relative z-10 space-y-8">
+            <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight">Mulai Buat Undangan Impian <br/> Anda di {area.data.cityName}</h2>
+            <p class="text-text-secondary text-lg max-w-xl mx-auto">
+               Wujudkan momen spesial Anda dengan undangan digital yang lebih berkesan, hemat, dan praktis. Konsultasikan kebutuhan Anda gratis hari ini.
+            </p>
+            <div class="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
+               <a href={waUrl} target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-10 py-5 bg-brand-900 text-cream text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-brand-950 transition-all shadow-xl shadow-brand-900/10">
+                  Konsultasi via WhatsApp
+               </a>
+               <a href="/harga/" class="w-full sm:w-auto px-10 py-5 border border-brand-300 text-brand-900 text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-white transition-all">
+                  Cek Daftar Harga
+               </a>
+            </div>
+         </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

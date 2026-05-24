@@ -1,0 +1,2 @@
+# Redirects dari URL Jasa WordPress lama ke struktur Area baru
+/jasa/undangan-digital-*  /area/:splat  301

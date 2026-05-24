@@ -1,0 +1,130 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+import Pagination from '../../components/ui/Pagination.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths({ paginate }: any) {
+  const allAreas = await getCollection('area');
+  const publishedAreas = allAreas
+    .filter(p => p.data.status === 'published')
+    .sort((a, b) => a.data.cityName.localeCompare(b.data.cityName));
+
+  return paginate(publishedAreas, { pageSize: 32 });
+}
+
+const { page } = Astro.props;
+const publishedAreas = page.data;
+
+const titleSuffix = page.currentPage > 1 ? ` — Halaman ${page.currentPage}` : '';
+const robots = page.currentPage > 1 ? 'noindex, follow' : 'index, follow';
+---
+
+<MarketingLayout 
+  title={`Area Layanan Undangan Digital Seluruh Indonesia${titleSuffix}`} 
+  description="Layanan pembuatan undangan digital online dari Acaranya melayani berbagai kota di Indonesia dengan proses cepat dan hasil elegan."
+  robots={robots}
+  breadcrumbs={[
+    { label: 'Beranda', href: '/' },
+    { label: 'Area Layanan' }
+  ]}
+>
+  <!-- High-End Editorial Header -->
+  <section class="relative pt-20 pb-20 lg:pt-32 lg:pb-32 overflow-hidden bg-cream">
+    <div class="absolute inset-0 pointer-events-none opacity-40">
+      <div class="absolute top-[-10%] left-[-5%] w-[600px] h-[600px] rounded-full bg-champagne/15 blur-[120px]"></div>
+      <div class="absolute bottom-[-5%] right-[-5%] w-[500px] h-[500px] rounded-full bg-brand-200/20 blur-[100px]"></div>
+    </div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl">
+        <div class="space-y-6 animate-fade-in-up">
+           <span class="inline-block text-[11px] font-bold uppercase tracking-[0.4em] text-soft-gold">Local Expertise</span>
+           <h1 class="font-serif text-5xl md:text-7xl lg:text-8xl text-brand-950 leading-[0.9] tracking-tighter">
+              Area <br/>
+              <span class="italic font-normal text-soft-gold ml-12 lg:ml-24">Layanan.</span>
+           </h1>
+           <p class="text-text-secondary text-lg md:text-xl leading-relaxed max-w-xl pt-4">
+              Menghadirkan keindahan undangan digital untuk setiap sudut Indonesia. Temukan layanan khusus di kota Anda.
+           </p>
+        </div>
+      </div>
+    </Container>
+
+    <!-- Decorative floating text -->
+    <div class="absolute top-1/2 right-0 -translate-y-1/2 translate-x-1/3 hidden lg:block opacity-[0.03] select-none pointer-events-none">
+       <span class="font-serif text-[20rem] italic whitespace-nowrap">Indonesia</span>
+    </div>
+  </section>
+
+  <!-- Typography-Focused Directory Grid -->
+  <Section bg="white" class="py-24 lg:py-40">
+    <Container>
+      {publishedAreas.length > 0 ? (
+        <>
+          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-12 gap-y-20 lg:gap-y-32">
+            {publishedAreas.map((area: any) => (
+              <a 
+                href={`/area/${area.id}/`} 
+                class="group relative block"
+              >
+                <!-- Large Initial Letter as background decoration -->
+                <span class="absolute -top-12 -left-6 text-7xl font-serif text-brand-50 opacity-0 group-hover:opacity-100 transition-all duration-500 pointer-events-none">
+                  {area.data.cityName.charAt(0)}
+                </span>
+                
+                <div class="relative z-10 space-y-4">
+                  <div class="flex items-center gap-3">
+                    <div class="w-1.5 h-1.5 rounded-full bg-soft-gold scale-0 group-hover:scale-100 transition-transform duration-300"></div>
+                    <span class="text-[9px] font-bold uppercase tracking-[0.3em] text-text-muted group-hover:text-soft-gold transition-colors">
+                      Layanan Online
+                    </span>
+                  </div>
+                  
+                  <h3 class="font-serif text-2xl md:text-3xl text-brand-950 group-hover:italic transition-all duration-500">
+                    {area.data.cityName}
+                  </h3>
+                  
+                  <div class="flex items-center justify-between pt-2">
+                    <div class="h-[1px] bg-border-soft group-hover:bg-soft-gold transition-all duration-500 flex-1 mr-4"></div>
+                    <Icon name="arrow-right" size={14} class="text-text-muted opacity-0 group-hover:opacity-100 group-hover:translate-x-1 transition-all duration-300" />
+                  </div>
+                  
+                  <p class="text-[10px] text-text-muted/60 font-medium uppercase tracking-widest leading-none">
+                    {area.data.province || 'Seluruh Indonesia'}
+                  </p>
+                </div>
+              </a>
+            ))}
+          </div>
+
+          <div class="mt-32 pt-20 border-t border-border-soft">
+            <Pagination page={page} baseUrl="/area/" />
+          </div>
+        </>
+      ) : (
+        <div class="text-center py-40 border border-dashed border-border-soft rounded-[40px]">
+          <Icon name="map-pin" size={48} class="text-brand-100 mx-auto mb-6" />
+          <h3 class="font-serif text-2xl text-brand-950 mb-2">Belum ada area terdaftar</h3>
+          <p class="text-text-muted max-w-md mx-auto">Tim kami sedang memperluas jangkauan layanan ke seluruh Indonesia.</p>
+        </div>
+      )}
+    </Container>
+  </Section>
+
+  <!-- Elegant Quote Section -->
+  <Section bg="cream-light" class="py-32">
+    <Container narrow>
+       <div class="text-center space-y-10">
+          <Icon name="message-square-quote" size={48} class="text-soft-gold/20 mx-auto" />
+          <h2 class="font-serif text-3xl md:text-4xl text-brand-950 leading-tight italic">
+            "Keindahan sejati tidak mengenal batas geografis. Kami hadir di setiap kota untuk memastikan hari bahagia Anda dimulai dengan undangan yang sempurna."
+          </h2>
+          <div class="w-12 h-[1px] bg-soft-gold mx-auto"></div>
+          <p class="text-[11px] font-bold uppercase tracking-[0.4em] text-brand-900">Acaranya Team</p>
+       </div>
+    </Container>
+  </Section>
+</MarketingLayout>
