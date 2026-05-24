@@ -45,7 +45,7 @@ collections:
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
       - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime" }
       - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
-      - { label: "Penulis (Author)", name: "author", widget: "relation", collection: "authors", value_field: "name", search_fields: ["name"], display_fields: ["name"] }
+      - { label: "Penulis (Author)", name: "author", widget: "relation", collection: "authors", value_field: "{{slug}}", search_fields: ["name"], display_fields: ["name"] }
       - { label: "Kategori Blog", name: "category", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", default: [] }
       - label: "Gambar Utama (Featured Image)"
@@ -62,6 +62,7 @@ collections:
       - { label: "Custom Breadcrumb Label (Optional)", name: "customBreadcrumbLabel", widget: "string", required: false }
       - { label: "Canonical URL (Optional)", name: "canonicalUrl", widget: "string", required: false }
       - { label: "Noindex Tag? (Sembunyikan dari Google)", name: "noindex", widget: "boolean", default: false }
+      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown" }
 
 
   - name: "testimonials"
