@@ -4,7 +4,6 @@ import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 import markdoc from '@astrojs/markdoc';
 import rehypeSlug from 'rehype-slug';
-import compress from '@playform/compress';
 
 // https://astro.build/config
 // Triggering fresh build
@@ -34,7 +33,6 @@ export default defineConfig({
 
   integrations: [
     react(),
-    markdoc(),
-    compress()
+    markdoc()
   ]
 });
