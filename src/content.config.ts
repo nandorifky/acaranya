@@ -111,4 +111,24 @@ const authors = defineCollection({
   }),
 });
 
-export const collections = { designs, designCategories, blog, testimonials, faqs, authors };
+const tools = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx,mdoc}', base: './src/content/tools' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    toolComponent: z.string(),
+    publishedAt: z.coerce.date().optional(),
+    status: z.enum(['draft', 'published']).default('published'),
+    // SEO & SoftwareApplication Schema Fields
+    seoTitle: z.string().optional(),
+    canonicalUrl: z.string().optional(),
+    noindex: z.boolean().default(false),
+    schemaSoftwareName: z.string().optional(),
+    schemaOperatingSystem: z.string().default('All'),
+    schemaApplicationCategory: z.string().default('WebApplication'),
+    schemaOffersPrice: z.string().default('0'),
+    schemaOffersPriceCurrency: z.string().default('IDR'),
+  }),
+});
+
+export const collections = { designs, designCategories, blog, testimonials, faqs, authors, tools };

@@ -1,0 +1,395 @@
+---
+// src/components/tools/CekWeton.astro
+---
+
+<div class="weton-container font-sans text-brand-950">
+  <!-- Tabs Navigation -->
+  <div class="flex border-b border-brand-200 mb-6">
+    <button 
+      class="tab-btn active flex-1 py-3 text-sm font-semibold border-b-2 border-brand-600 text-brand-800 focus:outline-none transition-all"
+      data-tab="single"
+    >
+      👤 Cek Weton Pribadi
+    </button>
+    <button 
+      class="tab-btn flex-1 py-3 text-sm font-semibold border-b-2 border-transparent text-text-muted hover:text-brand-800 focus:outline-none transition-all"
+      data-tab="jodoh"
+    >
+      👩‍❤️‍👨 Cek Weton Jodoh
+    </button>
+  </div>
+
+  <!-- Tab 1: Cek Weton Pribadi -->
+  <div id="tab-single" class="tab-content block">
+    <form id="form-single" class="space-y-4">
+      <div>
+        <label class="block text-xs font-semibold uppercase tracking-wider text-text-muted mb-2">Nama Anda</label>
+        <input 
+          type="text" 
+          id="single-name" 
+          placeholder="Masukkan nama Anda..." 
+          class="w-full px-4 py-3 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent transition-all text-sm"
+          required
+        />
+      </div>
+      <div>
+        <label class="block text-xs font-semibold uppercase tracking-wider text-text-muted mb-2">Tanggal Lahir</label>
+        <input 
+          type="date" 
+          id="single-date" 
+          class="w-full px-4 py-3 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent transition-all text-sm"
+          required
+        />
+      </div>
+      <button 
+        type="submit" 
+        class="w-full py-3 bg-brand-800 hover:bg-brand-900 text-white rounded-lg font-semibold text-sm shadow-sm transition-all transform hover:scale-[1.01] active:scale-[0.99] flex items-center justify-center gap-2"
+      >
+        <span>Hitung Weton Saya</span> 🔍
+      </button>
+    </form>
+    
+    <!-- Result Single -->
+    <div id="result-single" class="hidden mt-8 p-6 bg-brand-50/50 rounded-xl border border-brand-200/50 animate-fade-in">
+      <!-- Generated content goes here -->
+    </div>
+  </div>
+
+  <!-- Tab 2: Cek Weton Jodoh -->
+  <div id="tab-jodoh" class="tab-content hidden">
+    <form id="form-jodoh" class="space-y-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <!-- Pasangan 1 -->
+        <div class="space-y-3 p-4 bg-cream/30 rounded-lg border border-brand-200/20">
+          <h3 class="text-xs font-bold text-brand-800 uppercase tracking-wider">Pria (Pasangan 1)</h3>
+          <div>
+            <label class="block text-[11px] font-semibold text-text-muted mb-1">Nama Pria</label>
+            <input 
+              type="text" 
+              id="jodoh-name-1" 
+              placeholder="Nama Pria..." 
+              class="w-full px-3 py-2.5 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent text-xs"
+              required
+            />
+          </div>
+          <div>
+            <label class="block text-[11px] font-semibold text-text-muted mb-1">Tanggal Lahir</label>
+            <input 
+              type="date" 
+              id="jodoh-date-1" 
+              class="w-full px-3 py-2.5 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent text-xs"
+              required
+            />
+          </div>
+        </div>
+
+        <!-- Pasangan 2 -->
+        <div class="space-y-3 p-4 bg-cream/30 rounded-lg border border-brand-200/20">
+          <h3 class="text-xs font-bold text-brand-800 uppercase tracking-wider">Wanita (Pasangan 2)</h3>
+          <div>
+            <label class="block text-[11px] font-semibold text-text-muted mb-1">Nama Wanita</label>
+            <input 
+              type="text" 
+              id="jodoh-name-2" 
+              placeholder="Nama Wanita..." 
+              class="w-full px-3 py-2.5 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent text-xs"
+              required
+            />
+          </div>
+          <div>
+            <label class="block text-[11px] font-semibold text-text-muted mb-1">Tanggal Lahir</label>
+            <input 
+              type="date" 
+              id="jodoh-date-2" 
+              class="w-full px-3 py-2.5 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent text-xs"
+              required
+            />
+          </div>
+        </div>
+      </div>
+      
+      <button 
+        type="submit" 
+        class="w-full py-3 bg-brand-800 hover:bg-brand-900 text-white rounded-lg font-semibold text-sm shadow-sm transition-all transform hover:scale-[1.01] active:scale-[0.99] flex items-center justify-center gap-2"
+      >
+        <span>Ramal Kecocokan Jodoh</span> ❤️
+      </button>
+    </form>
+
+    <!-- Result Jodoh -->
+    <div id="result-jodoh" class="hidden mt-8 p-6 bg-brand-50/50 rounded-xl border border-brand-200/50 animate-fade-in">
+      <!-- Generated content goes here -->
+    </div>
+  </div>
+</div>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .animate-fade-in {
+    animation: fadeIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+</style>
+
+<script>
+  // Weton Jawa Data & Logic Setup
+  const HARI = [
+    { nama: 'Minggu', neptu: 5 },
+    { nama: 'Senin', neptu: 4 },
+    { nama: 'Selasa', neptu: 3 },
+    { nama: 'Rabu', neptu: 7 },
+    { nama: 'Kamis', neptu: 8 },
+    { nama: 'Jumat', neptu: 6 },
+    { nama: 'Sabtu', neptu: 9 }
+  ];
+
+  const PASARAN = [
+    { nama: 'Wage', neptu: 4 },
+    { nama: 'Kliwon', neptu: 8 },
+    { nama: 'Legi', neptu: 5 },
+    { nama: 'Pahing', neptu: 9 },
+    { nama: 'Pon', neptu: 7 }
+  ];
+
+  // Jan 1, 1970 was Kamis Wage (Kamis = index 4, Wage = index 0 in PASARAN)
+  const EPOCH_DATE = new Date('1970-01-01');
+
+  function getWeton(dateStr: string) {
+    const targetDate = new Date(dateStr);
+    
+    // Day of week from native Javascript (0 = Sun, 1 = Mon...)
+    const dayIdx = targetDate.getDay();
+    const hariObj = HARI[dayIdx];
+
+    // Compute difference in days for Pasaran
+    const diffTime = targetDate.getTime() - EPOCH_DATE.getTime();
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    
+    // Wage index is 0 in our PASARAN array
+    let pasaranIdx = diffDays % 5;
+    if (pasaranIdx < 0) {
+      pasaranIdx = (pasaranIdx + 5) % 5;
+    }
+    const pasaranObj = PASARAN[pasaranIdx];
+    const neptuTotal = hariObj.neptu + pasaranObj.neptu;
+
+    return {
+      hari: hariObj.nama,
+      hariNeptu: hariObj.neptu,
+      pasaran: pasaranObj.nama,
+      pasaranNeptu: pasaranObj.neptu,
+      neptu: neptuTotal
+    };
+  }
+
+  const COMPATIBILITY = {
+    PEGAT: {
+      hasil: 'PEGAT (Sering Menghadapi Hambatan)',
+      status: 'Warning',
+      warna: 'text-amber-700 bg-amber-50 border-amber-200',
+      desc: 'Pegat menurut primbon Jawa menandakan kemungkinan seringnya pertengkaran kecil atau ujian ekonomi dalam rumah tangga. Kunci utama keberhasilan hubungan ini adalah komunikasi yang matang, saling mengalah, dan manajemen finansial yang rapi sejak dini.'
+    },
+    RATU: {
+      hasil: 'RATU (Sangat Serasi & Dihormati)',
+      status: 'Perfect',
+      warna: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+      desc: 'Ratu menandakan hubungan yang sangat serasi dan harmonis bagaikan raja dan ratu. Pasangan ini akan sangat disegani oleh lingkungan sosial, rezeki mengalir berkecukupan, dan rumah tangga dipenuhi kedamaian.'
+    },
+    JODOH: {
+      hasil: 'JODOH (Saling Melengkapi & Rukun)',
+      status: 'Perfect',
+      warna: 'text-brand-800 bg-brand-50 border-brand-200',
+      desc: 'Jodoh adalah lambang kecocokan sejati. Pasangan ini diramalkan rukun, damai, bisa saling melengkapi kelebihan dan kekurangan satu sama lain, serta diberkahi kelancaran rezeki hingga hari tua.'
+    },
+    TOPO: {
+      hasil: 'TOPO (Sukses Setelah Ujian Awal)',
+      status: 'Success',
+      warna: 'text-indigo-700 bg-indigo-50 border-indigo-200',
+      desc: 'Topo menandakan adanya tantangan atau ujian di awal masa pernikahan (ekonomi atau adaptasi). Namun, berkat keteguhan dan perjuangan bersama, rumah tangga Anda akan berakhir sangat sukses, kaya raya, dan berkecukupan.'
+    },
+    TINARI: {
+      hasil: 'TINARI (Murah Rezeki & Beruntung)',
+      status: 'Perfect',
+      warna: 'text-rose-700 bg-rose-50 border-rose-200',
+      desc: 'Tinari membawa berkah keberuntungan yang melimpah. Rumah tangga diramalkan selalu diliputi kebahagiaan, sangat mudah mencari sandang pangan (sandang pangan melimpah), dan sering mendapat berkah tidak terduga.'
+    },
+    PADU: {
+      hasil: 'PADU (Sering Selisih Paham - Wajar)',
+      status: 'Warning',
+      warna: 'text-orange-700 bg-orange-50 border-orange-200',
+      desc: 'Padu berarti pasangan ini sering berdebat atau selisih paham mengenai hal-hal kecil. Namun, perselisihan ini tidak akan membawa perpisahan karena dasarnya saling menyayangi. Kuncinya: singkirkan ego masing-masing!'
+    },
+    SUJANAN: {
+      hasil: 'SUJANAN (Rawan Cemburu / Salah Paham)',
+      status: 'Danger',
+      warna: 'text-red-700 bg-red-50 border-red-200',
+      desc: 'Sujanan menandakan hubungan yang rawan kecemburuan sosial atau kesalahpahaman. Untuk mengatasinya, pastikan Anda dan pasangan selalu mengedepankan keterbukaan penuh, kejujuran, dan rasa saling percaya.'
+    },
+    PESTHI: {
+      hasil: 'PESTHI (Rukun, Tenteram & Adem Ayem)',
+      status: 'Perfect',
+      warna: 'text-sky-700 bg-sky-50 border-sky-200',
+      desc: 'Pesthi melambangkan keharmonisan tingkat tinggi yang stabil. Hubungan diramalkan berjalan sangat damai, adem ayem, dan hampir terbebas dari masalah besar. Sangat ideal untuk pernikahan jangka panjang.'
+    }
+  };
+
+  function getCompatibility(n1: number, n2: number) {
+    const total = n1 + n2;
+    // Javanese compatibility formulas based on total neptu modulo 8
+    const rem = total % 8;
+    
+    switch (rem) {
+      case 1: return COMPATIBILITY.PEGAT;
+      case 2: return COMPATIBILITY.RATU;
+      case 3: return COMPATIBILITY.JODOH;
+      case 4: return COMPATIBILITY.TOPO;
+      case 5: return COMPATIBILITY.TINARI;
+      case 6: return COMPATIBILITY.PADU;
+      case 7: return COMPATIBILITY.SUJANAN;
+      case 0: return COMPATIBILITY.PESTHI;
+      default: return COMPATIBILITY.JODOH;
+    }
+  }
+
+  const SINGLE_CHARACTERS = {
+    3: 'Suka berpetualang, berpikiran terbuka, tetapi mudah goyah pendiriannya.',
+    4: 'Sangat rapi, tertib, disiplin, berdedikasi tinggi, namun keras kepala.',
+    5: 'Pandai bergaul, ramah, diplomatis, tetapi tidak suka dikekang.',
+    6: 'Penuh empati, menyukai harmoni, setia, tetapi mudah merasa cemas.',
+    7: 'Sangat kreatif, cerdas, berwibawa, tetapi terkadang penyendiri.',
+    8: 'Penuh visi, kuat secara tekad, berbakat memimpin, berkarisma tinggi.',
+    9: 'Lembut hatinya, pemaaf, menyukai seni, tetapi perasa/sensitif.'
+  };
+
+  // Tabs Toggle JavaScript
+  const tabBtns = document.querySelectorAll('.tab-btn');
+  const tabContents = document.querySelectorAll('.tab-content');
+
+  tabBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabBtns.forEach(b => b.classList.remove('active', 'border-brand-600', 'text-brand-800'));
+      tabBtns.forEach(b => b.classList.add('border-transparent', 'text-text-muted'));
+      
+      btn.classList.add('active', 'border-brand-600', 'text-brand-800');
+      btn.classList.remove('border-transparent', 'text-text-muted');
+
+      const targetTab = btn.getAttribute('data-tab');
+      tabContents.forEach(content => {
+        if (content.id === `tab-${targetTab}`) {
+          content.classList.remove('hidden');
+          content.classList.add('block');
+        } else {
+          content.classList.remove('block');
+          content.classList.add('hidden');
+        }
+      });
+    });
+  });
+
+  // Single Weton Form submit handling
+  const formSingle = document.getElementById('form-single') as HTMLFormElement;
+  const resultSingle = document.getElementById('result-single');
+
+  if (formSingle && resultSingle) {
+    formSingle.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const name = (document.getElementById('single-name') as HTMLInputElement).value;
+      const dateVal = (document.getElementById('single-date') as HTMLInputElement).value;
+
+      if (!dateVal) return;
+
+      const weton = getWeton(dateVal);
+      const characterIdx = (weton.neptu % 7) + 3; // Mocking character lookup index
+      const charText = SINGLE_CHARACTERS[characterIdx as keyof typeof SINGLE_CHARACTERS] || 'Memiliki kepribadian yang tenang, cinta damai, dan mandiri.';
+
+      resultSingle.innerHTML = `
+        <div class="text-center mb-6">
+          <span class="text-xs uppercase tracking-widest text-brand-700 font-bold bg-brand-100/50 px-3 py-1.5 rounded-full">Hasil Weton Anda</span>
+          <h4 class="font-serif text-2xl text-brand-900 mt-3 mb-1 font-bold">${name}</h4>
+          <p class="text-xs text-text-muted">Lahir pada tanggal ${new Date(dateVal).toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}</p>
+        </div>
+
+        <div class="grid grid-cols-3 gap-3 text-center mb-6">
+          <div class="p-3 bg-white rounded-lg border border-brand-200/30">
+            <span class="block text-[10px] text-text-muted uppercase font-semibold">Hari Lahir</span>
+            <span class="block text-sm font-bold text-brand-900 mt-1">${weton.hari}</span>
+            <span class="text-[10px] text-text-muted font-medium">(Neptu ${weton.hariNeptu})</span>
+          </div>
+          <div class="p-3 bg-white rounded-lg border border-brand-200/30">
+            <span class="block text-[10px] text-text-muted uppercase font-semibold">Pasaran Jawa</span>
+            <span class="block text-sm font-bold text-brand-900 mt-1">${weton.pasaran}</span>
+            <span class="text-[10px] text-text-muted font-medium">(Neptu ${weton.pasaranNeptu})</span>
+          </div>
+          <div class="p-3 bg-white rounded-lg border border-brand-200/30">
+            <span class="block text-[10px] text-text-muted uppercase font-semibold">Neptu Weton</span>
+            <span class="block text-base font-extrabold text-brand-800 mt-0.5">${weton.neptu}</span>
+            <span class="text-[10px] text-text-muted font-medium">(Nilai Total)</span>
+          </div>
+        </div>
+
+        <div class="p-4 bg-white rounded-lg border border-brand-200/30 space-y-2">
+          <span class="block text-xs font-bold text-brand-900 uppercase tracking-wider">Karakter & Kepribadian Utama</span>
+          <p class="text-xs text-text-muted leading-relaxed">${charText}</p>
+        </div>
+      `;
+      resultSingle.classList.remove('hidden');
+    });
+  }
+
+  // Jodoh Weton Form submit handling
+  const formJodoh = document.getElementById('form-jodoh') as HTMLFormElement;
+  const resultJodoh = document.getElementById('result-jodoh');
+
+  if (formJodoh && resultJodoh) {
+    formJodoh.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const p1 = (document.getElementById('jodoh-name-1') as HTMLInputElement).value;
+      const d1 = (document.getElementById('jodoh-date-1') as HTMLInputElement).value;
+      const p2 = (document.getElementById('jodoh-name-2') as HTMLInputElement).value;
+      const d2 = (document.getElementById('jodoh-date-2') as HTMLInputElement).value;
+
+      if (!d1 || !d2) return;
+
+      const w1 = getWeton(d1);
+      const w2 = getWeton(d2);
+      const totalNeptu = w1.neptu + w2.neptu;
+      const match = getCompatibility(w1.neptu, w2.neptu);
+
+      resultJodoh.innerHTML = `
+        <div class="text-center mb-6">
+          <span class="text-xs uppercase tracking-widest text-brand-700 font-bold bg-brand-100/50 px-3 py-1.5 rounded-full">Kesesuaian Jodoh Jawa</span>
+          <h4 class="font-serif text-xl text-brand-900 mt-4 font-bold">${p1} & ${p2}</h4>
+          <p class="text-[11px] text-text-muted mt-1">Menggabungkan Neptu Weton Anda berdua</p>
+        </div>
+
+        <div class="grid grid-cols-2 gap-4 text-center mb-6">
+          <div class="p-3 bg-white rounded-lg border border-brand-200/30">
+            <span class="block text-[10px] text-text-muted uppercase font-semibold">${p1}</span>
+            <span class="block text-xs font-bold text-brand-900 mt-1">${w1.hari} ${w1.pasaran}</span>
+            <span class="text-[10px] text-text-muted font-medium">Neptu ${w1.neptu}</span>
+          </div>
+          <div class="p-3 bg-white rounded-lg border border-brand-200/30">
+            <span class="block text-[10px] text-text-muted uppercase font-semibold">${p2}</span>
+            <span class="block text-xs font-bold text-brand-900 mt-1">${w2.hari} ${w2.pasaran}</span>
+            <span class="text-[10px] text-text-muted font-medium">Neptu ${w2.neptu}</span>
+          </div>
+        </div>
+
+        <div class="p-5 rounded-xl border mb-6 text-center ${match.warna}">
+          <span class="block text-[10px] font-bold uppercase tracking-widest mb-1 text-opacity-80">Ramalan Hasil Primbon</span>
+          <span class="block text-lg font-extrabold leading-tight mb-2">${match.hasil}</span>
+          <span class="block text-[11px] font-medium leading-relaxed max-w-md mx-auto text-opacity-95">${match.desc}</span>
+        </div>
+
+        <div class="p-4 bg-white rounded-lg border border-brand-200/30 text-center">
+          <span class="block text-[10px] text-text-muted uppercase font-semibold">Total Neptu Gabungan</span>
+          <span class="block text-2xl font-extrabold text-brand-800 mt-1">${totalNeptu}</span>
+          <span class="text-[10px] text-text-muted font-medium">(${w1.neptu} + ${w2.neptu})</span>
+        </div>
+      `;
+      resultJodoh.classList.remove('hidden');
+    });
+  }
+</script>

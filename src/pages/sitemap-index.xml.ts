@@ -13,6 +13,9 @@ export const GET: APIRoute = async () => {
   <sitemap>
     <loc>${siteConfig.url}/sitemap-designs.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>${siteConfig.url}/sitemap-tools.xml</loc>
+  </sitemap>
 </sitemapindex>`;
 
   return new Response(xml, {

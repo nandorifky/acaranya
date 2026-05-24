@@ -1,0 +1,153 @@
+---
+// src/components/tools/WeddingCountdown.astro
+---
+
+<div class="countdown-container font-sans text-brand-950">
+  <form id="form-countdown" class="space-y-4 mb-8">
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div>
+        <label class="block text-xs font-semibold uppercase tracking-wider text-text-muted mb-2">Nama Pasangan</label>
+        <input 
+          type="text" 
+          id="countdown-names" 
+          placeholder="Romi & Yuli..." 
+          class="w-full px-4 py-3 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent transition-all text-sm"
+          required
+        />
+      </div>
+      <div>
+        <label class="block text-xs font-semibold uppercase tracking-wider text-text-muted mb-2">Tanggal Pernikahan</label>
+        <input 
+          type="date" 
+          id="countdown-date" 
+          class="w-full px-4 py-3 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent transition-all text-sm"
+          required
+        />
+      </div>
+    </div>
+    
+    <button 
+      type="submit" 
+      class="w-full py-3 bg-brand-800 hover:bg-brand-900 text-white rounded-lg font-semibold text-sm shadow-sm transition-all transform hover:scale-[1.01] active:scale-[0.99]"
+    >
+      Aktifkan Hitung Mundur ⏳
+    </button>
+  </form>
+
+  <!-- Countdown Clock Results -->
+  <div id="result-countdown" class="hidden space-y-6 animate-fade-in">
+    <div class="text-center p-6 bg-brand-50/40 rounded-2xl border border-brand-200/30">
+      <span id="countdown-title" class="font-serif text-xl sm:text-2xl text-brand-900 font-bold block mb-1">...</span>
+      <span id="countdown-target-display" class="text-xs text-text-muted">...</span>
+
+      <!-- The Grid Clock -->
+      <div class="grid grid-cols-4 gap-3 text-center my-6 max-w-sm mx-auto">
+        <div class="p-3 bg-white rounded-xl border border-brand-200/20 shadow-xs">
+          <span id="clock-days" class="block text-2xl font-extrabold text-brand-800">00</span>
+          <span class="block text-[9px] text-text-muted uppercase font-bold tracking-wider mt-0.5">Hari</span>
+        </div>
+        <div class="p-3 bg-white rounded-xl border border-brand-200/20 shadow-xs">
+          <span id="clock-hours" class="block text-2xl font-extrabold text-brand-800">00</span>
+          <span class="block text-[9px] text-text-muted uppercase font-bold tracking-wider mt-0.5">Jam</span>
+        </div>
+        <div class="p-3 bg-white rounded-xl border border-brand-200/20 shadow-xs">
+          <span id="clock-mins" class="block text-2xl font-extrabold text-brand-800">00</span>
+          <span class="block text-[9px] text-text-muted uppercase font-bold tracking-wider mt-0.5">Menit</span>
+        </div>
+        <div class="p-3 bg-white rounded-xl border border-brand-200/20 shadow-xs">
+          <span id="clock-secs" class="block text-2xl font-extrabold text-brand-800">00</span>
+          <span class="block text-[9px] text-text-muted uppercase font-bold tracking-wider mt-0.5">Detik</span>
+        </div>
+      </div>
+
+      <!-- Planning Tips -->
+      <div class="p-4 bg-white rounded-xl border border-brand-200/30 text-left max-w-md mx-auto space-y-1">
+        <span class="text-[10px] font-bold text-brand-700 uppercase tracking-widest block">📋 Rekomendasi Checklist Anda</span>
+        <p id="countdown-tip" class="text-xs text-text-muted leading-relaxed">...</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const form = document.getElementById('form-countdown') as HTMLFormElement;
+  const resultDiv = document.getElementById('result-countdown');
+  const clockDays = document.getElementById('clock-days');
+  const clockHours = document.getElementById('clock-hours');
+  const clockMins = document.getElementById('clock-mins');
+  const clockSecs = document.getElementById('clock-secs');
+  const clockTitle = document.getElementById('countdown-title');
+  const clockTargetDisplay = document.getElementById('countdown-target-display');
+  const clockTip = document.getElementById('countdown-tip');
+
+  let intervalId: number | undefined;
+
+  function updateClock(targetDate: Date, names: string) {
+    const now = new Date();
+    const diff = targetDate.getTime() - now.getTime();
+
+    if (diff <= 0) {
+      if (intervalId) clearInterval(intervalId);
+      if (clockDays) clockDays.innerText = '00';
+      if (clockHours) clockHours.innerText = '00';
+      if (clockMins) clockMins.innerText = '00';
+      if (clockSecs) clockSecs.innerText = '00';
+      if (clockTitle) clockTitle.innerText = `Selamat Hari Bahagia, ${names}! 🎉`;
+      if (clockTip) clockTip.innerText = 'Hari pernikahan impian Anda telah tiba! Nikmati setiap detiknya.';
+      return;
+    }
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const mins = Math.floor((diff / (1000 * 60)) % 60);
+    const secs = Math.floor((diff / 1000) % 60);
+
+    if (clockDays) clockDays.innerText = String(days).padStart(2, '0');
+    if (clockHours) clockHours.innerText = String(hours).padStart(2, '0');
+    if (clockMins) clockMins.innerText = String(mins).padStart(2, '0');
+    if (clockSecs) clockSecs.innerText = String(secs).padStart(2, '0');
+
+    // Planning Tips Recommendation Engine
+    let tipText = 'Fokus pada kesehatan fisik, mental, dan persiapan fitting baju pengantin Anda.';
+    if (days > 180) {
+      tipText = 'Saran: 6 bulan+ lagi. Fokus utama saat ini adalah mem-booking gedung/venue, menentukan tema pernikahan, serta menyusun estimasi awal daftar tamu undangan.';
+    } else if (days > 90) {
+      tipText = 'Saran: 3-6 bulan lagi. Waktunya mencari katering pernikahan, memesan baju pengantin, memilih cincin pernikahan, dan menyurvei vendor undangan digital.';
+    } else if (days > 30) {
+      tipText = 'Saran: 1-3 bulan lagi. Segera daftarkan berkas pernikahan ke KUA/Catatan Sipil, pesan Undangan Digital di Acaranya.id untuk disebarkan, dan lakukan foto prewedding.';
+    } else if (days > 7) {
+      tipText = 'Saran: Kurang dari sebulan! Selesaikan pembagian undangan digital, lakukan konfirmasi kehadiran tamu (RSVP), selesaikan rapat akhir (technical meeting) dengan seluruh vendor.';
+    } else {
+      tipText = 'Saran: Seminggu terakhir! Rileks, jaga pola tidur, minumlah air putih yang cukup, dan percayakan seluruh hari H kepada wedding organizer terpercaya Anda.';
+    }
+
+    if (clockTip) clockTip.innerText = tipText;
+  }
+
+  if (form && resultDiv) {
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const names = (document.getElementById('countdown-names') as HTMLInputElement).value;
+      const dateVal = (document.getElementById('countdown-date') as HTMLInputElement).value;
+
+      if (!dateVal) return;
+
+      const targetDate = new Date(dateVal);
+      targetDate.setHours(0, 0, 0, 0);
+
+      if (clockTitle) clockTitle.innerText = `Menuju Hari Bahagia ${names}`;
+      if (clockTargetDisplay) {
+        clockTargetDisplay.innerText = `Hari Pernikahan: ${targetDate.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' })}`;
+      }
+
+      if (intervalId) clearInterval(intervalId);
+      
+      updateClock(targetDate, names);
+      intervalId = window.setInterval(() => {
+        updateClock(targetDate, names);
+      }, 1000);
+
+      resultDiv.classList.remove('hidden');
+    });
+  }
+</script>

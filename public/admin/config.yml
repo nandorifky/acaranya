@@ -149,3 +149,31 @@ collections:
       - { label: "Website Pribadi", name: "socialWebsite", widget: "string", required: false }
       - { label: "Meta SEO Title (Optional)", name: "metaTitle", widget: "string", required: false }
       - { label: "Meta SEO Description (Optional)", name: "metaDescription", widget: "string", required: false }
+
+  - name: "tools"
+    label: "Alat Bantu (Tools)"
+    folder: "src/content/tools"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Judul Halaman Tool", name: "title", widget: "string" }
+      - { label: "Deskripsi Singkat", name: "description", widget: "text" }
+      - label: "Pilih Komponen Tool"
+        name: "toolComponent"
+        widget: "select"
+        options:
+          - { label: "Kalkulator Weton Online (CekWeton)", value: "CekWeton" }
+          - { label: "Hitung Mundur Pernikahan (WeddingCountdown)", value: "WeddingCountdown" }
+      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", required: false }
+      - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
+      - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
+      - { label: "Canonical URL (Optional)", name: "canonicalUrl", widget: "string", required: false }
+      - { label: "Noindex Tag? (Sembunyikan dari Google)", name: "noindex", widget: "boolean", default: false }
+      # SoftwareApplication Schema Fields
+      - { label: "Skema: Nama Software/Tool", name: "schemaSoftwareName", widget: "string", default: "Cek Weton Online Acaranya.id", required: false }
+      - { label: "Skema: OS Aplikasi", name: "schemaOperatingSystem", widget: "string", default: "All", required: false }
+      - { label: "Skema: Kategori Aplikasi", name: "schemaApplicationCategory", widget: "string", default: "WebApplication", required: false }
+      - { label: "Skema: Harga (0 jika gratis)", name: "schemaOffersPrice", widget: "string", default: "0", required: false }
+      - { label: "Skema: Mata Uang (IDR dll)", name: "schemaOffersPriceCurrency", widget: "string", default: "IDR", required: false }
+      - { label: "Isi Konten Artikel Panduan (Body)", name: "body", widget: "markdown" }

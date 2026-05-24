@@ -1,0 +1,110 @@
+---
+import MarketingLayout from '../layouts/MarketingLayout.astro';
+import Container from '../components/base/Container.astro';
+import Section from '../components/base/Section.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../data/site';
+
+const tools = await getCollection('tools');
+const publishedTools = tools.filter(t => t.data.status === 'published');
+
+// Static icons list matching tool categories
+const getIcon = (componentName: string) => {
+  if (componentName === 'CekWeton') return '💖';
+  return '⏰';
+};
+---
+
+<MarketingLayout
+  title="Alat Bantu Pernikahan & Calon Pengantin Gratis"
+  description="Kumpulan alat bantu interaktif gratis untuk calon pengantin. Mulai dari cek weton kelahiran Jawa hingga hitung mundur hari pernikahan Anda secara praktis."
+  canonical={`${siteConfig.url}/tools/`}
+>
+  <!-- Hero Section -->
+  <header class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden border-b border-brand-200/50">
+    <div class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none">
+      <!-- Dot grid background patterns -->
+      <svg class="w-full h-full" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+        <defs>
+          <pattern id="dot-pattern" width="20" height="20" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1.5" fill="currentColor" />
+          </pattern>
+        </defs>
+        <rect width="100%" height="100%" fill="url(#dot-pattern)" />
+      </svg>
+    </div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl mx-auto text-center">
+        <span class="text-[11px] font-bold tracking-[0.25em] text-brand-700 uppercase block mb-3">
+          PERENCANAAN PRAKTIS & MENYENANGKAN
+        </span>
+        <h1 class="font-serif text-3xl sm:text-4xl lg:text-5xl text-brand-900 leading-tight mb-4">
+          Alat Bantu & Perencanaan Pernikahan
+        </h1>
+        <p class="text-text-muted text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
+          Koleksi kalkulator interaktif, hitung mundur hari bahagia, dan checklist gratis untuk mewujudkan pernikahan impian Anda tanpa stres.
+        </p>
+      </div>
+    </Container>
+  </header>
+
+  <!-- Directory Cards Grid Section -->
+  <Section class="bg-white py-16 lg:py-24">
+    <Container>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {publishedTools.map(tool => (
+          <a 
+            href={`/${tool.id}/`}
+            class="group bg-white rounded-2xl border border-brand-200/40 p-6 sm:p-8 hover:-translate-y-1.5 hover:shadow-md hover:border-brand-300/60 transition-all duration-300 flex flex-col justify-between"
+          >
+            <div>
+              <!-- Custom circular icon wrapper -->
+              <div class="w-12 h-12 rounded-full bg-brand-50 flex items-center justify-center text-xl mb-6 group-hover:scale-105 transition-all">
+                {getIcon(tool.data.toolComponent)}
+              </div>
+              <h2 class="font-serif text-lg sm:text-xl font-bold text-brand-900 mb-2 leading-tight group-hover:text-brand-700 transition-colors">
+                {tool.data.title.split(':')[0]}
+              </h2>
+              <p class="text-xs text-text-muted leading-relaxed line-clamp-3 mb-6">
+                {tool.data.description}
+              </p>
+            </div>
+            
+            <span class="text-xs font-semibold text-brand-700 flex items-center gap-1 group-hover:gap-2 transition-all mt-auto">
+              Coba Alat Bantu <span class="transition-transform group-hover:translate-x-0.5">→</span>
+            </span>
+          </a>
+        ))}
+      </div>
+    </Container>
+  </Section>
+
+  <!-- Bottom Conversion Banner CTA -->
+  <Section class="bg-cream/40 border-t border-brand-200/30 py-16 lg:py-20">
+    <Container>
+      <div class="max-w-2xl mx-auto text-center space-y-6">
+        <h3 class="font-serif text-2xl sm:text-3xl text-brand-900">
+          Siap Membagikan Kebahagiaan Anda?
+        </h3>
+        <p class="text-text-muted text-xs sm:text-sm leading-relaxed max-w-md mx-auto">
+          Setelah merencanakan dengan matang, buat undangan digital impian Anda di Acaranya.id dengan proses sangat mudah, cepat, dan mewah.
+        </p>
+        <div class="flex flex-wrap items-center justify-center gap-3 pt-2">
+          <a 
+            href="/desain-undangan-digital/" 
+            class="px-6 py-3 bg-brand-800 hover:bg-brand-900 text-white rounded-lg text-xs font-semibold shadow-sm transition-all"
+          >
+            Pilih Desain Undangan
+          </a>
+          <a 
+            href="/harga/" 
+            class="px-6 py-3 bg-white hover:bg-brand-50 text-brand-800 rounded-lg text-xs font-semibold border border-brand-200 shadow-2xs transition-all"
+          >
+            Lihat Paket Harga
+          </a>
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>
