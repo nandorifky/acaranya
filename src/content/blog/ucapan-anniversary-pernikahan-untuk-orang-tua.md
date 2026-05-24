@@ -1,14 +1,12 @@
 ---
 title: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
-description: >-
-  Perayaan anniversary pernikahan untuk orang tua bukan sekadar pengingat
-  tahun-tahun kebersamaan mereka. Ini adalah momen untuk menghargai cinta, kerja
-  keras, da
-publishedAt: '2026-04-08T17:50:26'
-updatedAt: '2026-04-08T17:50:26'
+description: Perayaan anniversary pernikahan untuk orang tua bukan sekadar pengingat tahun-tahun kebersamaan mereka. Ini adalah momen untuk menghargai cinta, kerja keras, da
+publishedAt: 2026-04-08T17:50:00
+updatedAt: 2026-04-08T17:50:00
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - kata-kata
 image: /images/blog/featured/ucapan-anniversary-pernikahan-untuk-orang-tua.jpg
 imageAlt: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
 imageTitle: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
@@ -16,9 +14,10 @@ imageCaption: ''
 status: published
 seoTitle: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
 customBreadcrumbLabel: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-anniversary-pernikahan-untuk-orang-tua/'
+canonicalUrl: https://acaranya.id/artikel/ucapan-anniversary-pernikahan-untuk-orang-tua/
 noindex: false
 ---
+
 5/5 - (2 suara)
 
 Perayaan **anniversary pernikahan untuk orang tua** bukan sekadar pengingat tahun-tahun kebersamaan mereka. Ini adalah momen untuk menghargai cinta, kerja keras, dan pengorbanan yang telah mereka lakukan untuk keluarga.
