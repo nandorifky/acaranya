@@ -1,15 +1,14 @@
 ---
 title: Timeless
 category: pernikahan
-thumbnail: 'https://inv.acaranya.id/themes/timeless/timeless.webp'
-previewUrl: 'https://inv.acaranya.id/preview/timeless'
-isFeatured: false
-isPremium: false
+thumbnail: https://inv.acaranya.id/themes/timeless/timeless.webp
+previewUrl: https://inv.acaranya.id/preview/timeless
+isFeatured: true
+isPremium: true
 tags:
   - elegant
-  - putih
+  - minimalist
 package: mengundang
 sortOrder: 76
 status: published
 ---
-
