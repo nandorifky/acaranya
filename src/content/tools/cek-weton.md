@@ -13,6 +13,8 @@ schemaOperatingSystem: All
 schemaApplicationCategory: WebApplication
 schemaOffersPrice: '0'
 schemaOffersPriceCurrency: IDR
+schemaRatingValue: 5
+schemaRatingCount: 991
 ---
 
 Weton merupakan konsep tradisional dari budaya Jawa yang menggabungkan **hari dalam kalender Masehi** (Senin hingga Minggu) dengan **hari pasaran Jawa** (Legi, Pahing, Pon, Wage, dan Kliwon). Dalam budaya Jawa, weton ini dianggap penting dalam menentukan hari-hari baik untuk berbagai kegiatan, seperti pernikahan, memulai usaha, atau sekadar memahami karakter seseorang.
@@ -68,17 +70,17 @@ Berikut ini adalah cara sederhana untuk menghitung weton jodoh dan bagaimana men
 
 ### 1. Hitung Jumlah Weton Masing-Masing Pasangan
 
-![Cek Weton Online: Kalkulator Hitung Weton Jawa Primbon](/images/blog/content/tabel-hitungan-weton.jpg "Cek Weton Online: Kalkulator Hitung Weton Jawa Primbon ")
+![Cek Weton Online: Kalkulator Hitung Weton Jawa Primbon](/images/blog/content/tabel-hitungan-weton.jpg "Cek Weton Online: Kalkulator Hitung Weton Jawa Primbon")
 
 Langkah pertama dalam menghitung weton jodoh adalah mencari jumlah weton dari kedua calon mempelai. Seperti yang dijelaskan sebelumnya, **jumlah weton** dihitung dengan menjumlahkan nilai hari Masehi dan nilai pasaran Jawa dari hari lahir mereka.
 
 Misalnya:
 
-*   **Calon Pengantin Pria** lahir pada **Selasa Pahing**:
+-   **Calon Pengantin Pria** lahir pada **Selasa Pahing**:
     -   Nilai **Selasa** adalah 3
     -   Nilai **Pahing** adalah 9
     -   Maka, jumlah weton pria adalah 3 + 9 = **12**
-*   **Calon Pengantin Wanita** lahir pada **Jumat Kliwon**:
+-   **Calon Pengantin Wanita** lahir pada **Jumat Kliwon**:
     -   Nilai **Jumat** adalah 6
     -   Nilai **Kliwon** adalah 8
     -   Maka, jumlah weton wanita adalah 6 + 8 = **14**
