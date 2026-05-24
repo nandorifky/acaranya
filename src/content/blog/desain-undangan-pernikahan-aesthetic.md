@@ -1,11 +1,8 @@
 ---
-title: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
-description: >-
-  Kumpulan desain undangan pernikahan aesthetic yang jarang dipakai! Dari tema
-  Vintage Forest hingga Floral Purple, bikin undangan digitalmu tampil beda &
-  indah.
-publishedAt: '2026-04-08T17:50:36'
-updatedAt: '2026-04-08T17:50:36'
+title: Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!
+description: Kumpulan desain undangan pernikahan aesthetic yang jarang dipakai! Dari tema Vintage Forest hingga Floral Purple, bikin undangan digitalmu tampil beda & indah.
+publishedAt: 2026-04-08T17:50:00
+updatedAt: 2026-04-08T17:50:00
 author: tim-acaranya
 category: Inspirasi
 tags:
@@ -17,16 +14,15 @@ tags:
   - kata-kata
   - desain
 image: /images/blog/featured/desain-undangan-pernikahan-aesthetic.webp
-imageAlt: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
-imageTitle: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
+imageAlt: Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!
+imageTitle: Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!
 imageCaption: ''
 status: published
-seoTitle: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
-customBreadcrumbLabel: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
-canonicalUrl: 'https://acaranya.id/artikel/desain-undangan-pernikahan-aesthetic/'
+seoTitle: Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!
+customBreadcrumbLabel: Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!
+canonicalUrl: https://acaranya.id/artikel/desain-undangan-pernikahan-aesthetic/
 noindex: false
 ---
-5/5 - (1 suara)
 
 Undangan pernikahan merupakan hal yang paling utama diperlihatkan kepada tamu undangan, karena itu jangan asal memilih desain!
 
@@ -39,6 +35,8 @@ Jika kamu salah satu calon pengantin yang mencari desain undangan aesthetic, dis
 Kami memiliki cukup banyak pilihan desain [undangan pernikahan digital](https://acaranya.id/services/undangan-pernikahan-digital/), mulai dari yang simple, minimalis, aesthetic, hingga elegan semua ada!
 
 Melalui akun media sosial, kami memberikan catalog desain undangan yang bervariasi, berikut ini beberapa contoh tema desain aesthetic:
+
+{% design_showcase templates=["wedding-elegant-gold", "bohemian-chic-sunset", "celestial-midnight-star", "emerald-velvet-luxury"] %}
 
 [![Vintage Forest](/images/blog/content/Name-1-1024x1024.png)](/images/blog/content/Name-1.png)
 
@@ -153,8 +151,7 @@ Undangan pernikahan ini memadukan keindahan desain modern dengan sentuhan tradis
 *   **Ilustrasi Daun-Daunan:** Ilustrasi daun-daunan yang halus dan detail memberikan sentuhan alam yang segar pada undangan.
 *   **Stempel Lilin:** Stempel lilin dengan inisial pengantin memberikan sentuhan klasik dan elegan pada undangan.
 *   **Kertas Berkualitas Tinggi:** Penggunaan kertas berkualitas tinggi dengan tekstur halus memberikan kesan mewah dan premium pada undangan.
-
-* * *
+* \* \*
 
 Tentunya, pemilihan desain merupakan preferensi masing-masing. Jika kamu memutuskan untuk menggunakan desain undangan pernikahan aesthetic, kumpulan desain diatas bisa kamu jadikan sebagai inspirasi.
 
