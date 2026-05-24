@@ -45,7 +45,7 @@ collections:
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
       - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime" }
       - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
-      - { label: "Penulis (Author)", name: "author", widget: "string" }
+      - { label: "Penulis (Author)", name: "author", widget: "relation", collection: "authors", value_field: "name", search_fields: ["name"], display_fields: ["name"] }
       - { label: "Kategori Blog", name: "category", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", default: [] }
       - label: "Gambar Utama (Featured Image)"
