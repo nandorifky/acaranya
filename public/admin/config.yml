@@ -165,6 +165,7 @@ collections:
         options:
           - { label: "Kalkulator Weton Online (CekWeton)", value: "CekWeton" }
           - { label: "Hitung Mundur Pernikahan (WeddingCountdown)", value: "WeddingCountdown" }
+          - { label: "Generator Teks Undangan WA (GeneratorTeksUndangan)", value: "GeneratorTeksUndangan" }
       - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", required: false }
       - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
       - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
@@ -176,4 +177,30 @@ collections:
       - { label: "Skema: Kategori Aplikasi", name: "schemaApplicationCategory", widget: "string", default: "WebApplication", required: false }
       - { label: "Skema: Harga (0 jika gratis)", name: "schemaOffersPrice", widget: "string", default: "0", required: false }
       - { label: "Skema: Mata Uang (IDR dll)", name: "schemaOffersPriceCurrency", widget: "string", default: "IDR", required: false }
+      - { label: "Skema: Rating Bintang (misal 4.9)", name: "schemaRatingValue", widget: "number", value_type: "float", required: false }
+      - { label: "Skema: Jumlah Ulasan/Rating", name: "schemaRatingCount", widget: "number", value_type: "int", required: false }
       - { label: "Isi Konten Artikel Panduan (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
+
+  - name: "portfolio"
+    label: "Portofolio Klien"
+    folder: "src/content/portfolio"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Judul Portofolio", name: "title", widget: "string", description: "Contoh: Undangan Pernikahan Mewah Sarah & Rian" }
+      - { label: "Nama Klien / Pasangan", name: "clientName", widget: "string", description: "Contoh: Sarah & Rian" }
+      - { label: "Kategori Event", name: "category", widget: "relation", collection: "design-categories", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"] }
+      - { label: "Template Desain yang Digunakan", name: "designUsed", widget: "relation", collection: "designs", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"], required: false }
+      - { label: "Gambar Cover Utama (Thumbnail)", name: "thumbnail", widget: "image" }
+      - { label: "Galeri Tangkapan Layar (Screenshots)", name: "gallery", widget: "list", field: { label: "Gambar", widget: "image" }, default: [] }
+      - { label: "Tautan Live Website Klien", name: "liveUrl", widget: "string", required: false, description: "Contoh: https://inv.acaranya.id/sarah-rian" }
+      - { label: "Tanggal Acara", name: "eventDate", widget: "datetime", required: false }
+      - { label: "Lokasi Acara", name: "location", widget: "string", required: false, description: "Contoh: Surabaya, Jawa Timur" }
+      - { label: "Fitur yang Digunakan", name: "featuresUsed", widget: "list", default: [] }
+      - { label: "Kutipan Ulasan Singkat Klien", name: "clientTestimonial", widget: "text", required: false }
+      - { label: "Urutan Tampil", name: "sortOrder", widget: "number", value_type: "int", default: 0 }
+      - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
+      - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
+      - { label: "SEO Custom Description (Optional)", name: "seoDescription", widget: "text", required: false }
+      - { label: "Konten Cerita/Studi Kasus (Body - Opsional)", name: "body", widget: "markdown", required: false, buttons: ["bold", "italic", "code", "link", "heading-two", "heading-three", "quote", "bulleted-list", "numbered-list", "image"] }

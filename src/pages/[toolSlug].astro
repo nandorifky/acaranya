@@ -1,15 +1,15 @@
 ---
-import MarketingLayout from '../layouts/MarketingLayout.astro';
-import Container from '../components/base/Container.astro';
-import Section from '../components/base/Section.astro';
-import { getCollection, render } from 'astro:content';
-import { siteConfig } from '../data/site';
-import { toolsMap } from '../components/tools';
+import MarketingLayout from "../layouts/MarketingLayout.astro";
+import Container from "../components/base/Container.astro";
+import Section from "../components/base/Section.astro";
+import { getCollection, render } from "astro:content";
+import { siteConfig } from "../data/site";
+import { toolsMap } from "../components/tools";
 
 export async function getStaticPaths() {
-  const tools = await getCollection('tools');
-  const published = tools.filter(t => t.data.status === 'published');
-  return published.map(tool => ({
+  const tools = await getCollection("tools");
+  const published = tools.filter((t) => t.data.status === "published");
+  return published.map((tool) => ({
     params: { toolSlug: tool.id },
     props: { tool },
   }));
@@ -18,24 +18,34 @@ export async function getStaticPaths() {
 const { tool } = Astro.props;
 const { Content } = await render(tool);
 
-const ToolComponent = toolsMap[tool.data.toolComponent as keyof typeof toolsMap];
+const ToolComponent =
+  toolsMap[tool.data.toolComponent as keyof typeof toolsMap];
 const canonicalUrl = tool.data.canonicalUrl || `${siteConfig.url}/${tool.id}/`;
-const robots = tool.data.noindex ? 'noindex,nofollow' : 'index,follow';
+const robots = tool.data.noindex ? "noindex,nofollow" : "index,follow";
 const pageTitle = tool.data.seoTitle || tool.data.title;
 
 // Dynamic SoftwareApplication / WebApplication JSON-LD Schema
-const softwareSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'WebApplication',
+const softwareSchema: any = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
   name: tool.data.schemaSoftwareName || tool.data.title,
-  operatingSystem: tool.data.schemaOperatingSystem || 'All',
-  applicationCategory: tool.data.schemaApplicationCategory || 'WebApplication',
-  browserRequirements: 'Requires JavaScript. Requires HTML5.',
+  operatingSystem: tool.data.schemaOperatingSystem || "All",
+  applicationCategory: tool.data.schemaApplicationCategory || "WebApplication",
+  browserRequirements: "Requires JavaScript. Requires HTML5.",
   offers: {
-    '@type': 'Offer',
-    price: tool.data.schemaOffersPrice || '0',
-    priceCurrency: tool.data.schemaOffersPriceCurrency || 'IDR',
+    "@type": "Offer",
+    price: tool.data.schemaOffersPrice || "0",
+    priceCurrency: tool.data.schemaOffersPriceCurrency || "IDR",
   },
+  ...(tool.data.schemaRatingValue && {
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: tool.data.schemaRatingValue,
+      ratingCount: tool.data.schemaRatingCount || 100,
+      bestRating: "5",
+      worstRating: "1",
+    },
+  }),
 };
 
 const jsonLd = [softwareSchema];
@@ -49,13 +59,19 @@ const jsonLd = [softwareSchema];
   jsonLd={jsonLd}
 >
   <!-- Top Hero & Interactive Tool Section -->
-  <section class="bg-cream pt-24 pb-16 lg:pt-36 lg:pb-24 overflow-hidden border-b border-brand-200/50">
+  <section
+    class="bg-cream pt-24 pb-16 lg:pt-36 lg:pb-24 overflow-hidden border-b border-brand-200/50"
+  >
     <Container>
       <div class="max-w-3xl mx-auto text-center mb-10 lg:mb-14">
-        <span class="text-[11px] font-semibold tracking-[0.2em] text-brand-700 uppercase block mb-3">
-          ALAT BANTU INTERAKTIF GRATIS
+        <span
+          class="text-[11px] font-semibold tracking-[0.2em] text-brand-700 uppercase block mb-3"
+        >
+          TOOLS BY ACARANYA.ID
         </span>
-        <h1 class="font-serif text-3xl sm:text-4xl lg:text-5xl text-brand-900 leading-tight mb-4">
+        <h1
+          class="font-serif text-3xl sm:text-4xl lg:text-5xl text-brand-900 leading-tight mb-4"
+        >
           {tool.data.title}
         </h1>
         <p class="text-text-muted text-sm sm:text-base max-w-xl mx-auto">
@@ -65,14 +81,19 @@ const jsonLd = [softwareSchema];
 
       <!-- Main Stage: Tool Interactive Component -->
       <div class="max-w-2xl mx-auto">
-        <div class="bg-white rounded-2xl shadow-sm border border-brand-200/40 p-6 sm:p-8">
-          {ToolComponent ? (
-            <ToolComponent />
-          ) : (
-            <div class="text-center py-8 text-text-muted text-sm">
-              Komponen alat bantu "{tool.data.toolComponent}" sedang disiapkan.
-            </div>
-          )}
+        <div
+          class="bg-white rounded-2xl shadow-sm border border-brand-200/40 p-6 sm:p-8"
+        >
+          {
+            ToolComponent ? (
+              <ToolComponent />
+            ) : (
+              <div class="text-center py-8 text-text-muted text-sm">
+                Komponen alat bantu "{tool.data.toolComponent}" sedang
+                disiapkan.
+              </div>
+            )
+          }
         </div>
       </div>
     </Container>

@@ -8,11 +8,13 @@ status: published
 seoTitle: Cek Weton Online - Primbon Hari Lahir & Jodoh Jawa | Acaranya.id
 canonicalUrl: https://acaranya.id/cek-weton/
 noindex: false
-schemaSoftwareName: Kalkulator Cek Weton Online Acaranya.id
+schemaSoftwareName: 'Kalkulator Cek Weton Online Acaranya.id'
 schemaOperatingSystem: All
 schemaApplicationCategory: WebApplication
 schemaOffersPrice: '0'
 schemaOffersPriceCurrency: IDR
+schemaRatingValue: 4.9
+schemaRatingCount: 185
 ---
 
 Weton merupakan konsep tradisional dari budaya Jawa yang menggabungkan **hari dalam kalender Masehi** (Senin hingga Minggu) dengan **hari pasaran Jawa** (Legi, Pahing, Pon, Wage, dan Kliwon). Dalam budaya Jawa, weton ini dianggap penting dalam menentukan hari-hari baik untuk berbagai kegiatan, seperti pernikahan, memulai usaha, atau sekadar memahami karakter seseorang.

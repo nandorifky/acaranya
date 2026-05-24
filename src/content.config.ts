@@ -128,7 +128,30 @@ const tools = defineCollection({
     schemaApplicationCategory: z.string().default('WebApplication'),
     schemaOffersPrice: z.string().default('0'),
     schemaOffersPriceCurrency: z.string().default('IDR'),
+    schemaRatingValue: z.number().optional(),
+    schemaRatingCount: z.number().optional(),
   }),
 });
 
-export const collections = { designs, designCategories, blog, testimonials, faqs, authors, tools };
+const portfolio = defineCollection({
+  loader: glob({ pattern: '**/*.{md,json,mdoc}', base: './src/content/portfolio' }),
+  schema: z.object({
+    title: z.string(),
+    clientName: z.string(),
+    category: z.string(),
+    designUsed: z.string().optional(),
+    thumbnail: z.string(),
+    gallery: z.array(z.string()).default([]),
+    liveUrl: z.string().url().optional(),
+    eventDate: z.coerce.date().optional(),
+    location: z.string().optional(),
+    featuresUsed: z.array(z.string()).default([]),
+    clientTestimonial: z.string().optional(),
+    sortOrder: z.number().default(0),
+    status: z.enum(['draft', 'published']).default('published'),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
+  }),
+});
+
+export const collections = { designs, designCategories, blog, testimonials, faqs, authors, tools, portfolio };

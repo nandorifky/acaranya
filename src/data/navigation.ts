@@ -9,6 +9,7 @@ export const mainNavigation: NavItem[] = [
   { label: 'Fitur', href: '/fitur/' },
   { label: 'Harga', href: '/harga/' },
   { label: 'Desain', href: '/desain-undangan-digital/' },
+  { label: 'Portofolio', href: '/portfolio/' },
   { label: 'Artikel', href: '/artikel/' },
   { label: 'Kontak', href: '/kontak/' },
 ];
@@ -18,6 +19,7 @@ export const mobileNavigation: NavItem[] = [
   { label: 'Fitur', href: '/fitur/' },
   { label: 'Harga', href: '/harga/' },
   { label: 'Desain Undangan', href: '/desain-undangan-digital/' },
+  { label: 'Portofolio', href: '/portfolio/' },
   { label: 'Artikel', href: '/artikel/' },
   { label: 'Mitra Reseller', href: '/reseller-undangan-digital/' },
   { label: 'Tentang', href: '/tentang/' },
@@ -41,6 +43,7 @@ export const footerNavigation = {
   perusahaan: [
     { label: 'Tentang', href: '/tentang/' },
     { label: 'Kontak', href: '/kontak/' },
+    { label: 'Portofolio', href: '/portfolio/' },
     { label: 'Artikel', href: '/artikel/' },
     { label: 'Mitra Reseller', href: '/reseller-undangan-digital/' },
   ],

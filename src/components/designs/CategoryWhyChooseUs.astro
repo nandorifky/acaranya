@@ -61,12 +61,13 @@ if (!data || !data.features || data.features.length === 0) {
       <div class="lg:col-span-5 relative">
         <div class="relative z-10 rounded-[2.5rem] overflow-hidden shadow-elevated border-8 border-white/50 aspect-[4/5]">
           {data.image ? (
-            <Image 
+            <img 
               src={data.image} 
               alt={data.title || 'Why Choose Us'} 
-              width={600} 
-              height={750} 
+              width="600" 
+              height="750" 
               class="w-full h-full object-cover"
+              loading="lazy"
             />
           ) : (
             <div class="w-full h-full bg-gradient-to-br from-brand-100 to-cream flex items-center justify-center p-12 text-center">

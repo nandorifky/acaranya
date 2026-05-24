@@ -34,12 +34,13 @@ const randomPosts = publishedPosts
         <a href={`/artikel/${post.id}/`} class="group block space-y-4">
           <div class="aspect-[16/9] overflow-hidden rounded-sm grayscale-[0.3] group-hover:grayscale-0 transition-all duration-700">
             {post.data.image ? (
-              <Image 
+              <img 
                 src={post.data.image} 
                 alt={post.data.title} 
-                width={800}
-                height={450}
+                width="800"
+                height="450"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"
+                loading="lazy"
               />
             ) : (
               <div class="w-full h-full bg-cream/50 flex items-center justify-center text-brand-200">

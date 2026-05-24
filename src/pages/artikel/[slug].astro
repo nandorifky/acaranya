@@ -84,11 +84,11 @@ const jsonLd = [{
         <Container narrow>
           <figure>
             <div class="aspect-[2/1] sm:aspect-[21/9] overflow-hidden rounded-sm">
-              <Image
+              <img
                 src={post.data.image}
                 alt={post.data.imageAlt || post.data.title}
-                width={1200}
-                height={630}
+                width="1200"
+                height="630"
                 class="w-full h-full object-cover"
                 loading="eager"
                 fetchpriority="high"
@@ -135,7 +135,7 @@ const jsonLd = [{
               <a href={`/penulis/${authorSlug}/`} class="flex items-center gap-3 group">
                 <div class="w-9 h-9 rounded-full bg-brand-100 flex items-center justify-center overflow-hidden">
                   {authorEntry?.data.avatar ? (
-                    <Image src={authorEntry.data.avatar} alt={authorName} width={128} height={128} class="w-full h-full object-cover" />
+                    <img src={authorEntry.data.avatar} alt={authorName} width="128" height="128" class="w-full h-full object-cover" loading="lazy" />
                   ) : (
                     <Icon name="user" size={16} class="text-brand-500" />
                   )}

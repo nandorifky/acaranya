@@ -50,11 +50,11 @@ const robots = page.currentPage > 1 ? 'noindex, follow' : 'index, follow';
               <a href={`/artikel/${post.id}/`} class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
                 {post.data.image ? (
                   <div class="aspect-[16/9] overflow-hidden">
-                    <Image
+                    <img
                       src={post.data.image}
                       alt={post.data.title}
-                      width={800}
-                      height={450}
+                      width="800"
+                      height="450"
                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       loading="lazy"
                     />

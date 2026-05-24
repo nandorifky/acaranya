@@ -64,7 +64,7 @@ const metaDesc = author.data.metaDescription || author.data.bio;
           <!-- Avatar -->
           <div class="w-24 h-24 sm:w-32 sm:h-32 rounded-full overflow-hidden border-2 border-champagne shrink-0 bg-brand-50 flex items-center justify-center shadow-sm">
             {author.data.avatar ? (
-              <Image src={author.data.avatar} alt={author.data.name} width={128} height={128} class="w-full h-full object-cover" />
+              <img src={author.data.avatar} alt={author.data.name} width="128" height="128" class="w-full h-full object-cover" loading="lazy" />
             ) : (
               <Icon name="user" size={48} class="text-brand-300" />
             )}
@@ -126,11 +126,11 @@ const metaDesc = author.data.metaDescription || author.data.bio;
                 <a href={`/artikel/${post.id}/`} class="group flex flex-col sm:flex-row gap-4 bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
                   {post.data.image ? (
                     <div class="aspect-[16/9] sm:w-[180px] sm:aspect-square overflow-hidden shrink-0">
-                      <Image
+                      <img
                         src={post.data.image}
                         alt={post.data.title}
-                        width={400}
-                        height={400}
+                        width="400"
+                        height="400"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                         loading="lazy"
                       />

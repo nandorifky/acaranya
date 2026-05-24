@@ -1,0 +1,230 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import Icon from '../../components/ui/Icon.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../../data/site';
+
+// Fetch portfolios and categories
+const allPortfolios = await getCollection('portfolio');
+const publishedPortfolios = allPortfolios
+  .filter(p => p.data.status === 'published')
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const allCategories = await getCollection('designCategories');
+const publishedCategories = allCategories
+  .filter(c => c.data.status === 'published')
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+const canonicalUrl = `${siteConfig.url}/portfolio/`;
+const metaTitle = "Portofolio Undangan Digital Premium Klien Nyata | Acaranya.id";
+const metaDescription = "Jelajahi galeri portofolio contoh website undangan digital mewah yang telah kami persembahkan untuk klien-klien istimewa kami. Dapatkan inspirasi sekarang.";
+---
+
+<MarketingLayout
+  title={metaTitle}
+  description={metaDescription}
+  canonical={canonicalUrl}
+>
+  <!-- Hero Section -->
+  <header class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden border-b border-brand-200/50">
+    <div 
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    ></div>
+
+    <Container>
+      <div class="relative z-10 max-w-4xl space-y-6">
+        <div class="flex items-center gap-2">
+          <div class="w-8 h-8 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold">
+            <Icon name="folder" size={13} />
+          </div>
+          <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Portofolio Showcase</span>
+        </div>
+
+        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
+          Karya Terbaik Kami untuk <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold font-serif">Momen Istimewa Anda</span>
+        </h1>
+        <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+          Jelajahi galeri undangan digital premium milik klien nyata Acaranya.id. Desain berkelas butik, interaksi responsif, dan performa super cepat.
+        </p>
+
+        <!-- Dynamic Category Chips (Filter) -->
+        <nav class="flex flex-wrap gap-2.5 pt-4" aria-label="Filter Kategori Portofolio">
+          <button
+            data-filter="all"
+            class="filter-btn px-5 py-2.5 bg-brand-950 text-cream text-[9px] font-bold uppercase tracking-widest rounded-full shadow-card transition-all duration-300"
+          >
+            Semua Karya
+          </button>
+          {publishedCategories.map((cat) => (
+            <button
+              data-filter={cat.id}
+              class="filter-btn inline-flex items-center gap-2 px-5 py-2.5 bg-white border border-[#B59A73]/20 hover:border-soft-gold text-brand-800 hover:text-soft-gold text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card hover:shadow-card-hover"
+            >
+              <Icon name={cat.data.icon} size={11} />
+              {cat.data.labelShort}
+            </button>
+          ))}
+        </nav>
+      </div>
+    </Container>
+  </header>
+
+  <!-- Portofolio Grid Results -->
+  <Section bg="white" id="portfolio-results" class="border-t border-border-soft/60">
+    <Container>
+      {publishedPortfolios.length > 0 ? (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 stagger">
+          {publishedPortfolios.map((item) => {
+            const catObj = publishedCategories.find(c => c.id === item.data.category);
+            const categoryLabel = catObj ? catObj.data.title : item.data.category;
+
+            return (
+              <article 
+                data-category={item.data.category}
+                class="portfolio-card group relative bg-surface border border-border-soft/60 rounded-3xl overflow-hidden hover:border-[#B59A73]/50 hover:-translate-y-1 transition-all duration-300 shadow-card hover:shadow-card-hover flex flex-col h-full"
+              >
+                <!-- Thumbnail -->
+                <div class="relative aspect-[4/5] overflow-hidden bg-surface-muted shrink-0">
+                  <img 
+                    src={item.data.thumbnail} 
+                    alt={item.data.title} 
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
+                    loading="lazy"
+                  />
+                  
+                  <!-- Hover overlay -->
+                  <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto backdrop-blur-[2px]">
+                    <div class="flex flex-col sm:flex-row gap-2 px-4 w-full justify-center items-center">
+                      {item.data.liveUrl && (
+                        <a href={item.data.liveUrl} target="_blank" rel="noopener noreferrer"
+                          class="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-[#FAF9F6] text-brand-950 text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white transition-colors duration-300 shadow-sm w-full sm:w-auto">
+                          <Icon name="external-link" size={11} />
+                          Kunjungi Website
+                        </a>
+                      )}
+                      <a href={`/order-undangan/?request=custom&from=${item.id}`}
+                        class="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-colors duration-300 shadow-sm w-full sm:w-auto">
+                        Order Desain Ini
+                        <Icon name="arrow-right" size={11} />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Info Block -->
+                <div class="p-6 flex-1 flex flex-col justify-between space-y-4">
+                  <div class="space-y-2">
+                    <div class="flex items-center justify-between text-[10px] font-semibold tracking-wider text-soft-gold uppercase">
+                      <span>{categoryLabel}</span>
+                      {item.data.location && (
+                        <span class="text-text-muted flex items-center gap-1">
+                          <Icon name="map-pin" size={10} />
+                          {item.data.location}
+                        </span>
+                      )}
+                    </div>
+                    <h3 class="font-serif text-lg text-brand-900 font-semibold leading-snug">{item.data.title}</h3>
+                  </div>
+
+                  <!-- Client Review Quote (if present) -->
+                  {item.data.clientTestimonial && (
+                    <div class="relative bg-cream/30 p-4 rounded-2xl border border-brand-200/20 italic text-xs text-text-secondary leading-relaxed">
+                      "{item.data.clientTestimonial}"
+                    </div>
+                  )}
+
+                  <!-- Features used -->
+                  {item.data.featuresUsed.length > 0 && (
+                    <div class="flex flex-wrap gap-1.5 pt-2">
+                      {item.data.featuresUsed.map((feat) => (
+                        <span class="text-[9px] text-[#A7B8B9] bg-brand-50/50 px-2 py-0.5 rounded-full font-medium border border-brand-100/40">
+                          {feat}
+                        </span>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      ) : (
+        <div class="text-center py-24 max-w-md mx-auto space-y-6">
+          <div class="w-16 h-16 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold mx-auto bg-cream">
+            <Icon name="folder-open" size={24} />
+          </div>
+          <div class="space-y-2">
+            <h3 class="font-serif text-2xl text-brand-950">Portofolio Kosong</h3>
+            <p class="text-xs text-text-muted font-sans tracking-wide leading-relaxed">
+              Saat ini kami sedang memperbarui galeri portofolio undangan digital terbaru kami.
+            </p>
+          </div>
+        </div>
+      )}
+    </Container>
+  </Section>
+
+  <!-- Bottom CTA (SEO Copywriting) -->
+  <Section bg="cream" class="border-t border-border-soft/60">
+    <Container narrow>
+      <div class="space-y-6 text-center max-w-2xl mx-auto">
+        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Kreativitas Tiada Batas</span>
+        <h2 class="font-serif text-3xl text-brand-950 leading-tight">
+          Ingin Memiliki Undangan Digital Mewah Seperti Klien Kami?
+        </h2>
+        <div class="text-text-secondary text-sm leading-relaxed space-y-4 font-sans tracking-wide">
+          <p>
+            Semua portofolio di atas merepresentasikan dedikasi tinggi kami dalam memberikan layanan desain premium yang estetik, modern, dan fungsional. Kami percaya setiap pasangan memiliki cerita yang unik, dan kami siap memvisualisasikannya ke dalam website undangan digital terbaik.
+          </p>
+        </div>
+        
+        <div class="pt-4">
+          <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-8 py-3.5 bg-brand-900 text-white text-[11px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-all duration-300 shadow-card">
+            Pilih Template Desain Anda
+            <Icon name="arrow-right" size={12} />
+          </a>
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>
+
+<script>
+  function initFilters() {
+    const buttons = document.querySelectorAll('.filter-btn');
+    const cards = document.querySelectorAll('.portfolio-card') as NodeListOf<HTMLElement>;
+
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.getAttribute('data-filter');
+
+        // Toggle active button style
+        buttons.forEach(b => {
+          b.classList.remove('bg-brand-950', 'text-cream');
+          b.classList.add('bg-white', 'border-[#B59A73]/20', 'text-brand-800');
+        });
+        btn.classList.add('bg-brand-950', 'text-cream');
+        btn.classList.remove('bg-white', 'border-[#B59A73]/20', 'text-brand-800');
+
+        // Filter cards
+        cards.forEach(card => {
+          const cat = card.getAttribute('data-category');
+          if (filter === 'all' || cat === filter) {
+            card.style.display = 'flex';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+      });
+    });
+  }
+
+  // Run on page load
+  initFilters();
+  // Run on Astro View Transitions load
+  document.addEventListener('astro:page-load', initFilters);
+</script>

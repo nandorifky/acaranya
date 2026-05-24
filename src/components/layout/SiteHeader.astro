@@ -1,49 +1,77 @@
 ---
-import { siteConfig } from '../../data/site';
-import { mainNavigation, ctaNavItem } from '../../data/navigation';
-import Icon from '../ui/Icon.astro';
-import MobileNav from './MobileNav';
+import { siteConfig } from "../../data/site";
+import { mainNavigation, ctaNavItem } from "../../data/navigation";
+import Icon from "../ui/Icon.astro";
+import MobileNav from "./MobileNav";
 
 const pathname = Astro.url.pathname;
 ---
 
-<header id="site-header" class="fixed top-4 left-4 right-4 z-50 transition-all duration-300">
-  <div class="max-w-5xl mx-auto px-5 py-2.5 sm:py-3 bg-surface/80 backdrop-blur-md rounded-full border border-border-soft/60 shadow-card flex items-center justify-between transition-all duration-300 relative overflow-hidden" id="header-container">
+<header
+  id="site-header"
+  class="fixed top-4 left-4 right-4 z-50 transition-all duration-300"
+>
+  <div
+    class="max-w-5xl mx-auto px-5 py-2.5 sm:py-3 bg-surface/80 backdrop-blur-md rounded-full border border-border-soft/60 shadow-card flex items-center justify-between transition-all duration-300 relative overflow-hidden"
+    id="header-container"
+  >
     {/* Reading Progress Bar (Hidden by default, shown via JS on articles) */}
-    <div id="reading-progress" class="absolute top-0 left-0 h-[2px] bg-soft-gold w-0 transition-all duration-150 z-20"></div>
-    
+    <div
+      id="reading-progress"
+      class="absolute top-0 left-0 h-[2px] bg-soft-gold w-0 transition-all duration-150 z-20"
+    >
+    </div>
+
     <!-- Logo -->
-    <a href="/" class="flex items-center gap-2.5 group" id="header-logo" aria-label={`Kembali ke beranda ${siteConfig.name}`}>
-      <!-- Monogram -->
-      <div class="w-8 h-8 bg-brand-500 rounded-full flex items-center justify-center group-hover:bg-brand-600 transition-colors duration-300 shadow-sm" aria-hidden="true">
-        <span class="font-serif text-sm text-white font-bold leading-none">A</span>
-      </div>
-      <div>
-        <span class="text-[15px] font-serif font-semibold text-text-primary tracking-tight leading-none group-hover:text-soft-gold transition-colors duration-300">
-          {siteConfig.name}
-        </span>
-      </div>
+    <a
+      href="/"
+      class="flex items-center group"
+      id="header-logo"
+      aria-label={`Kembali ke beranda ${siteConfig.name}`}
+    >
+      <!-- Mobile Logo (1x1) -->
+      <img
+        src="/images/acaranya 1x1.png"
+        alt={`${siteConfig.name} Logo`}
+        class="w-9 h-9 object-contain lg:hidden"
+      />
+      <!-- Desktop Logo (Horizontal) -->
+      <img
+        src="/images/acaranya-logo.png"
+        alt={`${siteConfig.name} Logo`}
+        class="hidden lg:block h-8 object-contain"
+      />
     </a>
 
     <!-- Desktop Navigation -->
-    <nav class="hidden lg:flex items-center gap-1" id="desktop-nav" aria-label="Navigasi Utama">
-      {mainNavigation.map((item) => {
-        const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
-        return (
-          <a
-            href={item.href}
-            class:list={[
-              "relative px-4 py-2 text-[11px] font-bold tracking-widest uppercase transition-all duration-300",
-              isActive ? "text-soft-gold" : "text-text-secondary hover:text-soft-gold"
-            ]}
-          >
-            {item.label}
-            {isActive && (
-              <span class="absolute bottom-1 left-4 right-4 h-px bg-soft-gold/40"></span>
-            )}
-          </a>
-        );
-      })}
+    <nav
+      class="hidden lg:flex items-center gap-1"
+      id="desktop-nav"
+      aria-label="Navigasi Utama"
+    >
+      {
+        mainNavigation.map((item) => {
+          const isActive =
+            pathname === item.href ||
+            (item.href !== "/" && pathname.startsWith(item.href));
+          return (
+            <a
+              href={item.href}
+              class:list={[
+                "relative px-4 py-2 text-[11px] font-bold tracking-widest uppercase transition-all duration-300",
+                isActive
+                  ? "text-soft-gold"
+                  : "text-text-secondary hover:text-soft-gold",
+              ]}
+            >
+              {item.label}
+              {isActive && (
+                <span class="absolute bottom-1 left-4 right-4 h-px bg-soft-gold/40" />
+              )}
+            </a>
+          );
+        })
+      }
     </nav>
 
     <!-- Desktop CTA -->
@@ -69,39 +97,64 @@ const pathname = Astro.url.pathname;
 <div class="h-20 lg:h-24"></div>
 
 <script>
-  const headerContainer = document.getElementById('header-container');
+  const headerContainer = document.getElementById("header-container");
 
-  window.addEventListener('scroll', () => {
+  window.addEventListener("scroll", () => {
     if (headerContainer) {
       if (window.scrollY > 20) {
-        headerContainer.classList.add('py-2', 'bg-surface/90', 'border-brand-200/50', 'shadow-card-hover');
-        headerContainer.classList.remove('py-2.5', 'sm:py-3', 'bg-surface/80', 'border-border-soft/60', 'shadow-card');
+        headerContainer.classList.add(
+          "py-2",
+          "bg-surface/90",
+          "border-brand-200/50",
+          "shadow-card-hover",
+        );
+        headerContainer.classList.remove(
+          "py-2.5",
+          "sm:py-3",
+          "bg-surface/80",
+          "border-border-soft/60",
+          "shadow-card",
+        );
       } else {
-        headerContainer.classList.remove('py-2', 'bg-surface/90', 'border-brand-200/50', 'shadow-card-hover');
-        headerContainer.classList.add('py-2.5', 'sm:py-3', 'bg-surface/80', 'border-border-soft/60', 'shadow-card');
+        headerContainer.classList.remove(
+          "py-2",
+          "bg-surface/90",
+          "border-brand-200/50",
+          "shadow-card-hover",
+        );
+        headerContainer.classList.add(
+          "py-2.5",
+          "sm:py-3",
+          "bg-surface/80",
+          "border-border-soft/60",
+          "shadow-card",
+        );
       }
     }
   });
 
   // Reading Progress Bar Logic
-  const progressBar = document.getElementById('reading-progress');
+  const progressBar = document.getElementById("reading-progress");
   const updateProgress = () => {
     if (!progressBar) return;
-    
+
     // Only show on article pages or long scrollable content
-    const isArticle = window.location.pathname.startsWith('/artikel/');
+    const isArticle = window.location.pathname.startsWith("/artikel/");
     if (!isArticle) {
-      progressBar.style.display = 'none';
+      progressBar.style.display = "none";
       return;
     }
 
-    const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const winScroll =
+      document.body.scrollTop || document.documentElement.scrollTop;
+    const height =
+      document.documentElement.scrollHeight -
+      document.documentElement.clientHeight;
     const scrolled = (winScroll / height) * 100;
     progressBar.style.width = scrolled + "%";
   };
 
-  window.addEventListener('scroll', updateProgress);
+  window.addEventListener("scroll", updateProgress);
   // Initial check
   updateProgress();
 </script>
