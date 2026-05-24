@@ -10,7 +10,7 @@
         <input 
           type="text" 
           id="countdown-names" 
-          placeholder="Romi & Yuli..." 
+          placeholder="Nama Romi & Yuli..." 
           class="w-full px-4 py-3 rounded-lg border border-brand-200 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent transition-all text-sm"
           required
         />
@@ -28,9 +28,12 @@
     
     <button 
       type="submit" 
-      class="w-full py-3 bg-brand-800 hover:bg-brand-900 text-white rounded-lg font-semibold text-sm shadow-sm transition-all transform hover:scale-[1.01] active:scale-[0.99]"
+      class="w-full py-3 bg-brand-800 hover:bg-brand-900 text-white rounded-lg font-semibold text-sm shadow-sm transition-all transform hover:scale-[1.01] active:scale-[0.99] flex items-center justify-center gap-2"
     >
-      Aktifkan Hitung Mundur ⏳
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+      </svg>
+      <span>Aktifkan Hitung Mundur</span>
     </button>
   </form>
 
@@ -61,8 +64,13 @@
       </div>
 
       <!-- Planning Tips -->
-      <div class="p-4 bg-white rounded-xl border border-brand-200/30 text-left max-w-md mx-auto space-y-1">
-        <span class="text-[10px] font-bold text-brand-700 uppercase tracking-widest block">📋 Rekomendasi Checklist Anda</span>
+      <div class="p-4 bg-white rounded-xl border border-brand-200/30 text-left max-w-md mx-auto space-y-2">
+        <span class="text-[10px] font-bold text-brand-700 uppercase tracking-widest flex items-center gap-1.5">
+          <svg class="w-3.5 h-3.5 text-brand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path>
+          </svg>
+          Rekomendasi Tindakan Terjadwal
+        </span>
         <p id="countdown-tip" class="text-xs text-text-muted leading-relaxed">...</p>
       </div>
     </div>
@@ -92,8 +100,8 @@
       if (clockHours) clockHours.innerText = '00';
       if (clockMins) clockMins.innerText = '00';
       if (clockSecs) clockSecs.innerText = '00';
-      if (clockTitle) clockTitle.innerText = `Selamat Hari Bahagia, ${names}! 🎉`;
-      if (clockTip) clockTip.innerText = 'Hari pernikahan impian Anda telah tiba! Nikmati setiap detiknya.';
+      if (clockTitle) clockTitle.innerText = `Selamat Hari Bahagia untuk ${names}!`;
+      if (clockTip) clockTip.innerText = 'Hari pernikahan impian Anda telah tiba! Selamat menempuh hidup baru.';
       return;
     }
 
@@ -110,15 +118,15 @@
     // Planning Tips Recommendation Engine
     let tipText = 'Fokus pada kesehatan fisik, mental, dan persiapan fitting baju pengantin Anda.';
     if (days > 180) {
-      tipText = 'Saran: 6 bulan+ lagi. Fokus utama saat ini adalah mem-booking gedung/venue, menentukan tema pernikahan, serta menyusun estimasi awal daftar tamu undangan.';
+      tipText = 'Saran 6 bulan+ lagi: Fokus utama saat ini adalah mem-booking venue pernikahan, menentukan tema besar, serta menyusun estimasi awal daftar tamu undangan.';
     } else if (days > 90) {
-      tipText = 'Saran: 3-6 bulan lagi. Waktunya mencari katering pernikahan, memesan baju pengantin, memilih cincin pernikahan, dan menyurvei vendor undangan digital.';
+      tipText = 'Saran 3-6 bulan lagi: Waktunya memesan katering pernikahan, memesan baju pengantin, memilih cincin pernikahan, dan menyurvei vendor undangan digital.';
     } else if (days > 30) {
-      tipText = 'Saran: 1-3 bulan lagi. Segera daftarkan berkas pernikahan ke KUA/Catatan Sipil, pesan Undangan Digital di Acaranya.id untuk disebarkan, dan lakukan foto prewedding.';
+      tipText = 'Saran 1-3 bulan lagi: Segera daftarkan berkas pernikahan ke KUA/Catatan Sipil, pesan Undangan Digital Premium di Acaranya.id untuk disebarkan, dan lakukan sesi foto prewedding.';
     } else if (days > 7) {
-      tipText = 'Saran: Kurang dari sebulan! Selesaikan pembagian undangan digital, lakukan konfirmasi kehadiran tamu (RSVP), selesaikan rapat akhir (technical meeting) dengan seluruh vendor.';
+      tipText = 'Saran Kurang dari sebulan: Selesaikan pembagian undangan digital, pantau status konfirmasi kehadiran tamu (RSVP), dan lakukan technical meeting bersama seluruh vendor.';
     } else {
-      tipText = 'Saran: Seminggu terakhir! Rileks, jaga pola tidur, minumlah air putih yang cukup, dan percayakan seluruh hari H kepada wedding organizer terpercaya Anda.';
+      tipText = 'Saran Seminggu terakhir: Fokus beristirahat, jaga pola tidur, minumlah air putih yang cukup, dan percayakan koordinasi hari H kepada panitia atau WO terpercaya Anda.';
     }
 
     if (clockTip) clockTip.innerText = tipText;
