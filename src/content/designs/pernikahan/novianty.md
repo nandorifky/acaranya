@@ -1,15 +1,15 @@
 ---
 title: Novianty
 category: pernikahan
-thumbnail: 'https://inv.acaranya.id/themes/novianty/novianty.webp'
-previewUrl: 'https://inv.acaranya.id/preview/novianty'
-isFeatured: false
-isPremium: false
+thumbnail: https://inv.acaranya.id/themes/novianty/novianty.webp
+previewUrl: https://inv.acaranya.id/preview/novianty
+isFeatured: true
+isPremium: true
 tags:
   - elegant
-  - krem
+  - pink
+  - dark
 package: mengundang
 sortOrder: 36
 status: published
 ---
-
