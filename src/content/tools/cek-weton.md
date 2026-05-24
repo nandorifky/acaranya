@@ -54,3 +54,8 @@ Ketika Anda menggabungkan neptu Anda dan neptu pasangan, hasil penjumlahan total
 6. **PADU (Sisa 6):** Pasangan yang sering berdebat mengenai hal kecil, namun tetap kokoh bersama karena dasarnya saling menyayangi.
 7. **PEGAT (Sisa 1):** Hubungan yang rentan mengalami cobaan finansial atau pertengkaran, membutuhkan komunikasi yang ekstra matang.
 8. **SUJANAN (Sisa 7):** Hubungan yang rawan diselimuti rasa cemburu atau kesalahpahaman, membutuhkan pondasi kepercayaan yang kuat.
+
+---
+
+{% design_showcase templates=["wedding-elegant-gold", "wedding-modern-minimalist"] %}
+
