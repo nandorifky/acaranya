@@ -10,9 +10,9 @@ tags:
   - pernikahan
   - tips
   - tanggal cantik
-image: ''
-imageAlt: ''
-imageTitle: ''
+image: /images/blog/featured/1000124361.jpg
+imageAlt: Tanggal Cantik dan Baik untuk Menikah 2027
+imageTitle: Tanggal Cantik dan Baik untuk Menikah 2027
 imageCaption: ''
 status: published
 seoTitle: ''
