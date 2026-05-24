@@ -1,6 +1,9 @@
 ---
 title: 60 Rekomendasi Lagu untuk Undangan Pernikahan Digital Terbaik
-description: Jadikan undanganmu lebih hidup dengan musik! Simak 60 rekomendasi lagu undangan pernikahan digital terbaik dari genre pop, romantis, hingga lagu Indonesia terbaru.
+description: >-
+  Jadikan undanganmu lebih hidup dengan musik! Simak 60 rekomendasi lagu
+  undangan pernikahan digital terbaik dari genre pop, romantis, hingga lagu
+  Indonesia terbaru.
 publishedAt: '2026-04-08T17:50:33'
 updatedAt: '2026-04-08T17:50:33'
 author: tim-acaranya

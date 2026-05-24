@@ -1,6 +1,9 @@
 ---
 title: 'Sinyal Jodoh dari Allah: Ini 11 Tandanya'
-description: Ingin tahu apakah si dia jodohmu? Simak 11 tanda sinyal jodoh dari Allah mulai dari perasaan tenang hingga kemudahan dalam urusan, agar kamu makin yakin melangkah.
+description: >-
+  Ingin tahu apakah si dia jodohmu? Simak 11 tanda sinyal jodoh dari Allah mulai
+  dari perasaan tenang hingga kemudahan dalam urusan, agar kamu makin yakin
+  melangkah.
 publishedAt: '2026-04-08T17:50:09'
 updatedAt: '2026-04-08T17:50:09'
 author: tim-acaranya

@@ -1,6 +1,8 @@
 ---
 title: 9 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan
-description: Cek 9 contoh undangan pernikahan bahasa Jawa halus (Kromo Inggil) yang sopan. Wujudkan penghormatan mendalam bagi tamu dengan sentuhan tradisi yang kental.
+description: >-
+  Cek 9 contoh undangan pernikahan bahasa Jawa halus (Kromo Inggil) yang sopan.
+  Wujudkan penghormatan mendalam bagi tamu dengan sentuhan tradisi yang kental.
 publishedAt: '2026-04-08T17:50:41'
 updatedAt: '2026-04-08T17:50:41'
 author: tim-acaranya

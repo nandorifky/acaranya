@@ -1,6 +1,9 @@
 ---
 title: Contoh Undangan Pernikahan Digital
-description: Cari referensi undangan pernikahan digital? Intip berbagai contoh desain gambar, video, hingga website yang sedang tren dan banyak diminati calon pengantin muda.
+description: >-
+  Cari referensi undangan pernikahan digital? Intip berbagai contoh desain
+  gambar, video, hingga website yang sedang tren dan banyak diminati calon
+  pengantin muda.
 publishedAt: '2026-04-08T17:50:27'
 updatedAt: '2026-04-08T17:50:27'
 author: tim-acaranya
@@ -41,17 +44,17 @@ Karena hanya berupa gambar, sebagian besar orang tentu bisa membuat undangan jen
 
 Berikut ini beberapa contoh desain undangan pernikahan digital gambar yang bisa kamu jadikan sebagai referensi.
 
-![Contoh undangan pernikahan digital gambar elegan](/images/blog/content/image-13-1.png)
+![Contoh undangan pernikahan digital gambar elegan](/images/blog/content/image-13.png)
 
-![Contoh undangan pernikahan digital gambar minimalis](https://acaranya.id/wp-content/uploads/2024/07/image-14.png)
+![Contoh undangan pernikahan digital gambar minimalis](/images/blog/content/image-14.png)
 
-![Contoh undangan pernikahan digital gambar musim dingin](/images/blog/content/image-15-1.png)
+![Contoh undangan pernikahan digital gambar musim dingin](/images/blog/content/image-15.png)
 
-![Contoh undangan pernikahan digital gambar desain bunga](https://acaranya.id/wp-content/uploads/2024/07/image-16.png)
+![Contoh undangan pernikahan digital gambar desain bunga](/images/blog/content/image-16.png)
 
-![Contoh undangan pernikahan digital gambar mewah](/images/blog/content/image-17-1.png)
+![Contoh undangan pernikahan digital gambar mewah](/images/blog/content/image-17.png)
 
-![Contoh undangan pernikahan digital gambar aesthetic](https://acaranya.id/wp-content/uploads/2024/07/image-18.png)
+![Contoh undangan pernikahan digital gambar aesthetic](/images/blog/content/image-18.png)
 
 ## 2\. Contoh Undangan Pernikahan Digital Video
 

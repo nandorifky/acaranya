@@ -1,6 +1,9 @@
 ---
 title: 'Inilah Arti Weton Jodoh Ketemu 27, Apakah Boleh Menikah?'
-description: Jodoh sejati! Pahami makna Weton Jodoh Ketemu 27 kategori Tibo Jodoh yang diramalkan akan saling melengkapi, harmonis, dan sukses dalam berbagai aspek kehidupan.
+description: >-
+  Jodoh sejati! Pahami makna Weton Jodoh Ketemu 27 kategori Tibo Jodoh yang
+  diramalkan akan saling melengkapi, harmonis, dan sukses dalam berbagai aspek
+  kehidupan.
 publishedAt: '2026-04-08T17:49:48'
 updatedAt: '2026-04-08T17:49:48'
 author: tim-acaranya
@@ -48,69 +51,15 @@ Akan tetapi, penting untuk diingat bahwa weton hanyalah sebuah petunjuk dan tida
 
 Untuk memudahkan Anda menemukan weton masing-masing, Anda bisa menggunakan **[kalkulator hitungan weton jawa](https://acaranya.id/cek-weton/)** dari Acaranya.id. Kalkulator ini akan membantu Anda menghitung weton dengan mudah dan akurat. Untuk menggunakannya, cukup masukkan tanggal lahir dan pasaran Anda, lalu klik tombol “Hitung Weton”.
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
-–
-
-–
-
-Sabtu
-
-9
-
-–
-
-–
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Sebagai contoh, jika calon suami lahir pada hari Selasa Kliwon dan calon istri lahir pada hari Kamis Legi, maka perhitungan weton jodohnya adalah:
 

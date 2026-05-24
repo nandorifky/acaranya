@@ -1,6 +1,8 @@
 ---
 title: 8 Contoh Teks Sungkeman Pernikahan yang Mengharukan
-description: Butuh kata-kata menyentuh hati? Simak 8 contoh teks sungkeman pernikahan yang mengharukan dalam berbagai bahasa untuk memohon maaf & restu kepada orang tua.
+description: >-
+  Butuh kata-kata menyentuh hati? Simak 8 contoh teks sungkeman pernikahan yang
+  mengharukan dalam berbagai bahasa untuk memohon maaf & restu kepada orang tua.
 publishedAt: '2026-04-08T17:49:33'
 updatedAt: '2026-04-08T17:49:33'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
-description: Weton Jodoh Ketemu 31 artinya apa? Simak penjelasan kategori Tibo Sujanan dalam primbon Jawa, makna peringatannya, serta panduan menjaga kesetiaan dalam hubungan.
+description: >-
+  Weton Jodoh Ketemu 31 artinya apa? Simak penjelasan kategori Tibo Sujanan
+  dalam primbon Jawa, makna peringatannya, serta panduan menjaga kesetiaan dalam
+  hubungan.
 publishedAt: '2026-04-08T17:49:52'
 updatedAt: '2026-04-08T17:49:52'
 author: tim-acaranya
@@ -42,69 +45,15 @@ Jika Anda dan pasangan mendapatkan weton jodoh ketemu 31, jangan langsung merasa
 
 Untuk mempermudah proses menghitung weton jodoh, Anda bisa menggunakan tools kalkulator cek weton online yang disediakan oleh Acaranya.id. Di sini, Anda hanya perlu memasukkan hari lahir dan pasaran lahir masing-masing pasangan, dan kalkulator akan menampilkan hasil perhitungan weton jodoh secara otomatis. Anda bisa mengakses kalkulator weton online di [https://acaranya.id/cek-weton/](https://acaranya.id/cek-weton/).
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Misalnya, pasangan yang terdiri dari perempuan dengan weton Minggu Wage dan laki-laki dengan weton Selasa Kliwon. Nilai neptu Minggu adalah 5, nilai neptu Wage adalah 4, nilai neptu Selasa adalah 3, dan nilai neptu Kliwon adalah 8. Total neptu pasangan ini adalah 5 + 4 + 3 + 8 = 20. Jadi, pasangan ini mendapatkan [weton jodoh ketemu 20](https://acaranya.id/artikel/weton-jodoh-ketemu-20/).
 

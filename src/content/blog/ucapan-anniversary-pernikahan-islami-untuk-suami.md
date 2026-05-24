@@ -1,6 +1,9 @@
 ---
 title: 6 Contoh Ucapan Anniversary Pernikahan Islami untuk Suami
-description: Sampaikan doa terbaikmu! Cek 6 contoh ucapan anniversary pernikahan islami untuk suami yang penuh makna, ungkapan syukur, dan harapan keberkahan rumah tangga.
+description: >-
+  Sampaikan doa terbaikmu! Cek 6 contoh ucapan anniversary pernikahan islami
+  untuk suami yang penuh makna, ungkapan syukur, dan harapan keberkahan rumah
+  tangga.
 publishedAt: '2026-04-08T17:49:36'
 updatedAt: '2026-04-08T17:49:36'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: 5 Rekomendasi Wedding Organizer Terbaik di Bandung
-description: Cari WO terpercaya di Kota Kembang? Simak 5 rekomendasi Wedding Organizer terbaik di Bandung yang profesional, berpengalaman, dan punya paket harga terjangkau.
+description: >-
+  Cari WO terpercaya di Kota Kembang? Simak 5 rekomendasi Wedding Organizer
+  terbaik di Bandung yang profesional, berpengalaman, dan punya paket harga
+  terjangkau.
 publishedAt: '2026-04-08T17:51:23'
 updatedAt: '2026-04-08T17:51:23'
 author: tim-acaranya

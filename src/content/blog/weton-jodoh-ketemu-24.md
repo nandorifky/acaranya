@@ -1,6 +1,9 @@
 ---
 title: Weton Jodoh Ketemu 24 Artinya Cocok! Penjelasan Primbon Jawa
-description: Kabar baik! Weton Jodoh Ketemu 24 masuk kategori Tibo Pesthi yang artinya harmonis & rukun. Simak ulasan lengkap makna keberuntungannya menurut primbon Jawa di sini.
+description: >-
+  Kabar baik! Weton Jodoh Ketemu 24 masuk kategori Tibo Pesthi yang artinya
+  harmonis & rukun. Simak ulasan lengkap makna keberuntungannya menurut primbon
+  Jawa di sini.
 publishedAt: '2026-04-08T17:49:37'
 updatedAt: '2026-04-08T17:49:37'
 author: tim-acaranya
@@ -50,69 +53,15 @@ Pasangan dengan weton ini diyakini memiliki potensi besar untuk membangun rumah 
 
 Untuk memudahkan Anda dalam menemukan weton masing-masing pasangan, Anda dapat memanfaatkan **[kalkulator weton jawa](https://acaranya.id/cek-weton/)** yang tersedia di Acaranya.id. Kalkulator ini akan membantu Anda menentukan neptu masing-masing pasangan dan menghitung total neptu jodoh.
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Sebagai contoh, misalkan seorang pria lahir pada hari Rabu Pahing dan seorang wanita lahir pada hari Kamis Legi. Berikut cara menghitung neptu jodoh mereka:
 

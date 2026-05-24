@@ -1,6 +1,9 @@
 ---
 title: Tema Undangan Pernikahan Digital Adat Bugis
-description: Tampilkan identitas budayamu! Intip tema undangan pernikahan digital adat Bugis yang elegan, berkarakter, dan tetap modern untuk momen sakral kebanggaan keluarga.
+description: >-
+  Tampilkan identitas budayamu! Intip tema undangan pernikahan digital adat
+  Bugis yang elegan, berkarakter, dan tetap modern untuk momen sakral kebanggaan
+  keluarga.
 publishedAt: '2026-04-08T17:50:53'
 updatedAt: '2026-04-08T17:50:53'
 author: tim-acaranya
@@ -49,7 +52,7 @@ Untuk membantu Kamu menemukan desain undangan adat Bugis yang cocok, berikut beb
 
 ### 1\. Tema **Bugis Maroon**
 
-![](/images/blog/content/image-1024x1024-2.png)
+![](/images/blog/content/image-1024x1024.png)
 
 Tema Bugis Maroon menghadirkan nuansa merah maroon yang mencolok, dilengkapi dengan ornamen adat Bugis yang memperkaya tampilan undangan. Warna maroon melambangkan keberanian dan kekuatan, cocok untuk pernikahan yang penuh harapan akan kehidupan baru yang kokoh.
 
@@ -61,7 +64,7 @@ Tampilan undangan ini juga dihiasi dengan aksen bunga yang memberikan kesan angg
 
 ### 2\. Tema **Bugis Culture**
 
-![](/images/blog/content/image-1-1024x1024-1.png)
+![](/images/blog/content/image-1-1024x1024.png)
 
 Jika Kamu menginginkan tema yang lebih bervariasi dan mencerminkan kekayaan budaya Bugis, tema Bugis Culture bisa menjadi pilihan.
 

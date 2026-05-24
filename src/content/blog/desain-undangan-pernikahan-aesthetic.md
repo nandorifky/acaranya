@@ -1,6 +1,9 @@
 ---
 title: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
-description: Kumpulan desain undangan pernikahan aesthetic yang jarang dipakai! Dari tema Vintage Forest hingga Floral Purple, bikin undangan digitalmu tampil beda & indah.
+description: >-
+  Kumpulan desain undangan pernikahan aesthetic yang jarang dipakai! Dari tema
+  Vintage Forest hingga Floral Purple, bikin undangan digitalmu tampil beda &
+  indah.
 publishedAt: '2026-04-08T17:50:36'
 updatedAt: '2026-04-08T17:50:36'
 author: tim-acaranya
@@ -37,15 +40,15 @@ Kami memiliki cukup banyak pilihan desain [undangan pernikahan digital](https://
 
 Melalui akun media sosial, kami memberikan catalog desain undangan yang bervariasi, berikut ini beberapa contoh tema desain aesthetic:
 
-[![Vintage Forest](/images/blog/content/Name-1-1024x1024.png)](https://acaranya.id/wp-content/uploads/2024/08/Name-1.png)
+[![Vintage Forest](/images/blog/content/Name-1-1024x1024.png)](/images/blog/content/Name-1.png)
 
 [Preview](https://inv.acaranya.id/preview/vintage-forest)
 
-[![Colored Beach](/images/blog/content/4-1024x1024.png)](https://acaranya.id/wp-content/uploads/2024/08/4.png)
+[![Colored Beach](/images/blog/content/4-1024x1024.png)](/images/blog/content/4.png)
 
 [Preview](https://inv.acaranya.id/preview/colored-beach)
 
-[![Floral Purple](/images/blog/content/Name-1024x1024.png)](https://acaranya.id/wp-content/uploads/2024/08/Name.png)
+[![Floral Purple](/images/blog/content/Name-1024x1024.png)](/images/blog/content/Name.png)
 
 [Preview](https://inv.acaranya.id/preview/floral-purple)
 
@@ -57,27 +60,27 @@ Melalui akun media sosial, kami memberikan catalog desain undangan yang bervaria
 
 Konsep aesthetic tentu tidak jauh dengan kata elemen bunga yang turut mempercantik undanganmu. Berikut adalah contoh desain aesthetic flower yang bisa kamu jadikan referensi:
 
-[![Sunflower Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_sunfloweriPhone-XR-473x1024.webp)](https://acaranya.id/wp-content/uploads/2024/08/inv.acaranya.id_preview_sunfloweriPhone-XR.webp)
+[![Sunflower Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_sunfloweriPhone-XR-473x1024.webp)](/images/blog/content/inv.acaranya.id_preview_sunfloweriPhone-XR.webp)
 
 [Preview](https://inv.acaranya.id/preview/sunflower)
 
-[![Beautiful Flower Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_beautiful-floweriPhone-XR-473x1024.webp)](https://acaranya.id/wp-content/uploads/2024/08/inv.acaranya.id_preview_beautiful-floweriPhone-XR.webp)
+[![Beautiful Flower Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_beautiful-floweriPhone-XR-473x1024.webp)](/images/blog/content/inv.acaranya.id_preview_beautiful-floweriPhone-XR.webp)
 
 [Preview](https://inv.acaranya.id/preview/beautiful-flower)
 
-[![Feminime Javanese Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_feminime-javaneseiPhone-XR-7-473x1024.webp)](https://acaranya.id/wp-content/uploads/2024/08/inv.acaranya.id_preview_feminime-javaneseiPhone-XR-7.webp)
+[![Feminime Javanese Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_feminime-javaneseiPhone-XR-7-473x1024.webp)](/images/blog/content/inv.acaranya.id_preview_feminime-javaneseiPhone-XR-7.webp)
 
 [Preview](https://inv.acaranya.id/preview/feminime-javanese)
 
-[![boho terracotta Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_boho-terracottaiPhone-XR-473x1024.webp)](https://acaranya.id/wp-content/uploads/2024/08/inv.acaranya.id_preview_boho-terracottaiPhone-XR.webp)
+[![boho terracotta Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_boho-terracottaiPhone-XR-473x1024.webp)](/images/blog/content/inv.acaranya.id_preview_boho-terracottaiPhone-XR.webp)
 
 [Preview](https://inv.acaranya.id/preview/boho-terracotta)
 
-[![sakura Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_sakura-castleiPhone-XR-473x1024.webp)](https://acaranya.id/wp-content/uploads/2024/08/inv.acaranya.id_preview_sakura-castleiPhone-XR.webp)
+[![sakura Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_sakura-castleiPhone-XR-473x1024.webp)](/images/blog/content/inv.acaranya.id_preview_sakura-castleiPhone-XR.webp)
 
 [Preview](https://inv.acaranya.id/preview/sakura-castle)
 
-[![red rustic Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_red-rusticiPhone-XR-473x1024.webp)](https://acaranya.id/wp-content/uploads/2024/08/inv.acaranya.id_preview_red-rusticiPhone-XR.webp)
+[![red rustic Undangan Pernikahan Aesthetic Digital Website Online](/images/blog/content/inv.acaranya.id_preview_red-rusticiPhone-XR-473x1024.webp)](/images/blog/content/inv.acaranya.id_preview_red-rusticiPhone-XR.webp)
 
 [Preview](https://inv.acaranya.id/preview/red-rustic)
 

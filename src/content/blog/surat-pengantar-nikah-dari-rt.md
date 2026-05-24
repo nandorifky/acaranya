@@ -1,6 +1,8 @@
 ---
 title: Surat Pengantar Nikah dari RT
-description: Mau urus nikah? Simak panduan & syarat mendapatkan surat pengantar nikah dari RT/RW sebagai langkah awal pendaftaran pernikahan resmi di Kelurahan & KUA.
+description: >-
+  Mau urus nikah? Simak panduan & syarat mendapatkan surat pengantar nikah dari
+  RT/RW sebagai langkah awal pendaftaran pernikahan resmi di Kelurahan & KUA.
 publishedAt: '2026-04-08T17:50:16'
 updatedAt: '2026-04-08T17:50:16'
 author: tim-acaranya
@@ -51,7 +53,7 @@ Untuk alur pengurusan dokumen lebih lengkap, kamu bisa baca [disini](https://aca
 
 ![contoh surat pengantar nikah dari RT](/images/blog/content/IMG_20240618_125048.jpg)
 
-[DOWNLOAD FILE DOCX PDF](https://acaranya.id/wp-content/uploads/2024/07/SURAT-PENGANTAR-NIKAH.docx)
+[DOWNLOAD FILE DOCX PDF](/images/blog/content/SURAT-PENGANTAR-NIKAH.docx)
 
 * * *
 

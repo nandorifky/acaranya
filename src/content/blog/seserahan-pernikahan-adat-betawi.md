@@ -1,6 +1,9 @@
 ---
 title: 11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wanita
-description: Mengenal isi seserahan pernikahan adat Betawi mulai dari Sirih Dare hingga roti buaya. Simak daftar lengkap seserahan bermakna yang tetap hemat biaya di sini!
+description: >-
+  Mengenal isi seserahan pernikahan adat Betawi mulai dari Sirih Dare hingga
+  roti buaya. Simak daftar lengkap seserahan bermakna yang tetap hemat biaya di
+  sini!
 publishedAt: '2026-04-08T17:49:26'
 updatedAt: '2026-04-08T17:49:26'
 author: tim-acaranya

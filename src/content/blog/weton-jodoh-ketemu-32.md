@@ -1,6 +1,9 @@
 ---
 title: Inilah Arti Weton Jodoh Ketemu 32 Menurut Primbon Jawa
-description: Sangat harmonis! Weton Jodoh Ketemu 32 masuk kategori Tibo Pesthi yang artinya tenteram & damai. Simak ulasan lengkap makna keberuntungannya menurut primbon Jawa.
+description: >-
+  Sangat harmonis! Weton Jodoh Ketemu 32 masuk kategori Tibo Pesthi yang artinya
+  tenteram & damai. Simak ulasan lengkap makna keberuntungannya menurut primbon
+  Jawa.
 publishedAt: '2026-04-08T17:49:53'
 updatedAt: '2026-04-08T17:49:53'
 author: tim-acaranya
@@ -40,69 +43,15 @@ Jika Weton Jodoh Ketemu 32 menuju ke jenjang pernikahan, diramalkan hubungan mer
 
 ## Cara Menghitung Weton Jodoh
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
-–
-
-–
-
-Sabtu
-
-9
-
-–
-
-–
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Untuk memudahkan Anda dalam menghitung weton masing-masing pasangan, Anda dapat menggunakan [kalkulator weton online](https://acaranya.id/cek-weton/) dari Acaranya.id.
 

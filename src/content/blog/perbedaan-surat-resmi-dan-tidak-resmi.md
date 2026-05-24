@@ -1,6 +1,9 @@
 ---
 title: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'
-description: Pahami perbedaan surat resmi & tidak resmi dari segi format, bahasa, hingga fungsinya. Dilengkapi contoh nyata agar kamu tidak salah dalam berkomunikasi formal.
+description: >-
+  Pahami perbedaan surat resmi & tidak resmi dari segi format, bahasa, hingga
+  fungsinya. Dilengkapi contoh nyata agar kamu tidak salah dalam berkomunikasi
+  formal.
 publishedAt: '2026-04-08T17:49:44'
 updatedAt: '2026-04-08T17:49:44'
 author: tim-acaranya

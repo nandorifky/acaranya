@@ -1,6 +1,9 @@
 ---
 title: Peran MC dalam Suksesnya Acara Pernikahan
-description: MC adalah kunci sukses acara! Pahami peran Master of Ceremony dalam mengatur alur pernikahan, menghibur tamu, hingga menjaga suasana tetap positif dan lancar.
+description: >-
+  MC adalah kunci sukses acara! Pahami peran Master of Ceremony dalam mengatur
+  alur pernikahan, menghibur tamu, hingga menjaga suasana tetap positif dan
+  lancar.
 publishedAt: '2026-04-08T17:50:12'
 updatedAt: '2026-04-08T17:50:12'
 author: tim-acaranya
@@ -47,7 +50,7 @@ Dengan memahami tugas-tugas ini, kamu bisa melihat betapa pentingnya peran MC da
 
 ## Menciptakan Suasana yang Menyenangkan
 
-![](/images/blog/content/image-1.png)
+![](/images/blog/content/image.png)
 
 Selain mengatur alur acara, MC juga berperan dalam menciptakan suasana yang menyenangkan. Mereka harus memiliki kemampuan untuk berinteraksi dengan tamu undangan dan membuat mereka merasa nyaman. Dengan keahlian komunikasi yang baik, MC dapat menghidupkan suasana dan membuat tamu merasa terlibat dalam acara.
 
@@ -82,7 +85,7 @@ Dengan menjaga komunikasi yang efektif, MC dapat memastikan bahwa semua pihak te
 
 ## Menjadi Penghubung Emosional
 
-![](/images/blog/content/image-1-1.png)
+![](/images/blog/content/image-1.png)
 
 Selain tugas-tugas teknis, MC juga berperan sebagai penghubung emosional dalam acara pernikahan. Mereka tidak hanya mengatur alur acara, tetapi juga membantu menciptakan momen-momen berharga yang akan dikenang oleh pasangan pengantin dan tamu undangan. MC yang baik akan mampu menyampaikan pesan-pesan emosional dengan cara yang menyentuh hati.
 

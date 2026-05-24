@@ -1,6 +1,9 @@
 ---
 title: 'Weton Jodoh Ketemu 17, Cocok atau Tidak?'
-description: Weton Jodoh Ketemu 17, bagaimana nasibnya? Pahami kategori Tibo Pegat dalam hitungan Jawa, potensi cobaan yang dihadapi, serta cara menyikapinya dengan bijaksana.
+description: >-
+  Weton Jodoh Ketemu 17, bagaimana nasibnya? Pahami kategori Tibo Pegat dalam
+  hitungan Jawa, potensi cobaan yang dihadapi, serta cara menyikapinya dengan
+  bijaksana.
 publishedAt: '2026-04-08T17:49:31'
 updatedAt: '2026-04-08T17:49:31'
 author: tim-acaranya
@@ -53,69 +56,15 @@ Total neptu dari pasangan tersebut adalah 4 + 9 + 8 + 4 = 25. Jumlah neptu ini m
 
 Perhitungan weton jodoh dapat dilakukan dengan menjumlahkan nilai neptu dari hari lahir dan pasaran lahir dari kedua pasangan.
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Contoh lain, pasangan dengan weton Rabu Pon dan Selasa Kliwon memiliki jumlah neptu sebagai berikut.
 

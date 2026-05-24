@@ -1,6 +1,9 @@
 ---
 title: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'
-description: Mengenal apa itu Lavender Marriage, sejarah kemunculannya di era klasik, serta tujuan dan dampaknya dalam konteks perubahan norma sosial masyarakat dari masa ke masa.
+description: >-
+  Mengenal apa itu Lavender Marriage, sejarah kemunculannya di era klasik, serta
+  tujuan dan dampaknya dalam konteks perubahan norma sosial masyarakat dari masa
+  ke masa.
 publishedAt: '2026-04-08T17:49:10'
 updatedAt: '2026-04-08T17:49:10'
 author: tim-acaranya

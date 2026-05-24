@@ -1,6 +1,8 @@
 ---
 title: Contoh Desain Undangan Pernikahan Digital Adat Jawa
-description: Paduan tradisi & teknologi! Cek 23 tema undangan pernikahan digital adat Jawa dari Acaranya.id yang sarat makna filosofis namun tetap tampil modern & mewah.
+description: >-
+  Paduan tradisi & teknologi! Cek 23 tema undangan pernikahan digital adat Jawa
+  dari Acaranya.id yang sarat makna filosofis namun tetap tampil modern & mewah.
 publishedAt: '2026-04-08T17:50:59'
 updatedAt: '2026-04-08T17:50:59'
 author: tim-acaranya
@@ -69,7 +71,7 @@ Berikut ini merupakan daftar undangan pernikahan digital tema Adat Jawa dari Aca
 [![Jawa Nias](/images/blog/content/inv.acaranya.id_preview_jawa-niasiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/jawa-nias)
 
 [![Jawa x Padang
-](https://acaranya.id/wp-content/uploads/2024/09/inv.acaranya.id_preview_jawa-padangiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/jawa-padang)
+](/images/blog/content/inv.acaranya.id_preview_jawa-padangiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/jawa-padang)
 
 [![Maroon Javanese](/images/blog/content/inv.acaranya.id_preview_maroon-javaneseiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/maroon-javanese)
 

@@ -1,6 +1,9 @@
 ---
 title: Kata-Kata Undangan Pernikahan
-description: Bingung susun kalimat undangan? Simak panduan lengkap merangkai kata-kata undangan pernikahan yang berkesan, baik untuk format formal maupun kasual kekinian.
+description: >-
+  Bingung susun kalimat undangan? Simak panduan lengkap merangkai kata-kata
+  undangan pernikahan yang berkesan, baik untuk format formal maupun kasual
+  kekinian.
 publishedAt: '2026-04-08T17:51:24'
 updatedAt: '2026-04-08T17:51:24'
 author: tim-acaranya

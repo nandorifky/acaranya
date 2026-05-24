@@ -34,7 +34,7 @@ Selain itu, undangan digital umumnya dibagi menjadi tiga jenis, yaitu dalam bent
 
 ![Contoh Undangan Digital Gambar Islami](/images/blog/content/image-44.png)
 
-![Contoh desain undangan online gambar tema islami](https://acaranya.id/wp-content/uploads/2024/07/image-45.png)
+![Contoh desain undangan online gambar tema islami](/images/blog/content/image-45.png)
 
 ![contoh desain undangan digital gambar bunga pink](/images/blog/content/image-46.png)
 
@@ -83,7 +83,7 @@ Flexclip memungkinkan kamu untuk membuat undangan video digital melalui editor o
 
 ![contoh desain website undangan digital online](/images/blog/content/image-47.png)
 
-![contoh desain undangan pernikahan online](https://acaranya.id/wp-content/uploads/2024/07/image-48.png)
+![contoh desain undangan pernikahan online](/images/blog/content/image-48.png)
 
 ![contoh desain undangan pernikahan digital](/images/blog/content/image-49.png)
 

@@ -1,6 +1,9 @@
 ---
 title: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan
-description: Ingin tampil sempurna di hari h? Cek contoh isi seserahan make up sederhana yang fungsional & bermanfaat untuk pengantin wanita, lengkap dengan tips memilihnya.
+description: >-
+  Ingin tampil sempurna di hari h? Cek contoh isi seserahan make up sederhana
+  yang fungsional & bermanfaat untuk pengantin wanita, lengkap dengan tips
+  memilihnya.
 publishedAt: '2026-04-08T17:49:16'
 updatedAt: '2026-04-08T17:49:16'
 author: tim-acaranya

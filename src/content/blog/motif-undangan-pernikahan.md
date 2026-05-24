@@ -1,6 +1,9 @@
 ---
 title: Motif Undangan Pernikahan
-description: Percantik undangan digitalmu dengan motif yang tepat! Cek inspirasi motif undangan pernikahan mulai dari gaya simple, floral, hingga mewah yang paling populer.
+description: >-
+  Percantik undangan digitalmu dengan motif yang tepat! Cek inspirasi motif
+  undangan pernikahan mulai dari gaya simple, floral, hingga mewah yang paling
+  populer.
 publishedAt: '2026-04-08T17:51:26'
 updatedAt: '2026-04-10T16:42:57'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: Urutan Nama Pengantin yang Tepat dalam Undangan Pernikahan
-description: Jangan sampai keliru! Pahami aturan urutan penulisan nama pengantin yang tepat dalam undangan pernikahan, serta alasan filosofis mengapa nama wanita sering didahulukan.
+description: >-
+  Jangan sampai keliru! Pahami aturan urutan penulisan nama pengantin yang tepat
+  dalam undangan pernikahan, serta alasan filosofis mengapa nama wanita sering
+  didahulukan.
 publishedAt: '2026-04-08T17:50:47'
 updatedAt: '2026-04-08T17:50:47'
 author: tim-acaranya

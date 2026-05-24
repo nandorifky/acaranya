@@ -1,6 +1,9 @@
 ---
 title: 10 Rekomendasi Lagu Jawa untuk Undangan Pernikahan Digital
-description: Perindah undangan digitalmu dengan nuansa tradisional! Cek 10 rekomendasi lagu Jawa romantis yang menyentuh hati & cocok untuk latar musik undangan pernikahan.
+description: >-
+  Perindah undangan digitalmu dengan nuansa tradisional! Cek 10 rekomendasi lagu
+  Jawa romantis yang menyentuh hati & cocok untuk latar musik undangan
+  pernikahan.
 publishedAt: '2026-04-08T17:50:55'
 updatedAt: '2026-04-08T17:50:55'
 author: tim-acaranya

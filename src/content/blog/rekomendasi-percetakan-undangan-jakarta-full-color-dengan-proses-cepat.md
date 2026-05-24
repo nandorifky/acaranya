@@ -1,6 +1,9 @@
 ---
 title: Rekomendasi Percetakan Undangan Jakarta Full Color dengan Proses Cepat
-description: Butuh undangan cetak cepat & berkualitas? Cek rekomendasi percetakan undangan Jakarta dengan kualitas full color tajam & pengerjaan kilat untuk momen spesialmu.
+description: >-
+  Butuh undangan cetak cepat & berkualitas? Cek rekomendasi percetakan undangan
+  Jakarta dengan kualitas full color tajam & pengerjaan kilat untuk momen
+  spesialmu.
 publishedAt: '2026-05-19T16:59:10'
 updatedAt: '2026-05-22T17:12:08'
 author: tim-acaranya

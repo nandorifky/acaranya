@@ -1,6 +1,9 @@
 ---
 title: Ya Allah Kenapa Aku Selalu Memikirkan Dia? Pertanda Apa?
-description: Kenapa sulit melupakan seseorang? Simak ulasan psikologis & spiritual di balik pikiran yang terus memikirkan si dia, serta cara menghadapinya dengan bijak dalam doa.
+description: >-
+  Kenapa sulit melupakan seseorang? Simak ulasan psikologis & spiritual di balik
+  pikiran yang terus memikirkan si dia, serta cara menghadapinya dengan bijak
+  dalam doa.
 publishedAt: '2026-04-08T17:50:24'
 updatedAt: '2026-04-08T17:50:24'
 author: tim-acaranya

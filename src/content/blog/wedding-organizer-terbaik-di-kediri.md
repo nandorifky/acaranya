@@ -1,6 +1,9 @@
 ---
 title: 5 Wedding Organizer Terbaik di Kediri
-description: Rencana nikah di Kediri? Cek daftar 5 Wedding Organizer terbaik di Kediri yang siap mewujudkan pernikahan impianmu dengan dekorasi elegan & pelayanan profesional.
+description: >-
+  Rencana nikah di Kediri? Cek daftar 5 Wedding Organizer terbaik di Kediri yang
+  siap mewujudkan pernikahan impianmu dengan dekorasi elegan & pelayanan
+  profesional.
 publishedAt: '2026-04-08T17:51:22'
 updatedAt: '2026-04-08T17:51:22'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: 20 Rekomendasi Lagu Pernikahan Barat yang Romantis untuk Undangan Digital
-description: Cari lagu Barat romantis? Cek 20 rekomendasi lagu wedding mancanegara terbaik yang bikin undangan digitalmu terasa lebih berkelas, mewah, dan menyentuh hati tamu.
+description: >-
+  Cari lagu Barat romantis? Cek 20 rekomendasi lagu wedding mancanegara terbaik
+  yang bikin undangan digitalmu terasa lebih berkelas, mewah, dan menyentuh hati
+  tamu.
 publishedAt: '2026-04-08T17:51:11'
 updatedAt: '2026-04-08T17:51:11'
 author: tim-acaranya

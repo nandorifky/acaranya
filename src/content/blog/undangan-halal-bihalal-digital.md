@@ -1,6 +1,9 @@
 ---
 title: Undangan Halal Bihalal Digital
-description: Jalin silaturahmi lebih praktis! Cek contoh kata-kata & inspirasi undangan Halal Bihalal digital via WhatsApp agar momen lebaran keluargamu makin berkesan.
+description: >-
+  Jalin silaturahmi lebih praktis! Cek contoh kata-kata & inspirasi undangan
+  Halal Bihalal digital via WhatsApp agar momen lebaran keluargamu makin
+  berkesan.
 publishedAt: '2026-04-08T17:51:28'
 updatedAt: '2026-04-08T17:51:28'
 author: tim-acaranya
@@ -84,7 +87,7 @@ Setelah template dipilih, proses personalisasi dapat dimulai. Ini termasuk menye
 
 Langkah terakhir adalah mengubah dokumen tersebut ke format yang sesuai untuk dibagikan melalui WhatsApp. Format seperti PDF biasanya lebih disukai karena mempertahankan tampilan desain asli dari undangan tersebut. Proses ini mudah dan dapat dilakukan dengan bantuan berbagai alat online.
 
-[Download Undangan Halal Bihalal DOC](https://acaranya.id/wp-content/uploads/2024/07/Contoh-Undangan-Halal-Bihalal-DOC-Acaranya.docx)
+[Download Undangan Halal Bihalal DOC](/images/blog/content/Contoh-Undangan-Halal-Bihalal-DOC-Acaranya.docx)
 
 ## Desain Undangan Halal Bihalal Digital Keren
 

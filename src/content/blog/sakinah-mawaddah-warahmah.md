@@ -1,6 +1,9 @@
 ---
 title: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam
-description: Apa arti sebenarnya dari doa SAMAWA? Pahami makna Sakinah, Mawaddah, dan Warahmah dalam pernikahan Islam serta cara mewujudkannya agar berkah hingga jannah.
+description: >-
+  Apa arti sebenarnya dari doa SAMAWA? Pahami makna Sakinah, Mawaddah, dan
+  Warahmah dalam pernikahan Islam serta cara mewujudkannya agar berkah hingga
+  jannah.
 publishedAt: '2026-04-08T17:51:26'
 updatedAt: '2026-04-08T17:51:26'
 author: tim-acaranya

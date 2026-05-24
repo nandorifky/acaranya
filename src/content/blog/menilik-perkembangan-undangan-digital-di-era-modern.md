@@ -1,6 +1,9 @@
 ---
 title: Menilik Perkembangan Undangan Digital di Era Modern
-description: Dari kertas ke layar! Simak ulasan perkembangan undangan digital di era modern, efisiensinya bagi industri acara, hingga tren penggunaan di kalangan milenial.
+description: >-
+  Dari kertas ke layar! Simak ulasan perkembangan undangan digital di era
+  modern, efisiensinya bagi industri acara, hingga tren penggunaan di kalangan
+  milenial.
 publishedAt: '2026-04-08T17:50:05'
 updatedAt: '2026-04-08T17:50:05'
 author: tim-acaranya

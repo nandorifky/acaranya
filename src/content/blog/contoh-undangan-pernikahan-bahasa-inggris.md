@@ -1,6 +1,9 @@
 ---
 title: Contoh Undangan Pernikahan Bahasa Inggris
-description: Kumpulan contoh undangan pernikahan bahasa Inggris (Wedding Invitation) lengkap dengan artinya. Bikin undanganmu tampil lebih kekinian, elegan, dan profesional!
+description: >-
+  Kumpulan contoh undangan pernikahan bahasa Inggris (Wedding Invitation)
+  lengkap dengan artinya. Bikin undanganmu tampil lebih kekinian, elegan, dan
+  profesional!
 publishedAt: '2026-04-08T17:50:29'
 updatedAt: '2026-04-08T17:50:29'
 author: tim-acaranya

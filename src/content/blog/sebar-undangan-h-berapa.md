@@ -1,6 +1,9 @@
 ---
 title: Sebar Undangan H- Berapa? Waktu Ideal Bagikan Undangan
-description: Bingung sebar undangan H- berapa? Simak waktu ideal membagikan undangan pernikahan digital & cetak agar tamu punya cukup waktu untuk bersiap hadir di acaramu.
+description: >-
+  Bingung sebar undangan H- berapa? Simak waktu ideal membagikan undangan
+  pernikahan digital & cetak agar tamu punya cukup waktu untuk bersiap hadir di
+  acaramu.
 publishedAt: '2026-04-08T17:50:55'
 updatedAt: '2026-04-08T17:50:55'
 author: tim-acaranya

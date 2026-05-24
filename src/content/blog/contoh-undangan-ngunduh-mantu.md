@@ -1,6 +1,9 @@
 ---
 title: 5 Contoh Undangan Ngunduh Mantu dan Cara Membuatnya
-description: Inspirasi 5+ contoh undangan Ngunduh Mantu yang berkesan. Pahami makna tradisi, rangkaian prosesi, hingga tips membuat undangan yang sesuai dengan nilai adat.
+description: >-
+  Inspirasi 5+ contoh undangan Ngunduh Mantu yang berkesan. Pahami makna
+  tradisi, rangkaian prosesi, hingga tips membuat undangan yang sesuai dengan
+  nilai adat.
 publishedAt: '2026-04-08T17:50:39'
 updatedAt: '2026-04-08T17:50:39'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: Kumpulan Quotes Pernikahan Islami untuk Undangan Digital
-description: Cari kata-kata puitis dari Al-Quran? Cek kumpulan quotes pernikahan islami yang penuh makna & doa untuk menghiasi undangan digitalmu agar lebih sakral & indah.
+description: >-
+  Cari kata-kata puitis dari Al-Quran? Cek kumpulan quotes pernikahan islami
+  yang penuh makna & doa untuk menghiasi undangan digitalmu agar lebih sakral &
+  indah.
 publishedAt: '2026-04-08T17:49:09'
 updatedAt: '2026-04-08T17:49:09'
 author: tim-acaranya
@@ -30,7 +33,7 @@ Dalam artikel ini, kamu akan menemukan kumpulan quotes pernikahan islami yang di
 
 ## Quotes Pernikahan Islami dalam Al-Quran untuk Undangan Digital
 
-![quotes pernikahan islami dalam al quran](https://acaranya.id/wp-content/uploads/2024/06/quotes-pernikahan-islami-dalam-al-quran_20240619_194227_0000-1024x1024.jpg "quotes pernikahan islami dalam al quran")
+![quotes pernikahan islami dalam al quran](/images/blog/content/quotes-pernikahan-islami-dalam-al-quran_20240619_194227_0000-1024x1024.jpg "quotes pernikahan islami dalam al quran")
 
 Berikut adalah kumpulan quotes islami dari ayat suci Al-Quran tentang pernikahan yang bisa kamu gunakan dalam [undangan nikah digital](https://acaranya.id):
 

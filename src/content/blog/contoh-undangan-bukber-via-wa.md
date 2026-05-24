@@ -1,6 +1,9 @@
 ---
 title: Contoh Undangan Bukber via WA
-description: Cari contoh undangan bukber via WA yang sopan & menarik? Simak ide kata-kata dan format undangan buka puasa bersama yang efektif untuk grup teman & keluarga.
+description: >-
+  Cari contoh undangan bukber via WA yang sopan & menarik? Simak ide kata-kata
+  dan format undangan buka puasa bersama yang efektif untuk grup teman &
+  keluarga.
 publishedAt: '2026-04-08T17:50:33'
 updatedAt: '2026-04-08T17:50:33'
 author: tim-acaranya
@@ -51,11 +54,11 @@ Sementara untuk acara yang bersifat informal, teks biasa dengan beberapa emoji a
 
 ![Contoh Undangan Bukber via WA 1](/images/blog/content/image-51.png)
 
-![Contoh Undangan Bukber via WA 2](https://acaranya.id/wp-content/uploads/2024/07/image-52.png)
+![Contoh Undangan Bukber via WA 2](/images/blog/content/image-52.png)
 
 ![Contoh Undangan Bukber via WA 3](/images/blog/content/image-53.png)
 
-![Contoh Undangan Bukber via WA 4](https://acaranya.id/wp-content/uploads/2024/07/image-54.png)
+![Contoh Undangan Bukber via WA 4](/images/blog/content/image-54.png)
 
 Dalam membuat [**undangan bukber online**](https://acaranya.id/artikel/undangan-bukber-online/), salah satu tips yang perlu diperhatikan adalah memastikan bahwa undangan tersebut bisa diakses melalui berbagai perangkat.
 

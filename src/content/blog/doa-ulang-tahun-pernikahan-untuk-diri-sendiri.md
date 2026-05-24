@@ -1,6 +1,8 @@
 ---
 title: Ini 10 Doa Ulang Tahun Pernikahan untuk Diri Sendiri
-description: 10 Doa ulang tahun pernikahan untuk diri sendiri. Langkah reflektif memohon keharmonisan, kesetiaan, dan keberkahan dalam menjalani bahtera rumah tangga.
+description: >-
+  10 Doa ulang tahun pernikahan untuk diri sendiri. Langkah reflektif memohon
+  keharmonisan, kesetiaan, dan keberkahan dalam menjalani bahtera rumah tangga.
 publishedAt: '2026-04-08T17:51:07'
 updatedAt: '2026-04-08T17:51:07'
 author: tim-acaranya

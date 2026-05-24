@@ -1,6 +1,9 @@
 ---
 title: 5 Platform Undangan Pernikahan Digital Terbaik dan Murah!
-description: Ingin undangan yang keren & praktis? Cek 5 platform undangan pernikahan digital terbaik dan murah sebagai solusi buat undangan website instan dalam hitungan jam.
+description: >-
+  Ingin undangan yang keren & praktis? Cek 5 platform undangan pernikahan
+  digital terbaik dan murah sebagai solusi buat undangan website instan dalam
+  hitungan jam.
 publishedAt: '2026-04-08T17:51:31'
 updatedAt: '2026-04-08T17:51:31'
 author: tim-acaranya

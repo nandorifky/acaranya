@@ -1,6 +1,9 @@
 ---
 title: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H
-description: Persiapkan hari h dengan matang! Simak daftar 9 vendor pernikahan yang wajib kamu booking, mulai dari katering hingga dokumentasi, beserta tips koordinasinya.
+description: >-
+  Persiapkan hari h dengan matang! Simak daftar 9 vendor pernikahan yang wajib
+  kamu booking, mulai dari katering hingga dokumentasi, beserta tips
+  koordinasinya.
 publishedAt: '2026-04-08T17:50:14'
 updatedAt: '2026-04-08T17:50:14'
 author: tim-acaranya

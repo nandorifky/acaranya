@@ -1,6 +1,9 @@
 ---
 title: 'Ketahui Apa Saja Isi Buku Nikah Suami dan Istri, Apakah Berbeda?'
-description: Bedah tuntas isi buku nikah suami & istri! Pahami perbedaan data yang tercantum, makna warna buku nikah, serta pentingnya dokumen ini dalam administrasi negara.
+description: >-
+  Bedah tuntas isi buku nikah suami & istri! Pahami perbedaan data yang
+  tercantum, makna warna buku nikah, serta pentingnya dokumen ini dalam
+  administrasi negara.
 publishedAt: '2026-04-08T17:49:14'
 updatedAt: '2026-04-08T17:49:14'
 author: tim-acaranya

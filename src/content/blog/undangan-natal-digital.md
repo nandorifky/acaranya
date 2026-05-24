@@ -1,6 +1,8 @@
 ---
 title: Undangan Natal Digital
-description: Meriahkan malam Natal bersama orang terdekat! Gunakan undangan Natal digital berbasis website yang praktis, estetik, dan punya fitur lengkap untuk acaramu.
+description: >-
+  Meriahkan malam Natal bersama orang terdekat! Gunakan undangan Natal digital
+  berbasis website yang praktis, estetik, dan punya fitur lengkap untuk acaramu.
 publishedAt: '2026-04-08T17:49:57'
 updatedAt: '2026-04-08T17:49:57'
 author: tim-acaranya
@@ -42,7 +44,7 @@ Mulai dari maps, ucapan selamat, hingga rundown acara bisa kamu sisipkan dalam u
 
 ## Kelebihan Undangan Natal Digital dari Acaranya
 
-![jasa undangan natal digital acaranya.id](/images/blog/content/image-1024x1024-1.png)
+![jasa undangan natal digital acaranya.id](/images/blog/content/image-1024x1024.png)
 
 Undangan acara natalan digital ini banyak digunakan bukan tanpa alasan, yang mana kamu akan mendapatkan beragam fitur keren yang cukup bermanfaat. Beberapa kelebihannya yaitu:
 

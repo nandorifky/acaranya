@@ -1,6 +1,8 @@
 ---
 title: Undangan Bukber Online
-description: Praktis & hemat! Bikin undangan bukber online via WhatsApp dengan desain islami yang keren & fitur lengkap agar momen buka puasa bersamamu makin ramai.
+description: >-
+  Praktis & hemat! Bikin undangan bukber online via WhatsApp dengan desain
+  islami yang keren & fitur lengkap agar momen buka puasa bersamamu makin ramai.
 publishedAt: '2026-04-08T17:51:02'
 updatedAt: '2026-04-08T17:51:02'
 author: tim-acaranya
@@ -40,11 +42,11 @@ _**NB:** Text, Background, Music, dan sebagainya bisa di custom sesuai selera!_
 
 ![desain undangan bukber online 1](/images/blog/content/image-40-155x300.png)
 
-![desain undangan bukber online 2](https://acaranya.id/wp-content/uploads/2024/07/image-41-156x300.png)
+![desain undangan bukber online 2](/images/blog/content/image-41-156x300.png)
 
 ![desain undangan bukber online 3](/images/blog/content/image-42-156x300.png)
 
-![desain undangan bukber online 4](https://acaranya.id/wp-content/uploads/2024/07/image-43-155x300.png)
+![desain undangan bukber online 4](/images/blog/content/image-43-155x300.png)
 
 Temukan desain lebih lengkap, Klik **[DISINI](https://inv.acaranya.id/tema/islami)**.
 

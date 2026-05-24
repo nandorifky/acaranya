@@ -1,6 +1,9 @@
 ---
 title: List Tanggal Cantik untuk Menikah Tahun 2024
-description: Cari inspirasi hari bahagia? Cek list tanggal cantik untuk menikah tahun 2024 dengan kombinasi angka unik yang mudah diingat dan bermakna untuk momen sakralmu.
+description: >-
+  Cari inspirasi hari bahagia? Cek list tanggal cantik untuk menikah tahun 2024
+  dengan kombinasi angka unik yang mudah diingat dan bermakna untuk momen
+  sakralmu.
 publishedAt: '2026-04-08T17:49:40'
 updatedAt: '2026-04-08T17:49:40'
 author: tim-acaranya

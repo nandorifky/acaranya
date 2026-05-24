@@ -1,6 +1,9 @@
 ---
 title: 'Weton Jodoh Ketemu 22, Apa Artinya?'
-description: Weton Jodoh Ketemu 22, apa artinya? Kenali kategori Tibo Padu dalam tradisi Jawa yang dipercaya sering memicu cekcok sepele, serta tips mengelola ego demi keutuhan hubungan.
+description: >-
+  Weton Jodoh Ketemu 22, apa artinya? Kenali kategori Tibo Padu dalam tradisi
+  Jawa yang dipercaya sering memicu cekcok sepele, serta tips mengelola ego demi
+  keutuhan hubungan.
 publishedAt: '2026-04-08T17:49:36'
 updatedAt: '2026-04-08T17:49:36'
 author: tim-acaranya
@@ -54,69 +57,15 @@ Mereka perlu saling pengertian, berkompromi, dan belajar menyelesaikan masalah d
 
 Anda dapat menggunakan [Kalkulator weton online](https://acaranya.id/cek-weton/) dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan.
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Anda juga dapat menghitung weton jodoh secara manual dengan mengikuti langkah-langkah berikut:
 

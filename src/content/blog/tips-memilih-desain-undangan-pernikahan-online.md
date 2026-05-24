@@ -1,6 +1,9 @@
 ---
 title: 10 Tips Memilih Desain Undangan Pernikahan Online yang Menarik
-description: Ingin undanganmu tampil menawan? Simak 10 tips memilih desain undangan pernikahan online yang menarik, mulai dari penentuan tema hingga pemilihan jenis font.
+description: >-
+  Ingin undanganmu tampil menawan? Simak 10 tips memilih desain undangan
+  pernikahan online yang menarik, mulai dari penentuan tema hingga pemilihan
+  jenis font.
 publishedAt: '2026-04-08T17:50:32'
 updatedAt: '2026-04-08T17:50:32'
 author: tim-acaranya

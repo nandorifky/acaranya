@@ -1,6 +1,9 @@
 ---
 title: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'
-description: Sering tertukar? Simak perbedaan mendasar antara Mas Kawin, Mahar, dan Seserahan dalam pernikahan, mulai dari fungsi hingga ketentuannya dalam agama & adat.
+description: >-
+  Sering tertukar? Simak perbedaan mendasar antara Mas Kawin, Mahar, dan
+  Seserahan dalam pernikahan, mulai dari fungsi hingga ketentuannya dalam agama
+  & adat.
 publishedAt: '2026-04-08T17:51:21'
 updatedAt: '2026-04-08T17:51:21'
 author: tim-acaranya

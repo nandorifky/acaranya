@@ -1,6 +1,9 @@
 ---
 title: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan
-description: Kumpulan kata-kata undangan pernikahan online lewat WA yang praktis & sopan. Tetap jaga etika dan kesantunan saat mengundang kerabat di era digital saat ini.
+description: >-
+  Kumpulan kata-kata undangan pernikahan online lewat WA yang praktis & sopan.
+  Tetap jaga etika dan kesantunan saat mengundang kerabat di era digital saat
+  ini.
 publishedAt: '2026-04-08T17:49:45'
 updatedAt: '2026-04-08T17:49:45'
 author: tim-acaranya
@@ -62,7 +65,7 @@ Jika ingin menonjolkan beberapa bagian, seperti tanggal atau nama mempelai, kamu
 
 ## Contoh Kata-Kata Undangan Pernikahan Online Lewat WA
 
-![Contoh Kata-Kata Undangan Pernikahan Online Lewat WA](/images/blog/content/image-7-1.png)
+![Contoh Kata-Kata Undangan Pernikahan Online Lewat WA](/images/blog/content/image-7.png)
 
 Berikut ini beberapa contoh undangan pernikahan yang bisa kamu kirimkan lewat WA. Kamu bisa menyesuaikannya dengan penerima undangan, mulai dari sahabat, kerabat, hingga orang yang lebih formal.
 

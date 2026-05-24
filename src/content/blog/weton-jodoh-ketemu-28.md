@@ -1,6 +1,9 @@
 ---
 title: 'Arti Weton Jodoh Ketemu 28, Apakah Boleh Menikah?'
-description: Weton Jodoh Ketemu 28 artinya apa? Simak ulasan kategori Tibo Topo dalam hitungan Jawa, tantangan di awal rumah tangga, serta tips menjaga komitmen tetap kuat.
+description: >-
+  Weton Jodoh Ketemu 28 artinya apa? Simak ulasan kategori Tibo Topo dalam
+  hitungan Jawa, tantangan di awal rumah tangga, serta tips menjaga komitmen
+  tetap kuat.
 publishedAt: '2026-04-08T17:49:50'
 updatedAt: '2026-04-08T17:49:50'
 author: tim-acaranya
@@ -42,69 +45,15 @@ Meskipun weton jodoh ketemu 28 memiliki arti yang kurang baik, tidak serta merta
 
 Untuk memudahkan Anda dalam menemukan weton masing-masing pasangan, Anda bisa menggunakan tools Kalkulator cek weton online dari Acaranya.id. Alat ini memungkinkan Anda untuk menghitung weton jodoh dengan mudah dan cepat. Anda bisa mengakses kalkulator tersebut dengan mengunjungi link berikut: [cek weton online](https://acaranya.id/cek-weton/).
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Sebagai contoh, misalkan calon mempelai pria memiliki weton Rabu Kliwon dan calon mempelai wanita memiliki weton Senin Legi. Untuk menghitung weton jodoh, Anda perlu menjumlahkan neptu dari masing-masing weton:
 

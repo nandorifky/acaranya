@@ -1,6 +1,9 @@
 ---
 title: Kenapa Saat Berciuman Tangan Pria Tidak Bisa Diam? Ini Alasannya
-description: Mengapa pria cenderung aktif menyentuh saat berciuman? Simak ulasan psikologis dan biologis di balik fenomena ini dalam memperkuat koneksi intim dengan pasangan.
+description: >-
+  Mengapa pria cenderung aktif menyentuh saat berciuman? Simak ulasan psikologis
+  dan biologis di balik fenomena ini dalam memperkuat koneksi intim dengan
+  pasangan.
 publishedAt: '2026-04-08T17:50:24'
 updatedAt: '2026-04-08T17:50:24'
 author: tim-acaranya

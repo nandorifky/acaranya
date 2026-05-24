@@ -1,6 +1,9 @@
 ---
 title: Deretan Tanggal Baik untuk Menikah di Tahun 2025
-description: Rencanakan hari bahagiamu! Cek deretan tanggal baik untuk menikah di tahun 2025 berdasarkan berbagai perspektif untuk membawa keberkahan dalam rumah tangga.
+description: >-
+  Rencanakan hari bahagiamu! Cek deretan tanggal baik untuk menikah di tahun
+  2025 berdasarkan berbagai perspektif untuk membawa keberkahan dalam rumah
+  tangga.
 publishedAt: '2026-04-08T17:50:06'
 updatedAt: '2026-04-08T17:50:06'
 author: tim-acaranya

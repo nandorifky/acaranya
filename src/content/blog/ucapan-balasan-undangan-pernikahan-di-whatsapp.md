@@ -1,6 +1,9 @@
 ---
 title: 30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp
-description: Bingung balas undangan nikah via WA? Cek 30 contoh ucapan balasan undangan pernikahan di WhatsApp yang sopan, islami, hingga santai untuk teman & kerabat.
+description: >-
+  Bingung balas undangan nikah via WA? Cek 30 contoh ucapan balasan undangan
+  pernikahan di WhatsApp yang sopan, islami, hingga santai untuk teman &
+  kerabat.
 publishedAt: '2026-04-08T17:49:12'
 updatedAt: '2026-04-08T17:49:12'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: Tren Desain Undangan Digital Tahun 2024
-description: Tetap kekinian! Simak ulasan tren desain undangan digital tahun 2024 mulai dari konsep minimalis modern hingga fitur interaktif yang bikin undanganmu makin wow.
+description: >-
+  Tetap kekinian! Simak ulasan tren desain undangan digital tahun 2024 mulai
+  dari konsep minimalis modern hingga fitur interaktif yang bikin undanganmu
+  makin wow.
 publishedAt: '2026-04-08T17:50:51'
 updatedAt: '2026-04-08T17:50:51'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: 'Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Contoh'
-description: Calon pengantin pria wajib tahu! Simak format, syarat dokumen, dan cara mengurus surat pengantar nikah laki-laki (N1, N2, N4) agar urusan KUA lancar jaya.
+description: >-
+  Calon pengantin pria wajib tahu! Simak format, syarat dokumen, dan cara
+  mengurus surat pengantar nikah laki-laki (N1, N2, N4) agar urusan KUA lancar
+  jaya.
 publishedAt: '2026-04-08T17:49:59'
 updatedAt: '2026-04-08T17:49:59'
 author: tim-acaranya

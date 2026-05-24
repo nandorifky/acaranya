@@ -1,6 +1,9 @@
 ---
 title: 'Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah'
-description: Penting bagi suami istri! Pahami apa itu Sighat Taklik dalam buku nikah, teks bacaannya, serta kekuatan hukumnya dalam melindungi hak istri pasca pernikahan.
+description: >-
+  Penting bagi suami istri! Pahami apa itu Sighat Taklik dalam buku nikah, teks
+  bacaannya, serta kekuatan hukumnya dalam melindungi hak istri pasca
+  pernikahan.
 publishedAt: '2026-04-08T17:49:15'
 updatedAt: '2026-04-08T17:49:15'
 author: tim-acaranya
@@ -80,7 +83,7 @@ Menyimpan salinan sighat taklik ini penting agar selalu ingat dengan janji yang 
 
 Dengan memiliki salinan sighat taklik PDF, suami dan istri bisa bersama-sama menjaga komitmen yang telah diucapkan. Ingat, pernikahan adalah kerjasama, dan sighat taklik adalah salah satu elemen penting dalam kerjasama ini.
 
-[Download Isi Sighat Taklik PDF](https://acaranya.id/wp-content/uploads/2024/08/SIGHAT-TALIQ-Acaranya.id_.pdf)
+[Download Isi Sighat Taklik PDF](/images/blog/content/SIGHAT-TALIQ-Acaranya.id_.pdf)
 
 * * *
 

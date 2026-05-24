@@ -1,6 +1,8 @@
 ---
 title: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan
-description: Bingung mau tulis apa di kado nikahan? Cek 50+ ide kata-kata kartu ucapan kado pernikahan yang romantis, islami, hingga lucu agar kado darimu makin berkesan!
+description: >-
+  Bingung mau tulis apa di kado nikahan? Cek 50+ ide kata-kata kartu ucapan kado
+  pernikahan yang romantis, islami, hingga lucu agar kado darimu makin berkesan!
 publishedAt: '2026-04-08T17:51:14'
 updatedAt: '2026-04-08T17:51:14'
 author: tim-acaranya

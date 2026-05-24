@@ -1,6 +1,9 @@
 ---
 title: Contoh Undangan Pembentukan Panitia Pernikahan
-description: Butuh referensi undangan pembentukan panitia pernikahan? Cek contoh teks undangan rapat yang sopan untuk meminta kehadiran teman & keluarga melancarkan hari H.
+description: >-
+  Butuh referensi undangan pembentukan panitia pernikahan? Cek contoh teks
+  undangan rapat yang sopan untuk meminta kehadiran teman & keluarga melancarkan
+  hari H.
 publishedAt: '2026-04-08T17:49:21'
 updatedAt: '2026-04-08T17:49:21'
 author: tim-acaranya
@@ -73,8 +76,8 @@ Berikut ini contoh undangan rapat yang bisa kamu jadikan referensi:
 
 Jika tidak ingin ambil pusing, disini kamu juga bisa langsung download [contoh undangan](https://acaranya.id/artikel/contoh-undangan-pernikahan/) yang telah kami berikan di bawah ini:
 
-**PDF:** [Download Contoh Undangan Rapat Pernikahan](https://acaranya.id/wp-content/uploads/2024/07/contoh-surat-undangan-rapat-panitia-pernikahan_acaranya.id_.pdf)  
-**DOC/Word**: [Download Contoh Undangan Pembentukan Panitia Pernikahan](https://acaranya.id/wp-content/uploads/2024/07/pdf-contoh-surat-undangan-rapat-panitia-pernikahan-acaranya.id_.docx)
+**PDF:** [Download Contoh Undangan Rapat Pernikahan](/images/blog/content/contoh-surat-undangan-rapat-panitia-pernikahan_acaranya.id_.pdf)  
+**DOC/Word**: [Download Contoh Undangan Pembentukan Panitia Pernikahan](/images/blog/content/pdf-contoh-surat-undangan-rapat-panitia-pernikahan-acaranya.id_.docx)
 
 * * *
 

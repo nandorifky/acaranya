@@ -1,6 +1,9 @@
 ---
 title: 20 Contoh Tema Undangan Digital Tanpa Foto
-description: Tak punya foto prewedding? Tenang! Cek 20 contoh tema undangan digital tanpa foto yang tetap estetik, elegan, dan menawan untuk mengundang kerabat di hari h.
+description: >-
+  Tak punya foto prewedding? Tenang! Cek 20 contoh tema undangan digital tanpa
+  foto yang tetap estetik, elegan, dan menawan untuk mengundang kerabat di hari
+  h.
 publishedAt: '2026-04-08T17:50:42'
 updatedAt: '2026-04-08T17:50:42'
 author: tim-acaranya

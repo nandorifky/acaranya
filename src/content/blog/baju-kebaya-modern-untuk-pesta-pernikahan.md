@@ -48,11 +48,11 @@ Kebaya ini menjadi **tren** karena memberikan kesan elegan dan mewah. Brokat den
 
 ![Kebaya brokat lengan panjang merah muda dengan detail renda dan payet](/images/blog/content/577fa6324588d841e7fce08f80e5d1c9.webp)
 
-![Kebaya brokat modern lengan panjang ungu muda dengan detail renda](https://acaranya.id/wp-content/uploads/2024/07/69c48444c7b154b74bda68c11388486d.webp)
+![Kebaya brokat modern lengan panjang ungu muda dengan detail renda](/images/blog/content/69c48444c7b154b74bda68c11388486d.webp)
 
 ![Kebaya brokat modern lengan panjang abu-abu dengan aksen bordir merah, dipadukan dengan kain batik](/images/blog/content/82a4b54b85972269b61611ccbcc06df0.webp)
 
-![Kebaya brokat modern lengan panjang biru muda dengan detail brokat dan payet](https://acaranya.id/wp-content/uploads/2024/07/inspirasi.webp)
+![Kebaya brokat modern lengan panjang biru muda dengan detail brokat dan payet](/images/blog/content/inspirasi.webp)
 
 ### 2\. Kebaya Hijab dengan Desain Sederhana
 
@@ -60,11 +60,11 @@ Untuk wanita muslimah, kebaya dengan hijab yang sederhana namun elegan sangat di
 
 ![](/images/blog/content/9e3f676bef22a73bfdff7ebf0b32d4d5.webp)
 
-![Wanita memakai kebaya hijab modern brokat pink muda di tangga](https://acaranya.id/wp-content/uploads/2024/07/a7eedd2b08d1605ef8bcee440ce5d260.webp)
+![Wanita memakai kebaya hijab modern brokat pink muda di tangga](/images/blog/content/a7eedd2b08d1605ef8bcee440ce5d260.webp)
 
 ![](/images/blog/content/e08e5261d73429bd646508500a8a49b6-576x1024.webp)
 
-![](https://acaranya.id/wp-content/uploads/2024/07/1ed5ba38c19374ea7054bcb630834125.webp)
+![](/images/blog/content/1ed5ba38c19374ea7054bcb630834125.webp)
 
 ### 3\. Kebaya _Off-Shoulder_
 
@@ -72,7 +72,7 @@ Kebaya dengan model _off-shoulder_ memberikan kesan seksi namun tetap sopan. Coc
 
 ![](/images/blog/content/Screenshot-2024-07-29-075755.png)
 
-![](https://acaranya.id/wp-content/uploads/2024/07/63b6c6381f97174bd99b310b151f659a.jpg)
+![](/images/blog/content/63b6c6381f97174bd99b310b151f659a.jpg)
 
 ![](/images/blog/content/c71bfee260289d1702dd71a5b3becb77.jpg)
 
@@ -82,7 +82,7 @@ Model kebaya ini memiliki potongan yang menonjolkan pinggang, memberikan siluet 
 
 ![Kebaya Peplum modern hijab](/images/blog/content/292163ac8e09e777651674259126b1d0.jpg)
 
-![Kebaya Peplum modern brokat](https://acaranya.id/wp-content/uploads/2024/07/54eb5a10fecfbba316a6d9621bb5c115.jpg)
+![Kebaya Peplum modern brokat](/images/blog/content/54eb5a10fecfbba316a6d9621bb5c115.jpg)
 
 ![Kebaya Peplum modern brokat batik](/images/blog/content/0283d702c6e76a83837aeb67c62f6ed6.jpg)
 
@@ -92,7 +92,7 @@ Kebaya dengan potongan asimetris memberikan tampilan yang unik dan modis. Tren i
 
 ![Kebaya Asimetris](/images/blog/content/421c3dea6bcf45ae9fcf94ef1448600e.jpg)
 
-![Kebaya Asimetris Hijab](https://acaranya.id/wp-content/uploads/2024/07/6f7f71beefb4b3b8b853366c746452aa.jpg)
+![Kebaya Asimetris Hijab](/images/blog/content/6f7f71beefb4b3b8b853366c746452aa.jpg)
 
 ### 6\. Kebaya Modern Hijab dengan Rok Batik
 
@@ -100,7 +100,7 @@ Kombinasi antara kebaya modern hijab dan rok batik tradisional menciptakan perpa
 
 ![Wanita memakai kebaya modern pink dengan rok batik](/images/blog/content/sinsr-84844087-277179126594187-561315898683175082-n-41911e402bb5ef0dfd9475bc01f5f7f3-1.jpg)
 
-![Wanita memakai kebaya modern krem dengan rok batik](https://acaranya.id/wp-content/uploads/2024/07/Screenshot-2024-07-29-083257.webp)
+![Wanita memakai kebaya modern krem dengan rok batik](/images/blog/content/Screenshot-2024-07-29-083257.webp)
 
 ![Wanita memakai kebaya modern ungu muda dengan rok batik](/images/blog/content/8adecbb9d9d2fe66b184363b8b3e4e20-577x1024.jpg)
 
@@ -110,7 +110,7 @@ Warna pastel memberikan kesan lembut dan feminin, cocok untuk pesta pernikahan d
 
 ![Wanita memakai kebaya brokat modern lengan panjang pastel ungu muda dengan hijab, membawa tas kecil](/images/blog/content/dba49088e45c5e9b7b2ee74e587ad544.jpg)
 
-![Wanita memakai kebaya brokat modern pastel ungu muda dengan kain batik dan hijab](https://acaranya.id/wp-content/uploads/2024/07/261829b5c105b1eb9d4dd360ed933cc5.jpg)
+![Wanita memakai kebaya brokat modern pastel ungu muda dengan kain batik dan hijab](/images/blog/content/261829b5c105b1eb9d4dd360ed933cc5.jpg)
 
 ![Wanita memakai kebaya brokat modern pastel ungu muda dengan hijab dan detail payet](/images/blog/content/592904a02b4bafda5690eb7ed15fd27e.jpg)
 
@@ -120,7 +120,7 @@ Kebaya dengan cape memberikan tampilan yang modern dan elegan, sangat cocok untu
 
 ![Kebaya Cape Modern Pastel](/images/blog/content/195439696_124492333030544_3802068624434713684_n-819x1024.jpg)
 
-![Kebaya Cape Modern Biru](https://acaranya.id/wp-content/uploads/2024/07/26265511_886128708227297_9200848493915144192_n.jpg)
+![Kebaya Cape Modern Biru](/images/blog/content/26265511_886128708227297_9200848493915144192_n.jpg)
 
 ### 9\. Kebaya dengan Aksen Renda
 
@@ -134,7 +134,7 @@ Untuk mereka yang menyukai kesederhanaan, kebaya dengan desain minimalis modern 
 
 ![Kebaya Simple Minimalis Modern Brokat](/images/blog/content/pasted-image-0.webp)
 
-![Kebaya Simple Minimalis Modern Hijab](https://acaranya.id/wp-content/uploads/2024/07/a88b3445ea8d3f9fa4e4fb0ee2b02068-576x1024.webp)
+![Kebaya Simple Minimalis Modern Hijab](/images/blog/content/a88b3445ea8d3f9fa4e4fb0ee2b02068-576x1024.webp)
 
 ![Kebaya Simple Minimalis Modern Hijab Batik](/images/blog/content/ae52af8db59d25c8418d12ffdcc5c69e.webp)
 

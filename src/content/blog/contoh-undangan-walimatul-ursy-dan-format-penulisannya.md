@@ -1,6 +1,8 @@
 ---
 title: Contoh Undangan Walimatul Ursy dan Format Penulisannya
-description: Panduan menyusun undangan Walimatul Ursy yang sopan & sesuai sunnah. Lengkap dengan format penulisan dasar mulai dari salam hingga detail informasi acara.
+description: >-
+  Panduan menyusun undangan Walimatul Ursy yang sopan & sesuai sunnah. Lengkap
+  dengan format penulisan dasar mulai dari salam hingga detail informasi acara.
 publishedAt: '2026-04-08T17:50:43'
 updatedAt: '2026-04-08T17:50:43'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
-description: Mendambakan pernikahan langgeng? Simak filosofi & cara mewujudkan Samawa Till Jannah agar hubungan suami istri penuh ketenteraman & cinta kasih hingga ke surga.
+description: >-
+  Mendambakan pernikahan langgeng? Simak filosofi & cara mewujudkan Samawa Till
+  Jannah agar hubungan suami istri penuh ketenteraman & cinta kasih hingga ke
+  surga.
 publishedAt: '2026-04-08T17:51:27'
 updatedAt: '2026-04-08T17:51:27'
 author: tim-acaranya

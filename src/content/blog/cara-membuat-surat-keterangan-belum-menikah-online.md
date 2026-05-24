@@ -74,7 +74,7 @@ Berikut ini adalah contoh **surat keterangan belum menikah** yang biasa dikeluar
 
 ![contoh surat keterangan belum menikah](/images/blog/content/contoh-surat-keterangan-belum-menikah.webp)
 
-[DOWNLOAD](https://acaranya.id/wp-content/uploads/2024/09/contoh-surat-keterangan-belum-menikah.webp)
+[DOWNLOAD](/images/blog/content/contoh-surat-keterangan-belum-menikah.webp)
 
 * * *
 

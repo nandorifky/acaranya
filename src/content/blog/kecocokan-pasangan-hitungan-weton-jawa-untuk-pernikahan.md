@@ -1,6 +1,9 @@
 ---
 title: Mengetahui Kecocokan Pasangan Hitungan Weton Jawa untuk Pernikahan
-description: Pahami arti neptu dalam kecocokan pasangan menurut weton Jawa. Simak panduan menghitung & mengenali kategori ramalan nasib rumah tangga berdasarkan tradisi luhur.
+description: >-
+  Pahami arti neptu dalam kecocokan pasangan menurut weton Jawa. Simak panduan
+  menghitung & mengenali kategori ramalan nasib rumah tangga berdasarkan tradisi
+  luhur.
 publishedAt: '2026-04-08T17:49:46'
 updatedAt: '2026-04-08T17:49:46'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!
-description: Rayakan keberhasilan kelulusan! Intip 40 ucapan selamat wisuda simple tapi berkesan untuk sahabat, pacar, hingga keluarga agar momen spesialnya makin haru.
+description: >-
+  Rayakan keberhasilan kelulusan! Intip 40 ucapan selamat wisuda simple tapi
+  berkesan untuk sahabat, pacar, hingga keluarga agar momen spesialnya makin
+  haru.
 publishedAt: '2026-04-08T17:51:06'
 updatedAt: '2026-04-08T17:51:06'
 author: tim-acaranya

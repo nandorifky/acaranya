@@ -1,6 +1,8 @@
 ---
 title: 6 Tips Memilih Jasa Undangan Pernikahan Digital yang Tepat
-description: Jangan asal pilih! Simak 6 tips memilih jasa undangan pernikahan digital yang tepat agar hasilnya memuaskan, terpercaya, dan sesuai dengan anggaranmu.
+description: >-
+  Jangan asal pilih! Simak 6 tips memilih jasa undangan pernikahan digital yang
+  tepat agar hasilnya memuaskan, terpercaya, dan sesuai dengan anggaranmu.
 publishedAt: '2026-04-08T17:49:10'
 updatedAt: '2026-04-08T17:49:10'
 author: tim-acaranya

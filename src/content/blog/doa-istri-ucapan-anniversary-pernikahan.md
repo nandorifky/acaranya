@@ -1,6 +1,9 @@
 ---
 title: 40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis
-description: 40 Doa istri & ucapan anniversary pernikahan romantis untuk suami. Kumpulan kalimat penuh makna & doa Islami untuk mensyukuri perjalanan cinta yang penuh berkah.
+description: >-
+  40 Doa istri & ucapan anniversary pernikahan romantis untuk suami. Kumpulan
+  kalimat penuh makna & doa Islami untuk mensyukuri perjalanan cinta yang penuh
+  berkah.
 publishedAt: '2026-04-08T17:49:16'
 updatedAt: '2026-04-08T17:49:16'
 author: tim-acaranya

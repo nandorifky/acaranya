@@ -1,6 +1,9 @@
 ---
 title: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan
-description: Ingin acara doa bersama berjalan khidmat? Simak susunan acara pengajian sebelum pernikahan lengkap dengan rundown dan tips persiapan untuk keluarga & catin.
+description: >-
+  Ingin acara doa bersama berjalan khidmat? Simak susunan acara pengajian
+  sebelum pernikahan lengkap dengan rundown dan tips persiapan untuk keluarga &
+  catin.
 publishedAt: '2026-04-08T17:51:16'
 updatedAt: '2026-04-08T17:51:16'
 author: tim-acaranya

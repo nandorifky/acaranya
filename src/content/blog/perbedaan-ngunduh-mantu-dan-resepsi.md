@@ -1,6 +1,9 @@
 ---
 title: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia
-description: Sering dianggap sama, ternyata beda! Pahami perbedaan Ngunduh Mantu dan Resepsi mulai dari makna tradisi, waktu pelaksanaan, hingga pihak penyelenggaranya di sini.
+description: >-
+  Sering dianggap sama, ternyata beda! Pahami perbedaan Ngunduh Mantu dan
+  Resepsi mulai dari makna tradisi, waktu pelaksanaan, hingga pihak
+  penyelenggaranya di sini.
 publishedAt: '2026-04-08T17:51:08'
 updatedAt: '2026-04-08T17:51:08'
 author: tim-acaranya
@@ -68,35 +71,12 @@ Di beberapa adat, seperti dalam budaya Jawa, resepsi juga bisa melibatkan proses
 
 Berikut ini adalah beberapa poin utama yang membedakan antara ngunduh mantu dan resepsi:
 
-Aspek
-
-Ngunduh Mantu
-
-Resepsi Pernikahan
-
-**Waktu Pelaksanaan**
-
-Setelah akad nikah dan resepsi utama
-
-Setelah akad nikah atau pemberkatan
-
-**Pihak Penyelenggara**
-
-Keluarga mempelai pria
-
-Umumnya keluarga mempelai wanita / bersama
-
-**Tujuan**
-
-Menyambut menantu ke dalam keluarga besar
-
-Merayakan pernikahan dan memperkenalkan pasangan
-
-**Ciri Khas**
-
-Tradisi adat, lebih umum dalam budaya Jawa
-
-Umum di semua daerah dengan bentuk beragam
+| Aspek | Ngunduh Mantu | Resepsi Pernikahan |
+| --- | --- | --- |
+| **Waktu Pelaksanaan** | Setelah akad nikah dan resepsi utama | Setelah akad nikah atau pemberkatan |
+| **Pihak Penyelenggara** | Keluarga mempelai pria | Umumnya keluarga mempelai wanita / bersama |
+| **Tujuan** | Menyambut menantu ke dalam keluarga besar | Merayakan pernikahan dan memperkenalkan pasangan |
+| **Ciri Khas** | Tradisi adat, lebih umum dalam budaya Jawa | Umum di semua daerah dengan bentuk beragam |
 
 * * *
 

@@ -1,6 +1,8 @@
 ---
 title: Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu
-description: Waktunya move on! Simak 7 tanda mantan tidak akan kembali padamu, mulai dari putusnya komunikasi hingga hadirnya pasangan baru dalam kehidupan mereka.
+description: >-
+  Waktunya move on! Simak 7 tanda mantan tidak akan kembali padamu, mulai dari
+  putusnya komunikasi hingga hadirnya pasangan baru dalam kehidupan mereka.
 publishedAt: '2026-04-08T17:51:19'
 updatedAt: '2026-04-08T17:51:19'
 author: tim-acaranya

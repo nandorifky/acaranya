@@ -1,6 +1,9 @@
 ---
 title: 50 Ide Pertanyaan Truth or Dare untuk Pasangan
-description: 50 Ide pertanyaan Truth or Dare untuk pasangan agar makin dekat & seru! Cara asyik menggali kejujuran sekaligus menciptakan momen emosional yang tak terlupakan.
+description: >-
+  50 Ide pertanyaan Truth or Dare untuk pasangan agar makin dekat & seru! Cara
+  asyik menggali kejujuran sekaligus menciptakan momen emosional yang tak
+  terlupakan.
 publishedAt: '2026-04-08T17:50:08'
 updatedAt: '2026-04-08T17:50:08'
 author: tim-acaranya
@@ -35,7 +38,7 @@ Berikut adalah beberapa ide pertanyaan Truth or Dare untuk pasangan yang dapat d
 
 ## Kenapa Memilih Truth or Dare dengan Pasangan?
 
-![Kenapa Memilih Truth or Dare dengan Pasangan?](/images/blog/content/image-12-2.png)
+![Kenapa Memilih Truth or Dare dengan Pasangan?](/images/blog/content/image-12.png)
 
 Truth or Dare menawarkan cara interaktif untuk mengenal pasangan lebih baik. Permainan ini menciptakan ruang untuk kejujuran, humor, dan bahkan beberapa momen emosional.
 

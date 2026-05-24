@@ -1,6 +1,9 @@
 ---
 title: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'
-description: Menunjukkan kedewasaan itu keren! Simak 20 ucapan selamat menikah untuk mantan yang sopan, tulus, dan penuh doa baik agar kamu tetap bisa move on dengan elegan.
+description: >-
+  Menunjukkan kedewasaan itu keren! Simak 20 ucapan selamat menikah untuk mantan
+  yang sopan, tulus, dan penuh doa baik agar kamu tetap bisa move on dengan
+  elegan.
 publishedAt: '2026-04-08T17:51:10'
 updatedAt: '2026-04-08T17:51:10'
 author: tim-acaranya

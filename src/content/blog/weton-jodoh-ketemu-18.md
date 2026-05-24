@@ -1,6 +1,9 @@
 ---
 title: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa
-description: Hidup bak diratukan! Simak arti Weton Jodoh Ketemu 18 kategori Tibo Ratu yang dipercaya membawa kemakmuran, kehormatan, dan keharmonisan luar biasa bagi pasangan.
+description: >-
+  Hidup bak diratukan! Simak arti Weton Jodoh Ketemu 18 kategori Tibo Ratu yang
+  dipercaya membawa kemakmuran, kehormatan, dan keharmonisan luar biasa bagi
+  pasangan.
 publishedAt: '2026-04-08T17:49:31'
 updatedAt: '2026-04-08T17:49:31'
 author: tim-acaranya
@@ -46,69 +49,15 @@ Untuk memudahkan Anda dalam menghitung weton, Anda bisa memanfaatkan [kalkulator
 
 Berikut tabel yang memuat nilai neptu dari hari dan pasaran Jawa:
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
-–
-
-–
-
-Sabtu
-
-9
-
-–
-
-–
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Contoh perhitungan Weton Jodoh Ketemu 18:
 

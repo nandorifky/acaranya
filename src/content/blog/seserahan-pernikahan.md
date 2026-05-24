@@ -1,6 +1,9 @@
 ---
 title: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!
-description: Bingung mau bawa apa saat seserahan? Simak list lengkap isi seserahan pernikahan mulai dari perlengkapan ibadah hingga modern, beserta makna filosofisnya di sini.
+description: >-
+  Bingung mau bawa apa saat seserahan? Simak list lengkap isi seserahan
+  pernikahan mulai dari perlengkapan ibadah hingga modern, beserta makna
+  filosofisnya di sini.
 publishedAt: '2026-04-08T17:49:58'
 updatedAt: '2026-04-08T17:49:58'
 author: tim-acaranya
@@ -181,7 +184,7 @@ Dalam menyiapkan seserahan, penting bagi kedua belah pihak untuk berdiskusi dan 
 
 ## Hindari Hal ini Saat Persiapan Seserahan Pernikahan!
 
-![isi seserahan pernikahan untuk wanita](/images/blog/content/isi-seserahan-pernikahan-untuk-wanita-1.jpg)
+![isi seserahan pernikahan untuk wanita](/images/blog/content/isi-seserahan-pernikahan-untuk-wanita.jpg)
 
 Dalam mempersiapkan seserahan, beberapa kesalahan umum yang harus dihindari antara lain:
 

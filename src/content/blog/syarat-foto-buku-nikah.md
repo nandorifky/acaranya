@@ -1,6 +1,8 @@
 ---
 title: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
-description: Jangan sampai salah cetak! Simak aturan & syarat foto buku nikah terbaru mulai dari ukuran, jumlah lembar, hingga warna background biru sesuai ketentuan KUA.
+description: >-
+  Jangan sampai salah cetak! Simak aturan & syarat foto buku nikah terbaru mulai
+  dari ukuran, jumlah lembar, hingga warna background biru sesuai ketentuan KUA.
 publishedAt: '2026-04-08T17:50:21'
 updatedAt: '2026-04-08T17:50:21'
 author: tim-acaranya

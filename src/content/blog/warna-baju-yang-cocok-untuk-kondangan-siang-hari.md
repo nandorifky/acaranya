@@ -1,6 +1,9 @@
 ---
 title: Inilah Warna Baju yang Cocok untuk Kondangan Siang Hari
-description: Tampil stylish tanpa gerah! Cek rekomendasi warna baju yang cocok untuk kondangan siang hari, dari warna pastel yang sejuk hingga warna netral yang elegan.
+description: >-
+  Tampil stylish tanpa gerah! Cek rekomendasi warna baju yang cocok untuk
+  kondangan siang hari, dari warna pastel yang sejuk hingga warna netral yang
+  elegan.
 publishedAt: '2026-04-08T17:50:22'
 updatedAt: '2026-04-08T17:50:22'
 author: tim-acaranya

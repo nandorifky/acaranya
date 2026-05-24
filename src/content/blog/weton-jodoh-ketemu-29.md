@@ -1,6 +1,9 @@
 ---
 title: 'Arti Weton Jodoh Ketemu 29, Apakah Boleh Menikah?'
-description: Berkah melimpah! Pahami arti Weton Jodoh Ketemu 29 kategori Tibo Tinari yang dipercaya membawa kemakmuran, rezeki lancar, dan kebahagiaan bagi pasangan suami istri.
+description: >-
+  Berkah melimpah! Pahami arti Weton Jodoh Ketemu 29 kategori Tibo Tinari yang
+  dipercaya membawa kemakmuran, rezeki lancar, dan kebahagiaan bagi pasangan
+  suami istri.
 publishedAt: '2026-04-08T17:49:51'
 updatedAt: '2026-04-08T17:49:51'
 author: tim-acaranya
@@ -51,69 +54,15 @@ Sebagai contoh, perhatikan pasangan dengan hari dan pasaran lahir berikut:
 
 Untuk menghitung neptu, kita perlu mengetahui nilai masing-masing hari dan pasaran:
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 *   Neptu Pria: 8 (Kamis) + 8 (Kliwon) = 16
 *   Neptu Wanita: 3 (Selasa) + 7 (Pon) = 10

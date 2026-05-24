@@ -1,6 +1,9 @@
 ---
 title: 'Weton Jodoh Ketemu 20: Arti dan Cara Menghitungnya'
-description: Weton Jodoh Ketemu 20 artinya apa? Simak ulasan kategori Tibo Topo dalam hitungan Jawa, tantangan di awal pernikahan, serta kunci sukses melaluinya agar makin solid.
+description: >-
+  Weton Jodoh Ketemu 20 artinya apa? Simak ulasan kategori Tibo Topo dalam
+  hitungan Jawa, tantangan di awal pernikahan, serta kunci sukses melaluinya
+  agar makin solid.
 publishedAt: '2026-04-08T17:49:34'
 updatedAt: '2026-04-08T17:49:34'
 author: tim-acaranya
@@ -42,69 +45,15 @@ Jika pasangan dengan Weton Jodoh Ketemu 20 memutuskan untuk melangkah ke jenjang
 
 Untuk memudahkan menemukan Weton masing-masing pasangan, Anda dapat menggunakan tools kalkulator weton online **[disini](https://acaranya.id/cek-weton/)**. Berikut cara menghitung Weton Jodoh:
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
-–
-
-–
-
-Sabtu
-
-9
-
-–
-
-–
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Sebagai contoh, jika seorang pria lahir pada hari Selasa Pon dan seorang wanita lahir pada hari Kamis Kliwon, maka perhitungan Weton Jodohnya adalah:
 

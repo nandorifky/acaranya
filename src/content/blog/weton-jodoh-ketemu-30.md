@@ -1,6 +1,9 @@
 ---
 title: Arti Weton Jodoh Ketemu 30 Menurut Primbon Jawa
-description: Weton Jodoh Ketemu 30, apa artinya? Kenali kategori Tibo Padu dalam tradisi Jawa yang dipercaya rawan konflik sepele, serta kunci sukses membangun kesabaran bersama.
+description: >-
+  Weton Jodoh Ketemu 30, apa artinya? Kenali kategori Tibo Padu dalam tradisi
+  Jawa yang dipercaya rawan konflik sepele, serta kunci sukses membangun
+  kesabaran bersama.
 publishedAt: '2026-04-08T17:49:51'
 updatedAt: '2026-04-08T17:49:51'
 author: tim-acaranya
@@ -44,69 +47,15 @@ Anda dapat menggunakan **[kalkulator hitung weton jawa online](https://acaranya.
 
 Untuk mengetahui weton jodoh Ketemu 30, hitung neptu hari dan pasaran kelahiran masing-masing pasangan. Berikut tabel nilai hari dan pasaran Jawa:
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
-–
-
-–
-
-Sabtu
-
-9
-
-–
-
-–
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Misalnya, seorang pria lahir pada hari Minggu Pahing dan seorang wanita lahir pada hari Kamis Legi. Hitung neptu masing-masing pasangan:
 

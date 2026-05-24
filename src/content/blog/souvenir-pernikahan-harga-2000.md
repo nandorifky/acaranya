@@ -1,6 +1,9 @@
 ---
 title: 10 Souvenir Pernikahan Harga 2000 yang Unik dan Berkesan
-description: Nikah hemat bukan halangan! Cek 10 rekomendasi souvenir pernikahan harga 2000-an yang unik, berkesan, dan tetap bermanfaat untuk tamu spesial di hari bahagiamu.
+description: >-
+  Nikah hemat bukan halangan! Cek 10 rekomendasi souvenir pernikahan harga
+  2000-an yang unik, berkesan, dan tetap bermanfaat untuk tamu spesial di hari
+  bahagiamu.
 publishedAt: '2026-04-08T17:49:55'
 updatedAt: '2026-04-08T17:49:55'
 author: tim-acaranya

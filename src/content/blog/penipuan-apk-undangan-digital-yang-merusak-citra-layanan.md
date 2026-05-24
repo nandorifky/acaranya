@@ -1,6 +1,9 @@
 ---
 title: Penipuan APK Undangan Digital yang Merusak Citra Layanan
-description: Waspada modus penipuan APK undangan digital! Kenali cara kerja malware penyedot saldo bank dan tips aman membedakan undangan asli dengan tautan berbahaya.
+description: >-
+  Waspada modus penipuan APK undangan digital! Kenali cara kerja malware
+  penyedot saldo bank dan tips aman membedakan undangan asli dengan tautan
+  berbahaya.
 publishedAt: '2026-04-08T17:50:03'
 updatedAt: '2026-04-08T17:50:03'
 author: tim-acaranya

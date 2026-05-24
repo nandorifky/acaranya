@@ -1,6 +1,9 @@
 ---
 title: Ketahui Apa Saja Perbedaan Seserahan Lamaran dan Pernikahan
-description: Jangan sampai salah bawa! Simak perbedaan isi & makna seserahan lamaran vs seserahan pernikahan (hantaran) lengkap dengan contoh barang wajib bagi calon pengantin.
+description: >-
+  Jangan sampai salah bawa! Simak perbedaan isi & makna seserahan lamaran vs
+  seserahan pernikahan (hantaran) lengkap dengan contoh barang wajib bagi calon
+  pengantin.
 publishedAt: '2026-04-08T17:49:59'
 updatedAt: '2026-04-08T17:49:59'
 author: tim-acaranya

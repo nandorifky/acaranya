@@ -1,6 +1,9 @@
 ---
 title: Weton Jodoh Ketemu 25 Apa Artinya? Penjelasan Primbon Jawa
-description: Weton Jodoh Ketemu 25, bagaimana nasibnya? Pahami kategori Tibo Pegat dalam hitungan Jawa, potensi cobaan ekonomi & perselisihan, serta cara mengantisipasinya.
+description: >-
+  Weton Jodoh Ketemu 25, bagaimana nasibnya? Pahami kategori Tibo Pegat dalam
+  hitungan Jawa, potensi cobaan ekonomi & perselisihan, serta cara
+  mengantisipasinya.
 publishedAt: '2026-04-08T17:49:38'
 updatedAt: '2026-04-08T17:49:38'
 author: tim-acaranya
@@ -50,69 +53,15 @@ Jika pasangan dengan weton jodoh ketemu 25 memutuskan untuk melanjutkan hubungan
 
 ## Cara Menghitung Weton Jodoh
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Anda dapat menggunakan kalkulator weton dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan. Anda bisa mengunjungi halaman [kalkulator hitung weton](https://acaranya.id/cek-weton/) untuk menghitung weton jodoh Anda.
 

@@ -1,6 +1,9 @@
 ---
 title: Apa Arti Weton Jodoh Ketemu 23?
-description: Weton Jodoh Ketemu 23 artinya apa? Pahami tafsir kategori Tibo Sujanan dalam primbon Jawa, potensi tantangan kesetiaan, serta cara bijak menjaga keutuhan hubungan.
+description: >-
+  Weton Jodoh Ketemu 23 artinya apa? Pahami tafsir kategori Tibo Sujanan dalam
+  primbon Jawa, potensi tantangan kesetiaan, serta cara bijak menjaga keutuhan
+  hubungan.
 publishedAt: '2026-04-08T17:49:35'
 updatedAt: '2026-04-08T17:49:35'
 author: tim-acaranya
@@ -56,69 +59,15 @@ Dengan kesadaran penuh dan niat untuk menjaga hubungan yang suci, pasangan denga
 
 Untuk menghitung Weton Jodoh, Anda dapat menggunakan [kalkulator weton](https://acaranya.id/cek-weton/) yang disediakan di **Acaranya.id**. Anda cukup memasukkan tanggal lahir Anda dan pasangan Anda, lalu website ini akan otomatis menghitung Weton Jodoh Anda.
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Sebagai contoh, jika seseorang lahir pada hari Kamis, Kliwon dan pasangannya lahir pada hari Rabu, Wage, maka Weton Jodoh mereka dapat dihitung sebagai berikut:
 

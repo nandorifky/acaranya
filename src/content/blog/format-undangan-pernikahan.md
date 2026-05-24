@@ -1,6 +1,9 @@
 ---
 title: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'
-description: Susun undanganmu dengan format yang benar! Cek elemen penting mulai dari nama pengantin hingga RSVP agar informasi acara tersampaikan dengan jelas & informatif.
+description: >-
+  Susun undanganmu dengan format yang benar! Cek elemen penting mulai dari nama
+  pengantin hingga RSVP agar informasi acara tersampaikan dengan jelas &
+  informatif.
 publishedAt: '2026-04-08T17:50:34'
 updatedAt: '2026-04-08T17:50:34'
 author: tim-acaranya

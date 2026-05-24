@@ -1,6 +1,9 @@
 ---
 title: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat
-description: Mau sebar undangan via WhatsApp? Simak contoh kata-kata undangan lewat WA yang sopan tanpa mengurangi rasa hormat, lengkap dengan etika pengiriman yang benar.
+description: >-
+  Mau sebar undangan via WhatsApp? Simak contoh kata-kata undangan lewat WA yang
+  sopan tanpa mengurangi rasa hormat, lengkap dengan etika pengiriman yang
+  benar.
 publishedAt: '2026-04-08T17:50:28'
 updatedAt: '2026-04-08T17:50:28'
 author: tim-acaranya
@@ -48,7 +51,7 @@ Sebagai layanan undangan pernikahan online terbaik, disini **Acaranya.id** akan 
 > 
 > _Wassalamualaikum warahmatullahi wabarakatuh_.
 
-![kata kata undangan lewat wa tanpa mengurangi rasa hormat](/images/blog/content/image-5-1.png)
+![kata kata undangan lewat wa tanpa mengurangi rasa hormat](/images/blog/content/image-5.png)
 
 ## Kata-Kata Undangan Pernikahan Kristen Lewat WhatsApp
 

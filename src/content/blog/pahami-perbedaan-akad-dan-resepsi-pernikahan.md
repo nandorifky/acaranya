@@ -1,6 +1,9 @@
 ---
 title: Pahami Perbedaan Akad dan Resepsi Pernikahan
-description: Jangan salah kaprah! Pahami perbedaan akad dan resepsi pernikahan mulai dari aspek hukum, tujuan, hingga tata cara pelaksanaannya dalam tradisi di Indonesia.
+description: >-
+  Jangan salah kaprah! Pahami perbedaan akad dan resepsi pernikahan mulai dari
+  aspek hukum, tujuan, hingga tata cara pelaksanaannya dalam tradisi di
+  Indonesia.
 publishedAt: '2026-04-08T17:50:23'
 updatedAt: '2026-04-08T17:50:23'
 author: tim-acaranya

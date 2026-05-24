@@ -1,6 +1,9 @@
 ---
 title: 8 Tips Memilih Venue Pernikahan yang Tepat
-description: Pilih lokasi impianmu! Simak 8 tips cerdas memilih venue pernikahan yang tepat, mulai dari penyesuaian tema hingga pertimbangan anggaran agar acaramu berkesan.
+description: >-
+  Pilih lokasi impianmu! Simak 8 tips cerdas memilih venue pernikahan yang
+  tepat, mulai dari penyesuaian tema hingga pertimbangan anggaran agar acaramu
+  berkesan.
 publishedAt: '2026-04-08T17:49:47'
 updatedAt: '2026-04-08T17:49:47'
 author: tim-acaranya

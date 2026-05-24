@@ -1,6 +1,9 @@
 ---
 title: Undangan Pernikahan Digital dengan Link Live Streaming
-description: Tamu jauh tetap bisa hadir! Simak keunggulan undangan pernikahan digital dengan link live streaming agar momen bahagiamu bisa disaksikan keluarga dari mana saja.
+description: >-
+  Tamu jauh tetap bisa hadir! Simak keunggulan undangan pernikahan digital
+  dengan link live streaming agar momen bahagiamu bisa disaksikan keluarga dari
+  mana saja.
 publishedAt: '2026-04-08T17:50:54'
 updatedAt: '2026-04-08T17:50:54'
 author: tim-acaranya

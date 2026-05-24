@@ -1,6 +1,9 @@
 ---
 title: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya
-description: Sudah suratan takdir! Pahami makna Weton Jodoh Ketemu 19 kategori Tibo Jodoh yang diramalkan langgeng, saling melengkapi, & penuh kasih sayang hingga akhir hayat.
+description: >-
+  Sudah suratan takdir! Pahami makna Weton Jodoh Ketemu 19 kategori Tibo Jodoh
+  yang diramalkan langgeng, saling melengkapi, & penuh kasih sayang hingga akhir
+  hayat.
 publishedAt: '2026-04-08T17:49:32'
 updatedAt: '2026-04-08T17:49:32'
 author: tim-acaranya
@@ -42,69 +45,15 @@ Jika pasangan dengan Weton Jodoh Ketemu 19 memutuskan untuk melangkah ke jenjang
 
 Untuk menghitung Weton Jodoh Ketemu 19, Anda dapat memanfaatkan tools [Kalkulator cek weton online dari Acaranya.id](https://acaranya.id/cek-weton/), yang dapat memudahkan Anda menemukan weton masing-masing pasangan. Cukup masukkan tanggal lahir dan pasaran Jawa, maka kalkulator ini akan menghitung total neptu Anda dan pasangan. Alternatif lain, Anda bisa menghitungnya secara manual dengan menggunakan tabel di bawah ini:
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
-–
-
-–
-
-Sabtu
-
-9
-
-–
-
-–
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Sebagai contoh, jika Anda lahir pada hari Rabu Wage dan pasangan Anda lahir pada hari Kamis Kliwon, maka total neptu weton Anda adalah 11 (7 + 4) dan total neptu weton pasangan Anda adalah 16 (8 + 8). Penjumlahan kedua neptu tersebut menghasilkan 27 (11 + 16), yang tidak mencapai Weton Jodoh Ketemu 19. Namun, jika pasangan Anda lahir pada hari Selasa Pon, maka total neptu wetonnya adalah 10 (3 + 7), dan penjumlahan neptu Anda dan pasangan mencapai 17 (7 + 4 + 3 + 7). Hasil ini menunjukkan bahwa weton Anda dan pasangan Anda adalah **Tibo Jodoh**, yang berarti Anda memiliki peluang besar untuk membangun rumah tangga yang bahagia.
 

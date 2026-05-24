@@ -1,6 +1,8 @@
 ---
 title: 'Ngunduh Mantu Adalah: Pengertian dan Susunan Acaranya'
-description: Apa itu Ngunduh Mantu? Simak pengertian, makna filosofis, hingga susunan acara prosesi adat Jawa ini dalam menyambut pengantin wanita ke keluarga pria.
+description: >-
+  Apa itu Ngunduh Mantu? Simak pengertian, makna filosofis, hingga susunan acara
+  prosesi adat Jawa ini dalam menyambut pengantin wanita ke keluarga pria.
 publishedAt: '2026-04-08T17:51:12'
 updatedAt: '2026-04-08T17:51:12'
 author: tim-acaranya
@@ -44,7 +46,7 @@ Meski setiap daerah bisa memiliki sedikit perbedaan, secara umum berikut adalah 
 
 ### 1\. Penjemputan Mempelai Wanita
 
-![Penjemputan Mempelai Wanita ngunduh mantu](/images/blog/content/image-5-2.png)
+![Penjemputan Mempelai Wanita ngunduh mantu](/images/blog/content/image-5.png)
 
 Tahap pertama dalam prosesi **ngunduh mantu** adalah **penjemputan mempelai wanita**. Acara ini menandakan bahwa keluarga mempelai pria secara simbolis “mengunduh” atau mengambil menantu mereka untuk secara resmi menjadi bagian dari keluarga.
 
@@ -122,7 +124,7 @@ Setiap adat istiadat memiliki tata cara tersendiri, begitu juga dalam prosesi **
 
 ### 1\. Pakaian Adat Jawa
 
-![pakaian adat jawa ngunduh mantu](/images/blog/content/image-4-1.png)
+![pakaian adat jawa ngunduh mantu](/images/blog/content/image-4.png)
 
 Pakaian adat menjadi salah satu elemen penting dalam prosesi **ngunduh mantu**. Baik mempelai pria maupun wanita umumnya mengenakan pakaian adat Jawa, seperti kebaya untuk wanita dan beskap untuk pria.
 

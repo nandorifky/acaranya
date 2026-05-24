@@ -1,6 +1,9 @@
 ---
 title: 7 Rekomendasi Venue Pernikahan Outdoor di Jogja
-description: Ingin nikah outdoor yang estetik? Cek 7 rekomendasi venue pernikahan outdoor di Jogja yang romantis & asri, dari Taman Sari hingga hotel bintang lima terbaik.
+description: >-
+  Ingin nikah outdoor yang estetik? Cek 7 rekomendasi venue pernikahan outdoor
+  di Jogja yang romantis & asri, dari Taman Sari hingga hotel bintang lima
+  terbaik.
 publishedAt: '2026-04-08T17:50:10'
 updatedAt: '2026-04-08T17:50:10'
 author: tim-acaranya
@@ -30,7 +33,7 @@ Dengan berbagai pilihan yang ada, kamu bisa menemukan venue yang sesuai dengan t
 
 ## 1\. Taman Sari
 
-![Taman Sari](/images/blog/content/image-5-3.png)
+![Taman Sari](/images/blog/content/image-5.png)
 
 Taman Sari adalah salah satu tempat yang paling ikonik di Jogja. Dikenal sebagai taman kerajaan, tempat ini menawarkan suasana yang romantis dan penuh sejarah. Dengan arsitektur yang menawan dan kolam yang indah, Taman Sari menjadi pilihan yang sempurna untuk pernikahan outdoor.
 
@@ -38,7 +41,7 @@ Kamu bisa mengadakan acara di area terbuka yang dikelilingi oleh pepohonan hijau
 
 ## 2\. The Royal Ambarrukmo
 
-![The Royal Ambarrukmo](/images/blog/content/image-6-2.png)
+![The Royal Ambarrukmo](/images/blog/content/image-6.png)
 
 The Royal Ambarrukmo adalah hotel bintang lima yang menawarkan venue pernikahan outdoor dengan pemandangan yang menakjubkan. Terletak di tengah kota, venue ini memiliki taman luas yang dikelilingi oleh pepohonan rindang.
 
@@ -46,7 +49,7 @@ Kamu bisa memilih untuk mengadakan resepsi di area taman yang didekorasi dengan 
 
 ## 3\. Jogja Bay Waterpark
 
-![Jogja Bay Waterpark](/images/blog/content/image-7-2.png)
+![Jogja Bay Waterpark](/images/blog/content/image-7.png)
 
 Jika kamu mencari venue yang unik dan berbeda, Jogja Bay Waterpark bisa menjadi pilihan yang menarik. Dengan suasana pantai yang diciptakan di dalam waterpark, kamu bisa merayakan pernikahan dengan tema tropis yang ceria.
 
@@ -54,7 +57,7 @@ Area outdoor di Jogja Bay sangat luas dan dapat menampung banyak tamu. Selain it
 
 ## 4\. Bukit Lintang Sewu
 
-![Bukit Lintang Sewu](/images/blog/content/image-8-2.png)
+![Bukit Lintang Sewu](/images/blog/content/image-8.png)
 
 Bukit Lintang Sewu menawarkan pemandangan alam yang spektakuler, terutama saat matahari terbenam. Venue ini terletak di ketinggian, sehingga kamu bisa menikmati panorama Jogja dari atas.
 
@@ -62,7 +65,7 @@ Dengan suasana yang tenang dan sejuk, Bukit Lintang Sewu sangat cocok untuk pern
 
 ## 5\. Taman Pelangi
 
-![Taman Pelangi](/images/blog/content/image-9-1.png)
+![Taman Pelangi](/images/blog/content/image-9.png)
 
 Taman Pelangi adalah tempat yang penuh warna dan sangat cocok untuk pernikahan outdoor yang ceria. Dengan berbagai instalasi seni dan lampu-lampu yang indah, venue ini menawarkan suasana yang unik dan menarik.
 
@@ -70,7 +73,7 @@ Kamu bisa mengadakan acara di area terbuka yang dikelilingi oleh taman yang rimb
 
 ## 6\. Puncak Sewa
 
-![Puncak Sewa](/images/blog/content/image-10-2.png)
+![Puncak Sewa](/images/blog/content/image-10.png)
 
 Puncak Sewa adalah venue pernikahan outdoor yang terletak di daerah pegunungan. Dengan pemandangan alam yang menakjubkan, tempat ini menawarkan suasana yang sejuk dan tenang.
 
@@ -78,7 +81,7 @@ Kamu bisa mengadakan acara di area terbuka yang dikelilingi oleh pepohonan dan u
 
 ## 7\. Kebun Teh Nglinggo
 
-![Kebun Teh Nglinggo](/images/blog/content/image-11-2.png)
+![Kebun Teh Nglinggo](/images/blog/content/image-11.png)
 
 Kebun Teh Nglinggo adalah venue pernikahan outdoor yang menawarkan pemandangan kebun teh yang hijau dan asri. Terletak di daerah perbukitan, tempat ini memberikan suasana yang sejuk dan menenangkan.
 

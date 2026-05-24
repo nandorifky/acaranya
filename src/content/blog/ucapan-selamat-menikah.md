@@ -1,6 +1,9 @@
 ---
 title: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan
-description: Sampaikan doa restumu dengan indah! Cek 60 ucapan selamat menikah penuh makna dari gaya santai hingga religi (Islam/Kristen) untuk momen bahagia pengantin baru.
+description: >-
+  Sampaikan doa restumu dengan indah! Cek 60 ucapan selamat menikah penuh makna
+  dari gaya santai hingga religi (Islam/Kristen) untuk momen bahagia pengantin
+  baru.
 publishedAt: '2026-04-08T17:49:39'
 updatedAt: '2026-04-08T17:49:39'
 author: tim-acaranya

@@ -1,6 +1,9 @@
 ---
 title: Contoh Undangan Pernikahan
-description: Lagi cari ide undangan? Cek kumpulan contoh undangan pernikahan mulai dari gaya simple, minimalis, hingga mewah yang bisa kamu jadikan referensi hari spesial.
+description: >-
+  Lagi cari ide undangan? Cek kumpulan contoh undangan pernikahan mulai dari
+  gaya simple, minimalis, hingga mewah yang bisa kamu jadikan referensi hari
+  spesial.
 publishedAt: '2026-04-08T17:50:31'
 updatedAt: '2026-04-08T17:50:31'
 author: tim-acaranya
@@ -75,7 +78,7 @@ Desain di atas merupakan contoh undangan digital berupa gambar statis, kami juga
 
 ## 6\. Contoh Undangan Pernikahan Tulis Tangan
 
-![Contoh Undangan Pernikahan Tulis Tangan](/images/blog/content/image-8-1.png)
+![Contoh Undangan Pernikahan Tulis Tangan](/images/blog/content/image-8.png)
 
 Undangan pernikahan tulis tangan di atas dibuat dengan desain minimalis. Namun sebelumnya, pastikan tulisan kamu bagus ya! Karena ini juga akan menjadi salah satu nilai dari tamu undangan.
 
@@ -95,7 +98,7 @@ Kamu bisa saja menyontoh desain undangan pernikahan yang satu ini. Namun, pastik
 
 ## 8\. Contoh Undangan Pernikahan Kristen
 
-![Contoh Undangan Pernikahan Kristen](/images/blog/content/image-10-1.png)
+![Contoh Undangan Pernikahan Kristen](/images/blog/content/image-10.png)
 
 Selanjutnya, kami juga akan membagikan inspirasi undangan pernikahan aesthetic untuk umat kristen yang bisa kamu lihat di atas.
 
@@ -103,7 +106,7 @@ Desain ini sangatlah bersih dan minimalis, yang hanya memiliki dua dekorasi saja
 
 ## 9\. Contoh Undangan Pernikahan Simple dan Elegan
 
-![Contoh Undangan Pernikahan Simple dan Elegan](/images/blog/content/image-11-1.png)
+![Contoh Undangan Pernikahan Simple dan Elegan](/images/blog/content/image-11.png)
 
 Hadir dengan tampilan yang elegan, undangan pernikahan simple ini hanya dibuat dari 1 lembar kertas berbentuk landscape yang dilipat menjadi 3 bagian.
 
@@ -111,7 +114,7 @@ Dengan perpaduan warna dan font yang pas, kamu bisa menciptakan suasana mewah.
 
 ## 10\. Contoh Undangan Pernikahan Sederhana
 
-![Contoh Undangan Pernikahan Sederhana](/images/blog/content/image-12-1.png)
+![Contoh Undangan Pernikahan Sederhana](/images/blog/content/image-12.png)
 
 Desain terakhir yaitu yang paling sederhana. Yang mana, kamu hanya memikirkan font dan frame yang dicetak dalam kertas berukuran 10×20.
 

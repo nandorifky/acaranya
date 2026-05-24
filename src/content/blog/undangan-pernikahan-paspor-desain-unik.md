@@ -1,6 +1,9 @@
 ---
 title: 'Undangan Paspor: Desain Undangan Pernikahan yang Unik'
-description: Siap memulai perjalanan baru? Coba desain undangan paspor yang unik & berkesan! Cocok untuk pasangan yang ingin tampil beda & punya personalisasi tinggi.
+description: >-
+  Siap memulai perjalanan baru? Coba desain undangan paspor yang unik &
+  berkesan! Cocok untuk pasangan yang ingin tampil beda & punya personalisasi
+  tinggi.
 publishedAt: '2026-04-08T17:50:38'
 updatedAt: '2026-04-08T17:50:38'
 author: tim-acaranya

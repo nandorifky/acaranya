@@ -1,6 +1,9 @@
 ---
 title: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'
-description: Weton Jodoh Ketemu 15, cocok atau tidak? Simak penjelasan kategori Tibo Sujanan dalam primbon Jawa, makna peringatannya, serta panduan bijak menghadapi tantangan hubungan.
+description: >-
+  Weton Jodoh Ketemu 15, cocok atau tidak? Simak penjelasan kategori Tibo
+  Sujanan dalam primbon Jawa, makna peringatannya, serta panduan bijak
+  menghadapi tantangan hubungan.
 publishedAt: '2026-04-08T17:49:29'
 updatedAt: '2026-04-08T17:49:29'
 author: tim-acaranya
@@ -42,69 +45,15 @@ Jika pasangan dengan weton Jodoh Ketemu 15 memutuskan untuk menikah, mereka perl
 
 Kamu dapat menggunakan [Kalkulator cek weton online](https://acaranya.id/cek-weton/) dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan.
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Contohnya, pasangan dengan weton Minggu Wage dan Kamis Pahing. Minggu memiliki nilai 5 dan Wage memiliki nilai 4, sehingga total neptu hari dan pasaran kelahiran adalah 9. Kamis memiliki nilai 8 dan Pahing memiliki nilai 9, sehingga total neptu hari dan pasaran kelahiran adalah 17. Kemudian, jumlahkan kedua total neptu tersebut, yaitu 9 + 17 = 26. Jumlah 26 menunjukkan hasil hitungan **Tibo Ratu**, yang berarti pasangan tersebut diyakini akan hidup bahagia dan sejahtera.
 

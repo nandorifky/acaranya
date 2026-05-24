@@ -1,6 +1,9 @@
 ---
 title: Weton Jodoh Ketemu 26 Apa Artinya? Penjelasan Primbon Jawa
-description: Hidup bak diratukan! Simak arti Weton Jodoh Ketemu 26 kategori Tibo Ratu yang dipercaya membawa kemuliaan, rezeki melimpah, dan kebahagiaan sejati bagi pasangan.
+description: >-
+  Hidup bak diratukan! Simak arti Weton Jodoh Ketemu 26 kategori Tibo Ratu yang
+  dipercaya membawa kemuliaan, rezeki melimpah, dan kebahagiaan sejati bagi
+  pasangan.
 publishedAt: '2026-04-08T17:49:49'
 updatedAt: '2026-04-08T17:49:49'
 author: tim-acaranya
@@ -50,69 +53,15 @@ Sebagai contoh, seorang pria lahir pada hari Rabu Kliwon dan seorang wanita lahi
 
 Berikut tabel nilai neptu untuk masing-masing hari dan pasaran:
 
-Hari
-
-Nilai
-
-Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
-–
-
-–
-
-Sabtu
-
-9
-
-–
-
-–
+| Hari | Nilai | Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Berdasarkan tabel tersebut, neptu pria (Rabu Kliwon) adalah 7 + 8 = 15. Neptu wanita (Jumat Legi) adalah 6 + 5 = 11. Total neptu kedua pasangan adalah 15 + 11 = 26. Hasil penjumlahan ini menunjukkan weton jodoh ketemu 26 (Tibo Ratu).
 

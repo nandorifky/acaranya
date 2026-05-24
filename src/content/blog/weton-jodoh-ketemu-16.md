@@ -1,6 +1,9 @@
 ---
 title: Weton Jodoh Ketemu 16 Apa Artinya?
-description: Kabar baik! Weton Jodoh Ketemu 16 masuk kategori Tibo Pesthi yang artinya harmonis & tenteram. Simak ulasan lengkap makna keberkahannya menurut primbon Jawa.
+description: >-
+  Kabar baik! Weton Jodoh Ketemu 16 masuk kategori Tibo Pesthi yang artinya
+  harmonis & tenteram. Simak ulasan lengkap makna keberkahannya menurut primbon
+  Jawa.
 publishedAt: '2026-04-08T17:49:30'
 updatedAt: '2026-04-08T17:49:30'
 author: tim-acaranya
@@ -42,69 +45,15 @@ Ketika pasangan dengan weton jodoh ketemu 16 menuju ke jenjang pernikahan, dihar
 
 Kamu bisa menggunakan tools [kalkulator cek weton online](https://acaranya.id/cek-weton/) dari Acaranya.id untuk memudahkan kamu dalam menemukan weton masing-masing pasangan. Cek weton online ini akan membantu kamu dalam menghitung weton dan menemukan jumlah neptu dengan mudah dan cepat.
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Berikut contoh cara menghitung weton jodoh:  
 Misalnya, pasangan pertama lahir pada hari Minggu Kliwon dan pasangan kedua lahir pada hari Selasa Wage.

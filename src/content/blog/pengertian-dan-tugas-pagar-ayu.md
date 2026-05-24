@@ -1,6 +1,9 @@
 ---
 title: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'
-description: Mengenal peran Pagar Ayu dalam pernikahan adat. Simak pengertian, tugas penyambutan tamu, hingga tips memilih seragam agar tampil harmonis di hari bahagia.
+description: >-
+  Mengenal peran Pagar Ayu dalam pernikahan adat. Simak pengertian, tugas
+  penyambutan tamu, hingga tips memilih seragam agar tampil harmonis di hari
+  bahagia.
 publishedAt: '2026-04-08T17:51:20'
 updatedAt: '2026-04-08T17:51:20'
 author: tim-acaranya

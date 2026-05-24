@@ -1,6 +1,8 @@
 ---
 title: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar
-description: Pahami arti & cara penulisan “Turut Mengundang” di undangan pernikahan yang benar sebagai bentuk penghormatan bagi keluarga besar & pihak yang terlibat.
+description: >-
+  Pahami arti & cara penulisan “Turut Mengundang” di undangan pernikahan yang
+  benar sebagai bentuk penghormatan bagi keluarga besar & pihak yang terlibat.
 publishedAt: '2026-04-08T17:50:40'
 updatedAt: '2026-04-08T17:50:40'
 author: tim-acaranya

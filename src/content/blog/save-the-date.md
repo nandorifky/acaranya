@@ -1,6 +1,9 @@
 ---
 title: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'
-description: Save the Date artinya apa? Pahami pengertian, fungsi penting pemberitahuan tanggal acara, serta cara membuatnya agar tamu undangan bisa mengatur jadwal jauh hari.
+description: >-
+  Save the Date artinya apa? Pahami pengertian, fungsi penting pemberitahuan
+  tanggal acara, serta cara membuatnya agar tamu undangan bisa mengatur jadwal
+  jauh hari.
 publishedAt: '2026-04-08T17:50:25'
 updatedAt: '2026-04-08T17:50:25'
 author: tim-acaranya

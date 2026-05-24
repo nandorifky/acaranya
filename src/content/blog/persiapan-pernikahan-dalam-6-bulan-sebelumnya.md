@@ -1,6 +1,9 @@
 ---
 title: Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya
-description: Waktu mepet? Cek daftar persiapan pernikahan dalam 6 bulan sebelumnya. Simak panduan cicil kebutuhan mulai dari booking vendor hingga sebar undangan digital.
+description: >-
+  Waktu mepet? Cek daftar persiapan pernikahan dalam 6 bulan sebelumnya. Simak
+  panduan cicil kebutuhan mulai dari booking vendor hingga sebar undangan
+  digital.
 publishedAt: '2026-04-08T17:51:15'
 updatedAt: '2026-04-08T17:51:15'
 author: tim-acaranya

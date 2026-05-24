@@ -1,6 +1,9 @@
 ---
 title: 'Kepanjangan MUA Adalah “Make Up Artist”, Pahami Definisinya'
-description: Apa itu MUA? Pahami peran Make Up Artist dalam pernikahan, jenis layanan yang ditawarkan, hingga tips memilih MUA yang tepat untuk tampil sempurna di hari H.
+description: >-
+  Apa itu MUA? Pahami peran Make Up Artist dalam pernikahan, jenis layanan yang
+  ditawarkan, hingga tips memilih MUA yang tepat untuk tampil sempurna di hari
+  H.
 publishedAt: '2026-04-08T17:50:20'
 updatedAt: '2026-04-08T17:50:20'
 author: tim-acaranya

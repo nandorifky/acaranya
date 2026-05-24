@@ -1,6 +1,8 @@
 ---
 title: 'Double Date Artinya? Pengertian, Manfaat, dan Tips Melakukannya'
-description: Apa itu Double Date? Pahami pengertian, manfaat untuk keharmonisan hubungan, serta tips kencan ganda yang seru & bermakna bareng pasangan sahabatmu!
+description: >-
+  Apa itu Double Date? Pahami pengertian, manfaat untuk keharmonisan hubungan,
+  serta tips kencan ganda yang seru & bermakna bareng pasangan sahabatmu!
 publishedAt: '2026-04-08T17:51:09'
 updatedAt: '2026-04-08T17:51:09'
 author: tim-acaranya

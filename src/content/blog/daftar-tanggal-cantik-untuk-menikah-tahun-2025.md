@@ -1,6 +1,8 @@
 ---
 title: Daftar Tanggal Cantik untuk Menikah Tahun 2025
-description: Rencana menikah di tahun 2025? Cek daftar tanggal cantik dengan susunan angka unik & bermakna. Abadikan momen sakralmu di hari yang mudah diingat & spesial!
+description: >-
+  Rencana menikah di tahun 2025? Cek daftar tanggal cantik dengan susunan angka
+  unik & bermakna. Abadikan momen sakralmu di hari yang mudah diingat & spesial!
 publishedAt: '2026-04-08T17:49:41'
 updatedAt: '2026-04-08T17:49:41'
 author: tim-acaranya

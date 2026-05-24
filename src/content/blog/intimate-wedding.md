@@ -1,6 +1,9 @@
 ---
 title: Mengenal Apa itu Intimate Wedding dan Keuntungannya
-description: Ingin momen pernikahan yang lebih hangat & sakral? Kenali apa itu Intimate Wedding, kelebihan, serta tips merencanakannya agar berkesan meski dengan tamu terbatas.
+description: >-
+  Ingin momen pernikahan yang lebih hangat & sakral? Kenali apa itu Intimate
+  Wedding, kelebihan, serta tips merencanakannya agar berkesan meski dengan tamu
+  terbatas.
 publishedAt: '2026-04-08T17:50:11'
 updatedAt: '2026-04-08T17:50:11'
 author: tim-acaranya
@@ -28,7 +31,7 @@ Intimate wedding bukan hanya sekadar pernikahan dengan tamu yang sedikit, tetapi
 
 ## Apa Itu Intimate Wedding?
 
-![Apa Itu Intimate Wedding](/images/blog/content/image-2-1.png)
+![Apa Itu Intimate Wedding](/images/blog/content/image-2.png)
 
 **Intimate Wedding adalah** sebuah konsep pernikahan yang menekankan pada suasana yang lebih personal dan akrab, dengan jumlah tamu yang terbatas. Dalam pernikahan ini, pasangan biasanya hanya mengundang keluarga dan sahabat terdekat, sehingga menciptakan pengalaman yang lebih intim dan bermakna.
 
@@ -67,7 +70,7 @@ Jika kamu tertarik untuk mengadakan pernikahan intim, berikut adalah beberapa id
 
 ## Tips Merencanakan Intimate Wedding
 
-![Tips Merencanakan Intimate Wedding](/images/blog/content/image-3-1.png)
+![Tips Merencanakan Intimate Wedding](/images/blog/content/image-3.png)
 
 Merencanakan intimate wedding bisa menjadi pengalaman yang menyenangkan jika kamu mengikuti beberapa tips berikut:
 

@@ -1,6 +1,9 @@
 ---
 title: 7 Contoh Teks Undangan Pernikahan Menarik
-description: Susun kalimat undanganmu dengan indah! Intip 7 contoh teks undangan pernikahan menarik dari berbagai gaya & budaya agar hari bahagiamu makin berkesan bagi tamu.
+description: >-
+  Susun kalimat undanganmu dengan indah! Intip 7 contoh teks undangan pernikahan
+  menarik dari berbagai gaya & budaya agar hari bahagiamu makin berkesan bagi
+  tamu.
 publishedAt: '2026-04-08T17:49:22'
 updatedAt: '2026-04-08T17:49:22'
 author: tim-acaranya

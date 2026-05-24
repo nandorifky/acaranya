@@ -1,6 +1,9 @@
 ---
 title: 14 Daftar yang Harus Dipersiapkan untuk Pernikahan
-description: Ingin hari spesial berjalan sempurna? Cek 14 daftar persiapan pernikahan yang wajib kamu siapkan, mulai dari atur budget, pilih tanggal, hingga cari vendor impian.
+description: >-
+  Ingin hari spesial berjalan sempurna? Cek 14 daftar persiapan pernikahan yang
+  wajib kamu siapkan, mulai dari atur budget, pilih tanggal, hingga cari vendor
+  impian.
 publishedAt: '2026-04-08T17:49:44'
 updatedAt: '2026-04-08T17:49:44'
 author: tim-acaranya
@@ -82,7 +85,7 @@ Pastikan juga produk yang digunakan cocok dengan kulit agar tidak menimbulkan ma
 
 ## 7\. Menyusun Daftar Tamu Undangan
 
-![menyusun daftar tamu undangan pernikahan](/images/blog/content/image-6-1.png)
+![menyusun daftar tamu undangan pernikahan](/images/blog/content/image-6.png)
 
 Tentu tidak mau kan kalau ada yang tersinggung karena lupa diundang? Menyusun daftar tamu undangan kadang bisa jadi pekerjaan yang rumit
 

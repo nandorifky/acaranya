@@ -1,6 +1,9 @@
 ---
 title: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman
-description: Bingung cari kado nikah? Simak 20 rekomendasi kado pernikahan unik, bermanfaat, dan berkesan untuk sahabat atau teman dekat yang baru saja menempuh hidup baru.
+description: >-
+  Bingung cari kado nikah? Simak 20 rekomendasi kado pernikahan unik,
+  bermanfaat, dan berkesan untuk sahabat atau teman dekat yang baru saja
+  menempuh hidup baru.
 publishedAt: '2026-04-08T17:49:41'
 updatedAt: '2026-04-08T17:49:41'
 author: tim-acaranya
@@ -76,7 +79,7 @@ Selain itu, dengan tampilan yang cantik, set ini juga bisa digunakan saat pasang
 
 ## 8\. Jam Tangan Couple
 
-![kado pernikahan jam tangan couple](/images/blog/content/image-4-2.png)
+![kado pernikahan jam tangan couple](/images/blog/content/image-4.png)
 
 Bagi pasangan yang suka tampil serasi, jam tangan couple bisa menjadi ide kado nikah teman yang unik.
 

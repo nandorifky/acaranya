@@ -1,6 +1,9 @@
 ---
 title: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'
-description: Diselimuti keberuntungan! Pahami arti Weton Jodoh Ketemu 21 kategori Tibo Tinari yang dipercaya membawa rezeki lancar & rumah tangga tenteram tanpa kendala besar.
+description: >-
+  Diselimuti keberuntungan! Pahami arti Weton Jodoh Ketemu 21 kategori Tibo
+  Tinari yang dipercaya membawa rezeki lancar & rumah tangga tenteram tanpa
+  kendala besar.
 publishedAt: '2026-04-08T17:49:34'
 updatedAt: '2026-04-08T17:49:34'
 author: tim-acaranya
@@ -46,69 +49,15 @@ Untuk memudahkan dalam menemukan weton masing-masing pasangan, Anda bisa menggun
 
 Berikut tabel yang menunjukkan nilai hari dan pasaran Jawa:
 
-Hari
-
-Nilai
-
-Hari Pasaran Jawa
-
-Nilai Pasaran
-
-Minggu
-
-5
-
-Legi
-
-5
-
-Senin
-
-4
-
-Pahing
-
-9
-
-Selasa
-
-3
-
-Pon
-
-7
-
-Rabu
-
-7
-
-Wage
-
-4
-
-Kamis
-
-8
-
-Kliwon
-
-8
-
-Jumat
-
-6
-
- –
-
- –
-
-Sabtu
-
-9
-
- –
-
- –
+| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+| --- | --- | --- | --- |
+| Minggu | 5 | Legi | 5 |
+| Senin | 4 | Pahing | 9 |
+| Selasa | 3 | Pon | 7 |
+| Rabu | 7 | Wage | 4 |
+| Kamis | 8 | Kliwon | 8 |
+| Jumat | 6 |  – |  – |
+| Sabtu | 9 |  – |  – |
 
 Contohnya, jika seorang pria lahir pada hari Senin Pahing dan seorang wanita lahir pada hari Rabu Kliwon, maka perhitungan weton jodohnya adalah:
 
