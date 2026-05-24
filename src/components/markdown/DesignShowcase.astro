@@ -1,6 +1,6 @@
 ---
-import { getCollection } from 'astro:content';
-import DesignCard from '../designs/DesignCard.astro';
+import { getCollection } from "astro:content";
+import DesignCard from "../designs/DesignCard.astro";
 
 interface Props {
   templates: string[];
@@ -9,14 +9,18 @@ interface Props {
 const { templates = [] } = Astro.props;
 
 // Fetch all published designs
-const allDesigns = await getCollection('designs');
-const publishedDesigns = allDesigns.filter(d => d.data.status === 'published');
+const allDesigns = await getCollection("designs");
+const publishedDesigns = allDesigns.filter(
+  (d) => d.data.status === "published",
+);
 
 // Map design entries matching the specified slugs
 const matchedDesigns = templates
-  .map(slug => {
+  .map((slug) => {
     const trimmed = slug.trim();
-    return publishedDesigns.find(d => d.id === trimmed || d.id.replace(/\.[^/.]+$/, "") === trimmed);
+    return publishedDesigns.find(
+      (d) => d.id === trimmed || d.id.replace(/\.[^/.]+$/, "") === trimmed,
+    );
   })
   .filter((d): d is NonNullable<typeof d> => !!d);
 
@@ -27,14 +31,43 @@ if (matchedDesigns.length === 0) {
 
 <div class="design-showcase-wrapper my-10 not-prose">
   <div class="text-center mb-6">
-    <span class="text-[10px] font-extrabold tracking-[0.2em] text-brand-700 uppercase block mb-1">REKOMENDASI TEMPLATE</span>
-    <h4 class="font-serif text-lg sm:text-xl text-brand-900 font-bold">Desain Undangan Pilihan Untuk Anda</h4>
+    <span
+      class="text-[10px] font-extrabold tracking-[0.2em] text-brand-700 uppercase block mb-1"
+      >REKOMENDASI TEMPLATE</span
+    >
+    <h4 class="font-serif text-lg sm:text-xl text-brand-900 font-bold">
+      Desain Undangan Pilihan Untuk Anda
+    </h4>
   </div>
 
   <!-- Strict 2-column grid for both Mobile and Desktop -->
   <div class="grid grid-cols-2 gap-4 sm:gap-6 max-w-2xl mx-auto">
-    {matchedDesigns.map(design => (
-      <DesignCard design={design} />
-    ))}
+    {matchedDesigns.map((design) => <DesignCard design={design} />)}
   </div>
 </div>
+
+<style is:global>
+  /* 1. Prevent article/prose global styles from leaking underlines into the design card links */
+  .design-showcase-wrapper a,
+  .design-showcase-wrapper a:hover,
+  .design-showcase-wrapper a:active,
+  .design-showcase-wrapper a:focus {
+    text-decoration: none !important;
+  }
+
+  /* 2. Reset the text colors specifically to prevent global .prose color leakage */
+  .design-showcase-wrapper a[class*="text-cream"] {
+    color: var(--color-cream) !important;
+  }
+  .design-showcase-wrapper a[class*="text-brand-950"] {
+    color: var(--color-brand-950) !important;
+  }
+
+  /* Reset hover states */
+  .design-showcase-wrapper a[class*="text-cream"]:hover {
+    color: var(--color-cream) !important;
+  }
+  .design-showcase-wrapper a[class*="text-brand-950"]:hover {
+    color: var(--color-brand-950) !important;
+  }
+</style>

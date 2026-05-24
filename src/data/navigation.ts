@@ -50,5 +50,6 @@ export const footerNavigation = {
     { label: 'Syarat & Ketentuan', href: '/legal/syarat-ketentuan/' },
     { label: 'Kebijakan Privasi', href: '/legal/kebijakan-privasi/' },
     { label: 'Refund Policy', href: '/legal/refund-policy/' },
+    { label: 'Tools', href: '/tools/' },
   ],
 };

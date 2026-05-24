@@ -27,21 +27,21 @@
                 multiple: true
               }
             ],
-            pattern: /^{% design_showcase templates=\[(.*?)\] %}$/,
+            // Match both {% design_showcase templates=[...] /%} and {% design_showcase templates=[...] %}
+            pattern: /^{% design_showcase templates=\[(.*?)\] \/?%}$/,
             fromBlock: function(match) {
               const raw = match[1] || '';
-              // Split and strip quotes to get clean slugs list
               const templates = raw.split(',').map(s => s.replace(/['"]/g, '').trim()).filter(Boolean);
               return {
                 templates: templates
               };
             },
             toBlock: function(data) {
-              // Ensure list is treated as clean array of strings
               const list = Array.isArray(data.templates)
                 ? data.templates
                 : (data.templates || '').split(',').map(s => s.replace(/['"]/g, '').trim()).filter(Boolean);
-              return `{% design_showcase templates=[${list.map(s => `"${s}"`).join(', ')}] %}`;
+              // Markdoc self-closing tags MUST end with /%}
+              return `{% design_showcase templates=[${list.map(s => `"${s}"`).join(', ')}] /%}`;
             },
             toPreview: function(data) {
               const list = Array.isArray(data.templates)
