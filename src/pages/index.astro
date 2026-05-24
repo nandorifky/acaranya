@@ -17,46 +17,72 @@ import { siteConfig } from "../data/site";
 const jsonLd = [
   {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "LocalBusiness",
     "name": siteConfig.name,
+    "image": `${siteConfig.url}/favicon.svg`,
+    "@id": `${siteConfig.url}/#localbusiness`,
     "url": siteConfig.url,
-    "logo": `${siteConfig.url}/favicon.svg`,
-    "description": siteConfig.description,
-    "sameAs": [
-      siteConfig.contact.instagramUrl
-    ],
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "telephone": siteConfig.contact.whatsapp,
-      "contactType": "customer service",
-      "areaServed": "ID",
-      "availableLanguage": "Indonesian"
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": siteConfig.name,
-    "url": siteConfig.url,
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": `${siteConfig.url}/artikel?q={search_term_string}`,
-      "query-input": "required name=search_term_string"
-    }
+    "telephone": `+${siteConfig.contact.whatsapp}`,
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Surabaya",
+      "addressRegion": "Jawa Timur",
+      "addressCountry": "ID"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "384",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Romi & Yuli"
+        },
+        "datePublished": "2026-05-10",
+        "reviewBody": "Desain undangan sangat premium dan elegan. Fitur RSVP otomatis sangat membantu jalannya acara kami.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      },
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Baby Al & Family"
+        },
+        "datePublished": "2026-04-18",
+        "reviewBody": "Sangat praktis untuk undangan aqiqah. Foto galeri tampil jernih dan loading-nya sangat cepat.",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      }
+    ]
   },
   {
     "@context": "https://schema.org",
     "@type": "Service",
     "name": "Undangan Digital",
     "provider": {
-      "@type": "Organization",
+      "@type": "LocalBusiness",
       "name": siteConfig.name,
-      "url": siteConfig.url,
+      "url": siteConfig.url
     },
     "description": siteConfig.description,
     "areaServed": "ID",
-    "serviceType": "Undangan Digital",
-  },
+    "serviceType": "Undangan Digital"
+  }
 ];
 ---
 

@@ -115,7 +115,7 @@ Acaranya ID selaku layanan undangan digital, memiliki cukup banyak pilihan desai
 
 Dengan fitur lengkap dan harga yang sangat terjangkau, kamu bisa mendapatkan undangan digital elegan yang cantik. Selain itu, kami juga menjamin kepuasan pelanggan dengan menyediakan garansi revisi sepuasnya dan dukungan penuh hingga hari H.
 
-[Cek Desain](https://acaranya.id/desain/)
+[Cek Desain](https://acaranya.id/desain-undangan-digital/)
 
 * * *
 

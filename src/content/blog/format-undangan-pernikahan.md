@@ -99,7 +99,7 @@ Dalam membuat undangan pernikahan, ada beberapa kesalahan yang sering terjadi da
 
 **Salah Tulis Nama atau Tanggal**: Kesalahan ini bisa membuat tamu bingung atau bahkan datang di hari yang salah. Pastikan untuk memeriksa kembali semua informasi sebelum mencetak undangan.
 
-**Desain yang Terlalu Ramai**: [Desain undangan](https://acaranya.id/desain/) yang terlalu ramai bisa mengalihkan perhatian dari informasi utama. Gunakan desain yang sederhana namun elegan.
+**Desain yang Terlalu Ramai**: [Desain undangan](https://acaranya.id/desain-undangan-digital/) yang terlalu ramai bisa mengalihkan perhatian dari informasi utama. Gunakan desain yang sederhana namun elegan.
 
 **Informasi yang Tidak Lengkap**: Jangan sampai ada informasi yang terlewat. Pastikan semua detail acara tercantum dengan lengkap dan jelas.
 

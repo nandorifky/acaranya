@@ -104,7 +104,7 @@ Berikut cara membuat undangan digital website di Canva:
 > 
 > Dengan [harga yang **terjangkau**](https://acaranya.id/harga/), kamu bisa mendapatkan **website undangan pernikahan** yang lengkap dan profesional, tanpa harus menghabiskan banyak waktu atau biaya.
 > 
-> [Pesan Sekarang](https://acaranya.id/desain/)
+> [Pesan Sekarang](https://acaranya.id/desain-undangan-digital/)
 
 * * *
 

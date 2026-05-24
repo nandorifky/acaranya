@@ -64,7 +64,7 @@ _Let’s dive into some inspiring_ contoh kata-kata love story yang bisa bikin u
 > 
 > Acaranya.id punya berbagai pilihan tema yang sesuai dengan konsep pernikahanmu. [Harganya juga terjangkau](https://acaranya.id/harga/), jadi kamu nggak perlu khawatir soal budget!
 > 
-> [Pilih Desain](https://acaranya.id/desain/)
+> [Pilih Desain](https://acaranya.id/desain-undangan-digital/)
 
 ## Contoh 4: Cinta yang Tumbuh Perlahan
 

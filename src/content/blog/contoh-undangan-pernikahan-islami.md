@@ -94,7 +94,7 @@ Beberapa fitur undangan website yang kami tawarkan yaitu seperti:
 10.  Ganti musik
 11.  Dll.
 
-Menariknya, kamu bisa mendapatkan semua fitur lengkap tersebut dengan harga yang cukup murah! Untuk melihat pilihan tema lain, kamu bisa membuka halaman [**desain undangan pernikahan**](https://acaranya.id/desain/).
+Menariknya, kamu bisa mendapatkan semua fitur lengkap tersebut dengan harga yang cukup murah! Untuk melihat pilihan tema lain, kamu bisa membuka halaman [**desain undangan pernikahan**](https://acaranya.id/desain-undangan-digital/).
 
 ## Contoh Desain Undangan Pernikahan Islami Sederhana
 

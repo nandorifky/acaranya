@@ -123,7 +123,7 @@ Proses order yang mudah, pengerjaan cepat, pelayanan profesional, hingga revisi 
 
 **Cara membuat undangan pernikahan online** dari kami memiliki proses yang sangat mudah:
 
-1.  Pilih desain undangan. Kamu bisa memilih desain undangan sesuai kode yang tertera pada halaman [Catalog Desain](https://acaranya.id/desain/).
+1.  Pilih desain undangan. Kamu bisa memilih desain undangan sesuai kode yang tertera pada halaman [Catalog Desain](https://acaranya.id/desain-undangan-digital/).
 2.  Hubungi kami. Kamu bisa langsung hubungi kami jika sudah menemukan desain yang pas.
 3.  Konsultasi desain. Kami sangat terbuka untuk kamu yang ingin custom desain, silahkan konsultasikan keinginanmu sekarang.
 4.  Pembayaran. Dengan berbagai kelebihan, kamu tidak perlu mengeluarkan uang banyak, silahkan lakukan pembayaran melalui metode yang sudah kami siapkan.

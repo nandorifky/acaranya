@@ -60,7 +60,7 @@ Kami memiliki tema undangan pernikahan digital yang unik, tidak terkecuali model
 
 [Preview Undangan](https://inv.acaranya.id/preview/green-passport)
 
-[CEK DESAIN UNDANGAN LENGKAP](https://acaranya.id/desain/)
+[CEK DESAIN UNDANGAN LENGKAP](https://acaranya.id/desain-undangan-digital/)
 
 Jika kamu tertarik untuk menggunakannya, silahkan [hubungi kami](https://wa.me/6281234807480)!
 

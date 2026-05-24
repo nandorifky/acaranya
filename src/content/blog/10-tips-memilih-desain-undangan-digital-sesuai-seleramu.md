@@ -106,7 +106,7 @@ Undangan Pernikahan Digital by Acaranya ID
 
 **[Acaranya ID](https://acaranya.id)** menjadi salah satu [jasa undangan digital](https://acaranya.id/services/) terkemuka yang memiliki fitur lengkap dan banyak variasi desain. Kamu bisa memilih desain undangan digital sesuai seleramu!
 
-[Cek Desain Undangan Digital](https://acaranya.id/desain/)
+[Cek Desain Undangan Digital](https://acaranya.id/desain-undangan-digital/)
 
 * * *
 

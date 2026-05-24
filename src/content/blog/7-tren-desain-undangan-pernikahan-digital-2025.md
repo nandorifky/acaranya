@@ -24,7 +24,7 @@ noindex: false
 ---
 5/5 - (4 suara)
 
-Halo calon pengantin dan para pejuang acara! Kalau kamu lagi cari inspirasi buat undangan pernikahan yang kekinian, pas banget! Di sini kita bakal bahas tren [desain undangan digita](https://acaranya.id/desain/)l yang sedang hits di tahun ini!
+Halo calon pengantin dan para pejuang acara! Kalau kamu lagi cari inspirasi buat undangan pernikahan yang kekinian, pas banget! Di sini kita bakal bahas tren [desain undangan digita](https://acaranya.id/desain-undangan-digital/)l yang sedang hits di tahun ini!
 
 Kenapa sih harus update sama tren? Selain biar undangannya nggak ketinggalan zaman, desain yang fresh juga bikin tamu-tamu kamu makin antusias buat datang ke hari spesialmu. Apalagi sekarang semua serba digital, undangan pun jadi ajang pamer kreativitas!
 

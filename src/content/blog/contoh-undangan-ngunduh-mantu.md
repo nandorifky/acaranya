@@ -254,7 +254,7 @@ Berikut beberapa contoh undangan yang dapat kamu gunakan sebagai referensi dalam
 
 [Preview](https://inv.acaranya.id/preview/feminime-javanese)
 
-[+Desain Lengkap](https://acaranya.id/desain/)
+[+Desain Lengkap](https://acaranya.id/desain-undangan-digital/)
 
 Undangan digital semakin menjadi pilihan utama karena kemudahannya dalam mengundang keluarga dan teman-teman ke acara Ngunduh Mantu.
 
