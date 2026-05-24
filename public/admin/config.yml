@@ -56,6 +56,16 @@ collections:
     create: true
     path: "{{category}}/{{slug}}"
     format: "frontmatter"
+    view_groups:
+      - label: "Kategori"
+        field: "category"
+    view_filters:
+      - label: "Hanya Premium"
+        field: "isPremium"
+        pattern: true
+      - label: "Hanya Unggulan"
+        field: "isFeatured"
+        pattern: true
     fields:
       - { label: "Nama Template Desain", name: "title", widget: "string" }
       - { label: "Kategori", name: "category", widget: "relation", collection: "design-categories", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"] }

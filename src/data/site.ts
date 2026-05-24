@@ -35,7 +35,7 @@ export const siteConfig = {
     // Tracking & Verification Configurations
     googleSiteVerification: '4rrj2MUeooSdQXxhHusQ22vNE_M9VjOgFkoMOxVts4E',
     bingSiteVerification: '',      // Paste Bing Webmaster verification code here
-    pinterestSiteVerification: '',  // Paste Pinterest verification code here
+    pinterestSiteVerification: 'be35e8def7fb11e5602fe348ff1dd05a',  // Paste Pinterest verification code here
     yandexSiteVerification: '',     // Paste Yandex verification code here
     googleAnalyticsId: 'G-SME66PTLRE',
     googleTagManagerId: 'G-SME66PTLRE',
