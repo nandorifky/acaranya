@@ -46,6 +46,7 @@ export const footerNavigation = {
     { label: 'Portofolio', href: '/portfolio/' },
     { label: 'Artikel', href: '/artikel/' },
     { label: 'Mitra Reseller', href: '/reseller-undangan-digital/' },
+    { label: 'Area Layanan', href: '/area/' },
   ],
   bantuan: [
     { label: 'Harga', href: '/harga/' },
