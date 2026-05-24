@@ -1,10 +1,8 @@
 ---
 title: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya
-description: >-
-  Etika & cara mengirim undangan digital lewat WhatsApp agar tetap sopan. Simak
-  tips menulis kalimat pengantar yang menghargai tamu meskipun tanpa tatap muka.
-publishedAt: '2026-04-08T17:51:01'
-updatedAt: '2026-04-08T17:51:01'
+description: Etika & cara mengirim undangan digital lewat WhatsApp agar tetap sopan. Simak tips menulis kalimat pengantar yang menghargai tamu meskipun tanpa tatap muka.
+publishedAt: 2026-04-08T17:51:00
+updatedAt: 2026-05-25T06:31:00
 author: indira
 category: Undangan
 tags:
@@ -18,10 +16,11 @@ imageTitle: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya
 imageCaption: ''
 status: published
 seoTitle: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya
-customBreadcrumbLabel: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya
-canonicalUrl: 'https://acaranya.id/artikel/cara-mengirim-undangan-digital-lewat-wa/'
+customBreadcrumbLabel: Cara Mengirim Undangan Digital Lewat WA
+canonicalUrl: https://acaranya.id/artikel/cara-mengirim-undangan-digital-lewat-wa/
 noindex: false
 ---
+
 5/5 - (3 suara)
 
 Penggunaan undangan digital kini semakin populer di Indonesia, terutama untuk acara pernikahan. Banyak orang merasa acara pernikahan mereka kurang lengkap tanpa menggunakan [undangan digital](https://acaranya.id).
@@ -32,9 +31,11 @@ Dalam artikel ini, **Acaranya ID** akan membagikan tips bagaimana tata cara meng
 
 ## Cara Mengirim Undangan Digital yang Sopan Lewat WhatsApp
 
-![](/images/blog/content/cara-mengirim-undangan-digital-yang-sopan.png)
+![Cara Mengirim Undangan Digital yang Sopan Lewat WhatsApp](/images/blog/content/cara-mengirim-undangan-digital-yang-sopan.png "Cara Mengirim Undangan Digital yang Sopan Lewat WhatsApp")
 
-### 1\. Menggunakan Kalimat Mengundang yang Benar
+### 1. Menggunakan Kalimat Mengundang yang Benar
+
+> Silahkan pakai tools [kata-kata undangan lewat WA](https://acaranya.id/kata-kata-undangan-pernikahan-lewat-wa/) dari kami.
 
 Penggunaan kalimat dalam mengundang menggunakan undangan pernikahan digital tidak bisa ditulis secara sembarangan. Ini merupakan hal penting dalam pengiriman undangan digital, karena hal ini dilakukan agar tamu merasa tetap dihargai meskipun tidak menggunakan undangan fisik dan tidak tatap muka.
 
@@ -54,9 +55,9 @@ _Assalamualaikum warahmatullahi wabarakatuh_.
 
 _Tanpa mengurangi rasa hormat, melalui pesan saya sampaikan kepada Bapak/Ibu bertujuan untuk mengundang dan menghadiri pernikahan kami, (mempelai wanita) dan (mempelai pria) pada:_
 
-**_Hari, Tanggal:_  
-_Pukul:_  
-_Tempat:_**
+_Hari, Tanggal:_
+_Pukul:_
+_Tempat:_
 
 Informasi selengkapnya, bisa klik link undangan pernikahan kami:
 
@@ -68,7 +69,7 @@ _Sebuah kehormatan jika Bapak/Ibu datang ke acara pernikahan kami pada waktu dan
 
 _Wassalamualaikum warahmatullahi wabarakatuh_.
 
-### 2\. Jangan Gunakan Kata-Kata Singkat
+### 2. Jangan Gunakan Kata-Kata Singkat
 
 Poin kedua adalah, jangan gunakan kata yang disingkat dalam mengundang tamu secara online. Misal, “dengan” disingkat menjadi “dgn”, “Assalamualaikum warahmatullahi wabarakatuh” disingkat jadi “Assalamualaikum wr wb”.
 
@@ -76,7 +77,7 @@ Jangan!
 
 Meskipun pengiriman undangan dilakukan lewat WhatsApp, Instagram atau media sosial lainnya, sampaikanlah dengan kata lengkap yang baik dan benar. Walaupun juga itu kamu tujukan kepada teman dekat.
 
-### 3\. Berikan Informasi Lengkap yang Mudah Diakses dan Dipahami
+### 3. Berikan Informasi Lengkap yang Mudah Diakses dan Dipahami
 
 Selanjutnya, berikan informasi yang lengkap dan mudah dipahami oleh tamu seluruh kalangan. Ini juga sangat penting, lho!
 
@@ -86,7 +87,7 @@ Kami sempat mendapatkan masukan dari client, yang mana tidak semua orang paham a
 
 Jadi, di Acaranya ID kamu tidak hanya bisa mendapatkan undangan digital website, melainkan kamu juga bisa request untuk dibuatkan undangan gambar, dan ini gratis!
 
-### 4\. Kirim Undangan Pada Saat yang Tepat
+### 4. Kirim Undangan Pada Saat yang Tepat
 
 Pengiriman undangan digital tidak bisa dilakukan sembarangan. Jika undangan dikirim terlalu lama sebelum acara, tamu mungkin lupa, namun jika terlalu dekat dengan hari H, tamu bisa merasa tidak dihargai karena persiapan yang mepet.
 
