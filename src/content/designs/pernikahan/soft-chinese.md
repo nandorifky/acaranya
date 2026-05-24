@@ -1,13 +1,18 @@
 ---
 title: Soft Chinese
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/soft-chinese/soft-chinese.webp
-previewUrl: https://inv.acaranya.id/preview/soft-chinese
+thumbnail: 'https://inv.acaranya.id/themes/soft-chinese/soft-chinese.webp'
+previewUrl: 'https://inv.acaranya.id/preview/soft-chinese'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - elegant
+  - krem
+  - merah
+  - tionghoa
 package: mengundang
 sortOrder: 18
 status: published
 ---
+

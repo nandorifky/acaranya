@@ -2,6 +2,7 @@
 import MarketingLayout from '../layouts/MarketingLayout.astro';
 import Container from '../components/base/Container.astro';
 import Section from '../components/base/Section.astro';
+import Icon from '../components/ui/Icon.astro';
 import { getCollection } from 'astro:content';
 import { siteConfig } from '../data/site';
 
@@ -54,15 +55,13 @@ const publishedTools = tools.filter(t => t.data.status === 'published');
           >
             <div>
               <!-- Custom circular vector SVG icon wrapper -->
-              <div class="w-12 h-12 rounded-full bg-brand-50 flex items-center justify-center text-xl mb-6 group-hover:scale-105 transition-all">
-                {tool.data.toolComponent === 'CekWeton' ? (
-                  <svg class="w-6 h-6 text-brand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                  </svg>
+              <div class="w-12 h-12 rounded-full bg-brand-50 flex items-center justify-center text-xl mb-6 group-hover:scale-105 transition-all text-brand-700">
+                {tool.data.icon ? (
+                  <Icon name={tool.data.icon} size={22} />
+                ) : tool.data.toolComponent === 'CekWeton' ? (
+                  <Icon name="heart" size={22} />
                 ) : (
-                  <svg class="w-6 h-6 text-brand-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                  </svg>
+                  <Icon name="clock" size={22} />
                 )}
               </div>
               <h2 class="font-serif text-lg sm:text-xl font-bold text-brand-900 mb-2 leading-tight group-hover:text-brand-700 transition-colors">

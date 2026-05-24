@@ -1,13 +1,16 @@
 ---
 title: Kamboja
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/kamboja/kamboja.jpg
-previewUrl: https://inv.acaranya.id/preview/kamboja
+thumbnail: 'https://inv.acaranya.id/themes/kamboja/kamboja.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/kamboja'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - elegant
+  - putih
+  - vintage
 package: mengundang
 sortOrder: 164
 status: published
 ---
+

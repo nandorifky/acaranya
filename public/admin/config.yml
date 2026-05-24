@@ -54,12 +54,11 @@ collections:
     label: "Katalog Desain"
     folder: "src/content/designs"
     create: true
-    slug: "{{category}}/{{slug}}"
+    path: "{{category}}/{{slug}}"
     format: "frontmatter"
     fields:
       - { label: "Nama Template Desain", name: "title", widget: "string" }
       - { label: "Kategori", name: "category", widget: "relation", collection: "design-categories", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"] }
-      - { label: "Tipe Acara", name: "eventType", widget: "select", options: ["wedding", "khitanan", "birthday", "aqiqah", "corporate", "graduation", "other"] }
       - { label: "Gambar Thumbnail", name: "thumbnail", widget: "image", required: false }
       - { label: "Tautan Live Preview", name: "previewUrl", widget: "string", description: "Contoh: https://inv.acaranya.id/nama-desain" }
       - { label: "Tampilkan di Unggulan?", name: "isFeatured", widget: "boolean", default: false }
@@ -159,6 +158,7 @@ collections:
     fields:
       - { label: "Judul Halaman Tool", name: "title", widget: "string" }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
+      - { label: "Icon Name (Lucide)", name: "icon", widget: "string", required: false, description: "Contoh: heart, clock, calendar, sparkles, dsb." }
       - label: "Pilih Komponen Tool"
         name: "toolComponent"
         widget: "select"

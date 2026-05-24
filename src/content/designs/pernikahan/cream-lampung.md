@@ -1,13 +1,18 @@
 ---
 title: Cream Lampung
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/cream-lampung/cream-lampung.jpg
-previewUrl: https://inv.acaranya.id/preview/cream-lampung
+thumbnail: 'https://inv.acaranya.id/themes/cream-lampung/cream-lampung.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/cream-lampung'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - elegant
+  - krem
+  - lampung
+  - sumatera
 package: mengundang
 sortOrder: 228
 status: published
 ---
+

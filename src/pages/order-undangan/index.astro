@@ -3,58 +3,112 @@ import MarketingLayout from '../../layouts/MarketingLayout.astro';
 import Container from '../../components/base/Container.astro';
 import Section from '../../components/base/Section.astro';
 import Icon from '../../components/ui/Icon.astro';
-import { createWhatsappUrl } from '../../lib/whatsapp/create-whatsapp-url';
 import { eventTypes } from '../../data/event-types';
 import { pricingPlans } from '../../data/pricing-static';
 import { siteConfig } from '../../data/site';
 ---
 
 <MarketingLayout
-  title="Order Undangan Digital Premium"
-  description="Langkah mudah order undangan digital berkelas di Acaranya.id. Selesaikan pengisian formulir data acara awal dan hubungi tim admin kami."
+  title="Formulir Order Undangan Digital Premium - Acaranya.id"
+  description="Lengkapi detail data pemesanan awal untuk pembuatan undangan digital premium berestetika tinggi di Acaranya.id."
   hideFloatingWa={true}
 >
-  <!-- Hero Section -->
-  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
-    <!-- Subtle Background Dot Pattern -->
-    <div 
+  <!-- Hero Header -->
+  <section
+    class="relative pt-28 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden"
+  >
+    <div
       class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
       style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
-    ></div>
+    >
+    </div>
 
     <Container>
-      <div class="relative z-10 max-w-3xl space-y-4">
-        <span class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold">Pemesanan Instan</span>
-        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
-          Formulir <span class="italic font-normal text-soft-gold">pemesanan undangan</span>
+      <div class="relative z-10 max-w-4xl mx-auto text-center space-y-4">
+        <span
+          class="text-[10px] uppercase tracking-[0.25em] text-[#B59A73] font-bold block"
+          >Pemesanan Instan</span
+        >
+        <h1
+          class="font-serif text-5xl sm:text-6xl lg:text-[4.75rem] text-brand-950 leading-[1.06] tracking-tight"
+        >
+          Formulir Pemesanan <span class="italic font-normal text-[#B59A73]"
+            >Undangan Digital</span
+          >
         </h1>
-        <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
-          Silakan isi beberapa detail awal di bawah ini. Data Anda akan diteruskan secara instan untuk konsultasi eksklusif bersama tim desainer kami.
+        <p
+          class="text-text-secondary text-xs sm:text-sm max-w-lg mx-auto font-sans tracking-wide leading-relaxed"
+        >
+          Silakan isi detail awal pemesanan Anda dengan teliti di bawah ini.
+          Data Anda akan dikirimkan secara otomatis ke WhatsApp admin kami untuk
+          diproses instan.
         </p>
 
         <!-- Event Type Quick Switcher (Ribbon) -->
-        <div class="pt-4 space-y-2">
-          <span class="block text-[8px] font-bold uppercase tracking-widest text-[#B59A73]">Pilih Formulir Spesifik Acara:</span>
-          <div class="flex flex-wrap gap-2.5">
-            <a href="/order-undangan/pernikahan/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+        <div class="pt-4 space-y-2 flex flex-col items-center">
+          <span
+            class="block text-[8px] font-bold uppercase tracking-widest text-[#B59A73]"
+            >Pilih Formulir Spesifik Acara:</span
+          >
+          <div class="flex flex-wrap gap-2.5 justify-center max-w-2xl">
+            <a
+              href="/order-undangan/pernikahan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
               <Icon name="heart" size={10} class="text-[#B59A73]" /> Pernikahan
             </a>
-            <a href="/order-undangan/khitanan/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+            <a
+              href="/order-undangan/khitanan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
               <Icon name="user" size={10} class="text-[#B59A73]" /> Khitanan
             </a>
-            <a href="/order-undangan/ulang-tahun/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+            <a
+              href="/order-undangan/ulang-tahun/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
               <Icon name="cake" size={10} class="text-[#B59A73]" /> Ulang Tahun
             </a>
-            <a href="/order-undangan/aqiqah/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+            <a
+              href="/order-undangan/aqiqah/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
               <Icon name="baby" size={10} class="text-[#B59A73]" /> Aqiqah
             </a>
-            <a href="/order-undangan/corporate/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+            <a
+              href="/order-undangan/corporate/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
               <Icon name="building" size={10} class="text-[#B59A73]" /> Corporate
             </a>
-            <a href="/order-undangan/wisuda/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+            <a
+              href="/order-undangan/wisuda/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
               <Icon name="graduation-cap" size={10} class="text-[#B59A73]" /> Wisuda
             </a>
-            <a href="/order-undangan/" class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-[#B59A73]/10 border border-[#B59A73]/40 text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs">
+            <a
+              href="/order-undangan/grand-opening/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="store" size={10} class="text-[#B59A73]" /> Grand Opening
+            </a>
+            <a
+              href="/order-undangan/natal/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="snowflake" size={10} class="text-[#B59A73]" /> Natal
+            </a>
+            <a
+              href="/order-undangan/syukuran/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-950 hover:text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
+              <Icon name="home" size={10} class="text-[#B59A73]" /> Syukuran
+            </a>
+            <a
+              href="/order-undangan/"
+              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-[#B59A73]/10 border border-[#B59A73]/40 text-[#B59A73] text-[9px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-xs"
+            >
               <Icon name="sparkles" size={10} /> Umum (Lainnya)
             </a>
           </div>
@@ -66,141 +120,212 @@ import { siteConfig } from '../../data/site';
   <!-- Checkout Grid (Kinto Style) -->
   <Section bg="white" id="order-flow-section" class="border-t border-border-soft/60">
     <Container>
-      <div class="grid lg:grid-cols-3 gap-12 max-w-6xl mx-auto">
+      <div class="grid lg:grid-cols-3 gap-12 max-w-6xl mx-auto items-start">
         <!-- Form Column -->
         <div class="lg:col-span-2 space-y-8">
-          <form id="order-form" class="space-y-6">
+          <!-- Sticky Visual Selection Helpers -->
+          <div
+            class="grid grid-cols-2 gap-4 p-4 bg-cream/70 rounded-2xl border border-[#B59A73]/15"
+          >
+            <a
+              href="/desain-undangan-digital/"
+              class="flex items-center justify-center gap-2 px-4 py-3 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-850 hover:text-[#B59A73] text-[10px] font-bold uppercase tracking-widest rounded-xl transition-all duration-300 shadow-sm text-center"
+            >
+              <Icon name="image" size={12} class="text-[#B59A73]" />
+              Pilih Desain
+            </a>
+            <a
+              href="/harga/"
+              class="flex items-center justify-center gap-2 px-4 py-3 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-850 hover:text-[#B59A73] text-[10px] font-bold uppercase tracking-widest rounded-xl transition-all duration-300 shadow-sm text-center"
+            >
+              <Icon name="tag" size={12} class="text-[#B59A73]" />
+              Daftar Harga
+            </a>
+          </div>
+
+          <form id="order-form" class="space-y-10">
             <div class="hidden" aria-hidden="true">
               <input type="text" name="_hp" tabindex="-1" autocomplete="off" />
             </div>
 
-            <div class="grid sm:grid-cols-2 gap-6">
-              <div class="space-y-1.5">
-                <label for="name" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                  Nama Pemesan <span class="text-error">*</span>
-                </label>
-                <input type="text" id="name" name="name" required minlength="2" 
-                  class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide" 
-                  placeholder="Nama lengkap Anda" />
+            <!-- SECTION 1: INFORMASI PEMESAN -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >1</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Informasi Pemesan
+                </h3>
               </div>
+
+              <div class="grid sm:grid-cols-2 gap-6">
+                <div class="space-y-1.5">
+                  <label for="name" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                    Nama Pemesan <span class="text-error">*</span>
+                  </label>
+                  <input type="text" id="name" name="name" required minlength="2" 
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans" 
+                    placeholder="Nama lengkap Anda" />
+                </div>
+                <div class="space-y-1.5">
+                  <label for="whatsapp" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                    Nomor WhatsApp <span class="text-error">*</span>
+                  </label>
+                  <input type="tel" id="whatsapp" name="whatsapp" required minlength="8" 
+                    class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans" 
+                    placeholder="Contoh: 081234567890" />
+                </div>
+              </div>
+
               <div class="space-y-1.5">
-                <label for="whatsapp" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                  Nomor WhatsApp <span class="text-error">*</span>
+                <label for="email" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                  Email <span class="text-text-muted font-sans font-medium">(opsional)</span>
                 </label>
-                <input type="tel" id="whatsapp" name="whatsapp" required minlength="8" 
-                  class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide" 
-                  placeholder="08xxxxxxxxxx" />
+                <input type="email" id="email" name="email" 
+                  class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans" 
+                  placeholder="Contoh: surel@anda.com" />
               </div>
             </div>
 
-            <div class="space-y-1.5">
-              <label for="email" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                Email <span class="text-text-muted font-sans font-medium">(opsional)</span>
+            <!-- SECTION 2: DETAIL ACARA & LAINNYA -->
+            <div class="space-y-6">
+              <div
+                class="flex items-center gap-3 pb-3 border-b border-border-soft/60"
+              >
+                <span
+                  class="w-5 h-5 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center"
+                  >2</span
+                >
+                <h3 class="font-serif text-lg text-brand-950 font-medium">
+                  Detail Acara & Informasi Pilihan
+                </h3>
+              </div>
+
+              <div class="p-6 bg-cream/30 rounded-2xl border border-border-soft/60 space-y-5">
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label for="eventType" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                      Jenis Acara <span class="text-error">*</span>
+                    </label>
+                    <select id="eventType" name="eventType" required 
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] appearance-none">
+                      <option value="">Pilih jenis acara</option>
+                      {eventTypes.map(et => (
+                        <option value={et.value}>{et.label}</option>
+                      ))}
+                    </select>
+                  </div>
+                  <div class="space-y-1">
+                    <label for="package" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                      Paket Pilihan <span class="text-error">*</span>
+                    </label>
+                    <select id="package" name="package" required 
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] appearance-none">
+                      <option value="">Pilih paket undangan</option>
+                      {pricingPlans.map(p => (
+                        <option value={p.slug}>{p.name} — {p.priceDisplay}</option>
+                      ))}
+                    </select>
+                  </div>
+                </div>
+
+                <div class="grid sm:grid-cols-2 gap-4">
+                  <div class="space-y-1">
+                    <label for="template" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                      Desain Pilihan <span class="text-text-muted font-sans font-medium">(opsional)</span>
+                    </label>
+                    <input type="text" id="template" name="template" 
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]" 
+                      placeholder="Contoh: Kinto Luxury" />
+                  </div>
+                  <div class="space-y-1">
+                    <label for="eventDate" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                      Tanggal Acara <span class="text-text-muted font-sans font-medium">(opsional)</span>
+                    </label>
+                    <input type="date" id="eventDate" name="eventDate" 
+                      class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73]" />
+                  </div>
+                </div>
+
+                <div class="space-y-1">
+                  <label for="notes" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                    Catatan Desain & Request Khusus <span class="text-text-muted font-sans font-medium">(opsional)</span>
+                  </label>
+                  <textarea id="notes" name="notes" rows="4" maxlength="500" 
+                    class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] resize-none" 
+                    placeholder="Tulis instruksi warna, tema lagu, atau fitur kustom lain jika ada..."></textarea>
+                </div>
+
+                <div id="selected-info" class="hidden p-4 bg-[#B59A73]/10 border border-[#B59A73]/20 text-xs text-soft-gold rounded-xl flex items-center gap-2">
+                  <Icon name="sparkles" size={12} class="text-[#B59A73]" />
+                  <span>Template dipilih secara otomatis: <strong class="font-bold font-serif text-[#B59A73]" id="selected-template-name"></strong></span>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION 3: DEKLARASI & CHECKOUT -->
+            <div class="space-y-6 pt-4">
+              <div class="space-y-1.5 pt-2">
+                <label for="referralCode" class="block text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">
+                  Kode Partner / Referal <span class="text-text-muted font-sans font-medium">(opsional)</span>
+                </label>
+                <input type="text" id="referralCode" name="referralCode" 
+                  class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-cream/30 text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] transition-all font-sans" 
+                  placeholder="Contoh: PARTNER-KEDIRI-01" />
+                <p class="text-[9px] text-text-muted italic">Isi jika Anda mendapatkan rekomendasi dari WO atau Partner kami.</p>
+              </div>
+
+              <label
+                class="flex items-start gap-3 p-4 bg-cream/40 rounded-2xl border border-border-soft cursor-pointer hover:bg-cream/60 transition-colors"
+              >
+                <input
+                  type="checkbox"
+                  id="check-confirm"
+                  required
+                  class="accent-[#B59A73] mt-0.5"
+                />
+                <span
+                  class="text-[10px] text-text-secondary font-medium tracking-wide font-sans leading-relaxed"
+                >
+                  Saya menyatakan bahwa data yang saya masukkan di atas benar-benar valid, lengkap, dan siap dikirimkan kepada tim admin pembuat undangan.
+                </span>
               </label>
-              <input type="email" id="email" name="email" 
-                class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide" 
-                placeholder="surel@anda.com" />
-            </div>
 
-            <div class="grid sm:grid-cols-2 gap-6">
-              <div class="space-y-1.5">
-                <label for="eventType" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                  Jenis Acara <span class="text-error">*</span>
-                </label>
-                <select id="eventType" name="eventType" required 
-                  class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide appearance-none">
-                  <option value="">Pilih jenis acara</option>
-                  {eventTypes.map(et => (
-                    <option value={et.value}>{et.label}</option>
-                  ))}
-                </select>
-              </div>
-              <div class="space-y-1.5">
-                <label for="package" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                  Paket Pilihan <span class="text-error">*</span>
-                </label>
-                <select id="package" name="package" required 
-                  class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide appearance-none">
-                  <option value="">Pilih paket undangan</option>
-                  {pricingPlans.map(p => (
-                    <option value={p.slug}>{p.name} — {p.priceDisplay}</option>
-                  ))}
-                </select>
-              </div>
+              <button
+                type="submit"
+                class="w-full py-4 bg-brand-950 hover:bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-2xl transition-all duration-300 shadow-md flex items-center justify-center gap-2 hover:scale-[1.01]"
+                id="order-submit"
+              >
+                <Icon name="whatsapp" size={14} class="text-[#25D366]" />
+                Kirim Pemesanan via WhatsApp Admin
+              </button>
             </div>
-
-            <div class="grid sm:grid-cols-2 gap-6">
-              <div class="space-y-1.5">
-                <label for="template" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                  Desain Pilihan <span class="text-text-muted font-sans font-medium">(opsional)</span>
-                </label>
-                <input type="text" id="template" name="template" 
-                  class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide" 
-                  placeholder="Contoh: Kinto Luxury" />
-              </div>
-              <div class="space-y-1.5">
-                <label for="eventDate" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                  Tanggal Acara <span class="text-text-muted font-sans font-medium">(opsional)</span>
-                </label>
-                <input type="date" id="eventDate" name="eventDate" 
-                  class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide" />
-              </div>
-            </div>
-
-            <div class="space-y-1.5">
-              <label for="notes" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                Catatan Desain & Request Khusus <span class="text-text-muted font-sans font-medium">(opsional)</span>
-              </label>
-              <textarea id="notes" name="notes" rows="4" maxlength="500" 
-                class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide resize-none" 
-                placeholder="Tulis instruksi warna, tema lagu, atau fitur kustom lain jika ada..."></textarea>
-            </div>
-
-            <div id="selected-info" class="hidden p-5 bg-[#B59A73]/10 border border-[#B59A73]/30 text-xs text-soft-gold rounded-2xl flex items-center gap-2">
-              <Icon name="sparkles" size={12} />
-              <span>Template dipilih secara otomatis: <strong class="font-bold font-serif" id="selected-template-name"></strong></span>
-            </div>
-
-            <div class="space-y-1.5 pt-2">
-              <label for="referralCode" class="block text-[10px] font-bold uppercase tracking-widest text-[#B59A73]">
-                Kode Partner / Referal <span class="text-text-muted font-sans font-medium">(opsional)</span>
-              </label>
-              <input type="text" id="referralCode" name="referralCode" 
-                class="w-full px-5 py-4 border border-[#B59A73]/25 bg-cream text-brand-950 text-sm rounded-2xl focus:outline-none focus:ring-1 focus:ring-soft-gold focus:border-soft-gold transition-all duration-300 font-sans tracking-wide" 
-                placeholder="Contoh: PARTNER-KEDIRI-01" />
-              <p class="text-[10px] text-text-muted italic">Isi jika Anda mendapatkan rekomendasi dari WO atau Partner kami.</p>
-            </div>
-
-            <button
-              type="submit"
-              class="w-full inline-flex items-center justify-center gap-2.5 px-8 py-4 bg-[#25D366] hover:bg-[#1da851] text-cream text-[10px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-card hover:shadow-card-hover"
-              id="order-submit"
-            >
-              <Icon name="whatsapp" size={14} />
-              Kirim Pemesanan via WhatsApp
-            </button>
           </form>
         </div>
 
         <!-- Sidebar Column (Kinto Card) -->
-        <div class="space-y-6">
+        <div class="space-y-6 lg:sticky lg:top-24">
           <div class="bg-cream rounded-3xl border border-border-soft/60 p-8 space-y-6">
             <h3 class="font-serif text-xl text-brand-950 pb-3 border-b border-border-soft/50">Langkah Berikutnya</h3>
             <ol class="space-y-4 text-xs font-sans text-text-secondary tracking-wide leading-relaxed">
               <li class="flex items-start gap-3.5">
-                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-soft-gold text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">1</span>
+                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">1</span>
                 <span>Kirim data awal secara otomatis dari form ini menuju pesan WhatsApp kami.</span>
               </li>
               <li class="flex items-start gap-3.5">
-                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-soft-gold text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">2</span>
+                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">2</span>
                 <span>Desainer butik kami membalas untuk konfirmasi data and menerbitkan invoice resmi.</span>
               </li>
               <li class="flex items-start gap-3.5">
-                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-soft-gold text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">3</span>
+                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">3</span>
                 <span>Setelah verifikasi pembayaran, rancangan undangan impian Anda mulai dikerjakan.</span>
               </li>
               <li class="flex items-start gap-3.5">
-                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-soft-gold text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">4</span>
+                <span class="flex-shrink-0 w-6 h-6 rounded-full bg-[#B59A73] text-cream text-[9px] font-bold flex items-center justify-center mt-0.5">4</span>
                 <span>Proses koreksi / revisi hingga hasil benar-benar sempurna and siap disebarluaskan.</span>
               </li>
             </ol>
@@ -210,10 +335,10 @@ import { siteConfig } from '../../data/site';
             <h3 class="font-serif text-xl text-brand-950 pb-2 border-b border-border-soft/50">Konsultasi Langsung</h3>
             <p class="text-xs text-text-secondary font-sans leading-relaxed tracking-wide">Hubungi desainer kami langsung tanpa mengisi formulir terlebih dahulu.</p>
             <a
-              href={createWhatsappUrl()}
+              href={`https://wa.me/${siteConfig.contact.whatsapp}?text=Halo%20Acaranya.id%20saya%20ingin%20tanya-tanya%20mengenai%20layanan%20undangan%20digital`}
               target="_blank"
               rel="noopener noreferrer"
-              class="w-full inline-flex items-center justify-center gap-2 py-3.5 border border-brand-300/80 text-brand-800 text-[9px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 hover:text-cream transition-all duration-300"
+              class="w-full inline-flex items-center justify-center gap-2 py-3 border border-brand-300/80 text-brand-850 text-[9px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 hover:text-cream transition-all duration-300"
             >
               <Icon name="whatsapp" size={12} class="text-[#25D366]" />
               Chat Desainer
@@ -253,6 +378,15 @@ import { siteConfig } from '../../data/site';
     } else if (templateLower.includes('wisuda') || templateLower.includes('grad')) {
       window.location.href = '/order-undangan/wisuda/' + window.location.search;
       return;
+    } else if (templateLower.includes('opening') || templateLower.includes('launching') || templateLower.includes('peresmian')) {
+      window.location.href = '/order-undangan/grand-opening/' + window.location.search;
+      return;
+    } else if (templateLower.includes('natal') || templateLower.includes('christmas')) {
+      window.location.href = '/order-undangan/natal/' + window.location.search;
+      return;
+    } else if (templateLower.includes('syukuran') || templateLower.includes('selamatan') || templateLower.includes('tasyakuran')) {
+      window.location.href = '/order-undangan/syukuran/' + window.location.search;
+      return;
     }
 
     const eventSelect = document.getElementById('eventType');
@@ -272,6 +406,12 @@ import { siteConfig } from '../../data/site';
           window.location.href = '/order-undangan/corporate/' + window.location.search;
         } else if (val === 'wisuda') {
           window.location.href = '/order-undangan/wisuda/' + window.location.search;
+        } else if (val === 'grand-opening') {
+          window.location.href = '/order-undangan/grand-opening/' + window.location.search;
+        } else if (val === 'natal') {
+          window.location.href = '/order-undangan/natal/' + window.location.search;
+        } else if (val === 'syukuran') {
+          window.location.href = '/order-undangan/syukuran/' + window.location.search;
         }
       });
     }
@@ -313,23 +453,33 @@ import { siteConfig } from '../../data/site';
 
         const name = fd.get('name');
         const whatsapp = fd.get('whatsapp');
+        const email = fd.get('email') || '-';
         const eventType = fd.get('eventType');
         const pkg = fd.get('package');
-        const template = fd.get('template');
-        const eventDate = fd.get('eventDate');
-        const notes = fd.get('notes');
-        const referralCode = fd.get('referralCode');
+        const template = fd.get('template') || '-';
+        const eventDate = fd.get('eventDate') || '-';
+        const notes = fd.get('notes') || '-';
+        const referralCode = fd.get('referralCode') || '-';
 
-        const message = `Halo Acaranya.id, saya mau order undangan digital premium.
+        const message = `Halo Acaranya.id, saya ingin memesan Undangan Digital Premium!
 
-Nama Pemesan: ${name}
-WhatsApp: ${whatsapp}
-Jenis Acara: ${eventType}
-Paket Pilihan: ${pkg}
-Desain Pilihan: ${template || '-'}
-Tanggal Acara: ${eventDate || '-'}
-Catatan Desain: ${notes || '-'}
-Kode Referal: ${referralCode || '-'}`;
+📋 INFORMASI PEMESAN
+------------------------------
+• Nama Pemesan: ${name}
+• Nomor WhatsApp: ${whatsapp}
+• Email Aktif: ${email}
+• Pilihan Desain: ${template}
+• Paket Harga: ${pkg.toUpperCase()}
+• Kode Referal: ${referralCode}
+
+📅 DETAIL ACARA & LAINNYA
+------------------------------
+• Jenis Acara: ${eventType.toUpperCase()}
+• Tanggal Acara: ${eventDate}
+• Catatan Tambahan: ${notes}
+
+------------------------------
+Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
 
         const url = `https://wa.me/${waPhone}?text=${encodeURIComponent(message)}`;
         window.open(url, '_blank');

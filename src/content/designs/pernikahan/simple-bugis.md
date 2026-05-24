@@ -1,13 +1,18 @@
 ---
 title: Simple Bugis
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/simple-bugis/simple-bugis.jpg
-previewUrl: https://inv.acaranya.id/preview/simple-bugis
+thumbnail: 'https://inv.acaranya.id/themes/simple-bugis/simple-bugis.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/simple-bugis'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - bugis
+  - krem
+  - minimalis
+  - sulawesi
 package: mengundang
 sortOrder: 141
 status: published
 ---
+

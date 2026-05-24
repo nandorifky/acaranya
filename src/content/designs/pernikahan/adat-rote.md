@@ -1,13 +1,18 @@
 ---
 title: Adat Rote
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/adat-rote/adat-rote.webp
-previewUrl: https://inv.acaranya.id/preview/adat-rote
+thumbnail: 'https://inv.acaranya.id/themes/adat-rote/adat-rote.webp'
+previewUrl: 'https://inv.acaranya.id/preview/adat-rote'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - elegant
+  - krem
+  - nusa tenggara
+  - rote
 package: mengundang
 sortOrder: 89
 status: published
 ---
+

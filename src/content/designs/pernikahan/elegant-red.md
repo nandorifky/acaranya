@@ -1,13 +1,15 @@
 ---
 title: Elegant Red
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/elegant-red/elegant-red.jpg
-previewUrl: https://inv.acaranya.id/preview/elegant-red
+thumbnail: 'https://inv.acaranya.id/themes/elegant-red/elegant-red.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/elegant-red'
 isFeatured: false
-isPremium: false
-tags: []
+isPremium: true
+tags:
+  - elegant
+  - merah
 package: mengundang
 sortOrder: 137
 status: published
 ---
+

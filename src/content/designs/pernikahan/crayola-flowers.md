@@ -1,13 +1,17 @@
 ---
 title: Crayola Flowers
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/crayola-flowers/crayola-flowers.jpg
-previewUrl: https://inv.acaranya.id/preview/crayola-flowers
+thumbnail: 'https://inv.acaranya.id/themes/crayola-flowers/crayola-flowers.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/crayola-flowers'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - cute
+  - floral
+  - minimalis
+  - pink
 package: mengundang
 sortOrder: 259
 status: published
 ---
+

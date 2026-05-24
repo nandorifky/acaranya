@@ -1,13 +1,18 @@
 ---
 title: Betawi Vintage
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/betawi-vintage/betawi-vintage.jpg
-previewUrl: https://inv.acaranya.id/preview/betawi-vintage
+thumbnail: 'https://inv.acaranya.id/themes/betawi-vintage/betawi-vintage.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/betawi-vintage'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - betawi
+  - jawa
+  - krem
+  - vintage
 package: mengundang
 sortOrder: 101
 status: published
 ---
+

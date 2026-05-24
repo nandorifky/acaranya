@@ -1,13 +1,18 @@
 ---
 title: Bugis Culture
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/bugis-culture/bugis-culture.jpg
-previewUrl: https://inv.acaranya.id/preview/bugis-culture
+thumbnail: 'https://inv.acaranya.id/themes/bugis-culture/bugis-culture.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/bugis-culture'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - bugis
+  - elegant
+  - krem
+  - sulawesi
 package: mengundang
 sortOrder: 139
 status: published
 ---
+

@@ -1,13 +1,17 @@
 ---
 title: Java Maroon
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/java-maroon/java-maroon.jpg
-previewUrl: https://inv.acaranya.id/preview/java-maroon
+thumbnail: 'https://inv.acaranya.id/themes/java-maroon/java-maroon.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/java-maroon'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - elegant
+  - jawa
+  - merah
 package: mengundang
 sortOrder: 186
 status: published
 ---
+

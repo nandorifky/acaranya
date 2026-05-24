@@ -1,13 +1,15 @@
 ---
 title: Ylang Ylang
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/ylang-ylang/ylang-ylang.jpg
-previewUrl: https://inv.acaranya.id/preview/ylang-ylang
+thumbnail: 'https://inv.acaranya.id/themes/ylang-ylang/ylang-ylang.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/ylang-ylang'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - elegant
+  - krem
 package: mengundang
 sortOrder: 170
 status: published
 ---
+

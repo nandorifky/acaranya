@@ -1,13 +1,17 @@
 ---
 title: Mandarin
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/mandarin/mandarin.webp
-previewUrl: https://inv.acaranya.id/preview/mandarin
+thumbnail: 'https://inv.acaranya.id/themes/mandarin/mandarin.webp'
+previewUrl: 'https://inv.acaranya.id/preview/mandarin'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - elegant
+  - merah
+  - tionghoa
 package: mengundang
 sortOrder: 17
 status: published
 ---
+

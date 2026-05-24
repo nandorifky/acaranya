@@ -1,13 +1,21 @@
 ---
 title: Pakpak x Banjar
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/pakpak-banjar/pakpak-banjar.jpg
-previewUrl: https://inv.acaranya.id/preview/pakpak-banjar
+thumbnail: 'https://inv.acaranya.id/themes/pakpak-banjar/pakpak-banjar.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/pakpak-banjar'
 isFeatured: false
-isPremium: false
-tags: []
+isPremium: true
+tags:
+  - adat
+  - banjar
+  - batak
+  - elegant
+  - emas
+  - kalimantan
+  - merah
+  - sumatera
 package: mengundang
 sortOrder: 176
 status: published
 ---
+

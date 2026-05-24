@@ -1,13 +1,16 @@
 ---
 title: Pastel Green
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/pastel-green/pastel-green.jpg
-previewUrl: https://inv.acaranya.id/preview/pastel-green
+thumbnail: 'https://inv.acaranya.id/themes/pastel-green/pastel-green.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/pastel-green'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - elegant
+  - hijau
+  - krem
 package: mengundang
 sortOrder: 109
 status: published
 ---
+

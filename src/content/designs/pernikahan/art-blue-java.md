@@ -1,13 +1,17 @@
 ---
 title: Art Blue Java
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/art-blue-java/art-blue-java.webp
-previewUrl: https://inv.acaranya.id/preview/art-blue-java
+thumbnail: 'https://inv.acaranya.id/themes/art-blue-java/art-blue-java.webp'
+previewUrl: 'https://inv.acaranya.id/preview/art-blue-java'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - aesthetic
+  - biru
+  - jawa
 package: mengundang
 sortOrder: 35
 status: published
 ---
+

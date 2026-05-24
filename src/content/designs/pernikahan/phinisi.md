@@ -1,13 +1,18 @@
 ---
 title: Phinisi
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/phinisi/phinisi.webp
-previewUrl: https://inv.acaranya.id/preview/phinisi
+thumbnail: 'https://inv.acaranya.id/themes/phinisi/phinisi.webp'
+previewUrl: 'https://inv.acaranya.id/preview/phinisi'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - bugis
+  - elegant
+  - merah
+  - sulawesi
 package: mengundang
 sortOrder: 45
 status: published
 ---
+

@@ -1,13 +1,17 @@
 ---
 title: Wayang Jawa
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/wayang-jawa/wayang-jawa.jpg
-previewUrl: https://inv.acaranya.id/preview/wayang-jawa
+thumbnail: 'https://inv.acaranya.id/themes/wayang-jawa/wayang-jawa.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/wayang-jawa'
 isFeatured: false
-isPremium: false
-tags: []
+isPremium: true
+tags:
+  - adat
+  - cokelat
+  - elegant
+  - jawa
 package: mengundang
 sortOrder: 125
 status: published
 ---
+

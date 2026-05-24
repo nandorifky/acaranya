@@ -1,13 +1,17 @@
 ---
 title: Gold Black Silver
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/gold-black-silver/gold-black-silver.jpg
-previewUrl: https://inv.acaranya.id/preview/gold-black-silver
+thumbnail: 'https://inv.acaranya.id/themes/gold-black-silver/gold-black-silver.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/gold-black-silver'
 isFeatured: false
-isPremium: false
-tags: []
+isPremium: true
+tags:
+  - emas
+  - hitam
+  - luxury
+  - putih
 package: mengundang
 sortOrder: 117
 status: published
 ---
+

@@ -1,13 +1,18 @@
 ---
 title: Minang Maroon
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/minang-maroon/minang-maroon.webp
-previewUrl: https://inv.acaranya.id/preview/minang-maroon
+thumbnail: 'https://inv.acaranya.id/themes/minang-maroon/minang-maroon.webp'
+previewUrl: 'https://inv.acaranya.id/preview/minang-maroon'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - elegant
+  - merah
+  - minang
+  - sumatera
 package: mengundang
 sortOrder: 51
 status: published
 ---
+

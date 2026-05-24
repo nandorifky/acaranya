@@ -6,7 +6,6 @@ const designs = defineCollection({
   schema: z.object({
     title: z.string(),
     category: z.string(), // Referring to the slug of designCategories
-    eventType: z.enum(['wedding', 'khitanan', 'birthday', 'aqiqah', 'corporate', 'graduation', 'other']),
     thumbnail: z.string().optional(),
     previewUrl: z.string(),
     isFeatured: z.boolean().default(false),
@@ -117,6 +116,7 @@ const tools = defineCollection({
     title: z.string(),
     description: z.string(),
     toolComponent: z.string(),
+    icon: z.string().optional(),
     publishedAt: z.coerce.date().optional(),
     status: z.enum(['draft', 'published']).default('published'),
     // SEO & SoftwareApplication Schema Fields

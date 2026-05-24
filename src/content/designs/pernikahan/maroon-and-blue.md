@@ -1,13 +1,16 @@
 ---
 title: Maroon and Blue
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/maroon-and-blue/maroon-and-blue.jpg
-previewUrl: https://inv.acaranya.id/preview/maroon-and-blue
+thumbnail: 'https://inv.acaranya.id/themes/maroon-and-blue/maroon-and-blue.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/maroon-and-blue'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - biru
+  - elegant
+  - merah
 package: mengundang
 sortOrder: 133
 status: published
 ---
+

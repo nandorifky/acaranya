@@ -1,13 +1,18 @@
 ---
 title: Phinisi Maroon
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/phinisi-maroon/phinisi-maroon.webp
-previewUrl: https://inv.acaranya.id/preview/phinisi-maroon
+thumbnail: 'https://inv.acaranya.id/themes/phinisi-maroon/phinisi-maroon.webp'
+previewUrl: 'https://inv.acaranya.id/preview/phinisi-maroon'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - bugis
+  - elegant
+  - merah
+  - sulawesi
 package: mengundang
 sortOrder: 7
 status: published
 ---
+

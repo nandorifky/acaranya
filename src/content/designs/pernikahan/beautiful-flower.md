@@ -1,13 +1,16 @@
 ---
 title: Beautiful Flower
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/beautiful-flower/beautiful-flower.jpg
-previewUrl: https://inv.acaranya.id/preview/beautiful-flower
+thumbnail: 'https://inv.acaranya.id/themes/beautiful-flower/beautiful-flower.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/beautiful-flower'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - elegant
+  - floral
+  - krem
 package: mengundang
 sortOrder: 169
 status: published
 ---
+

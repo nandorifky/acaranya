@@ -1,13 +1,19 @@
 ---
 title: Jawa x Banjar
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/jawa-banjar/jawa-banjar.jpg
-previewUrl: https://inv.acaranya.id/preview/jawa-banjar
+thumbnail: 'https://inv.acaranya.id/themes/jawa-banjar/jawa-banjar.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/jawa-banjar'
 isFeatured: false
-isPremium: false
-tags: []
+isPremium: true
+tags:
+  - adat
+  - banjar
+  - elegant
+  - emas
+  - jawa
+  - kalimantan
 package: mengundang
 sortOrder: 218
 status: published
 ---
+

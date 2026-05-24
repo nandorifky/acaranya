@@ -1,13 +1,19 @@
 ---
 title: Palembang Lampung
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/palembang-lampung/palembang-lampung.webp
-previewUrl: https://inv.acaranya.id/preview/palembang-lampung
+thumbnail: 'https://inv.acaranya.id/themes/palembang-lampung/palembang-lampung.webp'
+previewUrl: 'https://inv.acaranya.id/preview/palembang-lampung'
 isFeatured: false
-isPremium: false
-tags: []
+isPremium: true
+tags:
+  - adat
+  - elegant
+  - krem
+  - lampung
+  - palembang
+  - sumatera
 package: mengundang
 sortOrder: 78
 status: published
 ---
+

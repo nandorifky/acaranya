@@ -1,13 +1,15 @@
 ---
 title: Esther
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/esther/esther.webp
-previewUrl: https://inv.acaranya.id/preview/esther
+thumbnail: 'https://inv.acaranya.id/themes/esther/esther.webp'
+previewUrl: 'https://inv.acaranya.id/preview/esther'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - elegant
+  - krem
 package: mengundang
 sortOrder: 53
 status: published
 ---
+

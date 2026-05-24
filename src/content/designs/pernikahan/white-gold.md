@@ -1,13 +1,16 @@
 ---
 title: White Gold
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/white-gold/white-gold.jpg
-previewUrl: https://inv.acaranya.id/preview/white-gold
+thumbnail: 'https://inv.acaranya.id/themes/white-gold/white-gold.jpg'
+previewUrl: 'https://inv.acaranya.id/preview/white-gold'
 isFeatured: false
-isPremium: false
-tags: []
+isPremium: true
+tags:
+  - emas
+  - luxury
+  - putih
 package: mengundang
 sortOrder: 231
 status: published
 ---
+

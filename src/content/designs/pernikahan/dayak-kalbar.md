@@ -1,13 +1,18 @@
 ---
 title: Dayak Kalbar
 category: pernikahan
-eventType: wedding
-thumbnail: https://inv.acaranya.id/themes/dayak-kalbar/dayak-kalbar.webp
-previewUrl: https://inv.acaranya.id/preview/dayak-kalbar
+thumbnail: 'https://inv.acaranya.id/themes/dayak-kalbar/dayak-kalbar.webp'
+previewUrl: 'https://inv.acaranya.id/preview/dayak-kalbar'
 isFeatured: false
 isPremium: false
-tags: []
+tags:
+  - adat
+  - dayak
+  - elegant
+  - hitam
+  - kalimantan
 package: mengundang
 sortOrder: 40
 status: published
 ---
+
