@@ -75,6 +75,21 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
     <meta name="google-site-verification" content={siteConfig.seo.googleSiteVerification} />
   )}
 
+  <!-- Bing Site Verification -->
+  {siteConfig.seo.bingSiteVerification && (
+    <meta name="msvalidate.01" content={siteConfig.seo.bingSiteVerification} />
+  )}
+
+  <!-- Pinterest Site Verification -->
+  {siteConfig.seo.pinterestSiteVerification && (
+    <meta name="p:domain_verify" content={siteConfig.seo.pinterestSiteVerification} />
+  )}
+
+  <!-- Yandex Site Verification -->
+  {siteConfig.seo.yandexSiteVerification && (
+    <meta name="yandex-verification" content={siteConfig.seo.yandexSiteVerification} />
+  )}
+
   <!-- Google Tag Manager - Head -->
   {siteConfig.seo.googleTagManagerId && (
     <script is:inline set:html={`

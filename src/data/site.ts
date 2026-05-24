@@ -3,7 +3,7 @@ export const siteConfig = {
   tagline: 'Undangan Digital Modern untuk Berbagai Acara',
   description: 'Buat undangan digital modern dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
   url: 'https://acaranya.id',
-  previewDomain: 'https://inv.acaranya.id',
+  previewDomain: 'https://acaranya.id',
   ogImage: '/og/default-og.jpg',
   locale: 'id_ID',
 
@@ -30,13 +30,16 @@ export const siteConfig = {
 
   seo: {
     titleTemplate: '%s | Acaranya.id',
-    defaultTitle: 'Acaranya.id — Undangan Digital Cantik untuk Berbagai Acara',
+    defaultTitle: 'Undangan Digital Cantik untuk Berbagai Acara | Acaranya.id',
     defaultDescription: 'Buat undangan digital modern dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
     // Tracking & Verification Configurations
-    googleSiteVerification: '', // Paste GSC verification code here
-    googleAnalyticsId: '',      // Paste GA4 Tag ID (G-XXXXXXXXXX) here
-    googleTagManagerId: '',     // Paste GTM Container ID (GTM-XXXXXXX) here
-    metaPixelId: '',            // Paste Meta/FB Pixel ID here
+    googleSiteVerification: '4rrj2MUeooSdQXxhHusQ22vNE_M9VjOgFkoMOxVts4E',
+    bingSiteVerification: '',      // Paste Bing Webmaster verification code here
+    pinterestSiteVerification: '',  // Paste Pinterest verification code here
+    yandexSiteVerification: '',     // Paste Yandex verification code here
+    googleAnalyticsId: 'G-SME66PTLRE',
+    googleTagManagerId: 'G-SME66PTLRE',
+    metaPixelId: '',
   },
 } as const;
 
