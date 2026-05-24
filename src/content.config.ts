@@ -156,12 +156,12 @@ const portfolio = defineCollection({
 
 const area = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx,mdoc}', base: './src/content/area' }),
-  schema: ({ image }) => z.object({
+  schema: z.object({
     title: z.string(),
     description: z.string(),
     cityName: z.string(),
     province: z.string().optional(),
-    coverImage: image().optional(),
+    coverImage: z.string().optional(),
     imageAlt: z.string().optional(),
     publishedAt: z.coerce.date(),
     updatedAt: z.coerce.date().optional(),
