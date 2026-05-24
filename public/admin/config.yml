@@ -204,3 +204,24 @@ collections:
       - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
       - { label: "SEO Custom Description (Optional)", name: "seoDescription", widget: "text", required: false }
       - { label: "Konten Cerita/Studi Kasus (Body - Opsional)", name: "body", widget: "markdown", required: false, buttons: ["bold", "italic", "code", "link", "heading-two", "heading-three", "quote", "bulleted-list", "numbered-list", "image"] }
+
+  - name: "area"
+    label: "Area Layanan (Local SEO)"
+    folder: "src/content/area"
+    create: true
+    slug: "{{slug}}"
+    format: "frontmatter"
+    fields:
+      - { label: "Judul Halaman (H1)", name: "title", widget: "string" }
+      - { label: "Meta Description", name: "description", widget: "text" }
+      - { label: "Nama Kota", name: "cityName", widget: "string" }
+      - { label: "Provinsi", name: "province", widget: "string", required: false }
+      - { label: "Gambar Cover", name: "coverImage", widget: "image", required: false }
+      - { label: "Alt Text Gambar", name: "imageAlt", widget: "string", required: false }
+      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime" }
+      - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
+      - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
+      - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
+      - { label: "Noindex Tag?", name: "noindex", widget: "boolean", default: false }
+      - { label: "Custom WhatsApp Text", name: "whatsappText", widget: "string", required: false }
+      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
