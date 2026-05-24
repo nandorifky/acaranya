@@ -32,6 +32,11 @@ export const siteConfig = {
     titleTemplate: '%s | Acaranya.id',
     defaultTitle: 'Acaranya.id — Undangan Digital Cantik untuk Berbagai Acara',
     defaultDescription: 'Buat undangan digital modern dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
+    // Tracking & Verification Configurations
+    googleSiteVerification: '', // Paste GSC verification code here
+    googleAnalyticsId: '',      // Paste GA4 Tag ID (G-XXXXXXXXXX) here
+    googleTagManagerId: '',     // Paste GTM Container ID (GTM-XXXXXXX) here
+    metaPixelId: '',            // Paste Meta/FB Pixel ID here
   },
 } as const;
 

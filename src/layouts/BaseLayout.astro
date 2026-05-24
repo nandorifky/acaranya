@@ -10,6 +10,10 @@ interface Props {
   robots?: string;
   type?: 'website' | 'article';
   jsonLd?: Record<string, unknown>[];
+  publishedTime?: string;
+  modifiedTime?: string;
+  authorName?: string;
+  section?: string;
 }
 
 const {
@@ -20,6 +24,10 @@ const {
   robots = 'index,follow',
   type = 'website',
   jsonLd = [],
+  publishedTime,
+  modifiedTime,
+  authorName,
+  section,
 } = Astro.props;
 
 const pageTitle = title === siteConfig.seo.defaultTitle
@@ -62,6 +70,49 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <!-- Google Site Verification -->
+  {siteConfig.seo.googleSiteVerification && (
+    <meta name="google-site-verification" content={siteConfig.seo.googleSiteVerification} />
+  )}
+
+  <!-- Google Tag Manager - Head -->
+  {siteConfig.seo.googleTagManagerId && (
+    <script is:inline set:html={`
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','${siteConfig.seo.googleTagManagerId}');
+    `}></script>
+  )}
+
+  <!-- Google Analytics (GA4) -->
+  {siteConfig.seo.googleAnalyticsId && (
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.seo.googleAnalyticsId}`}></script>
+    <script is:inline set:html={`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${siteConfig.seo.googleAnalyticsId}');
+    `}></script>
+  )}
+
+  <!-- Meta Pixel (Facebook Pixel) - Head -->
+  {siteConfig.seo.metaPixelId && (
+    <script is:inline set:html={`
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '${siteConfig.seo.metaPixelId}');
+      fbq('track', 'PageView');
+    `}></script>
+  )}
+
   <!-- Preconnect to Google Fonts for speed -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -82,6 +133,16 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
   <meta property="og:locale" content={siteConfig.locale} />
   <meta property="og:site_name" content={siteConfig.name} />
 
+  <!-- Article-specific Open Graph -->
+  {type === 'article' && (
+    <>
+      {publishedTime && <meta property="article:published_time" content={publishedTime} />}
+      {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+      {authorName && <meta property="article:author" content={authorName} />}
+      {section && <meta property="article:section" content={section} />}
+    </>
+  )}
+
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={pageTitle} />
@@ -98,6 +159,19 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
   ))}
 </head>
 <body class="min-h-screen flex flex-col">
+  <!-- Google Tag Manager - Noscript -->
+  {siteConfig.seo.googleTagManagerId && (
+    <noscript><iframe src={`https://www.googletagmanager.com/ns.html?id=${siteConfig.seo.googleTagManagerId}`}
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  )}
+
+  <!-- Meta Pixel (Facebook Pixel) - Noscript -->
+  {siteConfig.seo.metaPixelId && (
+    <noscript><img height="1" width="1" style="display:none"
+    src={`https://www.facebook.com/tr?id=${siteConfig.seo.metaPixelId}&ev=PageView&noscript=1`}
+    /></noscript>
+  )}
+
   <slot />
 </body>
 </html>
