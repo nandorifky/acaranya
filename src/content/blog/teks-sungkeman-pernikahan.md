@@ -5,7 +5,7 @@ description: >-
   mengharukan dalam berbagai bahasa untuk memohon maaf & restu kepada orang tua.
 publishedAt: '2026-04-08T17:49:33'
 updatedAt: '2026-04-08T17:49:33'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

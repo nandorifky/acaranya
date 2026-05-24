@@ -5,7 +5,7 @@ description: >-
   mengenai tradisi, makna, dan persiapan penting untuk penyatuan dua keluarga.
 publishedAt: '2026-04-08T17:49:39'
 updatedAt: '2026-04-08T17:49:39'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - adat

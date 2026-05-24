@@ -6,7 +6,7 @@ description: >-
   sabar.
 publishedAt: '2026-04-08T17:49:28'
 updatedAt: '2026-04-08T17:49:28'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

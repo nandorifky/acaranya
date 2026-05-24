@@ -6,7 +6,7 @@ description: >-
   dalam doa.
 publishedAt: '2026-04-08T17:50:24'
 updatedAt: '2026-04-08T17:50:24'
-author: tim-acaranya
+author: indira
 category: Relationship
 tags:
   - hubungan

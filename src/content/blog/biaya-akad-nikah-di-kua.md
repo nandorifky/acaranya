@@ -5,7 +5,7 @@ description: >-
   biaya nikah di luar kantor, serta dokumen apa saja yang harus disiapkan!
 publishedAt: '2026-04-08T17:49:54'
 updatedAt: '2026-04-08T17:49:54'
-author: tim-acaranya
+author: indira
 category: Anggaran
 tags:
   - tips

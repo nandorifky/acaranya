@@ -5,7 +5,7 @@ description: >-
   yang estetik lengkap dengan contoh isi teksnya untuk tamu spesial di hari h.
 publishedAt: '2026-04-08T17:50:36'
 updatedAt: '2026-04-08T17:50:36'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - etika

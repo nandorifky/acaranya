@@ -6,7 +6,7 @@ description: >-
   benar.
 publishedAt: '2026-04-08T17:50:28'
 updatedAt: '2026-04-08T17:50:28'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

@@ -6,7 +6,7 @@ description: >-
   jaya.
 publishedAt: '2026-04-08T17:49:59'
 updatedAt: '2026-04-08T17:49:59'
-author: tim-acaranya
+author: indira
 category: Legalitas
 tags:
   - legalitas

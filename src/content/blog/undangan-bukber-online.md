@@ -5,7 +5,7 @@ description: >-
   islami yang keren & fitur lengkap agar momen buka puasa bersamamu makin ramai.
 publishedAt: '2026-04-08T17:51:02'
 updatedAt: '2026-04-08T17:51:02'
-author: tim-acaranya
+author: indira
 category: Blog
 tags:
   - undangan-digital

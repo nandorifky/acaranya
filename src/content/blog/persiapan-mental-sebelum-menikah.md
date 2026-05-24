@@ -5,7 +5,7 @@ description: >-
   agar kamu & pasangan makin solid menghadapi perubahan & tantangan hidup baru.
 publishedAt: '2026-04-08T17:49:46'
 updatedAt: '2026-04-08T17:49:46'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - psikologi

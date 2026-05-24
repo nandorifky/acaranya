@@ -6,7 +6,7 @@ description: >-
   kendala besar.
 publishedAt: '2026-04-08T17:49:34'
 updatedAt: '2026-04-08T17:49:34'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

@@ -6,7 +6,7 @@ description: >-
   pernikahan.
 publishedAt: '2026-04-08T17:49:11'
 updatedAt: '2026-04-08T17:49:11'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - pernikahan

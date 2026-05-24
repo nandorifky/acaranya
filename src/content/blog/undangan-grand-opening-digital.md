@@ -5,7 +5,7 @@ description: >-
   opening digital untuk pembukaan toko atau kantor yang profesional & efisien.
 publishedAt: '2026-04-08T17:51:30'
 updatedAt: '2026-04-08T17:51:30'
-author: tim-acaranya
+author: indira
 category: Blog
 tags:
   - undangan-digital

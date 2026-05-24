@@ -5,7 +5,7 @@ description: >-
   resmi agar tetap sopan dan sesuai protokol kenegaraan yang benar.
 publishedAt: '2026-04-08T17:50:48'
 updatedAt: '2026-04-08T17:50:48'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - etika

@@ -6,7 +6,7 @@ description: >-
   terdekat.
 publishedAt: '2026-04-08T17:51:04'
 updatedAt: '2026-04-08T17:51:04'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

@@ -6,7 +6,7 @@ description: >-
   dengan baik.
 publishedAt: '2026-04-08T17:50:50'
 updatedAt: '2026-04-08T17:50:50'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - etika

@@ -6,7 +6,7 @@ description: >-
   Indonesia terbaru.
 publishedAt: '2026-04-08T17:50:33'
 updatedAt: '2026-04-08T17:50:33'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - lagu-pernikahan

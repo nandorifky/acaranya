@@ -5,7 +5,7 @@ description: >-
   Langkah penting untuk mensucikan hati demi keberkahan rumah tangga baru.
 publishedAt: '2026-04-08T17:49:18'
 updatedAt: '2026-04-08T17:49:18'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - islami

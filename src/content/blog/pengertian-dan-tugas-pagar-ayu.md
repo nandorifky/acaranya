@@ -6,7 +6,7 @@ description: >-
   bahagia.
 publishedAt: '2026-04-08T17:51:20'
 updatedAt: '2026-04-08T17:51:20'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - pagar-ayu

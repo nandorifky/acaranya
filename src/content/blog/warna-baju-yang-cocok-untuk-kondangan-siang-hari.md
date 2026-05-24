@@ -6,7 +6,7 @@ description: >-
   elegan.
 publishedAt: '2026-04-08T17:50:22'
 updatedAt: '2026-04-08T17:50:22'
-author: tim-acaranya
+author: indira
 category: Busana
 tags:
   - fashion

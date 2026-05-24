@@ -6,7 +6,7 @@ description: >-
   terlupakan.
 publishedAt: '2026-04-08T17:51:23'
 updatedAt: '2026-04-10T16:43:03'
-author: tim-acaranya
+author: indira
 category: Vendor
 tags:
   - wedding-organizer

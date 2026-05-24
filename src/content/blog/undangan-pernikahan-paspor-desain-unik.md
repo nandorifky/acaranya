@@ -6,7 +6,7 @@ description: >-
   tinggi.
 publishedAt: '2026-04-08T17:50:38'
 updatedAt: '2026-04-08T17:50:38'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - desain

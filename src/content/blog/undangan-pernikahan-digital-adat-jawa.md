@@ -5,7 +5,7 @@ description: >-
   dari Acaranya.id yang sarat makna filosofis namun tetap tampil modern & mewah.
 publishedAt: '2026-04-08T17:50:59'
 updatedAt: '2026-04-08T17:50:59'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - undangan-digital

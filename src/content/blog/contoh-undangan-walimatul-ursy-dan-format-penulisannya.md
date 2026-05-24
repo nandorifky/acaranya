@@ -5,7 +5,7 @@ description: >-
   dengan format penulisan dasar mulai dari salam hingga detail informasi acara.
 publishedAt: '2026-04-08T17:50:43'
 updatedAt: '2026-04-08T17:50:43'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - islami

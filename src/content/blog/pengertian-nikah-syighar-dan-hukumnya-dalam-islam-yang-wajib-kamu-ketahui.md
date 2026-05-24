@@ -5,7 +5,7 @@ description: >-
   alasan mengapa praktik ini bertentangan dengan syariat dan merugikan wanita.
 publishedAt: '2026-04-08T17:49:19'
 updatedAt: '2026-04-08T17:49:19'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - islami

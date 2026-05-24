@@ -5,7 +5,7 @@ description: >-
   putusnya komunikasi hingga hadirnya pasangan baru dalam kehidupan mereka.
 publishedAt: '2026-04-08T17:51:19'
 updatedAt: '2026-04-08T17:51:19'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - hubungan

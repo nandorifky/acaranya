@@ -5,7 +5,7 @@ description: >-
   terduga hingga cinta pada pandangan pertama, bikin undanganmu lebih personal.
 publishedAt: '2026-04-08T17:51:30'
 updatedAt: '2026-04-08T17:51:30'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - inspirasi

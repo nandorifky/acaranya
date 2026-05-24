@@ -6,7 +6,7 @@ description: >-
   ini.
 publishedAt: '2026-04-08T17:49:45'
 updatedAt: '2026-04-08T17:49:45'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

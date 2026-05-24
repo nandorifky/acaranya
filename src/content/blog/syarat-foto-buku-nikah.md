@@ -5,7 +5,7 @@ description: >-
   dari ukuran, jumlah lembar, hingga warna background biru sesuai ketentuan KUA.
 publishedAt: '2026-04-08T17:50:21'
 updatedAt: '2026-04-08T17:50:21'
-author: tim-acaranya
+author: indira
 category: Legalitas
 tags:
   - buku-nikah

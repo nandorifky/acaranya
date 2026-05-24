@@ -6,7 +6,7 @@ description: >-
   keluarga.
 publishedAt: '2026-04-08T17:50:26'
 updatedAt: '2026-04-08T17:50:26'
-author: tim-acaranya
+author: indira
 category: Legalitas
 tags:
   - legalitas

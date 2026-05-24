@@ -6,7 +6,7 @@ description: >-
   pernikahan.
 publishedAt: '2026-04-08T17:49:20'
 updatedAt: '2026-04-08T17:49:20'
-author: tim-acaranya
+author: indira
 category: Anggaran
 tags:
   - anggaran

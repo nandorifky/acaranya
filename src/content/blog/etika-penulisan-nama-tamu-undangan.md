@@ -6,7 +6,7 @@ description: >-
   terlewat!
 publishedAt: '2026-04-08T17:50:44'
 updatedAt: '2026-04-08T17:50:44'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - pernikahan

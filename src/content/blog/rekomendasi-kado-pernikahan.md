@@ -6,7 +6,7 @@ description: >-
   menempuh hidup baru.
 publishedAt: '2026-04-08T17:49:41'
 updatedAt: '2026-04-08T17:49:41'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - inspirasi

@@ -6,7 +6,7 @@ description: >-
   surga.
 publishedAt: '2026-04-08T17:51:27'
 updatedAt: '2026-04-08T17:51:27'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - islami

@@ -5,7 +5,7 @@ description: >-
   proses cepat, hingga fitur lengkap yang bikin acaramu makin praktis!
 publishedAt: '2026-04-08T17:50:49'
 updatedAt: '2026-04-08T17:50:49'
-author: tim-acaranya
+author: indira
 category: Undangan
 tags:
   - undangan-digital

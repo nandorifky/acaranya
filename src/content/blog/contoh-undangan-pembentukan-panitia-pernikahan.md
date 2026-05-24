@@ -6,7 +6,7 @@ description: >-
   hari H.
 publishedAt: '2026-04-08T17:49:21'
 updatedAt: '2026-04-08T17:49:21'
-author: tim-acaranya
+author: indira
 category: Teks
 tags:
   - pernikahan

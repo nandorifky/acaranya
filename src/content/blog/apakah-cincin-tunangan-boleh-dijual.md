@@ -6,7 +6,7 @@ description: >-
   ini.
 publishedAt: '2026-04-08T17:49:53'
 updatedAt: '2026-04-08T17:49:53'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - islami

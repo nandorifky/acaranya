@@ -5,7 +5,7 @@ description: >-
   Wujudkan penghormatan mendalam bagi tamu dengan sentuhan tradisi yang kental.
 publishedAt: '2026-04-08T17:50:41'
 updatedAt: '2026-04-08T17:50:41'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - pernikahan

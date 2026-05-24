@@ -6,7 +6,7 @@ description: >-
   pasangan.
 publishedAt: '2026-04-08T17:49:31'
 updatedAt: '2026-04-08T17:49:31'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

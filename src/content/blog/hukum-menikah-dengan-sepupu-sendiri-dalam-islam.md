@@ -6,7 +6,7 @@ description: >-
   halal dinikahi.
 publishedAt: '2026-04-08T17:50:12'
 updatedAt: '2026-04-08T17:50:12'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - wajib-tahu

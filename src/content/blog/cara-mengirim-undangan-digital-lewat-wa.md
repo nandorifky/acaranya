@@ -5,7 +5,7 @@ description: >-
   tips menulis kalimat pengantar yang menghargai tamu meskipun tanpa tatap muka.
 publishedAt: '2026-04-08T17:51:01'
 updatedAt: '2026-04-08T17:51:01'
-author: tim-acaranya
+author: indira
 category: Undangan
 tags:
   - undangan-digital

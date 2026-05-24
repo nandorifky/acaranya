@@ -6,7 +6,7 @@ description: >-
   serius.
 publishedAt: '2026-04-08T17:50:02'
 updatedAt: '2026-04-08T17:50:02'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - wajib-tahu

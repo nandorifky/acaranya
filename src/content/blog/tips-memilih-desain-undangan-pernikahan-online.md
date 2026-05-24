@@ -6,7 +6,7 @@ description: >-
   jenis font.
 publishedAt: '2026-04-08T17:50:32'
 updatedAt: '2026-04-08T17:50:32'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - desain

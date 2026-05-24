@@ -5,7 +5,7 @@ description: >-
   terkait konsep hubungan ini. Simak penjelasan lengkapnya untuk wawasan baru.
 publishedAt: '2026-04-08T17:49:21'
 updatedAt: '2026-04-08T17:49:21'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - pernikahan

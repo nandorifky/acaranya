@@ -6,7 +6,7 @@ description: >-
   elegan!
 publishedAt: '2026-04-08T17:50:52'
 updatedAt: '2026-04-08T17:50:52'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - desain

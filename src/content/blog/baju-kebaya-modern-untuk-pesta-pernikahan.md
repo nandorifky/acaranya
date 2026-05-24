@@ -5,7 +5,7 @@ description: >-
   Cek tren model, padu padan warna, dan tips memilih kebaya sesuai bentuk tubuh!
 publishedAt: '2026-04-08T17:50:21'
 updatedAt: '2026-04-08T17:50:21'
-author: tim-acaranya
+author: indira
 category: Busana
 tags:
   - fashion

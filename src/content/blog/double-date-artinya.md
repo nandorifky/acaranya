@@ -5,7 +5,7 @@ description: >-
   serta tips kencan ganda yang seru & bermakna bareng pasangan sahabatmu!
 publishedAt: '2026-04-08T17:51:09'
 updatedAt: '2026-04-08T17:51:09'
-author: tim-acaranya
+author: indira
 category: Relationship
 tags:
   - relationship

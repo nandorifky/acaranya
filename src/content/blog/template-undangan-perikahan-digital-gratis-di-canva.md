@@ -5,7 +5,7 @@ description: >-
   digital gratis di Canva yang estetik, mudah diedit, dan cocok untuk pemula.
 publishedAt: '2026-04-08T17:51:00'
 updatedAt: '2026-04-08T17:51:00'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - desain

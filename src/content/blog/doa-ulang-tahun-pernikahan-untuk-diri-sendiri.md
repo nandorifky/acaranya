@@ -5,7 +5,7 @@ description: >-
   keharmonisan, kesetiaan, dan keberkahan dalam menjalani bahtera rumah tangga.
 publishedAt: '2026-04-08T17:51:07'
 updatedAt: '2026-04-08T17:51:07'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - islami

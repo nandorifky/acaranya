@@ -6,7 +6,7 @@ description: >-
   indah.
 publishedAt: '2026-04-08T17:49:09'
 updatedAt: '2026-04-08T17:49:09'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

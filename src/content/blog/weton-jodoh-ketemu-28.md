@@ -6,7 +6,7 @@ description: >-
   tetap kuat.
 publishedAt: '2026-04-08T17:49:50'
 updatedAt: '2026-04-08T17:49:50'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

@@ -6,7 +6,7 @@ description: >-
   keluarga.
 publishedAt: '2026-04-10T14:54:00'
 updatedAt: '2026-04-10T14:54:02'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - wajib-tahu

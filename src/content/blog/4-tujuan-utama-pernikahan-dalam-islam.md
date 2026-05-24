@@ -5,7 +5,7 @@ description: >-
   mawaddah, dan warahmah. Wajib tahu sebelum melangkah ke pelaminan!
 publishedAt: '2026-04-08T17:50:15'
 updatedAt: '2026-04-08T17:50:15'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - pernikahan

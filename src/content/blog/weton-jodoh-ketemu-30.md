@@ -6,7 +6,7 @@ description: >-
   kesabaran bersama.
 publishedAt: '2026-04-08T17:49:51'
 updatedAt: '2026-04-08T17:49:51'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

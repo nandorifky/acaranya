@@ -6,7 +6,7 @@ description: >-
   pengantin muda.
 publishedAt: '2026-04-08T17:50:27'
 updatedAt: '2026-04-08T17:50:27'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - undangan-digital

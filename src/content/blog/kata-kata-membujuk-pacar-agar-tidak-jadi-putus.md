@@ -6,7 +6,7 @@ description: >-
   komunikasi.
 publishedAt: '2026-04-08T17:51:17'
 updatedAt: '2026-04-08T17:51:17'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - hubungan

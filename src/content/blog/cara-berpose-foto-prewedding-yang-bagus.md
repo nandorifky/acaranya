@@ -6,7 +6,7 @@ description: >-
   pasangan!
 publishedAt: '2026-04-08T17:50:19'
 updatedAt: '2026-04-08T17:50:19'
-author: tim-acaranya
+author: indira
 category: Prewedding
 tags:
   - prewedding

@@ -5,7 +5,7 @@ description: >-
   di acara pernikahan agar tetap menjaga silaturahmi & perasaan teman.
 publishedAt: '2026-04-08T17:49:27'
 updatedAt: '2026-04-08T17:49:27'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - inspirasi

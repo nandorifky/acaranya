@@ -6,7 +6,7 @@ description: >-
   penyelenggaranya di sini.
 publishedAt: '2026-04-08T17:51:08'
 updatedAt: '2026-04-08T17:51:08'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - adat

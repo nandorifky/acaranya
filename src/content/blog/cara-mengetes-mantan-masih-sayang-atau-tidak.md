@@ -6,7 +6,7 @@ description: >-
   kembali.
 publishedAt: '2026-04-08T17:50:01'
 updatedAt: '2026-04-08T17:50:01'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - wajib-tahu

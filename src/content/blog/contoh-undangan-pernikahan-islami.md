@@ -6,7 +6,7 @@ description: >-
   nikah.
 publishedAt: '2026-04-08T17:50:40'
 updatedAt: '2026-04-08T17:50:40'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - islami

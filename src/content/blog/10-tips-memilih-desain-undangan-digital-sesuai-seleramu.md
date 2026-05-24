@@ -5,7 +5,7 @@ description: >-
   hingga font yang sesuai dengan karakter pernikahanmu agar tampil menawan!
 publishedAt: '2026-04-08T17:50:57'
 updatedAt: '2026-04-08T17:50:57'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - undangan-digital

@@ -6,7 +6,7 @@ description: >-
   kehidupan.
 publishedAt: '2026-04-08T17:49:48'
 updatedAt: '2026-04-08T17:49:48'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

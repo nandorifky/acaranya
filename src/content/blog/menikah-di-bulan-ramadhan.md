@@ -5,7 +5,7 @@ description: >-
   tips mengatur waktu akad & resepsi agar ibadah puasa tetap berjalan maksimal.
 publishedAt: '2026-04-08T17:51:03'
 updatedAt: '2026-04-08T17:51:03'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - islami

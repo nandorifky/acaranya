@@ -6,7 +6,7 @@ description: >-
   makna.
 publishedAt: '2026-04-08T17:49:48'
 updatedAt: '2026-04-08T17:49:48'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

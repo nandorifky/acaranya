@@ -5,7 +5,7 @@ description: >-
   syarat pengajuan ke atasan, hingga tips agar tetap tenang saat hari H!
 publishedAt: '2026-04-08T17:50:18'
 updatedAt: '2026-04-08T17:50:18'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - tips

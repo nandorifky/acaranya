@@ -5,7 +5,7 @@ description: >-
   barcode Google Maps untuk undangan pernikahan digital agar akurat dan efisien.
 publishedAt: '2026-04-08T17:50:47'
 updatedAt: '2026-04-08T17:50:47'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - undangan-digital

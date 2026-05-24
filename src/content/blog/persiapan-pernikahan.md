@@ -6,7 +6,7 @@ description: >-
   impian.
 publishedAt: '2026-04-08T17:49:44'
 updatedAt: '2026-04-08T17:49:44'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - pernikahan

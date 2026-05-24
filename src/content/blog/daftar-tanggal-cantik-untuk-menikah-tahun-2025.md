@@ -5,7 +5,7 @@ description: >-
   unik & bermakna. Abadikan momen sakralmu di hari yang mudah diingat & spesial!
 publishedAt: '2026-04-08T17:49:41'
 updatedAt: '2026-04-08T17:49:41'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - perencanaan

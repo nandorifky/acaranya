@@ -5,7 +5,7 @@ description: >-
   hingga website instan yang praktis, hemat biaya, dan hasilnya profesional!
 publishedAt: '2026-04-08T17:50:45'
 updatedAt: '2026-04-08T17:50:45'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - undangan-digital

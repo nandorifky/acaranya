@@ -6,7 +6,7 @@ description: >-
   pasangan.
 publishedAt: '2026-04-08T17:49:23'
 updatedAt: '2026-04-08T17:49:23'
-author: tim-acaranya
+author: indira
 category: Anggaran
 tags:
   - anggaran

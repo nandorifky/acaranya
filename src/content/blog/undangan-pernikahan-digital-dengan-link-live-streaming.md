@@ -6,7 +6,7 @@ description: >-
   mana saja.
 publishedAt: '2026-04-08T17:50:54'
 updatedAt: '2026-04-08T17:50:54'
-author: tim-acaranya
+author: indira
 category: Undangan
 tags:
   - undangan-digital

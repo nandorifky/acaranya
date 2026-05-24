@@ -6,7 +6,7 @@ description: >-
   keluarga.
 publishedAt: 2026-04-08T17:50:00.000Z
 updatedAt: 2026-04-08T17:50:00.000Z
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

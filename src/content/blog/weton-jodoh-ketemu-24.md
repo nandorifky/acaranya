@@ -6,7 +6,7 @@ description: >-
   Jawa di sini.
 publishedAt: '2026-04-08T17:49:37'
 updatedAt: '2026-04-08T17:49:37'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

@@ -6,7 +6,7 @@ description: >-
   profesional!
 publishedAt: '2026-04-08T17:50:29'
 updatedAt: '2026-04-08T17:50:29'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - undangan-digital

@@ -6,7 +6,7 @@ description: >-
   asyik.
 publishedAt: '2026-04-08T17:50:13'
 updatedAt: '2026-04-08T17:50:13'
-author: tim-acaranya
+author: indira
 category: Relationship
 tags:
   - relationship

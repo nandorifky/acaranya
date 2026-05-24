@@ -5,7 +5,7 @@ description: >-
   format, bahasa, dan konteks penggunaannya agar tidak salah dalam membuatnya!
 publishedAt: '2026-04-08T17:50:51'
 updatedAt: '2026-04-08T17:50:51'
-author: tim-acaranya
+author: indira
 category: Undangan
 tags:
   - undangan-digital

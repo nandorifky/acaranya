@@ -6,7 +6,7 @@ description: >-
   tangga.
 publishedAt: '2026-04-08T17:50:06'
 updatedAt: '2026-04-08T17:50:06'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - perencanaan

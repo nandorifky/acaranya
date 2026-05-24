@@ -5,7 +5,7 @@ description: >-
   tepat agar hasilnya memuaskan, terpercaya, dan sesuai dengan anggaranmu.
 publishedAt: '2026-04-08T17:49:10'
 updatedAt: '2026-04-08T17:49:10'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - tips

@@ -5,7 +5,7 @@ description: >-
   berbasis website yang praktis, estetik, dan punya fitur lengkap untuk acaramu.
 publishedAt: '2026-04-08T17:49:57'
 updatedAt: '2026-04-08T17:49:57'
-author: tim-acaranya
+author: indira
 category: Blog
 tags:
   - undangan-digital

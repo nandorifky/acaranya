@@ -5,7 +5,7 @@ description: >-
   mengenai makna, penggunaan yang tepat, dan harapan mulia di balik kalimat ini.
 publishedAt: '2026-04-08T17:51:18'
 updatedAt: '2026-04-08T17:51:18'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - islami

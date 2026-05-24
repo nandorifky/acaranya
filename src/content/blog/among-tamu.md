@@ -5,7 +5,7 @@ description: >-
   penyambutan, hingga tradisi yang membuat tamu merasa dihormati di sini!
 publishedAt: '2026-04-08T17:50:18'
 updatedAt: '2026-04-08T17:50:18'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - adat

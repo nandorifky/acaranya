@@ -5,7 +5,7 @@ description: >-
   RT/RW sebagai langkah awal pendaftaran pernikahan resmi di Kelurahan & KUA.
 publishedAt: '2026-04-08T17:50:16'
 updatedAt: '2026-04-08T17:50:16'
-author: tim-acaranya
+author: indira
 category: Legalitas
 tags:
   - legalitas

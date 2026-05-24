@@ -6,7 +6,7 @@ description: >-
   estetik.
 publishedAt: '2026-04-08T17:50:57'
 updatedAt: '2026-04-08T17:50:57'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - lagu-pernikahan

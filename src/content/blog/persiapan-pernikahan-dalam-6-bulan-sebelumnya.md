@@ -6,7 +6,7 @@ description: >-
   digital.
 publishedAt: '2026-04-08T17:51:15'
 updatedAt: '2026-04-08T17:51:15'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - perencanaan

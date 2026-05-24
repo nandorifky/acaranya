@@ -5,7 +5,7 @@ description: >-
   lancar. Lengkap dengan teks bahasa Indonesia, Arab, dan tips agar tidak grogi!
 publishedAt: '2026-04-08T17:51:13'
 updatedAt: '2026-04-08T17:51:13'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - islami

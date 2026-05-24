@@ -6,7 +6,7 @@ description: >-
   kekinian.
 publishedAt: '2026-04-08T17:51:24'
 updatedAt: '2026-04-08T17:51:24'
-author: tim-acaranya
+author: indira
 category: Teks
 tags:
   - kata-kata

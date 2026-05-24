@@ -6,7 +6,7 @@ description: >-
   terkesan.
 publishedAt: '2026-04-08T17:50:08'
 updatedAt: '2026-04-08T17:50:08'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

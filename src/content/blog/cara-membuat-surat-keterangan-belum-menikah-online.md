@@ -5,7 +5,7 @@ description: >-
   dokumen dari RT hingga Kelurahan agar urusan administrasimu cepat selesai!
 publishedAt: '2026-04-08T17:49:24'
 updatedAt: '2026-04-08T17:49:24'
-author: tim-acaranya
+author: indira
 category: Legalitas
 tags:
   - legalitas

@@ -6,7 +6,7 @@ description: >-
   sini!
 publishedAt: '2026-04-08T17:49:19'
 updatedAt: '2026-04-08T17:49:19'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - inspirasi

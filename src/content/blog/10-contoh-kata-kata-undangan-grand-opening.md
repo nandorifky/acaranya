@@ -5,7 +5,7 @@ description: >-
   10+ contoh kalimat untuk pembukaan toko, restoran, hingga kantor di sini!
 publishedAt: '2026-04-08T17:50:04'
 updatedAt: '2026-04-08T17:50:04'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - undangan-digital

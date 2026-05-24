@@ -6,7 +6,7 @@ description: >-
   makin wow.
 publishedAt: '2026-04-08T17:50:51'
 updatedAt: '2026-04-08T17:50:51'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - tren

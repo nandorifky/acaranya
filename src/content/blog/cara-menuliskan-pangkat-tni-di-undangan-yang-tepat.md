@@ -6,7 +6,7 @@ description: >-
   benar.
 publishedAt: '2026-04-08T17:49:17'
 updatedAt: '2026-04-08T17:49:17'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - inspirasi

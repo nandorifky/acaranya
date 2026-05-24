@@ -6,7 +6,7 @@ description: >-
   Indonesia.
 publishedAt: '2026-04-08T17:49:13'
 updatedAt: '2026-04-08T17:49:13'
-author: tim-acaranya
+author: indira
 category: Legalitas
 tags:
   - buku-nikah

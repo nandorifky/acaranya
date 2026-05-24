@@ -6,7 +6,7 @@ description: >-
   & adat.
 publishedAt: '2026-04-08T17:51:21'
 updatedAt: '2026-04-08T17:51:21'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - mahar

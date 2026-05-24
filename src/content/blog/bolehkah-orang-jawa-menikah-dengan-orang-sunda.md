@@ -5,7 +5,7 @@ description: >-
   Perang Bubat, pandangan hukum Islam, dan tips menjalaninya di era modern!
 publishedAt: '2026-04-08T17:51:14'
 updatedAt: '2026-04-08T17:51:14'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - perencanaan

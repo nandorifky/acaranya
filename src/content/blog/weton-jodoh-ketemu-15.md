@@ -6,7 +6,7 @@ description: >-
   menghadapi tantangan hubungan.
 publishedAt: '2026-04-08T17:49:29'
 updatedAt: '2026-04-08T17:49:29'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - weton

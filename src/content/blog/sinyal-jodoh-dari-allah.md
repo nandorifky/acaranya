@@ -6,7 +6,7 @@ description: >-
   melangkah.
 publishedAt: '2026-04-08T17:50:09'
 updatedAt: '2026-04-08T17:50:09'
-author: tim-acaranya
+author: indira
 category: Relationship
 tags:
   - islami

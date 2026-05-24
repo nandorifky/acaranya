@@ -6,7 +6,7 @@ description: >-
   profesional.
 publishedAt: '2026-04-08T17:51:22'
 updatedAt: '2026-04-08T17:51:22'
-author: tim-acaranya
+author: indira
 category: Vendor
 tags:
   - wedding-organizer

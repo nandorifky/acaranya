@@ -5,7 +5,7 @@ description: >-
   prosesi adat Jawa ini dalam menyambut pengantin wanita ke keluarga pria.
 publishedAt: '2026-04-08T17:51:12'
 updatedAt: '2026-04-08T17:51:12'
-author: tim-acaranya
+author: indira
 category: Pernikahan
 tags:
   - adat

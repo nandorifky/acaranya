@@ -6,7 +6,7 @@ description: >-
   informatif.
 publishedAt: '2026-04-08T17:50:34'
 updatedAt: '2026-04-08T17:50:34'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - pernikahan

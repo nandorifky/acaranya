@@ -6,7 +6,7 @@ description: >-
   ke masa.
 publishedAt: '2026-04-08T17:49:10'
 updatedAt: '2026-04-08T17:49:10'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - pernikahan

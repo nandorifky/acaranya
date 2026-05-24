@@ -6,7 +6,7 @@ description: >-
   berbahaya.
 publishedAt: '2026-04-08T17:50:03'
 updatedAt: '2026-04-08T17:50:03'
-author: tim-acaranya
+author: indira
 category: Wajib Tahu
 tags:
   - keamanan

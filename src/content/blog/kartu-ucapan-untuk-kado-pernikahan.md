@@ -5,7 +5,7 @@ description: >-
   pernikahan yang romantis, islami, hingga lucu agar kado darimu makin berkesan!
 publishedAt: '2026-04-08T17:51:14'
 updatedAt: '2026-04-08T17:51:14'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

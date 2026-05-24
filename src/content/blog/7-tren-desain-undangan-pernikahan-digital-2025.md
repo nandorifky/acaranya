@@ -5,7 +5,7 @@ description: >-
   Dari gaya minimalis hingga tema futuristik, cek inspirasinya di Acaranya ID!
 publishedAt: '2026-04-08T17:51:06'
 updatedAt: '2026-04-08T17:51:06'
-author: tim-acaranya
+author: indira
 category: Undangan
 tags:
   - desain

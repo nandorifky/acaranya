@@ -6,7 +6,7 @@ description: >-
   hingga hari h.
 publishedAt: '2026-04-08T17:49:43'
 updatedAt: '2026-04-08T17:49:43'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - persiapan-nikah

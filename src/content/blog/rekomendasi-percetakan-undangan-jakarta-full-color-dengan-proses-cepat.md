@@ -6,7 +6,7 @@ description: >-
   spesialmu.
 publishedAt: '2026-05-19T16:59:10'
 updatedAt: '2026-05-22T17:12:08'
-author: tim-acaranya
+author: indira
 category: Perencanaan
 tags:
   - percetakan

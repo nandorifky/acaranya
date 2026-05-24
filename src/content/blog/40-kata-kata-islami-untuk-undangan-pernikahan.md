@@ -6,7 +6,7 @@ description: >-
   sakral!
 publishedAt: '2026-04-08T17:49:42'
 updatedAt: '2026-04-08T17:49:42'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - kata-kata

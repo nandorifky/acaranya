@@ -6,7 +6,7 @@ description: >-
   kerabat.
 publishedAt: '2026-04-08T17:50:37'
 updatedAt: '2026-04-08T17:50:37'
-author: tim-acaranya
+author: indira
 category: Inspirasi
 tags:
   - pernikahan

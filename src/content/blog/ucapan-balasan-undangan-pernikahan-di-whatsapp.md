@@ -6,7 +6,7 @@ description: >-
   kerabat.
 publishedAt: '2026-04-08T17:49:12'
 updatedAt: '2026-04-08T17:49:12'
-author: tim-acaranya
+author: indira
 category: Teks
 tags:
   - etika
