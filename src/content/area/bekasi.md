@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Bekasi — Solusi Praktis, Cepat & Modern
 description: Sedang mencari jasa undangan digital Bekasi? Acaranya.id menawarkan layanan pembuatan undangan online premium untuk pernikahan, ulang tahun, dan event di Bekasi.
 cityName: Bekasi
 province: Jawa Barat
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Bekasi.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Bekasi.webp
 imageAlt: Jasa Undangan Digital Online di Bekasi
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Bekasi ingin tanya-tanya tentang jasa pembuatan undangan digital untuk acara saya.
 ---

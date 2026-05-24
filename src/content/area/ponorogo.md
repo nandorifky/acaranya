@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Ponorogo — Seni Mengundang Berkelas & Estetik
 description: Platform pembuatan undangan online di Ponorogo untuk pernikahan, khitanan, dan event. Link undangan digital mewah dengan fitur RSVP, Maps, dan musik latar.
 cityName: Ponorogo
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Ponorogo.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Ponorogo.webp
 imageAlt: Jasa Undangan Digital Online di Ponorogo
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Ponorogo ingin tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

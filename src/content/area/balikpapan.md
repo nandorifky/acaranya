@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Balikpapan — Modern, Kilat & Harga Terbaik
 description: Butuh jasa pembuatan undangan digital di Balikpapan? Acaranya.id hadir dengan koleksi e-invitation premium untuk pernikahan, syukuran, dan event bisnis.
 cityName: Balikpapan
 province: Kalimantan Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Balikpapan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Balikpapan.webp
 imageAlt: Jasa Undangan Digital Online di Balikpapan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Balikpapan tertarik tanya-tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

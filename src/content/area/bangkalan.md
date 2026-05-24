@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Bangkalan — Solusi Praktis Lintas Suramadu
 description: Butuh platform pembuatan undangan online di Bangkalan? Acaranya.id menyediakan link undangan digital mewah untuk pernikahan, ulang tahun, dan syukuran dengan proses cepat.
 cityName: Bangkalan
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Bangkalan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Bangkalan.webp
 imageAlt: Jasa Undangan Digital Online di Bangkalan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Bangkalan ingin tanya tentang pembuatan undangan digital website yang praktis dan elegan.
 ---

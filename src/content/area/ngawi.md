@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Ngawi — Estetik, Mewah & Anti Ribet
 description: Sedang mencari jasa pembuatan undangan digital di Ngawi? Acaranya.id menawarkan e-invitation premium untuk pernikahan, syukuran, dan event di Ngawi dengan desain berkelas.
 cityName: Ngawi
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Ngawi.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Ngawi.webp
 imageAlt: Jasa Undangan Digital Online di Ngawi
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Ngawi tertarik dengan jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

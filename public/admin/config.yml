@@ -208,9 +208,12 @@ collections:
   - name: "area"
     label: "Area Layanan (Local SEO)"
     folder: "src/content/area"
+    extension: "md"
+    format: "frontmatter"
     create: true
     slug: "{{slug}}"
-    format: "frontmatter"
+    media_folder: "/public/images/area"
+    public_folder: "/images/area"
     fields:
       - { label: "Judul Halaman (H1)", name: "title", widget: "string" }
       - { label: "Meta Description", name: "description", widget: "text" }

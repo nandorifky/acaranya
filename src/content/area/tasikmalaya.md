@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Tasikmalaya — Kreatif, Estetik & Terjangkau
 description: Sedang mencari jasa undangan digital Tasikmalaya? Acaranya.id menyediakan layanan pembuatan undangan online premium untuk pernikahan, khitanan, dan event di Tasikmalaya.
 cityName: Tasikmalaya
 province: Jawa Barat
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Tasikmalaya.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Tasikmalaya.webp
 imageAlt: Jasa Undangan Digital Online di Tasikmalaya
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Sampurasun admin Acaranya, saya di Tasikmalaya ingin tanya-tanya tentang jasa pembuatan undangan digital yang prosesnya cepat dan desainnya estetik.
 ---

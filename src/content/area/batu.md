@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Batu — Mewah, Estetik & Cocok untuk Outdoor
 description: Sedang mencari jasa pembuatan undangan digital di Batu? Acaranya.id menghadirkan e-invitation premium untuk pernikahan, event, dan syukuran dengan desain visual memukau.
 cityName: Batu
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Batu.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Batu.webp
 imageAlt: Jasa Undangan Digital Online di Batu
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya tertarik pesan undangan digital website untuk acara saya di Kota Batu.
 ---

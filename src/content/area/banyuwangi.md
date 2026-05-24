@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Banyuwangi — Estetik, Elegan & Proses Kilat
 description: Mencari jasa pembuatan undangan digital di Banyuwangi? Acaranya.id hadir sebagai solusi e-invitation untuk pernikahan, ulang tahun, dan event dengan desain mewah.
 cityName: Banyuwangi
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Banyuwangi.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Banyuwangi.webp
 imageAlt: Jasa Undangan Digital Online di Banyuwangi
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Banyuwangi ingin pesan undangan digital website untuk acara saya.
 ---

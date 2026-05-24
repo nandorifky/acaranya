@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Semarang — Elegan, Cepat & Harga Bersahabat
 description: Sedang mencari jasa undangan digital Semarang? Acaranya.id menyediakan layanan pembuatan undangan online premium untuk pernikahan, khitanan, dan event di Semarang.
 cityName: Semarang
 province: Jawa Tengah
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Semarang.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Semarang.webp
 imageAlt: Jasa Undangan Digital Online di Semarang
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Semarang ingin tanya-tanya tentang jasa pembuatan undangan digital yang prosesnya cepat dan desainnya elegan.
 ---

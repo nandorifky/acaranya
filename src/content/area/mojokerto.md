@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Mojokerto — Mewah, Cepat & Terpercaya
 description: Cari jasa pembuatan undangan digital di Mojokerto? Acaranya.id menawarkan layanan e-invitation premium untuk pernikahan, syukuran, dan event di Mojokerto dengan desain berkelas.
 cityName: Mojokerto
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Mojokerto.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Mojokerto.webp
 imageAlt: Jasa Undangan Digital Online di Mojokerto
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Mojokerto ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

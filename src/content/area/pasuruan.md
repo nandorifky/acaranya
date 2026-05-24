@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Pasuruan — Solusi Cepat, Modern & Profesional
 description: Mencari jasa pembuatan undangan digital di Pasuruan? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, syukuran, dan event bisnis dengan desain mewah.
 cityName: Pasuruan
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Pasuruan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Pasuruan.webp
 imageAlt: Jasa Undangan Digital Online di Pasuruan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Pasuruan ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk acara saya.
 ---

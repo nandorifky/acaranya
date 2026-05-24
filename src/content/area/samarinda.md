@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Samarinda — Estetik, Mewah & Anti Ribet
 description: Sedang mencari jasa pembuatan undangan digital di Samarinda? Acaranya.id menawarkan e-invitation premium untuk pernikahan, syukuran, dan event dengan desain berkelas.
 cityName: Samarinda
 province: Kalimantan Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Samarinda.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Samarinda.webp
 imageAlt: Jasa Undangan Digital Online di Samarinda
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Samarinda tertarik dengan jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

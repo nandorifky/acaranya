@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Madiun — Solusi Praktis, Mewah & Terjangkau
 description: Cari jasa pembuatan undangan digital di Madiun? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, syukuran, and event di Madiun dengan desain estetik.
 cityName: Madiun
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Madiun.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Madiun.webp
 imageAlt: Jasa Undangan Digital Online di Madiun
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Madiun ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Yogyakarta — Sentuhan Tradisi & Estetika Modern
 description: Butuh jasa undangan digital Yogyakarta? Acaranya.id menyediakan layanan pembuatan undangan online untuk pernikahan, syukuran, dan event di Jogja dengan desain elegan.
 cityName: Yogyakarta
 province: DI Yogyakarta
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Yogyakarta.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Yogyakarta.webp
 imageAlt: Jasa Undangan Digital Online di Yogyakarta
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Berkah dalem admin Acaranya, saya tertarik dengan jasa pembuatan undangan digital untuk acara saya di Yogyakarta.
 ---

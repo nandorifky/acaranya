@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Lumajang — Elegan, Modern & Harga Terjangkau
 description: Cari jasa pembuatan undangan digital di Lumajang? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, syukuran, dan event di Lumajang dengan desain berkelas.
 cityName: Lumajang
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Lumajang.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Lumajang.webp
 imageAlt: Jasa Undangan Digital Online di Lumajang
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Lumajang ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

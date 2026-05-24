@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Bojonegoro — Cepat, Mewah & Terjangkau
 description: Cari jasa pembuatan undangan digital di Bojonegoro? Acaranya.id menawarkan layanan e-invitation premium untuk pernikahan, khitanan, dan event di Bojonegoro dengan desain elegan.
 cityName: Bojonegoro
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Bojonegoro.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Bojonegoro.webp
 imageAlt: Jasa Undangan Digital Online di Bojonegoro
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Bojonegoro ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

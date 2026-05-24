@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Makassar — Modern, Mewah & Terpercaya
 description: Butuh jasa undangan digital Makassar? Acaranya.id menyediakan layanan pembuatan undangan online premium untuk pernikahan, khitanan, dan event di Makassar.
 cityName: Makassar
 province: Sulawesi Selatan
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Makassar.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Makassar.webp
 imageAlt: Jasa Undangan Digital Online di Makassar
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Makassar ingin tanya-tanya tentang jasa pembuatan undangan digital untuk acara saya.
 ---

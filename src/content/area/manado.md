@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Manado — Estetik, Mewah & Tanpa Ribet
 description: Mencari jasa pembuatan undangan digital di Manado? Acaranya.id hadir sebagai solusi e-invitation premium untuk pernikahan, syukuran, dan event di Manado.
 cityName: Manado
 province: Sulawesi Utara
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Manado.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Manado.webp
 imageAlt: Jasa Undangan Digital Online di Manado
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Manado ingin pesan undangan digital website untuk acara saya.
 ---

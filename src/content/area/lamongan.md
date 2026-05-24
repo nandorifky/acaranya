@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Lamongan — Kreatif, Cepat & Harga Bersahabat
 description: Sedang mencari jasa pembuatan undangan digital di Lamongan? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, khitanan, dan event di Lamongan.
 cityName: Lamongan
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Lamongan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Lamongan.webp
 imageAlt: Jasa Undangan Digital Online di Lamongan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Lamongan ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk acara spesial saya.
 ---

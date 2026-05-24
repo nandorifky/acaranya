@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Pacitan — Estetik, Modern & Bernuansa Alam
 description: Cari platform pembuatan undangan website di Pacitan? Acaranya.id menyediakan jasa undangan digital mewah untuk pernikahan, syukuran, dan event dengan desain visual menawan.
 cityName: Pacitan
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Pacitan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Pacitan.webp
 imageAlt: Jasa Undangan Digital Online di Pacitan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Pacitan ingin tanya tentang pembuatan undangan digital website yang estetik untuk acara saya.
 ---

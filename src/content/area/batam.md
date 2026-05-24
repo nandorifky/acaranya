@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Batam — Praktis, Mewah & Elegan
 description: Mencari jasa pembuatan undangan digital di Batam? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, syukuran, dan event di Batam dengan desain berkelas.
 cityName: Batam
 province: Kepulauan Riau
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Batam.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Batam.webp
 imageAlt: Jasa Undangan Digital Online di Batam
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Batam ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

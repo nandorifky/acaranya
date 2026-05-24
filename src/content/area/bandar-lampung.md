@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Bandar Lampung — Estetik, Sopan & Cepat Jadi
 description: Sedang mencari jasa pembuatan undangan digital di Bandar Lampung? Acaranya.id menyediakan e-invitation premium untuk pernikahan, syukuran, dan event dengan harga terbaik.
 cityName: Bandar Lampung
 province: Lampung
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Bandar-Lampung.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Bandar-Lampung.webp
 imageAlt: Jasa Undangan Digital Online di Bandar Lampung
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Bandar Lampung tertarik tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

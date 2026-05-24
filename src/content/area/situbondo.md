@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Situbondo — Praktis, Mewah & Hemat Biaya
 description: Cari platform pembuatan undangan website di Situbondo? Acaranya.id menyediakan jasa undangan digital mewah untuk pernikahan, syukuran, dan event dengan desain visual menawan.
 cityName: Situbondo
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Situbondo.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Situbondo.webp
 imageAlt: Jasa Undangan Digital Online di Situbondo
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Situbondo ingin tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

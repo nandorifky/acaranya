@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Jember — Mewah, Praktis & Harga Terbaik
 description: Butuh jasa pembuatan undangan digital di Jember? Acaranya.id menawarkan layanan e-invitation elegan untuk pernikahan, khitanan, and event di Jember dengan proses cepat.
 cityName: Jember
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Jember.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Jember.webp
 imageAlt: Jasa Undangan Digital Online di Jember
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Jember tertarik dengan jasa pembuatan undangan digital website untuk acara saya.
 ---

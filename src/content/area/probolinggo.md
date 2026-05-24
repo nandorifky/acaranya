@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Probolinggo — Elegan, Modern & Cepat Jadi
 description: Butuh platform pembuatan undangan online di Probolinggo? Acaranya.id menyediakan link undangan digital mewah untuk pernikahan, khitanan, dan event dengan proses kilat.
 cityName: Probolinggo
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Probolinggo.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Probolinggo.webp
 imageAlt: Jasa Undangan Digital Online di Probolinggo
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Probolinggo tertarik tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

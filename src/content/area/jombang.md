@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Jombang — Mewah, Sopan & Cepat Jadi
 description: Butuh jasa pembuatan undangan digital di Jombang? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, syukuran, dan event di Jombang dengan desain berkelas.
 cityName: Jombang
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Jombang.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Jombang.webp
 imageAlt: Jasa Undangan Digital Online di Jombang
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Jombang ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

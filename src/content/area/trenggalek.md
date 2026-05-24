@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Trenggalek — Estetik, Mewah & Cepat Jadi
 description: Cari platform pembuatan undangan website di Trenggalek? Acaranya.id menyediakan jasa undangan digital mewah untuk pernikahan, syukuran, dan event dengan harga terbaik.
 cityName: Trenggalek
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Trenggalek.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Trenggalek.webp
 imageAlt: Jasa Undangan Digital Online di Trenggalek
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Trenggalek tertarik tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

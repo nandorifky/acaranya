@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Banjarmasin — Mewah, Sopan & Proses Cepat
 description: Cari platform pembuatan undangan website di Banjarmasin? Acaranya.id menyediakan jasa undangan digital mewah untuk pernikahan, syukuran, dan event dengan harga terbaik.
 cityName: Banjarmasin
 province: Kalimantan Selatan
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Banjarmasin.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Banjarmasin.webp
 imageAlt: Jasa Undangan Digital Online di Banjarmasin
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Banjarmasin tertarik tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

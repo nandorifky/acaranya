@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Tuban — Elegan, Modern & Anti Ribet
 description: Sedang mencari jasa pembuatan undangan digital di Tuban? Acaranya.id menawarkan e-invitation premium untuk pernikahan, syukuran, dan event di Tuban dengan desain berkelas.
 cityName: Tuban
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Tuban.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Tuban.webp
 imageAlt: Jasa Undangan Digital Online di Tuban
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Tuban tertarik dengan jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

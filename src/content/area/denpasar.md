@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Denpasar — Eksklusif, Estetik & Mendunia
 description: Sedang mencari jasa pembuatan undangan digital di Denpasar? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, syukuran, dan event di Bali.
 cityName: Denpasar
 province: Bali
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Denpasar.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Denpasar.webp
 imageAlt: Jasa Undangan Digital Online di Denpasar
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Denpasar tertarik dengan jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

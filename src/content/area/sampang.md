@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Sampang — Mewah, Sopan & Cepat Jadi
 description: Platform pembuatan undangan online di Sampang untuk pernikahan, khitanan, dan syukuran. Link undangan digital elegan dengan fitur RSVP, Maps, dan tampilan estetik.
 cityName: Sampang
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Sampang.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Sampang.webp
 imageAlt: Jasa Undangan Digital Online di Sampang
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Sampang ingin tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

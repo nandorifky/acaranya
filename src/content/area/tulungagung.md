@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Tulungagung — Elegan, Cepat & Harga Bersahabat
 description: Sedang mencari jasa pembuatan undangan digital di Tulungagung? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, syukuran, dan event di Tulungagung.
 cityName: Tulungagung
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Tulungagung.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Tulungagung.webp
 imageAlt: Jasa Undangan Digital Online di Tulungagung
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Tulungagung tertarik dengan jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Palembang — Elegan, Modern & Anti Ribet
 description: Sedang mencari jasa undangan digital Palembang? Acaranya.id hadir sebagai solusi pembuatan undangan online premium untuk pernikahan, khitanan, dan event di Palembang.
 cityName: Palembang
 province: Sumatera Selatan
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Palembang.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Palembang.webp
 imageAlt: Jasa Undangan Digital Online di Palembang
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Palembang tertarik dengan jasa pembuatan undangan digital untuk acara spesial saya.
 ---

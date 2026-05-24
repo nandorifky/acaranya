@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Kediri — Praktis, Mewah & Harga Terbaik
 description: Cari jasa pembuatan undangan digital di Kediri? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, khitanan, and event di Kediri dengan desain berkelas.
 cityName: Kediri
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Kediri.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Kediri.webp
 imageAlt: Jasa Undangan Digital Online di Kediri
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Kediri ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Pamekasan — Mewah, Sopan & Cepat Jadi
 description: Butuh platform pembuatan undangan online di Pamekasan? Acaranya.id menghadirkan e-invitation premium untuk pernikahan, syukuran, dan event dengan desain yang elegan.
 cityName: Pamekasan
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Pamekasan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Pamekasan.webp
 imageAlt: Jasa Undangan Digital Online di Pamekasan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Pamekasan ingin tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

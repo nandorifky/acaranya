@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Gresik — Elegan, Modern & Cepat Jadi
 description: Mencari jasa pembuatan undangan digital di Gresik? Acaranya.id hadir sebagai solusi e-invitation untuk pernikahan, ulang tahun, dan syukuran dengan desain berkelas.
 cityName: Gresik
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Gresik.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Gresik.webp
 imageAlt: Jasa Undangan Digital Online di Gresik
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Gresik ingin tanya-tanya tentang jasa pembuatan undangan digital untuk acara saya.
 ---

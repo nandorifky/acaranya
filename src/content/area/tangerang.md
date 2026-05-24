@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Tangerang — Modern, Kilat & Harga Terbaik
 description: Cari jasa undangan digital Tangerang? Acaranya.id menawarkan layanan pembuatan undangan online premium untuk pernikahan, ulang tahun, dan event di Tangerang.
 cityName: Tangerang
 province: Banten
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Tangerang.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Tangerang.webp
 imageAlt: Jasa Undangan Digital Online di Tangerang
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Tangerang ingin tanya-tanya tentang jasa pembuatan undangan digital yang prosesnya cepat dan harganya terjangkau.
 ---

@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Surabaya — Solusi Modern untuk Event Bergengsi
 description: Cari jasa undangan digital Surabaya? Acaranya.id menawarkan layanan pembuatan undangan online premium untuk pernikahan, khitanan, dan event di Surabaya.
 cityName: Surabaya
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Surabaya.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Surabaya.webp
 imageAlt: Jasa Undangan Digital Online di Surabaya
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Surabaya ingin tanya-tanya tentang jasa pembuatan undangan digital yang fiturnya paling lengkap.
 ---

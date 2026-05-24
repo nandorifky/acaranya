@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Magetan — Estetik, Mewah & Cepat Jadi
 description: Butuh jasa pembuatan undangan digital di Magetan? Acaranya.id menawarkan layanan e-invitation premium untuk pernikahan, syukuran, dan event di Magetan dengan desain berkelas.
 cityName: Magetan
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Magetan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Magetan.webp
 imageAlt: Jasa Undangan Digital Online di Magetan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Magetan ingin tanya-tanya tentang jasa pembuatan undangan digital website untuk momen spesial saya.
 ---

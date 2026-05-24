@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Solo — Sentuhan Adat dalam Format Modern
 description: Butuh jasa undangan digital Solo? Acaranya.id menyediakan layanan pembuatan undangan online elegan untuk pernikahan, khitanan, dan syukuran di Solo dengan harga terjangkau.
 cityName: Solo
 province: Jawa Tengah
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Solo.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Solo.webp
 imageAlt: Jasa Undangan Digital Online di Solo
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Sugeng siang admin Acaranya, saya di Solo tertarik dengan jasa pembuatan undangan digital yang desainnya elegan dan sopan.
 ---

@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Sumenep — Mewah, Sopan & Berkelas
 description: Platform pembuatan undangan online di Sumenep untuk pernikahan, syukuran, dan event. Link undangan digital elegan dengan fitur RSVP, Maps, dan navigasi presisi.
 cityName: Sumenep
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Sumenep.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Sumenep.webp
 imageAlt: Jasa Undangan Digital Online di Sumenep
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Sumenep ingin tanya tentang pembuatan undangan digital website yang elegan untuk acara saya.
 ---

@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Bandung — Desain Kreatif, Estetik & Terjangkau
 description: Sedang mencari jasa undangan digital Bandung? Acaranya.id menyediakan layanan pembuatan undangan online estetik untuk pernikahan, ulang tahun, dan event di Bandung.
 cityName: Bandung
 province: Jawa Barat
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Bandung.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Bandung.webp
 imageAlt: Jasa Undangan Digital Online di Bandung
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Wilujeng enjing admin Acaranya, saya di Bandung ingin tanya-tanya tentang jasa pembuatan undangan digital yang desainnya paling estetik.
 ---

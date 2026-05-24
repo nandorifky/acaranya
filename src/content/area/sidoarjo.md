@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Sidoarjo — Praktis, Estetik & Cepat Jadi
 description: Sedang mencari jasa pembuatan undangan digital di Sidoarjo? Acaranya.id menyediakan layanan e-invitation premium untuk pernikahan, ulang tahun, and event di Sidoarjo.
 cityName: Sidoarjo
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Sidoarjo.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Sidoarjo.webp
 imageAlt: Jasa Undangan Digital Online di Sidoarjo
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Sidoarjo ingin tanya tentang pembuatan undangan digital website untuk acara saya.
 ---

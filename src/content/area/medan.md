@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Medan — Praktis, Mewah & Cepat Jadi
 description: Mencari jasa undangan digital Medan? Acaranya.id menyediakan layanan pembuatan undangan online premium untuk pernikahan, ulang tahun, dan event di Medan.
 cityName: Medan
 province: Sumatera Utara
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Medan.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Medan.webp
 imageAlt: Jasa Undangan Digital Online di Medan
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Medan mau tanya-tanya tentang jasa pembuatan undangan digital untuk acara saya.
 ---

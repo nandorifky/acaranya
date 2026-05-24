@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Bondowoso — Elegan, Modern & Tanpa Ribet
 description: Mencari jasa pembuatan undangan digital di Bondowoso? Acaranya.id hadir sebagai solusi e-invitation premium untuk pernikahan, syukuran, dan event di Bondowoso.
 cityName: Bondowoso
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Bondowoso.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Bondowoso.webp
 imageAlt: Jasa Undangan Digital Online di Bondowoso
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Bondowoso ingin pesan undangan digital website untuk acara saya.
 ---

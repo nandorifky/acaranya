@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Nganjuk — Solusi Cepat, Modern & Hemat
 description: Cari platform pembuatan undangan website di Nganjuk? Acaranya.id menyediakan jasa undangan digital mewah untuk pernikahan, syukuran, dan event dengan harga terbaik.
 cityName: Nganjuk
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Nganjuk.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Nganjuk.webp
 imageAlt: Jasa Undangan Digital Online di Nganjuk
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Nganjuk tertarik tanya tentang pembuatan undangan digital website untuk acara saya.
 ---

@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Malang — Estetik, Kreatif & Terjangkau
 description: Sedang mencari jasa undangan digital Malang? Acaranya.id menyediakan layanan pembuatan undangan online estetik untuk pernikahan, ulang tahun, dan event di Malang.
 cityName: Malang
 province: Jawa Timur
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Malang.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Malang.webp
 imageAlt: Jasa Undangan Digital Online di Malang
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Malang ingin tanya-tanya tentang jasa pembuatan undangan digital yang desainnya estetik untuk acara saya.
 ---

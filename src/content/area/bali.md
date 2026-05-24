@@ -3,9 +3,9 @@ title: Jasa Undangan Digital Bali — Mewah, Eksklusif, dan Mendunia
 description: Sedang mencari jasa undangan digital Bali? Acaranya.id menghadirkan layanan pembuatan undangan online premium untuk pernikahan eksklusif dan event internasional di Bali.
 cityName: Bali
 province: Bali
-coverImage: ../../../public/images/area/jasa-undangan-digital-online-di-Bali.webp
+coverImage: /images/area/jasa-undangan-digital-online-di-Bali.webp
 imageAlt: Jasa Undangan Digital Online di Bali
-publishedAt: 2024-05-25
+publishedAt: '2024-05-25T00:00:00'
 status: published
 whatsappText: Om Swastiastu admin Acaranya, saya tertarik dengan jasa pembuatan undangan digital premium untuk acara eksklusif saya di Bali.
 ---
