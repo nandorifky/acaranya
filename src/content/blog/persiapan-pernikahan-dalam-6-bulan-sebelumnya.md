@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:51:15'
 updatedAt: '2026-04-08T17:51:15'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/persiapan-pernikahan-dalam-6-bulan-sebelumnya.webp
 imageAlt: Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya
 imageTitle: Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya

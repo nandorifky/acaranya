@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:10'
 updatedAt: '2026-04-08T17:50:10'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/venue-pernikahan-outdoor-di-jogja.jpg
 imageAlt: 7 Rekomendasi Venue Pernikahan Outdoor di Jogja
 imageTitle: 7 Rekomendasi Venue Pernikahan Outdoor di Jogja

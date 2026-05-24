@@ -8,7 +8,10 @@ publishedAt: '2026-04-08T17:50:02'
 updatedAt: '2026-04-08T17:50:02'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
 image: /images/blog/featured/cara-mengecek-status-pernikahan.jpg
 imageAlt: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'
 imageTitle: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'

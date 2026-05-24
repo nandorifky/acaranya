@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:35'
 updatedAt: '2026-04-08T17:50:35'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/bingkai-undangan-pernikahan.jpg
 imageAlt: Bingkai Undangan Pernikahan
 imageTitle: Bingkai Undangan Pernikahan

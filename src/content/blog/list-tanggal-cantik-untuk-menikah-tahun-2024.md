@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:40'
 updatedAt: '2026-04-08T17:49:40'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/list-tanggal-cantik-untuk-menikah-tahun-2024.jpg
 imageAlt: List Tanggal Cantik untuk Menikah Tahun 2024
 imageTitle: List Tanggal Cantik untuk Menikah Tahun 2024

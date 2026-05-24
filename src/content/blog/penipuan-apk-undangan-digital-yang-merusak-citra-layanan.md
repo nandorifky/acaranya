@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:03'
 updatedAt: '2026-04-08T17:50:03'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: >-
   /images/blog/featured/penipuan-apk-undangan-digital-yang-merusak-citra-layanan.jpg
 imageAlt: Penipuan APK Undangan Digital yang Merusak Citra Layanan

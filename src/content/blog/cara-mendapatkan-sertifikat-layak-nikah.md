@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:26'
 updatedAt: '2026-04-08T17:50:26'
 author: tim-acaranya
 category: Legalitas
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
 image: /images/blog/featured/cara-mendapatkan-sertifikat-layak-nikah.jpg
 imageAlt: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas dan Syaratnya
 imageTitle: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas dan Syaratnya

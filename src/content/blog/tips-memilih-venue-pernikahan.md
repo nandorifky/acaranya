@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:49:47'
 updatedAt: '2026-04-08T17:49:47'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/tips-memilih-venue-pernikahan.jpg
 imageAlt: 8 Tips Memilih Venue Pernikahan yang Tepat
 imageTitle: 8 Tips Memilih Venue Pernikahan yang Tepat

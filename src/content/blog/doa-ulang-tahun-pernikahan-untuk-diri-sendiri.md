@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:07'
 updatedAt: '2026-04-08T17:51:07'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
 image: /images/blog/featured/doa-ulang-tahun-pernikahan-untuk-diri-sendiri.jpg
 imageAlt: Ini 10 Doa Ulang Tahun Pernikahan untuk Diri Sendiri
 imageTitle: Ini 10 Doa Ulang Tahun Pernikahan untuk Diri Sendiri

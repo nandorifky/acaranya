@@ -8,7 +8,10 @@ publishedAt: '2026-04-08T17:50:50'
 updatedAt: '2026-04-08T17:50:50'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
 image: /images/blog/featured/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan.jpg
 imageAlt: Inilah Waktu yang Tepat untuk Mengirim Undangan Pernikahan
 imageTitle: Inilah Waktu yang Tepat untuk Mengirim Undangan Pernikahan

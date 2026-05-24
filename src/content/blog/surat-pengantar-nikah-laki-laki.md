@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:59'
 updatedAt: '2026-04-08T17:49:59'
 author: tim-acaranya
 category: Legalitas
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
 image: /images/blog/featured/surat-pengantar-nikah-laki-laki.jpg
 imageAlt: 'Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Contoh'
 imageTitle: 'Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Contoh'

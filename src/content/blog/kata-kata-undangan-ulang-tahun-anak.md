@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:25'
 updatedAt: '2026-04-08T17:51:25'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/kata-kata-undangan-ulang-tahun-anak.jpg
 imageAlt: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak
 imageTitle: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak

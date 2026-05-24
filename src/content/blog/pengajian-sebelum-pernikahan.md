@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:51:16'
 updatedAt: '2026-04-08T17:51:16'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/pengajian-sebelum-pernikahan.jpg
 imageAlt: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan
 imageTitle: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan

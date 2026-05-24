@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:36'
 updatedAt: '2026-04-08T17:50:36'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/desain-undangan-pernikahan-aesthetic.webp
 imageAlt: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'
 imageTitle: 'Contoh Desain Undangan Pernikahan Aesthetic, Jarang Dipakai!'

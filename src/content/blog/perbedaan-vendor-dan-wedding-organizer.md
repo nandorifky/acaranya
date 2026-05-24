@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:30'
 updatedAt: '2026-04-08T17:50:30'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/perbedaan-vendor-dan-wedding-organizer.jpg
 imageAlt: Inilah Perbedaan Vendor dan Wedding Organizer (WO)
 imageTitle: Inilah Perbedaan Vendor dan Wedding Organizer (WO)

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:26'
 updatedAt: '2026-04-10T16:42:57'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - desain
 image: /images/blog/featured/motif-undangan-pernikahan.jpg
 imageAlt: Motif Undangan Pernikahan
 imageTitle: Motif Undangan Pernikahan

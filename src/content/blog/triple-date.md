@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:13'
 updatedAt: '2026-04-08T17:50:13'
 author: tim-acaranya
 category: Relationship
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/triple-date.jpg
 imageAlt: 'Pahami Arti Triple Date, Manfaat, dan Tips Melakukannya'
 imageTitle: 'Pahami Arti Triple Date, Manfaat, dan Tips Melakukannya'

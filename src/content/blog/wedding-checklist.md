@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:43'
 updatedAt: '2026-04-08T17:49:43'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/wedding-checklist.jpg
 imageAlt: Wedding Checklist Indonesia
 imageTitle: Wedding Checklist Indonesia

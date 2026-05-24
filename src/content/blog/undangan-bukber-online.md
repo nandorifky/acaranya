@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:02'
 updatedAt: '2026-04-08T17:51:02'
 author: tim-acaranya
 category: Blog
-tags: []
+tags:
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/undangan-bukber-online.jpg
 imageAlt: Undangan Bukber Online
 imageTitle: Undangan Bukber Online

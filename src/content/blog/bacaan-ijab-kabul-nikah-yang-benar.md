@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:13'
 updatedAt: '2026-04-08T17:51:13'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/bacaan-ijab-kabul-nikah-yang-benar.jpg
 imageAlt: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!'
 imageTitle: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!'

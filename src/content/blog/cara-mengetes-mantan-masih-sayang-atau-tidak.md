@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:01'
 updatedAt: '2026-04-08T17:50:01'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/cara-mengetes-mantan-masih-sayang-atau-tidak.jpg
 imageAlt: Begini Cara Mengetes Mantan Masih Sayang atau Tidak
 imageTitle: Begini Cara Mengetes Mantan Masih Sayang atau Tidak

@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:49:39'
 updatedAt: '2026-04-08T17:49:39'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
 image: ''
 imageAlt: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?
 imageTitle: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?

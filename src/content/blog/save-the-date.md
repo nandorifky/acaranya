@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:25'
 updatedAt: '2026-04-08T17:50:25'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/save-the-date.jpg
 imageAlt: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'
 imageTitle: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'

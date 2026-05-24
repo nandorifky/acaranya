@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:41'
 updatedAt: '2026-04-08T17:49:41'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/rekomendasi-kado-pernikahan.webp
 imageAlt: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman
 imageTitle: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman

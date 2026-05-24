@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:06'
 updatedAt: '2026-04-08T17:51:06'
 author: tim-acaranya
 category: Undangan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/7-tren-desain-undangan-pernikahan-digital-2025.jpg
 imageAlt: 7 Tren Desain Undangan Pernikahan Digital 2025
 imageTitle: 7 Tren Desain Undangan Pernikahan Digital 2025

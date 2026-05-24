@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:16'
 updatedAt: '2026-04-08T17:50:16'
 author: tim-acaranya
 category: Legalitas
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/surat-pengantar-nikah-dari-rt.png
 imageAlt: Surat Pengantar Nikah dari RT
 imageTitle: Surat Pengantar Nikah dari RT

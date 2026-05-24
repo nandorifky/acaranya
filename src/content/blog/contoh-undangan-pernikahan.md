@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:31'
 updatedAt: '2026-04-08T17:50:31'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/contoh-undangan-pernikahan.jpg
 imageAlt: Contoh Undangan Pernikahan
 imageTitle: Contoh Undangan Pernikahan

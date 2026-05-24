@@ -8,7 +8,10 @@ publishedAt: '2026-04-08T17:49:23'
 updatedAt: '2026-04-08T17:49:23'
 author: tim-acaranya
 category: Anggaran
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
 image: /images/blog/featured/cara-melewati-ujian-finansial-sebelum-menikah.jpg
 imageAlt: Cara Melewati Ujian Finansial Sebelum Menikah
 imageTitle: Cara Melewati Ujian Finansial Sebelum Menikah

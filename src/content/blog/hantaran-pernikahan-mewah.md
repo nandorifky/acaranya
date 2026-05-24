@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:19'
 updatedAt: '2026-04-08T17:49:19'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/hantaran-pernikahan-mewah.jpg
 imageAlt: 10 Contoh Hantaran Pernikahan Mewah yang Berkesan
 imageTitle: 10 Contoh Hantaran Pernikahan Mewah yang Berkesan

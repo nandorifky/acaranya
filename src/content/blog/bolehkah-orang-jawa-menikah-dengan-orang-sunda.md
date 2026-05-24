@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:14'
 updatedAt: '2026-04-08T17:51:14'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/bolehkah-orang-jawa-menikah-dengan-orang-sunda.jpg
 imageAlt: Bolehkah Orang Jawa Menikah dengan Orang Sunda? Ini Jawabannya!
 imageTitle: Bolehkah Orang Jawa Menikah dengan Orang Sunda? Ini Jawabannya!

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:21'
 updatedAt: '2026-04-08T17:49:21'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/arti-open-marriage-dalam-pernikahan.jpg
 imageAlt: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
 imageTitle: Pahami Arti Open Marriage dalam Pernikahan di Indonesia

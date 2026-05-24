@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:42'
 updatedAt: '2026-04-08T17:50:42'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/undangan-digital-tanpa-foto.jpg
 imageAlt: 20 Contoh Tema Undangan Digital Tanpa Foto
 imageTitle: 20 Contoh Tema Undangan Digital Tanpa Foto

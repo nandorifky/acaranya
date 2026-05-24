@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:18'
 updatedAt: '2026-04-08T17:51:18'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/barakallah-till-jannah.jpg
 imageAlt: Barakallah Till Jannah Artinya? Ini Makna dan Penerapannya
 imageTitle: Barakallah Till Jannah Artinya? Ini Makna dan Penerapannya

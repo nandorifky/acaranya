@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:26'
 updatedAt: '2026-04-08T17:49:26'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/seserahan-pernikahan-adat-betawi.jpg
 imageAlt: 11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wanita
 imageTitle: 11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wanita

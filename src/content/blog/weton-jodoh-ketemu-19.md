@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:32'
 updatedAt: '2026-04-08T17:49:32'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/weton-jodoh-ketemu-19.jpg
 imageAlt: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya
 imageTitle: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya

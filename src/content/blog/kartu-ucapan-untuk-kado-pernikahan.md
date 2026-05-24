@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:14'
 updatedAt: '2026-04-08T17:51:14'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/kartu-ucapan-untuk-kado-pernikahan.jpg
 imageAlt: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan
 imageTitle: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan

@@ -8,7 +8,10 @@ publishedAt: '2026-04-08T17:51:29'
 updatedAt: '2026-04-08T17:51:29'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
 image: /images/blog/featured/perbedaan-undangan-digital-dan-website.jpeg
 imageAlt: Perbedaan Undangan Digital dan Website
 imageTitle: Perbedaan Undangan Digital dan Website

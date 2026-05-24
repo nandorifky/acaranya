@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:16'
 updatedAt: '2026-04-08T17:51:16'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/karma-laki-laki-yang-menyakiti-hati-wanita.jpg
 imageAlt: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Islam
 imageTitle: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Islam

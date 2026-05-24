@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:22'
 updatedAt: '2026-04-08T17:49:22'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/teks-undangan-pernikahan.jpg
 imageAlt: 7 Contoh Teks Undangan Pernikahan Menarik
 imageTitle: 7 Contoh Teks Undangan Pernikahan Menarik

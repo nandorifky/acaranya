@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:58'
 updatedAt: '2026-04-08T17:49:58'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/seserahan-pernikahan.jpg
 imageAlt: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!
 imageTitle: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!

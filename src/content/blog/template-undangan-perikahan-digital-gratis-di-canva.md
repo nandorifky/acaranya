@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:00'
 updatedAt: '2026-04-08T17:51:00'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/template-undangan-perikahan-digital-gratis-di-canva.jpg
 imageAlt: 10 Template Undangan Pernikahan Digital Gratis di Canva
 imageTitle: 10 Template Undangan Pernikahan Digital Gratis di Canva

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:06'
 updatedAt: '2026-04-08T17:51:06'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/ucapan-selamat-wisuda.jpg
 imageAlt: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!
 imageTitle: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!

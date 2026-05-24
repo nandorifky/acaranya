@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:21'
 updatedAt: '2026-04-08T17:51:21'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/contoh-mahar-pernikahan-dalam-islam.jpg
 imageAlt: 6 Contoh Mahar Pernikahan dalam Islam dan Ketentuannya
 imageTitle: 6 Contoh Mahar Pernikahan dalam Islam dan Ketentuannya

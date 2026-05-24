@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:33'
 updatedAt: '2026-04-08T17:50:33'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/lagu-untuk-undangan-pernikahan-digital.jpg
 imageAlt: 60 Rekomendasi Lagu untuk Undangan Pernikahan Digital Terbaik
 imageTitle: 60 Rekomendasi Lagu untuk Undangan Pernikahan Digital Terbaik

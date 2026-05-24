@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:46'
 updatedAt: '2026-04-08T17:50:46'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/keuntungan-menggunakan-undangan-digital.jpg
 imageAlt: 8 Keuntungan Menggunakan Undangan Digital
 imageTitle: 8 Keuntungan Menggunakan Undangan Digital

@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:04'
 updatedAt: '2026-04-08T17:50:04'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/10-contoh-kata-kata-undangan-grand-opening.jpg
 imageAlt: 10+ Contoh Kata-Kata Undangan Grand Opening
 imageTitle: 10+ Contoh Kata-Kata Undangan Grand Opening

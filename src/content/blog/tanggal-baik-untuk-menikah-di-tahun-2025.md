@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:06'
 updatedAt: '2026-04-08T17:50:06'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/tanggal-baik-untuk-menikah-di-tahun-2025.jpg
 imageAlt: Deretan Tanggal Baik untuk Menikah di Tahun 2025
 imageTitle: Deretan Tanggal Baik untuk Menikah di Tahun 2025

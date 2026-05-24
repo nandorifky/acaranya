@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:04'
 updatedAt: '2026-04-08T17:51:04'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/kata-kata-undangan-wisuda-lewat-wa.jpg
 imageAlt: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 imageTitle: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA

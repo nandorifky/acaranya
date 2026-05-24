@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:24'
 updatedAt: '2026-04-08T17:50:24'
 author: tim-acaranya
 category: Relationship
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/kenapa-saat-berciuman-tangan-pria-tidak-bisa-diam.jpg
 imageAlt: Kenapa Saat Berciuman Tangan Pria Tidak Bisa Diam? Ini Alasannya
 imageTitle: Kenapa Saat Berciuman Tangan Pria Tidak Bisa Diam? Ini Alasannya

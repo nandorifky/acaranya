@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:47'
 updatedAt: '2026-04-08T17:50:47'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
 image: >-
   /images/blog/featured/cara-membuat-barcode-lokasi-untuk-undangan-pernikahan.jpg
 imageAlt: Cara Membuat Barcode Lokasi untuk Undangan Pernikahan

@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:49'
 updatedAt: '2026-04-08T17:50:49'
 author: tim-acaranya
 category: Undangan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: >-
   /images/blog/featured/alasan-kenapa-pakai-undangan-digital-untuk-acara-pernikahan.jpg
 imageAlt: Alasan Kenapa Pakai Undangan Digital untuk Acara Pernikahan

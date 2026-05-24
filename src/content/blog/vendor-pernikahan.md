@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:14'
 updatedAt: '2026-04-08T17:50:14'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/vendor-pernikahan.jpg
 imageAlt: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H
 imageTitle: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H

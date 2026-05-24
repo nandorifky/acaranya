@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:21'
 updatedAt: '2026-04-08T17:50:21'
 author: tim-acaranya
 category: Busana
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/baju-kebaya-modern-untuk-pesta-pernikahan.jpg
 imageAlt: 10 Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan
 imageTitle: 10 Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan

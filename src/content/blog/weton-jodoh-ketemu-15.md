@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:29'
 updatedAt: '2026-04-08T17:49:29'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/weton-jodoh-ketemu-15.jpg
 imageAlt: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'
 imageTitle: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'

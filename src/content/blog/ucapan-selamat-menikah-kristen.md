@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:13'
 updatedAt: '2026-04-08T17:49:13'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/ucapan-selamat-menikah-kristen.webp
 imageAlt: 33 Contoh Ucapan Selamat Menikah Kristen
 imageTitle: 33 Contoh Ucapan Selamat Menikah Kristen

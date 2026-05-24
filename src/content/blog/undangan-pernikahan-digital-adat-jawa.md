@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:59'
 updatedAt: '2026-04-08T17:50:59'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/undangan-pernikahan-digital-adat-jawa.jpg
 imageAlt: Contoh Desain Undangan Pernikahan Digital Adat Jawa
 imageTitle: Contoh Desain Undangan Pernikahan Digital Adat Jawa

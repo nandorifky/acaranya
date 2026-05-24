@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:55'
 updatedAt: '2026-04-08T17:50:55'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/sebar-undangan-h-berapa.png
 imageAlt: Sebar Undangan H- Berapa? Waktu Ideal Bagikan Undangan
 imageTitle: Sebar Undangan H- Berapa? Waktu Ideal Bagikan Undangan

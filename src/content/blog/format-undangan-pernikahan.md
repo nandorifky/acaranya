@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:34'
 updatedAt: '2026-04-08T17:50:34'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/format-undangan-pernikahan.jpg
 imageAlt: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'
 imageTitle: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'

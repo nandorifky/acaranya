@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:18'
 updatedAt: '2026-04-08T17:50:18'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/aturan-cuti-menikah.jpg
 imageAlt: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
 imageTitle: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini

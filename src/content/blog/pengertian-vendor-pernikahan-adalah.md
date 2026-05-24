@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:08'
 updatedAt: '2026-04-08T17:51:08'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/pengertian-vendor-pernikahan-adalah.jpg
 imageAlt: 'Vendor Pernikahan Adalah: Pengertian, Jenis, dan Tips Memilihnya'
 imageTitle: 'Vendor Pernikahan Adalah: Pengertian, Jenis, dan Tips Memilihnya'

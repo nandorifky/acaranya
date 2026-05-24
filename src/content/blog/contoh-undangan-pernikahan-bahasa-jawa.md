@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:41'
 updatedAt: '2026-04-08T17:50:41'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/contoh-undangan-pernikahan-bahasa-jawa.jpg
 imageAlt: 9 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan
 imageTitle: 9 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan

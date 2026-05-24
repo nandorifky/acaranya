@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:45'
 updatedAt: '2026-04-08T17:49:45'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/kata-kata-undangan-pernikahan-online-lewat-wa.jpg
 imageAlt: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan
 imageTitle: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan

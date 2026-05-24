@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:33'
 updatedAt: '2026-04-08T17:49:33'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/teks-sungkeman-pernikahan.webp
 imageAlt: 8 Contoh Teks Sungkeman Pernikahan yang Mengharukan
 imageTitle: 8 Contoh Teks Sungkeman Pernikahan yang Mengharukan

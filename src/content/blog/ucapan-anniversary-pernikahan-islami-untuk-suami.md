@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:36'
 updatedAt: '2026-04-08T17:49:36'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/ucapan-anniversary-pernikahan-islami-untuk-suami.jpg
 imageAlt: 6 Contoh Ucapan Anniversary Pernikahan Islami untuk Suami
 imageTitle: 6 Contoh Ucapan Anniversary Pernikahan Islami untuk Suami

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:11'
 updatedAt: '2026-04-08T17:51:11'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/lagu-pernikahan-barat-untuk-undangan-digital.jpg
 imageAlt: 20 Rekomendasi Lagu Pernikahan Barat yang Romantis untuk Undangan Digital
 imageTitle: 20 Rekomendasi Lagu Pernikahan Barat yang Romantis untuk Undangan Digital

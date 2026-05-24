@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:51'
 updatedAt: '2026-04-08T17:50:51'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/tren-desain-undangan-digital-tahun-2024.jpg
 imageAlt: Tren Desain Undangan Digital Tahun 2024
 imageTitle: Tren Desain Undangan Digital Tahun 2024

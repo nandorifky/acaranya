@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:28'
 updatedAt: '2026-04-08T17:49:28'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/alasan-tidak-bisa-hadir-di-acara-pernikahan.jpg
 imageAlt: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk Akal
 imageTitle: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk Akal

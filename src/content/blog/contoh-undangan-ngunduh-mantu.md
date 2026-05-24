@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:39'
 updatedAt: '2026-04-08T17:50:39'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/contoh-undangan-ngunduh-mantu.jpg
 imageAlt: 5 Contoh Undangan Ngunduh Mantu dan Cara Membuatnya
 imageTitle: 5 Contoh Undangan Ngunduh Mantu dan Cara Membuatnya

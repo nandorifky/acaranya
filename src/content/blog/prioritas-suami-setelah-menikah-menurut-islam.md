@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:17'
 updatedAt: '2026-04-08T17:50:17'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/prioritas-suami-setelah-menikah-menurut-islam.jpg
 imageAlt: Siapa Prioritas Suami Setelah Menikah? Penjelasan Menurut Islam
 imageTitle: Siapa Prioritas Suami Setelah Menikah? Penjelasan Menurut Islam

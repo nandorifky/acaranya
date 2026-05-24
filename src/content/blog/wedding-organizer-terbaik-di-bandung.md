@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:23'
 updatedAt: '2026-04-08T17:51:23'
 author: tim-acaranya
 category: Vendor
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/wedding-organizer-terbaik-di-bandung.jpg
 imageAlt: 5 Rekomendasi Wedding Organizer Terbaik di Bandung
 imageTitle: 5 Rekomendasi Wedding Organizer Terbaik di Bandung

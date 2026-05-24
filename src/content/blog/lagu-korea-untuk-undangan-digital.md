@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:57'
 updatedAt: '2026-04-08T17:50:57'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/lagu-korea-untuk-undangan-digital.jpg
 imageAlt: Deretan Lagu Korea untuk Undangan Pernikahan Digital yang Romantis
 imageTitle: Deretan Lagu Korea untuk Undangan Pernikahan Digital yang Romantis

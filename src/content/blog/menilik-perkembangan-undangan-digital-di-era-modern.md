@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:05'
 updatedAt: '2026-04-08T17:50:05'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
 image: /images/blog/featured/menilik-perkembangan-undangan-digital-di-era-modern.jpg
 imageAlt: Menilik Perkembangan Undangan Digital di Era Modern
 imageTitle: Menilik Perkembangan Undangan Digital di Era Modern

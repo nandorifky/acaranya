@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:41'
 updatedAt: '2026-04-08T17:49:41'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/daftar-tanggal-cantik-untuk-menikah-tahun-2025.jpg
 imageAlt: Daftar Tanggal Cantik untuk Menikah Tahun 2025
 imageTitle: Daftar Tanggal Cantik untuk Menikah Tahun 2025

@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:12'
 updatedAt: '2026-04-08T17:50:12'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/hukum-menikah-dengan-sepupu-sendiri-dalam-islam.jpg
 imageAlt: Hukum Menikah dengan Sepupu Sendiri dalam Islam
 imageTitle: Hukum Menikah dengan Sepupu Sendiri dalam Islam

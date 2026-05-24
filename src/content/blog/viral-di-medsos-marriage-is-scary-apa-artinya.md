@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:49:11'
 updatedAt: '2026-04-08T17:49:11'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
 image: /images/blog/featured/viral-di-medsos-marriage-is-scary-apa-artinya.jpg
 imageAlt: 'Viral di Medsos, “Marriage is Scary” Apa Artinya?'
 imageTitle: 'Viral di Medsos, “Marriage is Scary” Apa Artinya?'

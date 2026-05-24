@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:10'
 updatedAt: '2026-04-08T17:49:10'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/lavender-marriage.jpg
 imageAlt: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'
 imageTitle: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'

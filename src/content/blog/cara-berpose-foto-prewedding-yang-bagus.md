@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:19'
 updatedAt: '2026-04-08T17:50:19'
 author: tim-acaranya
 category: Prewedding
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/cara-berpose-foto-prewedding-yang-bagus.jpg
 imageAlt: 8 Cara Berpose Foto Prewedding yang Bagus
 imageTitle: 8 Cara Berpose Foto Prewedding yang Bagus

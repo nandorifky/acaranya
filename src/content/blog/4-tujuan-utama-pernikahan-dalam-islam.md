@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:15'
 updatedAt: '2026-04-08T17:50:15'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/4-tujuan-utama-pernikahan-dalam-islam.jpg
 imageAlt: '4 Tujuan Utama Pernikahan dalam Islam, Catin Wajib Tahu!'
 imageTitle: '4 Tujuan Utama Pernikahan dalam Islam, Catin Wajib Tahu!'

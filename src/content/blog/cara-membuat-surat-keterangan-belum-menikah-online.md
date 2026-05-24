@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:24'
 updatedAt: '2026-04-08T17:49:24'
 author: tim-acaranya
 category: Legalitas
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/cara-membuat-surat-keterangan-belum-menikah-online.jpg
 imageAlt: Cara Membuat Surat Keterangan Belum Menikah Online dan Syaratnya
 imageTitle: Cara Membuat Surat Keterangan Belum Menikah Online dan Syaratnya

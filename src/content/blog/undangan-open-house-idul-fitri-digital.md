@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:56'
 updatedAt: '2026-04-08T17:49:56'
 author: tim-acaranya
 category: Blog
-tags: []
+tags:
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/undangan-open-house-idul-fitri-digital.jpg
 imageAlt: Undangan Open House Idul Fitri Digital
 imageTitle: Undangan Open House Idul Fitri Digital

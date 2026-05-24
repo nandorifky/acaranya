@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:16'
 updatedAt: '2026-04-08T17:49:16'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/doa-istri-ucapan-anniversary-pernikahan.jpg
 imageAlt: 40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis
 imageTitle: 40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis

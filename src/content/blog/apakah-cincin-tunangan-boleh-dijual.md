@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:53'
 updatedAt: '2026-04-08T17:49:53'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/apakah-cincin-tunangan-boleh-dijual.jpg
 imageAlt: Apakah Cincin Tunangan Boleh Dijual? Ini Penjelasan Menurut Islam
 imageTitle: Apakah Cincin Tunangan Boleh Dijual? Ini Penjelasan Menurut Islam

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:40'
 updatedAt: '2026-04-08T17:50:40'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/turut-mengundang-di-undangan.jpg
 imageAlt: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar
 imageTitle: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar

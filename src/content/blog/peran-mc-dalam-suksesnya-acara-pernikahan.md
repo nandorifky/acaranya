@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:12'
 updatedAt: '2026-04-08T17:50:12'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/peran-mc-dalam-suksesnya-acara-pernikahan.jpg
 imageAlt: Peran MC dalam Suksesnya Acara Pernikahan
 imageTitle: Peran MC dalam Suksesnya Acara Pernikahan

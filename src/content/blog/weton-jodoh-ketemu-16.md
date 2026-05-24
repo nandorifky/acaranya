@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:30'
 updatedAt: '2026-04-08T17:49:30'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/weton-jodoh-ketemu-16.jpg
 imageAlt: Weton Jodoh Ketemu 16 Apa Artinya?
 imageTitle: Weton Jodoh Ketemu 16 Apa Artinya?

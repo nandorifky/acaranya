@@ -8,7 +8,12 @@ publishedAt: '2026-04-10T14:54:00'
 updatedAt: '2026-04-10T14:54:02'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/cara-membangun-hubungan-baik-dengan-calon-mertua.webp
 imageAlt: 8 Cara Membangun Hubungan Baik dengan Calon Mertua
 imageTitle: 8 Cara Membangun Hubungan Baik dengan Calon Mertua

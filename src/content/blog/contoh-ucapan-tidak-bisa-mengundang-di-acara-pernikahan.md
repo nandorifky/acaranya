@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:27'
 updatedAt: '2026-04-08T17:49:27'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: >-
   /images/blog/featured/contoh-ucapan-tidak-bisa-mengundang-di-acara-pernikahan.jpg
 imageAlt: 5 Contoh Ucapan Tidak Bisa Mengundang di Acara Pernikahan

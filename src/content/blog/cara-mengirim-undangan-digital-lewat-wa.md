@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:01'
 updatedAt: '2026-04-08T17:51:01'
 author: tim-acaranya
 category: Undangan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/cara-mengirim-undangan-digital-lewat-wa.jpg
 imageAlt: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya
 imageTitle: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya

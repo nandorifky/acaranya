@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:34'
 updatedAt: '2026-04-08T17:49:34'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/weton-jodoh-ketemu-21.jpg
 imageAlt: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'
 imageTitle: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'

@@ -5,7 +5,12 @@ publishedAt: '2026-04-08T17:50:11'
 updatedAt: '2026-04-08T17:50:11'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/intimate-wedding.jpg
 imageAlt: Mengenal Apa itu Intimate Wedding dan Keuntungannya
 imageTitle: Mengenal Apa itu Intimate Wedding dan Keuntungannya

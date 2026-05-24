@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:15'
 updatedAt: '2026-04-08T17:50:15'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/sinduran-simbol-kasih-sayang-dan-doa-orang-tua.png
 imageAlt: Sinduran Adalah Simbol Kasih Sayang dan Doa Orang Tua
 imageTitle: Sinduran Adalah Simbol Kasih Sayang dan Doa Orang Tua

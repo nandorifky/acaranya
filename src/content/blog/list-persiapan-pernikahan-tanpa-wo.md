@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:51:11'
 updatedAt: '2026-04-08T17:51:11'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/list-persiapan-pernikahan-tanpa-wo.jpg
 imageAlt: '11 List Persiapan Pernikahan tanpa WO, Rahasia Nikah Hemat!'
 imageTitle: '11 List Persiapan Pernikahan tanpa WO, Rahasia Nikah Hemat!'

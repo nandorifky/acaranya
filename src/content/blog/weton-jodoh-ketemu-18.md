@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:31'
 updatedAt: '2026-04-08T17:49:31'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/weton-jodoh-ketemu-18.jpg
 imageAlt: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa
 imageTitle: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa

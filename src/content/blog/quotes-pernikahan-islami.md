@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:09'
 updatedAt: '2026-04-08T17:49:09'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/quotes-pernikahan-islami.jpg
 imageAlt: Kumpulan Quotes Pernikahan Islami untuk Undangan Digital
 imageTitle: Kumpulan Quotes Pernikahan Islami untuk Undangan Digital

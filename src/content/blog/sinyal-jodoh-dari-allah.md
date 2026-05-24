@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:09'
 updatedAt: '2026-04-08T17:50:09'
 author: tim-acaranya
 category: Relationship
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/sinyal-jodoh-dari-allah.jpg
 imageAlt: 'Sinyal Jodoh dari Allah: Ini 11 Tandanya'
 imageTitle: 'Sinyal Jodoh dari Allah: Ini 11 Tandanya'

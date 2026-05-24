@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:59'
 updatedAt: '2026-04-08T17:49:59'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/perbedaan-seserahan-lamaran-dan-pernikahan.webp
 imageAlt: Ketahui Apa Saja Perbedaan Seserahan Lamaran dan Pernikahan
 imageTitle: Ketahui Apa Saja Perbedaan Seserahan Lamaran dan Pernikahan

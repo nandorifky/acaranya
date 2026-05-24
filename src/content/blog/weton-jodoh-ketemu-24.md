@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:37'
 updatedAt: '2026-04-08T17:49:37'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/weton-jodoh-ketemu-24.jpg
 imageAlt: Weton Jodoh Ketemu 24 Artinya Cocok! Penjelasan Primbon Jawa
 imageTitle: Weton Jodoh Ketemu 24 Artinya Cocok! Penjelasan Primbon Jawa

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:17'
 updatedAt: '2026-04-08T17:51:17'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/kata-kata-membujuk-pacar-agar-tidak-jadi-putus.jpg
 imageAlt: '10 Kata-Kata Membujuk Pacar Agar Tidak Jadi Putus, Bikin Luluh!'
 imageTitle: '10 Kata-Kata Membujuk Pacar Agar Tidak Jadi Putus, Bikin Luluh!'

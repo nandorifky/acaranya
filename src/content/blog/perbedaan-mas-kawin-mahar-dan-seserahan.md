@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:21'
 updatedAt: '2026-04-08T17:51:21'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/perbedaan-mas-kawin-mahar-dan-seserahan.jpg
 imageAlt: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'
 imageTitle: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'

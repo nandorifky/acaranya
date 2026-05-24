@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:48'
 updatedAt: '2026-04-08T17:49:48'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/ucapan-happy-wedding-untuk-sahabat.jpg
 imageAlt: 70 Contoh Ucapan Happy Wedding untuk Sahabat
 imageTitle: 70 Contoh Ucapan Happy Wedding untuk Sahabat

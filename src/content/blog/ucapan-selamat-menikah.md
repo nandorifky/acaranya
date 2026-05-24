@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:39'
 updatedAt: '2026-04-08T17:49:39'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/ucapan-selamat-menikah.jpg
 imageAlt: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan
 imageTitle: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan

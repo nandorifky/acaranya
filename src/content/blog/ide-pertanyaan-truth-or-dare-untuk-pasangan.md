@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:08'
 updatedAt: '2026-04-08T17:50:08'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/ide-pertanyaan-truth-or-dare-untuk-pasangan.jpg
 imageAlt: 50 Ide Pertanyaan Truth or Dare untuk Pasangan
 imageTitle: 50 Ide Pertanyaan Truth or Dare untuk Pasangan

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:51'
 updatedAt: '2026-04-08T17:50:51'
 author: tim-acaranya
 category: Undangan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/apakah-undangan-pernikahan-termasuk-undangan-resmi.jpg
 imageAlt: Apakah Undangan Pernikahan Termasuk Undangan Resmi? Cek Jawabannya!
 imageTitle: Apakah Undangan Pernikahan Termasuk Undangan Resmi? Cek Jawabannya!

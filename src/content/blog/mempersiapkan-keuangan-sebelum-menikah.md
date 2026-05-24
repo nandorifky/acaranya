@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:49:24'
 updatedAt: '2026-04-08T17:49:24'
 author: tim-acaranya
 category: Anggaran
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/mempersiapkan-keuangan-sebelum-menikah.jpg
 imageAlt: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tahu!'
 imageTitle: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tahu!'

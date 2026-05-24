@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:44'
 updatedAt: '2026-04-08T17:50:44'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/etika-penulisan-nama-tamu-undangan.jpg
 imageAlt: 5 Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar
 imageTitle: 5 Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar

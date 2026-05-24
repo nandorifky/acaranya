@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:27'
 updatedAt: '2026-04-08T17:51:27'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/samawa-till-jannah.jpg
 imageAlt: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
 imageTitle: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'

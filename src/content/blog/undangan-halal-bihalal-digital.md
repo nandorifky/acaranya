@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:51:28'
 updatedAt: '2026-04-08T17:51:28'
 author: tim-acaranya
 category: Blog
-tags: []
+tags:
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/undangan-halal-bihalal-digital.jpg
 imageAlt: Undangan Halal Bihalal Digital
 imageTitle: Undangan Halal Bihalal Digital

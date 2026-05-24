@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:30'
 updatedAt: '2026-04-08T17:51:30'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/contoh-love-story.webp
 imageAlt: 6 Contoh Love Story di Undangan Digital dan Tips Membuatnya
 imageTitle: 6 Contoh Love Story di Undangan Digital dan Tips Membuatnya

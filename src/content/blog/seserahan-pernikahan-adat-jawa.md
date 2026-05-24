@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:25'
 updatedAt: '2026-04-08T17:49:25'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/seserahan-pernikahan-adat-jawa.jpg
 imageAlt: 20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya
 imageTitle: 20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya

@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:14'
 updatedAt: '2026-04-08T17:49:14'
 author: tim-acaranya
 category: Legalitas
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: >-
   /images/blog/featured/ketahui-apa-saja-isi-buku-nikah-suami-dan-istri-apakah-berbeda.webp
 imageAlt: 'Ketahui Apa Saja Isi Buku Nikah Suami dan Istri, Apakah Berbeda?'

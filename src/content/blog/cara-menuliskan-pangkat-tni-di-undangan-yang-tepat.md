@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:49:17'
 updatedAt: '2026-04-08T17:49:17'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
 image: /images/blog/featured/cara-menuliskan-pangkat-tni-di-undangan-yang-tepat.jpg
 imageAlt: Cara Menuliskan Pangkat TNI di Undangan yang Tepat
 imageTitle: Cara Menuliskan Pangkat TNI di Undangan yang Tepat

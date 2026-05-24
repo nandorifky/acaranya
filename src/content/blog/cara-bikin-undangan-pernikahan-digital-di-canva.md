@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:49'
 updatedAt: '2026-04-08T17:50:49'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/cara-bikin-undangan-pernikahan-digital-di-canva.jpg
 imageAlt: 'Cara Bikin Undangan Pernikahan Digital di Canva, Gratis!'
 imageTitle: 'Cara Bikin Undangan Pernikahan Digital di Canva, Gratis!'

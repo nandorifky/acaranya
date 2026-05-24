@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:13'
 updatedAt: '2026-04-08T17:49:13'
 author: tim-acaranya
 category: Legalitas
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/warna-buku-nikah.jpg
 imageAlt: 'Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?'
 imageTitle: 'Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?'

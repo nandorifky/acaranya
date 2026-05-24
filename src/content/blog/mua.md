@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:20'
 updatedAt: '2026-04-08T17:50:20'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/mua.jpg
 imageAlt: 'Kepanjangan MUA Adalah “Make Up Artist”, Pahami Definisinya'
 imageTitle: 'Kepanjangan MUA Adalah “Make Up Artist”, Pahami Definisinya'

@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:16'
 updatedAt: '2026-04-08T17:49:16'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/seserahan-make-up.jpg
 imageAlt: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan
 imageTitle: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan

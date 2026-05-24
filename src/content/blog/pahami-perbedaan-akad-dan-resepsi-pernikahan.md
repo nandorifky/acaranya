@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:23'
 updatedAt: '2026-04-08T17:50:23'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/pahami-perbedaan-akad-dan-resepsi-pernikahan.jpg
 imageAlt: Pahami Perbedaan Akad dan Resepsi Pernikahan
 imageTitle: Pahami Perbedaan Akad dan Resepsi Pernikahan

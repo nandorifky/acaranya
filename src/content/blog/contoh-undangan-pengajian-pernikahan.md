@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:37'
 updatedAt: '2026-04-08T17:50:37'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/contoh-undangan-pengajian-pernikahan.jpg
 imageAlt: Cara Membuat dan Contoh Undangan Pengajian Pernikahan
 imageTitle: Cara Membuat dan Contoh Undangan Pengajian Pernikahan

@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:50:43'
 updatedAt: '2026-04-08T17:50:43'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: >-
   /images/blog/featured/contoh-undangan-walimatul-ursy-dan-format-penulisannya.jpg
 imageAlt: Contoh Undangan Walimatul Ursy dan Format Penulisannya

@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:28'
 updatedAt: '2026-04-08T17:50:28'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/kata-kata-undangan-lewat-wa.jpg
 imageAlt: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat
 imageTitle: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat

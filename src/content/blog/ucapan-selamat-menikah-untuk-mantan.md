@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:10'
 updatedAt: '2026-04-08T17:51:10'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
 image: /images/blog/featured/ucapan-selamat-menikah-untuk-mantan.jpg
 imageAlt: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'
 imageTitle: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'

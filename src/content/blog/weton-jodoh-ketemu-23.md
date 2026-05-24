@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:35'
 updatedAt: '2026-04-08T17:49:35'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/weton-jodoh-ketemu-23.jpg
 imageAlt: Apa Arti Weton Jodoh Ketemu 23?
 imageTitle: Apa Arti Weton Jodoh Ketemu 23?

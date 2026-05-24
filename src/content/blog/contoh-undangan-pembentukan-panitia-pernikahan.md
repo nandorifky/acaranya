@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:21'
 updatedAt: '2026-04-08T17:49:21'
 author: tim-acaranya
 category: Teks
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - desain
 image: /images/blog/featured/contoh-undangan-pembentukan-panitia-pernikahan.jpg
 imageAlt: Contoh Undangan Pembentukan Panitia Pernikahan
 imageTitle: Contoh Undangan Pembentukan Panitia Pernikahan

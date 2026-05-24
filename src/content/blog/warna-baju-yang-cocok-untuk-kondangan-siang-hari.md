@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:22'
 updatedAt: '2026-04-08T17:50:22'
 author: tim-acaranya
 category: Busana
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/warna-baju-yang-cocok-untuk-kondangan-siang-hari.jpg
 imageAlt: Inilah Warna Baju yang Cocok untuk Kondangan Siang Hari
 imageTitle: Inilah Warna Baju yang Cocok untuk Kondangan Siang Hari

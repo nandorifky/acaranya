@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:51:03'
 updatedAt: '2026-04-08T17:51:03'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/menikah-di-bulan-ramadhan.jpg
 imageAlt: Bolehkah Menikah di Bulan Ramadhan? Penjelasan Lengkap Berdasarkan Hukum Islam
 imageTitle: Bolehkah Menikah di Bulan Ramadhan? Penjelasan Lengkap Berdasarkan Hukum Islam

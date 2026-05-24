@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:30'
 updatedAt: '2026-04-08T17:50:30'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/informasi-yang-tercantum-dalam-undangan-pernikahan.jpg
 imageAlt: 10 Informasi yang Tercantum dalam Undangan Pernikahan
 imageTitle: 10 Informasi yang Tercantum dalam Undangan Pernikahan

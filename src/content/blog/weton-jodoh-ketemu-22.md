@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:36'
 updatedAt: '2026-04-08T17:49:36'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/weton-jodoh-ketemu-22.jpg
 imageAlt: 'Weton Jodoh Ketemu 22, Apa Artinya?'
 imageTitle: 'Weton Jodoh Ketemu 22, Apa Artinya?'

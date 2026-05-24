@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:44'
 updatedAt: '2026-04-08T17:49:44'
 author: tim-acaranya
 category: Surat
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/perbedaan-surat-resmi-dan-tidak-resmi.jpg
 imageAlt: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'
 imageTitle: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:42'
 updatedAt: '2026-04-08T17:49:42'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
 image: /images/blog/featured/40-kata-kata-islami-untuk-undangan-pernikahan.jpg
 imageAlt: 40 Kata-Kata Islami untuk Undangan Pernikahan
 imageTitle: 40 Kata-Kata Islami untuk Undangan Pernikahan

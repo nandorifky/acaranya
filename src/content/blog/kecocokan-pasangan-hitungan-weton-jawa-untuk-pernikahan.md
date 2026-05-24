@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:49:46'
 updatedAt: '2026-04-08T17:49:46'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
 image: >-
   /images/blog/featured/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan.jpg
 imageAlt: Mengetahui Kecocokan Pasangan Hitungan Weton Jawa untuk Pernikahan

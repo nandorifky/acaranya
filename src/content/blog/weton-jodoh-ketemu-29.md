@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:51'
 updatedAt: '2026-04-08T17:49:51'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/weton-jodoh-ketemu-29.jpg
 imageAlt: 'Arti Weton Jodoh Ketemu 29, Apakah Boleh Menikah?'
 imageTitle: 'Arti Weton Jodoh Ketemu 29, Apakah Boleh Menikah?'

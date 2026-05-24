@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:29'
 updatedAt: '2026-04-08T17:50:29'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/contoh-undangan-pernikahan-bahasa-inggris.png
 imageAlt: Contoh Undangan Pernikahan Bahasa Inggris
 imageTitle: Contoh Undangan Pernikahan Bahasa Inggris

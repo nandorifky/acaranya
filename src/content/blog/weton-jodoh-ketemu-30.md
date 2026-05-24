@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:51'
 updatedAt: '2026-04-08T17:49:51'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/weton-jodoh-ketemu-30.jpg
 imageAlt: Arti Weton Jodoh Ketemu 30 Menurut Primbon Jawa
 imageTitle: Arti Weton Jodoh Ketemu 30 Menurut Primbon Jawa

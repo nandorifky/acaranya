@@ -8,7 +8,10 @@ publishedAt: '2026-04-08T17:51:30'
 updatedAt: '2026-04-08T17:51:30'
 author: tim-acaranya
 category: Blog
-tags: []
+tags:
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/undangan-grand-opening-digital.jpg
 imageAlt: Undangan Grand Opening Digital
 imageTitle: Undangan Grand Opening Digital

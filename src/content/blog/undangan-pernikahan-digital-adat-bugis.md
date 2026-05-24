@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:53'
 updatedAt: '2026-04-08T17:50:53'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/undangan-pernikahan-digital-adat-bugis.jpg
 imageAlt: Tema Undangan Pernikahan Digital Adat Bugis
 imageTitle: Tema Undangan Pernikahan Digital Adat Bugis

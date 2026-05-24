@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:57'
 updatedAt: '2026-04-08T17:50:57'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: >-
   /images/blog/featured/10-tips-memilih-desain-undangan-digital-sesuai-seleramu.jpg
 imageAlt: 10 Tips Memilih Desain Undangan Digital Sesuai Seleramu

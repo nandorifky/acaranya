@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:52'
 updatedAt: '2026-04-08T17:50:52'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/background-undangan-pernikahan.jpg
 imageAlt: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong
 imageTitle: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong

@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:21'
 updatedAt: '2026-04-08T17:50:21'
 author: tim-acaranya
 category: Legalitas
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - desain
 image: /images/blog/featured/syarat-foto-buku-nikah.jpg
 imageAlt: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
 imageTitle: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'

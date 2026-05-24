@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:26'
 updatedAt: '2026-04-08T17:51:26'
 author: tim-acaranya
 category: Wajib Tahu
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
 image: /images/blog/featured/sakinah-mawaddah-warahmah.jpg
 imageAlt: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam
 imageTitle: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam

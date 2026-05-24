@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:12'
 updatedAt: '2026-04-08T17:49:12'
 author: tim-acaranya
 category: Teks
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/ucapan-balasan-undangan-pernikahan-di-whatsapp.webp
 imageAlt: 30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp
 imageTitle: 30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp

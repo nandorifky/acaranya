@@ -8,7 +8,11 @@ publishedAt: '2026-04-08T17:50:07'
 updatedAt: '2026-04-08T17:50:07'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - desain
 image: /images/blog/featured/masjid-nurani-kranji-bekasi.webp
 imageAlt: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!'
 imageTitle: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!'

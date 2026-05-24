@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:05'
 updatedAt: '2026-04-08T17:51:05'
 author: tim-acaranya
 category: Busana
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/baju-pernikahan-adat-betawi.jpg
 imageAlt: Baju Pernikahan Adat Betawi yang Penuh Makna
 imageTitle: Baju Pernikahan Adat Betawi yang Penuh Makna

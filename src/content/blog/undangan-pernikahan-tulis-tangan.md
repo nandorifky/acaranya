@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:36'
 updatedAt: '2026-04-08T17:50:36'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
 image: /images/blog/featured/undangan-pernikahan-tulis-tangan.jpg
 imageAlt: Contoh Surat Undangan Pernikahan Tulis Tangan Simple
 imageTitle: Contoh Surat Undangan Pernikahan Tulis Tangan Simple

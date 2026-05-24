@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:54'
 updatedAt: '2026-04-08T17:50:54'
 author: tim-acaranya
 category: Undangan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - tips
+  - kata-kata
+  - desain
 image: >-
   /images/blog/featured/undangan-pernikahan-digital-dengan-link-live-streaming.jpg
 imageAlt: Undangan Pernikahan Digital dengan Link Live Streaming

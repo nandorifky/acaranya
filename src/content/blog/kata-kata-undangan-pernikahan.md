@@ -5,7 +5,14 @@ publishedAt: '2026-04-08T17:51:24'
 updatedAt: '2026-04-08T17:51:24'
 author: tim-acaranya
 category: Teks
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/kata-kata-undangan-pernikahan.jpg
 imageAlt: Kata-Kata Undangan Pernikahan
 imageTitle: Kata-Kata Undangan Pernikahan

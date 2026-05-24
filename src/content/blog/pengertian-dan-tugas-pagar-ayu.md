@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:51:20'
 updatedAt: '2026-04-08T17:51:20'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/pengertian-dan-tugas-pagar-ayu.jpg
 imageAlt: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'
 imageTitle: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'

@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:40'
 updatedAt: '2026-04-08T17:50:40'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/contoh-undangan-pernikahan-islami.jpg
 imageAlt: 5 Contoh Undangan Pernikahan Islami Unik dan Menarik
 imageTitle: 5 Contoh Undangan Pernikahan Islami Unik dan Menarik

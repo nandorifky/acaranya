@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:22'
 updatedAt: '2026-04-08T17:51:22'
 author: tim-acaranya
 category: Vendor
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/wedding-organizer-terbaik-di-kediri.jpg
 imageAlt: 5 Wedding Organizer Terbaik di Kediri
 imageTitle: 5 Wedding Organizer Terbaik di Kediri

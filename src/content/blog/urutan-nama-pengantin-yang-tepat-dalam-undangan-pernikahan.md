@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:50:47'
 updatedAt: '2026-04-08T17:50:47'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: >-
   /images/blog/featured/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan.jpg
 imageAlt: Urutan Nama Pengantin yang Tepat dalam Undangan Pernikahan

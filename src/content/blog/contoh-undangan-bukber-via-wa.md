@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:50:33'
 updatedAt: '2026-04-08T17:50:33'
 author: tim-acaranya
 category: Inspirasi
-tags: []
+tags:
+  - undangan-digital
+  - islami
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/contoh-undangan-bukber-via-wa.jpg
 imageAlt: Contoh Undangan Bukber via WA
 imageTitle: Contoh Undangan Bukber via WA

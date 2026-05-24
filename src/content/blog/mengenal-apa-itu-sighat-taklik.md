@@ -8,7 +8,13 @@ publishedAt: '2026-04-08T17:49:15'
 updatedAt: '2026-04-08T17:49:15'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
 image: /images/blog/featured/mengenal-apa-itu-sighat-taklik.jpg
 imageAlt: 'Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah'
 imageTitle: 'Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah'

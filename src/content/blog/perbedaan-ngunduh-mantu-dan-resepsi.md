@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:51:08'
 updatedAt: '2026-04-08T17:51:08'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
 image: /images/blog/featured/perbedaan-ngunduh-mantu-dan-resepsi.jpg
 imageAlt: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia
 imageTitle: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia

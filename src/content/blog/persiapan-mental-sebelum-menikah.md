@@ -8,7 +8,12 @@ publishedAt: '2026-04-08T17:49:46'
 updatedAt: '2026-04-08T17:49:46'
 author: tim-acaranya
 category: Perencanaan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - adat
+  - tips
+  - desain
 image: /images/blog/featured/persiapan-mental-sebelum-menikah.jpg
 imageAlt: '8 Tips Persiapan Mental Sebelum Menikah, Ini Penting!'
 imageTitle: '8 Tips Persiapan Mental Sebelum Menikah, Ini Penting!'

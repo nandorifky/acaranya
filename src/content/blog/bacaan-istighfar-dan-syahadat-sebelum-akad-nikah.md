@@ -8,7 +8,14 @@ publishedAt: '2026-04-08T17:49:18'
 updatedAt: '2026-04-08T17:49:18'
 author: tim-acaranya
 category: Pernikahan
-tags: []
+tags:
+  - pernikahan
+  - undangan-digital
+  - islami
+  - adat
+  - tips
+  - kata-kata
+  - desain
 image: /images/blog/featured/bacaan-istighfar-dan-syahadat-sebelum-akad-nikah.jpg
 imageAlt: Bacaan Istighfar dan Syahadat Sebelum Akad Nikah
 imageTitle: Bacaan Istighfar dan Syahadat Sebelum Akad Nikah
