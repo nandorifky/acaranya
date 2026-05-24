@@ -1,0 +1,13 @@
+---
+title: Emerald Ampera
+category: pernikahan
+eventType: wedding
+thumbnail: https://inv.acaranya.id/themes/emerald-ampera/emerald-ampera.webp
+previewUrl: https://inv.acaranya.id/preview/emerald-ampera
+isFeatured: false
+isPremium: false
+tags: []
+package: mengundang
+sortOrder: 26
+status: published
+---

@@ -1,0 +1,13 @@
+---
+title: FIXNIKAH
+category: pernikahan
+eventType: wedding
+thumbnail: https://inv.acaranya.id/themes/nikahfix/nikahfix.webp
+previewUrl: https://inv.acaranya.id/preview/nikahfix
+isFeatured: false
+isPremium: false
+tags: []
+package: mengundang
+sortOrder: 66
+status: published
+---

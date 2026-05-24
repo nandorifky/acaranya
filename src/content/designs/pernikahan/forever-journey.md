@@ -1,0 +1,13 @@
+---
+title: Forever Journey
+category: pernikahan
+eventType: wedding
+thumbnail: https://inv.acaranya.id/themes/forever-journey/forever-journey.webp
+previewUrl: https://inv.acaranya.id/preview/forever-journey
+isFeatured: false
+isPremium: false
+tags: []
+package: mengundang
+sortOrder: 93
+status: published
+---

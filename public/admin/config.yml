@@ -54,7 +54,7 @@ collections:
     label: "Katalog Desain"
     folder: "src/content/designs"
     create: true
-    slug: "{{slug}}"
+    slug: "{{category}}/{{slug}}"
     format: "frontmatter"
     fields:
       - { label: "Nama Template Desain", name: "title", widget: "string" }
