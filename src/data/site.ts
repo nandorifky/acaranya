@@ -95,7 +95,7 @@ export const siteConfig = {
     metaPixelId: '',
     ratingValue: '4.9',
     reviewCount: '384',
-    priceRange: 'Rp 75.000 - Rp 250.000',
+    priceRange: 'Rp 75.000 - Rp 150.000',
   },
 
   integrations: {
@@ -109,7 +109,7 @@ export const siteConfig = {
   team: {
     founder: {
       name: 'Nando Rifky',
-      role: 'Founder & CEO',
+      role: 'Founder',
       avatar: '/images/nando-rifky.webp',
       quote: [
         "Saya percaya bahwa setiap momen spesial dalam hidup layak dirayakan dengan cara yang unik dan personal. Kami di Acaranya.id berkomitmen untuk menghadirkan undangan digital yang tidak hanya elegan dan inovatif, tapi juga mencerminkan kisah dan gaya setiap pasangan.",

@@ -55,5 +55,6 @@ export const footerNavigation = {
     { label: 'Kebijakan Privasi', href: '/legal/kebijakan-privasi/' },
     { label: 'Refund Policy', href: '/legal/refund-policy/' },
     { label: 'Tools', href: '/tools/' },
+    { label: 'Review Us', href: '/review-us/' },
   ],
 };

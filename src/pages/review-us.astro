@@ -1,0 +1,238 @@
+---
+import MarketingLayout from "../layouts/MarketingLayout.astro";
+import Container from "../components/base/Container.astro";
+import Section from "../components/base/Section.astro";
+import Icon from "../components/ui/Icon.astro";
+import { siteConfig } from "../data/site";
+
+const reviewLink = "https://g.page/r/CZZGyXLYXZWLEBM/review";
+const qrImagePath = "/images/qr-code-review-acaranya.png";
+---
+
+<MarketingLayout
+  title="Tulis Ulasan Anda"
+  description="Bantu kami untuk terus bertumbuh meningkatkan kualitas produk undangan digital. Berikan ulasan atau kritik dan saran terbaik Anda di Google Maps Acaranya.id."
+>
+  <!-- Hero Section -->
+  <section
+    class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden"
+  >
+    <!-- Subtle Background Dot Pattern -->
+    <div
+      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
+      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
+    >
+    </div>
+
+    <Container>
+      <div class="relative z-10 max-w-3xl mx-auto text-center space-y-4">
+        <span
+          class="text-[10px] uppercase tracking-[0.22em] text-soft-gold font-bold"
+          >Ulas Layanan Kami</span
+        >
+        <h1
+          class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight"
+        >
+          Ceritakan Pengalaman <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold">Spesial Anda</span>
+        </h1>
+        <p
+          class="text-text-secondary text-sm md:text-base max-w-lg mx-auto font-sans tracking-wide leading-relaxed"
+        >
+          Setiap masukan dan cerita kebahagiaan Anda adalah bahan bakar utama
+          bagi kami untuk terus menyempurnakan setiap detail seni undangan
+          digital kami.
+        </p>
+      </div>
+    </Container>
+  </section>
+
+  <!-- Interactive Dual-Column QR & Call to Action Section -->
+  <Section
+    bg="white"
+    id="review-action"
+    class="border-t border-border-soft/60 py-20 lg:py-32"
+  >
+    <Container>
+      <div
+        class="grid lg:grid-cols-12 gap-12 lg:gap-16 items-center max-w-5xl mx-auto"
+      >
+        <!-- Left Side: Encouragement and Button Link -->
+        <div class="lg:col-span-7 space-y-8 text-center lg:text-left">
+          <div class="space-y-4">
+            <span
+              class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold block"
+              >Google Review</span
+            >
+            <h2
+              class="font-serif text-3xl md:text-4xl text-brand-950 leading-tight"
+            >
+              Bantu Pasangan Lain <br class="hidden sm:block" />
+              Menemukan <span class="italic font-normal text-soft-gold"
+                >Acaranya.id</span
+              >
+            </h2>
+            <p
+              class="text-text-secondary text-xs sm:text-sm font-sans tracking-wide leading-relaxed max-w-md mx-auto lg:mx-0"
+            >
+              Apakah Anda menyukai estetika eksklusif, fitur RSVP, atau
+              pelayanan responsif dari desainer kami? Ulasan bintang 5 Anda
+              sangat berarti bagi pengembangan talenta kreatif lokal kami.
+            </p>
+          </div>
+
+          <!-- Feature Bullets (Luxe style) -->
+          <div
+            class="grid grid-cols-1 sm:grid-cols-2 gap-4 text-left max-w-md mx-auto lg:mx-0"
+          >
+            <div class="flex items-start gap-3">
+              <div
+                class="w-5 h-5 rounded-full bg-brand-50 flex items-center justify-center shrink-0 mt-0.5"
+              >
+                <Icon name="zap" size={10} class="text-soft-gold" />
+              </div>
+              <p class="text-[11px] sm:text-xs text-brand-900 font-medium">
+                Hanya butuh waktu 1 menit
+              </p>
+            </div>
+            <div class="flex items-start gap-3">
+              <div
+                class="w-5 h-5 rounded-full bg-brand-50 flex items-center justify-center shrink-0 mt-0.5"
+              >
+                <Icon name="sparkles" size={10} class="text-soft-gold" />
+              </div>
+              <p class="text-[11px] sm:text-xs text-brand-900 font-medium">
+                Membantu reputasi lokal kami
+              </p>
+            </div>
+            <div class="flex items-start gap-3">
+              <div
+                class="w-5 h-5 rounded-full bg-brand-50 flex items-center justify-center shrink-0 mt-0.5"
+              >
+                <Icon
+                  name="message-square-quote"
+                  size={10}
+                  class="text-soft-gold"
+                />
+              </div>
+              <p class="text-[11px] sm:text-xs text-brand-900 font-medium">
+                Saran langsung didengar CEO
+              </p>
+            </div>
+            <div class="flex items-start gap-3">
+              <div
+                class="w-5 h-5 rounded-full bg-brand-50 flex items-center justify-center shrink-0 mt-0.5"
+              >
+                <Icon name="heart" size={10} class="text-soft-gold" />
+              </div>
+              <p class="text-[11px] sm:text-xs text-brand-900 font-medium">
+                Apresiasi tulus dari tim kami
+              </p>
+            </div>
+          </div>
+
+          <div
+            class="pt-4 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4"
+          >
+            <a
+              href={reviewLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="group px-8 py-4.5 bg-brand-950 hover:bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full transition-all duration-300 shadow-md flex items-center gap-2 hover:scale-[1.02]"
+              id="google-maps-review-btn"
+            >
+              Review Kami
+              <Icon
+                name="arrow-up-right"
+                size={12}
+                class="transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5"
+              />
+            </a>
+            <p class="text-[11px] text-text-muted italic">
+              *Tautan langsung menuju ke halaman Review Google resmi kami.
+            </p>
+          </div>
+        </div>
+
+        <!-- Right Side: Luxury Framed QR Code -->
+        <div class="lg:col-span-5 flex flex-col items-center">
+          <div
+            class="relative w-full max-w-[320px] aspect-square rounded-[36px] bg-cream border border-[#B59A73]/20 p-6 sm:p-8 flex flex-col items-center justify-center shadow-lg group"
+          >
+            <!-- Elegant glass overlay effect -->
+            <div
+              class="absolute inset-2 border border-white/40 rounded-[28px] pointer-events-none"
+            >
+            </div>
+
+            <!-- QR Image Container -->
+            <div
+              class="w-full aspect-square bg-white rounded-2xl p-4 shadow-sm border border-[#B59A73]/10 flex items-center justify-center overflow-hidden transition-transform duration-500 group-hover:scale-[1.01]"
+            >
+              <img
+                src={qrImagePath}
+                alt="Scan QR Code Acaranya.id Review"
+                class="w-full h-full object-contain"
+              />
+            </div>
+          </div>
+
+          <!-- Scan Instructions -->
+          <div class="mt-6 text-center space-y-1.5 max-w-[280px]">
+            <p class="text-xs font-serif font-bold text-brand-950">
+              Arahkan Kamera Ponsel
+            </p>
+            <p
+              class="text-[11px] text-text-secondary leading-relaxed font-sans tracking-wide"
+            >
+              Scan QR Code di atas menggunakan aplikasi Google Lens, kamera
+              bawaan, atau scan QR untuk mengulas langsung via ponsel Anda.
+            </p>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </Section>
+
+  <!-- Premium Editorial testimonial quote block -->
+  <Section bg="cream-light" class="py-24 border-t border-border-soft/60">
+    <Container narrow>
+      <div class="relative text-center max-w-2xl mx-auto space-y-6">
+        <Icon
+          name="message-square-quote"
+          size={32}
+          class="text-soft-gold/30 mx-auto"
+        />
+        <h3
+          class="font-serif text-xl sm:text-2xl text-brand-950 italic font-normal leading-relaxed"
+        >
+          "Kepuasan Anda melahirkan inspirasi karya kami. Setiap bintang dan
+          ulasan tulus Anda adalah cerminan dedikasi tim kami mewarnai setiap
+          cerita terindah kehidupan Anda."
+        </h3>
+        <div class="pt-4 flex items-center justify-center gap-3">
+          <div
+            class="w-10 h-10 rounded-full overflow-hidden bg-brand-100 border border-white"
+          >
+            <img
+              src={siteConfig.team.founder.avatar}
+              alt={siteConfig.team.founder.name}
+              class="w-full h-full object-cover"
+            />
+          </div>
+          <div class="text-left">
+            <p class="font-serif text-sm font-bold text-brand-950 leading-none">
+              {siteConfig.team.founder.name}
+            </p>
+            <p
+              class="text-[9px] uppercase tracking-widest text-text-muted mt-1.5"
+            >
+              {siteConfig.team.founder.role}
+              {siteConfig.name}
+            </p>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

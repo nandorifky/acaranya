@@ -10,7 +10,8 @@ export const GET: APIRoute = async () => {
     '/tentang/',
     '/reseller-undangan-digital/',
     '/artikel/',
-    '/tools/'
+    '/tools/',
+    '/review-us/'
   ];
 
   const urls = staticPages.map(page => `  <url>
