@@ -54,25 +54,30 @@ const searchIndex = publishedDesigns.map(design => ({
     </form>
   </search>
   
-  <div id="search-feedback" class="hidden mt-4 text-[11px] font-sans font-semibold uppercase tracking-widest text-soft-gold">
-    Ditemukan <span id="results-count" class="text-brand-950">0</span> tema undangan
-  </div>
-</div>
+<!-- Search Results Section (Mimics Section > Container) -->
+<div id="search-results-section" class="hidden bg-white border-t border-border-soft/60">
+  <div class="py-20 sm:py-24 lg:py-32">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between mb-8 border-b border-border-soft/30 pb-4">
+        <p class="text-[11px] font-sans font-semibold uppercase tracking-widest text-text-muted">
+          Hasil Pencarian: <span id="results-count" class="text-brand-950 font-bold">0</span> Tema Ditemukan
+        </p>
+      </div>
 
-<!-- Search Results Grid (Hidden by default) -->
-<div id="search-results-container" class="hidden">
-  <div id="search-results-grid" class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 stagger">
-    <!-- Results will be injected here via JS -->
-  </div>
-  
-  <div id="no-results-msg" class="hidden py-20 text-center">
-    <div class="w-16 h-16 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold mx-auto bg-cream mb-6">
-      <Icon name="palette" size={24} />
+      <div id="search-results-grid" class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 stagger">
+        <!-- Results will be injected here via JS -->
+      </div>
+      
+      <div id="no-results-msg" class="hidden py-20 text-center">
+        <div class="w-16 h-16 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold mx-auto bg-cream mb-6">
+          <Icon name="palette" size={24} />
+        </div>
+        <h3 class="font-serif text-2xl text-brand-950 mb-2">Tema Tidak Ditemukan</h3>
+        <p class="text-xs text-text-muted max-w-sm mx-auto">
+          Maaf, kami tidak menemukan tema {categoryTitle ? `di kategori ${categoryTitle}` : ''} yang cocok dengan kata kunci Anda. Coba kata kunci lain atau hubungi kami untuk request desain custom.
+        </p>
+      </div>
     </div>
-    <h3 class="font-serif text-2xl text-brand-950 mb-2">Tema Tidak Ditemukan</h3>
-    <p class="text-xs text-text-muted max-w-sm mx-auto">
-      Maaf, kami tidak menemukan tema "{categoryTitle ? `di kategori ${categoryTitle}` : ''}" yang cocok dengan kata kunci Anda. Coba kata kunci lain atau hubungi kami untuk request desain custom.
-    </p>
   </div>
 </div>
 
@@ -80,19 +85,15 @@ const searchIndex = publishedDesigns.map(design => ({
   function initDesignSearch() {
     const input = document.getElementById('design-search-input') as HTMLInputElement;
     const clearBtn = document.getElementById('search-clear-btn');
-    const feedback = document.getElementById('search-feedback');
     const countSpan = document.getElementById('results-count');
-    const resultsContainer = document.getElementById('search-results-container');
+    const searchSection = document.getElementById('search-results-section');
     const resultsGrid = document.getElementById('search-results-grid');
     const noResults = document.getElementById('no-results-msg');
     
-    // Original content to hide
+    // Original results section to hide
     const showroomSection = document.getElementById('showroom-results') || document.getElementById('category-results');
-    const originalGrid = showroomSection?.querySelector('.grid');
-    const pagination = showroomSection?.querySelector('nav[aria-label="Paginasi"]');
-    const showingText = showroomSection?.querySelector('p.text-\\[11px\\]');
 
-    if (!input || !resultsGrid) return;
+    if (!input || !resultsGrid || !searchSection || !showroomSection) return;
 
     const index = JSON.parse(input.getAttribute('data-index') || '[]');
 
@@ -100,19 +101,14 @@ const searchIndex = publishedDesigns.map(design => ({
       const query = (e.target as HTMLInputElement).value.toLowerCase().trim();
       
       if (query.length > 0) {
-        // Show/hide UI elements
+        // Toggle UI
         clearBtn?.classList.remove('hidden');
         clearBtn?.classList.add('flex');
-        feedback?.classList.remove('hidden');
-        resultsContainer?.classList.remove('hidden');
+        searchSection.classList.remove('hidden');
+        showroomSection.classList.add('hidden');
         noResults?.classList.add('hidden');
-        
-        // Hide original results
-        if (originalGrid) (originalGrid as HTMLElement).style.display = 'none';
-        if (pagination) (pagination as HTMLElement).style.display = 'none';
-        if (showingText) (showingText as HTMLElement).style.display = 'none';
 
-        // Filter index
+        // Filter
         const filtered = index.filter((item: any) => {
           return item.title.toLowerCase().includes(query) || 
                  item.tags.some((tag: string) => tag.toLowerCase().includes(query));
@@ -177,13 +173,8 @@ const searchIndex = publishedDesigns.map(design => ({
       input.value = '';
       clearBtn?.classList.add('hidden');
       clearBtn?.classList.remove('flex');
-      feedback?.classList.add('hidden');
-      resultsContainer?.classList.add('hidden');
-      
-      // Restore original results
-      if (originalGrid) (originalGrid as HTMLElement).style.display = 'grid';
-      if (pagination) (pagination as HTMLElement).style.display = 'flex';
-      if (showingText) (showingText as HTMLElement).style.display = 'block';
+      searchSection.classList.add('hidden');
+      showroomSection.classList.remove('hidden');
     }
   }
 
