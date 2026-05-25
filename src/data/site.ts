@@ -18,6 +18,7 @@ export const siteConfig = {
   business: {
     operatingHours: 'Senin - Sabtu, 09:00 - 21:00 WIB',
     location: 'Indonesia',
+    address: 'Perumahan Wilis Indah II Blok H3 No. 12, Kediri, Jawa Timur',
     foundedYear: 2022,
   },
 
