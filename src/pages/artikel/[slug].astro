@@ -10,14 +10,26 @@ import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
-  const published = posts.filter(p => p.data.status === 'published');
-  return published.map(post => ({
-    params: { slug: post.id },
-    props: { post },
-  }));
+  const published = posts
+    .filter(p => p.data.status === 'published')
+    .sort((a, b) => {
+      const dateA = a.data.updatedAt || a.data.publishedAt;
+      const dateB = b.data.updatedAt || b.data.publishedAt;
+      return dateB.getTime() - dateA.getTime();
+    });
+
+  return published.map((post, index) => {
+    const prevPost = index < published.length - 1 ? published[index + 1] : null;
+    const nextPost = index > 0 ? published[index - 1] : null;
+
+    return {
+      params: { slug: post.id },
+      props: { post, prevPost, nextPost },
+    };
+  });
 }
 
-const { post } = Astro.props;
+const { post, prevPost, nextPost } = Astro.props;
 const { Content, headings } = await render(post);
 
 // Fetch author data
@@ -236,6 +248,36 @@ const jsonLd = [{
               </button>
             </div>
           </div>
+
+          <!-- Prev / Next Navigation -->
+          {(prevPost || nextPost) && (
+            <div class="mt-12 pt-10 border-t border-border-soft/60 grid sm:grid-cols-2 gap-6">
+              <div class="group">
+                {prevPost && (
+                  <a href={`/artikel/${prevPost.id}/`} class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all">
+                    <span class="flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">
+                      <Icon name="arrow-left" size={10} /> Sebelumnya
+                    </span>
+                    <p class="font-serif text-sm font-semibold text-brand-950 group-hover:text-brand-500 transition-colors line-clamp-2 leading-relaxed">
+                      {prevPost.data.title}
+                    </p>
+                  </a>
+                )}
+              </div>
+              <div class="group text-right">
+                {nextPost && (
+                  <a href={`/artikel/${nextPost.id}/`} class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all">
+                    <span class="flex items-center justify-end gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">
+                      Selanjutnya <Icon name="arrow-right" size={10} />
+                    </span>
+                    <p class="font-serif text-sm font-semibold text-brand-950 group-hover:text-brand-500 transition-colors line-clamp-2 leading-relaxed">
+                      {nextPost.data.title}
+                    </p>
+                  </a>
+                )}
+              </div>
+            </div>
+          )}
 
           <!-- CTA -->
           <div class="mt-14 p-7 bg-cream border border-border-soft text-center">
