@@ -9,7 +9,7 @@ const allFaqs = await getCollection("faqs");
 const homeFaqs = allFaqs
   .filter((f) => f.data.status === "published" && f.data.category === "umum")
   .sort((a, b) => a.data.sortOrder - b.data.sortOrder)
-  .slice(0, 5);
+  .slice(0, 15);
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -62,7 +62,7 @@ const faqSchema = {
                   <span class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-soft-gold shrink-0">
                     {padIndex}
                   </span>
-                  <span id={`faq-question-${index}`}>{faq.data.question}</span>
+                  <h3 id={`faq-question-${index}`} class="text-[15px] sm:text-base font-serif font-semibold text-brand-950 inline">{faq.data.question}</h3>
                 </div>
                 <div class="w-6 h-6 rounded-full bg-brand-50 flex items-center justify-center shrink-0 ml-4 group-hover:bg-[#B59A73]/15 transition-colors">
                   <Icon
