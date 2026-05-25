@@ -6,6 +6,7 @@ import SectionHeader from '../components/base/SectionHeader.astro';
 import { pricingPlans, comparisonFeatures } from '../data/pricing-static';
 import { createWhatsappUrl } from '../lib/whatsapp/create-whatsapp-url';
 import Icon from '../components/ui/Icon.astro';
+import FAQSection from '../components/home/FAQSection.astro';
 
 const jsonLd = pricingPlans.map(plan => ({
   '@context': 'https://schema.org',
@@ -156,6 +157,9 @@ const jsonLd = pricingPlans.map(plan => ({
       </div>
     </Container>
   </Section>
+
+  <!-- FAQ Section (GEO / RAG Enhancement) -->
+  <FAQSection />
 
   <!-- Bottom CTA Banner -->
   <Section bg="white" class="border-t border-border-soft/50">

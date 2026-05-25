@@ -1,4 +1,21 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://acaranya.id/sitemap-index.xml
+
+# OpenAI ChatGPT Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Google Gemini Crawler
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic Claude Crawler
+User-agent: ClaudeBot
+Allow: /

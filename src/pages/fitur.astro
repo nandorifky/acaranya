@@ -5,6 +5,7 @@ import Section from '../components/base/Section.astro';
 import Icon from '../components/ui/Icon.astro';
 import { featuresList } from '../data/features';
 import { siteConfig } from '../data/site';
+import FAQSection from '../components/home/FAQSection.astro';
 
 const features = featuresList;
 ---
@@ -62,6 +63,9 @@ const features = featuresList;
       </div>
     </Container>
   </Section>
+
+  <!-- FAQ Section (GEO / RAG Enhancement) -->
+  <FAQSection />
 
   <!-- Premium Bottom Banner -->
   <Section bg="cream" class="border-t border-border-soft/50">
