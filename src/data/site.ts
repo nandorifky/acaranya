@@ -5,7 +5,7 @@ export const siteConfig = {
   url: 'https://acaranya.id',
   previewDomain: 'https://acaranya.id',
   locale: 'id_ID',
-  
+
   branding: {
     logo: '/images/acaranya-logo.png',
     logo1x1: '/images/acaranya logo 1x1.webp',
@@ -28,12 +28,12 @@ export const siteConfig = {
     },
     tiktok: {
       username: '@acaranya.id',
-      url: 'https://tiktok.com/@acaranya.id',
+      url: 'https://www.tiktok.com/@acaranya.id',
       active: true,
     },
     facebook: {
       username: 'Acaranya.id',
-      url: 'https://facebook.com/acaranya.id',
+      url: 'https://facebook.com/acaranya.fb',
       active: true,
     },
     youtube: {
@@ -53,7 +53,7 @@ export const siteConfig = {
     },
     telegram: {
       url: 'https://t.me/acaranyaid',
-      active: true,
+      active: false,
     }
   },
 
@@ -77,7 +77,7 @@ export const siteConfig = {
     defaultTitle: 'Undangan Digital Cantik untuk Berbagai Acara | Acaranya.id',
     defaultDescription: 'Buat undangan digital modern dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
     keywords: 'undangan digital, undangan online, undangan website, wedding invitation, e-invitation',
-    
+
     // Tracking & Verification Configurations
     googleSiteVerification: '4rrj2MUeooSdQXxhHusQ22vNE_M9VjOgFkoMOxVts4E',
     bingSiteVerification: '',
@@ -113,7 +113,7 @@ export const siteConfig = {
     },
     freelancers: {
       name: '5+ Freelancers',
-      role: 'Marketing/Editor/Designer',
+      role: 'All Rounder',
     }
   }
 } as const;

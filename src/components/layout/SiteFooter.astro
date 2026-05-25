@@ -5,22 +5,40 @@ import Icon from "../ui/Icon.astro";
 import Container from "../base/Container.astro";
 ---
 
-<footer class="relative bg-[#0F0E0D] text-[#F4F0EB] overflow-hidden pt-20 pb-10" id="site-footer">
+<footer
+  class="relative bg-[#0F0E0D] text-[#F4F0EB] overflow-hidden pt-20 pb-10"
+  id="site-footer"
+>
   <!-- Visual Elements -->
-  <div class="absolute top-0 left-0 w-full h-px bg-gradient-to-r from-transparent via-soft-gold/20 to-transparent"></div>
-  
+  <div
+    class="absolute top-0 left-0 w-full h-px bg-gradient-to-r from-transparent via-soft-gold/20 to-transparent"
+  >
+  </div>
+
   <!-- Subtle Mesh Glow -->
-  <div class="absolute bottom-[-10%] right-[-5%] w-[500px] h-[500px] rounded-full bg-soft-gold/5 blur-[120px] pointer-events-none"></div>
-  <div class="absolute top-[-10%] left-[-5%] w-[400px] h-[400px] rounded-full bg-brand-500/5 blur-[100px] pointer-events-none"></div>
+  <div
+    class="absolute bottom-[-10%] right-[-5%] w-[500px] h-[500px] rounded-full bg-soft-gold/5 blur-[120px] pointer-events-none"
+  >
+  </div>
+  <div
+    class="absolute top-[-10%] left-[-5%] w-[400px] h-[400px] rounded-full bg-brand-500/5 blur-[100px] pointer-events-none"
+  >
+  </div>
 
   <!-- Editorial Watermark -->
-  <div class="absolute bottom-[-2%] left-1/2 -translate-x-1/2 hidden lg:block opacity-[0.02] select-none pointer-events-none">
-     <span class="font-serif text-[18rem] italic whitespace-nowrap tracking-tighter">Acaranya.id</span>
+  <div
+    class="absolute bottom-[-2%] left-1/2 -translate-x-1/2 hidden lg:block opacity-[0.02] select-none pointer-events-none"
+  >
+    <span
+      class="font-serif text-[18rem] italic whitespace-nowrap tracking-tighter"
+      >Acaranya.id</span
+    >
   </div>
 
   <Container>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-12 lg:gap-8 mb-20 relative z-10">
-      
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-12 lg:gap-8 mb-20 relative z-10"
+    >
       <!-- Brand & Contact Column -->
       <div class="lg:col-span-5 space-y-10">
         <div class="space-y-6">
@@ -32,90 +50,146 @@ import Container from "../base/Container.astro";
               style="filter: invert(72%) sepia(8%) saturate(151%) hue-rotate(336deg) brightness(150%) contrast(92%);"
             />
           </a>
-          <p class="text-[#A8A29E] text-base leading-relaxed max-w-sm font-sans tracking-wide">
-            Platform pembuatan undangan digital modern dengan sentuhan seni eksklusif, fitur terlengkap, dan kemudahan akses bagi setiap pasangan.
+          <p
+            class="text-[#A8A29E] text-base leading-relaxed max-w-sm font-sans tracking-wide"
+          >
+            Platform pembuatan undangan digital modern dengan sentuhan seni
+            eksklusif, fitur terlengkap, dan kemudahan akses bagi setiap
+            pasangan.
           </p>
         </div>
 
         <!-- Detailed Contact Info -->
         <div class="space-y-5">
-           <div class="flex items-start gap-4">
-              <div class="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center shrink-0 mt-1">
-                 <Icon name="map-pin" size={14} class="text-soft-gold" />
-              </div>
-              <div class="space-y-1">
-                 <p class="text-[9px] uppercase tracking-widest font-bold text-soft-gold/60">Workshop</p>
-                 <p class="text-sm text-[#A8A29E] leading-snug">{siteConfig.business.address}</p>
-              </div>
-           </div>
+          <div class="flex items-start gap-4">
+            <div
+              class="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center shrink-0 mt-1"
+            >
+              <Icon name="map-pin" size={14} class="text-soft-gold" />
+            </div>
+            <div class="space-y-1">
+              <p
+                class="text-[9px] uppercase tracking-widest font-bold text-soft-gold/60"
+              >
+                Workshop
+              </p>
+              <p class="text-sm text-[#A8A29E] leading-snug">
+                {siteConfig.business.address}
+              </p>
+            </div>
+          </div>
 
-           <div class="flex items-start gap-4">
-              <div class="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center shrink-0 mt-1">
-                 <Icon name="whatsapp" size={14} class="text-soft-gold" />
-              </div>
-              <div class="space-y-1">
-                 <p class="text-[9px] uppercase tracking-widest font-bold text-soft-gold/60">Customer Service</p>
-                 <a href={`https://wa.me/${siteConfig.contact.whatsapp}`} class="text-sm text-[#A8A29E] hover:text-[#FAF9F6] transition-colors">{siteConfig.contact.whatsappDisplay}</a>
-              </div>
-           </div>
+          <div class="flex items-start gap-4">
+            <div
+              class="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center shrink-0 mt-1"
+            >
+              <Icon name="whatsapp" size={14} class="text-soft-gold" />
+            </div>
+            <div class="space-y-1">
+              <p
+                class="text-[9px] uppercase tracking-widest font-bold text-soft-gold/60"
+              >
+                Customer Service
+              </p>
+              <a
+                href={`https://wa.me/${siteConfig.contact.whatsapp}`}
+                class="text-sm text-[#A8A29E] hover:text-[#FAF9F6] transition-colors"
+                >{siteConfig.contact.whatsappDisplay}</a
+              >
+            </div>
+          </div>
 
-           <div class="flex items-start gap-4">
-              <div class="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center shrink-0 mt-1">
-                 <Icon name="mail" size={14} class="text-soft-gold" />
-              </div>
-              <div class="space-y-1">
-                 <p class="text-[9px] uppercase tracking-widest font-bold text-soft-gold/60">Business Inquiry</p>
-                 <a href={`mailto:${siteConfig.contact.email}`} class="text-sm text-[#A8A29E] hover:text-[#FAF9F6] transition-colors">{siteConfig.contact.email}</a>
-              </div>
-           </div>
+          <div class="flex items-start gap-4">
+            <div
+              class="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center shrink-0 mt-1"
+            >
+              <Icon name="mail" size={14} class="text-soft-gold" />
+            </div>
+            <div class="space-y-1">
+              <p
+                class="text-[9px] uppercase tracking-widest font-bold text-soft-gold/60"
+              >
+                Business Inquiry
+              </p>
+              <a
+                href={`mailto:${siteConfig.contact.email}`}
+                class="text-sm text-[#A8A29E] hover:text-[#FAF9F6] transition-colors"
+                >{siteConfig.contact.email}</a
+              >
+            </div>
+          </div>
         </div>
 
         <!-- Social Icons -->
         <div class="flex items-center gap-4 pt-2">
-          {siteConfig.social.instagram.active && (
-            <a
-              href={siteConfig.social.instagram.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
-              aria-label={`Follow ${siteConfig.name} on Instagram`}
-            >
-              <Icon name="instagram" size={18} class="group-hover:scale-110 transition-transform" />
-            </a>
-          )}
-          {siteConfig.social.tiktok.active && (
-            <a
-              href={siteConfig.social.tiktok.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
-              aria-label={`Follow ${siteConfig.name} on TikTok`}
-            >
-              <Icon name="zap" size={18} class="group-hover:scale-110 transition-transform" />
-            </a>
-          )}
-          {siteConfig.social.facebook.active && (
-            <a
-              href={siteConfig.social.facebook.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
-              aria-label={`Follow ${siteConfig.name} on Facebook`}
-            >
-              <Icon name="facebook" size={18} class="group-hover:scale-110 transition-transform" />
-            </a>
-          )}
-          {siteConfig.social.telegram.active && (
-            <a
-              href={siteConfig.social.telegram.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
-              aria-label="Join our Telegram"
-            >
-              <Icon name="brand-telegram" size={18} class="group-hover:scale-110 transition-transform" />
-            </a>
-          )}
+          {
+            siteConfig.social.instagram.active && (
+              <a
+                href={siteConfig.social.instagram.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+                aria-label={`Follow ${siteConfig.name} on Instagram`}
+              >
+                <Icon
+                  name="instagram"
+                  size={18}
+                  class="group-hover:scale-110 transition-transform"
+                />
+              </a>
+            )
+          }
+          {
+            siteConfig.social.tiktok.active && (
+              <a
+                href={siteConfig.social.tiktok.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+                aria-label={`Follow ${siteConfig.name} on TikTok`}
+              >
+                <Icon
+                  name="tiktok"
+                  size={18}
+                  class="group-hover:scale-110 transition-transform"
+                />
+              </a>
+            )
+          }
+          {
+            siteConfig.social.facebook.active && (
+              <a
+                href={siteConfig.social.facebook.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+                aria-label={`Follow ${siteConfig.name} on Facebook`}
+              >
+                <Icon
+                  name="facebook"
+                  size={18}
+                  class="group-hover:scale-110 transition-transform"
+                />
+              </a>
+            )
+          }
+          {
+            siteConfig.social.telegram.active && (
+              <a
+                href={siteConfig.social.telegram.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+                aria-label="Join our Telegram"
+              >
+                <Icon
+                  name="brand-telegram"
+                  size={18}
+                  class="group-hover:scale-110 transition-transform"
+                />
+              </a>
+            )
+          }
         </div>
       </div>
 
@@ -124,49 +198,70 @@ import Container from "../base/Container.astro";
         <div class="grid grid-cols-2 md:grid-cols-3 gap-x-8 gap-y-12">
           <!-- Column 1 -->
           <div class="space-y-8">
-            <h3 class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block">
+            <h3
+              class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block"
+            >
               Layanan
             </h3>
             <ul class="space-y-4">
-              {footerNavigation.layanan.map((item) => (
-                <li>
-                  <a href={item.href} class="text-[14px] text-[#A8A29E] hover:text-soft-gold hover:translate-x-1 transition-all inline-block duration-300">
-                    {item.label}
-                  </a>
-                </li>
-              ))}
+              {
+                footerNavigation.layanan.map((item) => (
+                  <li>
+                    <a
+                      href={item.href}
+                      class="text-[14px] text-[#A8A29E] hover:text-soft-gold hover:translate-x-1 transition-all inline-block duration-300"
+                    >
+                      {item.label}
+                    </a>
+                  </li>
+                ))
+              }
             </ul>
           </div>
 
           <!-- Column 2 -->
           <div class="space-y-8">
-            <h3 class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block">
+            <h3
+              class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block"
+            >
               Perusahaan
             </h3>
             <ul class="space-y-4">
-              {footerNavigation.perusahaan.map((item) => (
-                <li>
-                  <a href={item.href} class="text-[14px] text-[#A8A29E] hover:text-soft-gold hover:translate-x-1 transition-all inline-block duration-300">
-                    {item.label}
-                  </a>
-                </li>
-              ))}
+              {
+                footerNavigation.perusahaan.map((item) => (
+                  <li>
+                    <a
+                      href={item.href}
+                      class="text-[14px] text-[#A8A29E] hover:text-soft-gold hover:translate-x-1 transition-all inline-block duration-300"
+                    >
+                      {item.label}
+                    </a>
+                  </li>
+                ))
+              }
             </ul>
           </div>
 
           <!-- Column 3 (Full width on mobile grid-cols-2 hack) -->
           <div class="space-y-8 col-span-2 md:col-span-1">
-            <h3 class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block">
+            <h3
+              class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block"
+            >
               Informasi
             </h3>
             <ul class="space-y-4">
-              {footerNavigation.bantuan.map((item) => (
-                <li>
-                  <a href={item.href} class="text-[14px] text-[#A8A29E] hover:text-soft-gold hover:translate-x-1 transition-all inline-block duration-300">
-                    {item.label}
-                  </a>
-                </li>
-              ))}
+              {
+                footerNavigation.bantuan.map((item) => (
+                  <li>
+                    <a
+                      href={item.href}
+                      class="text-[14px] text-[#A8A29E] hover:text-soft-gold hover:translate-x-1 transition-all inline-block duration-300"
+                    >
+                      {item.label}
+                    </a>
+                  </li>
+                ))
+              }
             </ul>
           </div>
         </div>
@@ -174,19 +269,34 @@ import Container from "../base/Container.astro";
     </div>
 
     <!-- Copyright Bottom Bar -->
-    <div class="pt-10 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-6 relative z-10">
+    <div
+      class="pt-10 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-6 relative z-10"
+    >
       <div class="flex flex-col md:flex-row items-center gap-2 md:gap-4">
-         <p class="text-[13px] text-[#A8A29E]">
-           © {new Date().getFullYear()} {siteConfig.name} — <span class="italic font-serif">Mewarnai momen indah dengan teknologi.</span>
-         </p>
+        <p class="text-[13px] text-[#A8A29E]">
+          © {new Date().getFullYear()}
+          {siteConfig.name} — <span class="italic font-serif"
+            >Mewarnai momen indah dengan teknologi.</span
+          >
+        </p>
       </div>
 
       <div class="flex items-center gap-6">
-        <a href="/legal/kebijakan-privasi/" class="text-[11px] uppercase tracking-widest text-[#A8A29E] hover:text-soft-gold transition-colors">Privacy</a>
-        <a href="/legal/syarat-ketentuan/" class="text-[11px] uppercase tracking-widest text-[#A8A29E] hover:text-soft-gold transition-colors">Terms</a>
+        <a
+          href="/legal/kebijakan-privasi/"
+          class="text-[11px] uppercase tracking-widest text-[#A8A29E] hover:text-soft-gold transition-colors"
+          >Privacy</a
+        >
+        <a
+          href="/legal/syarat-ketentuan/"
+          class="text-[11px] uppercase tracking-widest text-[#A8A29E] hover:text-soft-gold transition-colors"
+          >Terms</a
+        >
         <div class="w-px h-3 bg-white/10 hidden sm:block"></div>
-        <p class="text-[10px] text-soft-gold font-bold uppercase tracking-[0.25em]">
-          Handcrafted by Acaranya Team
+        <p
+          class="text-[10px] text-soft-gold font-bold uppercase tracking-[0.25em]"
+        >
+          by Nando Rifky
         </p>
       </div>
     </div>
