@@ -5,6 +5,7 @@ import Section from "../components/base/Section.astro";
 import Icon from "../components/ui/Icon.astro";
 import { siteConfig } from "../data/site";
 import Partners from "../components/home/Partners.astro";
+import { resellerTiers, resellerDefaultRetailPrice } from "../data/reseller-static";
 ---
 
 <MarketingLayout
@@ -560,42 +561,23 @@ import Partners from "../components/home/Partners.astro";
               >Pilih Jumlah Kuota Undangan:</label
             >
             <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
-              <button
-                data-quota="10"
-                data-inv="500000"
-                data-unit="50000"
-                id="btn-q-10"
-                class="calc-btn py-3 px-3 bg-brand-950 text-cream border border-brand-950 font-bold rounded-xl text-center text-xs transition-all shadow-sm"
-              >
-                10 Kuota
-              </button>
-              <button
-                data-quota="30"
-                data-inv="1350000"
-                data-unit="45000"
-                id="btn-q-30"
-                class="calc-btn py-3 px-3 bg-white text-brand-950 border border-[#B59A73]/20 hover:border-[#B59A73] font-bold rounded-xl text-center text-xs transition-all shadow-xs"
-              >
-                30 Kuota
-              </button>
-              <button
-                data-quota="50"
-                data-inv="2000000"
-                data-unit="40000"
-                id="btn-q-50"
-                class="calc-btn py-3 px-3 bg-white text-brand-950 border border-[#B59A73]/20 hover:border-[#B59A73] font-bold rounded-xl text-center text-xs transition-all shadow-xs"
-              >
-                50 Kuota
-              </button>
-              <button
-                data-quota="100"
-                data-inv="3500000"
-                data-unit="35000"
-                id="btn-q-100"
-                class="calc-btn py-3 px-3 bg-white text-brand-950 border border-[#B59A73]/20 hover:border-[#B59A73] font-bold rounded-xl text-center text-xs transition-all shadow-xs"
-              >
-                100 Kuota
-              </button>
+              {
+                resellerTiers.map((tier, idx) => (
+                  <button
+                    data-quota={tier.quota}
+                    data-inv={tier.totalInvestment}
+                    data-unit={tier.unitPrice}
+                    id={`btn-q-${tier.id}`}
+                    class={`calc-btn py-3 px-3 font-bold rounded-xl text-center text-xs transition-all ${
+                      idx === 0
+                        ? "bg-brand-950 text-cream border border-brand-950 shadow-sm"
+                        : "bg-white text-brand-950 border border-[#B59A73]/20 hover:border-[#B59A73] shadow-xs"
+                    }`}
+                  >
+                    {tier.quota} Kuota
+                  </button>
+                ))
+              }
             </div>
           </div>
 
@@ -614,7 +596,7 @@ import Partners from "../components/home/Partners.astro";
               <input
                 type="number"
                 id="sell-price-input"
-                value="149000"
+                value={resellerDefaultRetailPrice}
                 min="60000"
                 class="w-full pl-10 pr-4 py-3.5 border border-[#B59A73]/25 bg-white text-brand-950 text-xs rounded-xl font-bold focus:outline-none focus:ring-1 focus:ring-[#B59A73] transition-all"
                 oninput="recalculate()"
@@ -622,7 +604,7 @@ import Partners from "../components/home/Partners.astro";
             </div>
             <p class="text-[11px] text-text-muted italic">
               Rekomendasi harga jual ritel pasar standar Acaranya.id: Rp
-              149.000.
+              {resellerDefaultRetailPrice.toLocaleString("id-ID")}.
             </p>
           </div>
         </div>
@@ -1016,18 +998,13 @@ import Partners from "../components/home/Partners.astro";
               class="w-full px-5 py-3.5 border border-[#B59A73]/20 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] transition-all font-sans appearance-none"
             >
               <option value="">Pilih jatah paket awal</option>
-              <option value="10 Kuota - Rp 500.000"
-                >Paket 10 Kuota — Rp 500.000</option
-              >
-              <option value="30 Kuota - Rp 1.350.000"
-                >Paket 30 Kuota — Rp 1.350.000</option
-              >
-              <option value="50 Kuota - Rp 2.000.000"
-                >Paket 50 Kuota — Rp 2.000.000</option
-              >
-              <option value="100 Kuota - Rp 3.500.000"
-                >Paket 100 Kuota — Rp 3.500.000</option
-              >
+              {
+                resellerTiers.map((tier) => (
+                  <option value={`${tier.quota} Kuota - Rp ${tier.totalInvestment.toLocaleString('id-ID')}`}>
+                    Paket {tier.quota} Kuota — Rp {tier.totalInvestment.toLocaleString('id-ID')}
+                  </option>
+                ))
+              }
             </select>
           </div>
 
@@ -1077,11 +1054,11 @@ Mohon panduan untuk tahap validasi onboarding dan pembuatan Kode Partner Unik sa
     </script>
 
     <!-- Client-side script for Interactive Profit Calculator -->
-    <script>
+    <script define:vars={{ initialQuota: resellerTiers[0].quota, initialInv: resellerTiers[0].totalInvestment, initialUnit: resellerTiers[0].unitPrice }}>
       // State variables
-      let currentQuota = 10;
-      let currentInv = 500000;
-      let currentUnit = 50000;
+      let currentQuota = initialQuota;
+      let currentInv = initialInv;
+      let currentUnit = initialUnit;
 
       const sellPriceInput = document.getElementById("sell-price-input");
       const outTotalInv = document.getElementById("out-total-inv");

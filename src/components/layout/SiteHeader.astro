@@ -31,13 +31,13 @@ const pathname = Astro.url.pathname;
     >
       <!-- Mobile Logo (1x1) -->
       <img
-        src="/images/acaranya 1x1.png"
+        src={siteConfig.branding.logo1x1Png}
         alt={`${siteConfig.name} Logo`}
         class="w-9 h-9 object-contain lg:hidden"
       />
       <!-- Desktop Logo (Horizontal) -->
       <img
-        src="/images/acaranya-logo.png"
+        src={siteConfig.branding.logo}
         alt={`${siteConfig.name} Logo`}
         class="hidden lg:block h-8 object-contain"
       />

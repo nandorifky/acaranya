@@ -2,30 +2,9 @@
 import Container from "../base/Container.astro";
 import Section from "../base/Section.astro";
 import Icon from "../ui/Icon.astro";
+import { ecoImpactStats } from "../../data/eco-impact";
 
-const stats = [
-  {
-    label: "Kertas Dihemat",
-    value: "500k+",
-    unit: "Lembar",
-    icon: "copy",
-    desc: "Menghindari pemborosan kertas fisik dari undangan konvensional.",
-  },
-  {
-    label: "Pohon Terlindungi",
-    value: "120+",
-    unit: "Pohon Dewasa",
-    icon: "zap", // Using zap as a placeholder for energy/life, or I can add a leaf icon if needed
-    desc: "Setara dengan melestarikan area hijau kecil untuk masa depan.",
-  },
-  {
-    label: "Emisi Karbon",
-    value: "65%",
-    unit: "Lebih Rendah",
-    icon: "globe",
-    desc: "Mengurangi jejak karbon dari proses logistik dan distribusi fisik.",
-  },
-];
+const stats = ecoImpactStats;
 ---
 
 <Section bg="cream" id="eco-impact" class="relative overflow-hidden">

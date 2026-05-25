@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom';
 import { mobileNavigation, ctaNavItem } from '../../data/navigation';
 import { createWhatsappUrl } from '../../lib/whatsapp/create-whatsapp-url';
 import { X, Menu, ArrowUpRight } from 'lucide-react';
+import { siteConfig } from '../../data/site';
 
 const WhatsAppIcon = ({ size = 16 }: { size?: number }) => (
   <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" className="shrink-0">
@@ -43,7 +44,7 @@ function MenuOverlay({ onClose }: { onClose: () => void }) {
       >
         <div className="flex items-center gap-2.5">
           <img
-            src="/images/acaranya 1x1.png"
+            src={siteConfig.branding.logo1x1Png}
             alt="Acaranya.id Logo"
             className="w-9 h-9 object-contain"
           />

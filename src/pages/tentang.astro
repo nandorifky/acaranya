@@ -190,8 +190,8 @@ import { siteConfig } from "../data/site";
             class="aspect-[4/5] rounded-[30px] overflow-hidden bg-cream border-8 border-white shadow-2xl relative z-10"
           >
             <img
-              src="/images/nando-rifky.webp"
-              alt="Nando Rifky Founder Acaranya.id"
+              src={siteConfig.team.founder.avatar}
+              alt={`${siteConfig.team.founder.name} ${siteConfig.team.founder.role} ${siteConfig.name}`}
               class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
             />
           </div>
@@ -225,18 +225,9 @@ import { siteConfig } from "../data/site";
           <div
             class="space-y-6 text-text-secondary leading-relaxed text-lg italic"
           >
-            <p>
-              "Saya percaya bahwa setiap momen spesial dalam hidup layak
-              dirayakan dengan cara yang unik dan personal. Kami di Acaranya.id
-              berkomitmen untuk menghadirkan undangan digital yang tidak hanya
-              elegan dan inovatif, tapi juga mencerminkan kisah dan gaya setiap
-              pasangan."
-            </p>
-            <p>
-              "Kami berharap layanan kami dapat membantu menjadikan momen
-              penting Anda lebih berkesan dan terkoneksi dalam setiap
-              detailnya."
-            </p>
+            {siteConfig.team.founder.quote.map((q) => (
+              <p>"{q}"</p>
+            ))}
           </div>
 
           <div class="pt-6 border-t border-border-soft flex items-center gap-4">
@@ -245,12 +236,12 @@ import { siteConfig } from "../data/site";
               <p
                 class="font-serif text-xl font-bold text-brand-950 leading-none"
               >
-                Nando Rifky
+                {siteConfig.team.founder.name}
               </p>
               <p
                 class="text-[10px] uppercase tracking-[0.2em] text-text-muted mt-2"
               >
-                Founder Acaranya.id
+                {siteConfig.team.founder.role}
               </p>
             </div>
           </div>
@@ -408,7 +399,7 @@ import { siteConfig } from "../data/site";
               >Pilih Desain Impian</a
             >
             <a
-              href="/kontak/"
+              href={siteConfig.integrations.contactUrl}
               class="px-10 py-5 border border-brand-300 text-brand-950 text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-white transition-all"
               >Hubungi Tim Kami</a
             >

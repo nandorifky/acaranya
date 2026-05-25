@@ -29,22 +29,22 @@ const jsonLd = [
     "@id": `${siteConfig.url}/#localbusiness`,
     "url": siteConfig.url,
     "telephone": `+${siteConfig.contact.whatsapp}`,
-    "priceRange": "Rp 50.000 - Rp 300.000",
+    "priceRange": siteConfig.seo.priceRange,
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Surabaya",
-      "addressRegion": "Jawa Timur",
-      "addressCountry": "ID"
+      "addressLocality": siteConfig.business.schemaLocality,
+      "addressRegion": siteConfig.business.schemaRegion,
+      "addressCountry": siteConfig.business.schemaCountry
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": -7.2575,
-      "longitude": 112.7521
+      "latitude": siteConfig.business.latitude,
+      "longitude": siteConfig.business.longitude
     },
     "aggregateRating": {
       "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "384",
+      "ratingValue": siteConfig.seo.ratingValue,
+      "reviewCount": siteConfig.seo.reviewCount,
       "bestRating": "5",
       "worstRating": "1"
     },

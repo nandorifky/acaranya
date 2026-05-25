@@ -9,8 +9,10 @@ export const siteConfig = {
   branding: {
     logo: '/images/acaranya-logo.png',
     logo1x1: '/images/acaranya logo 1x1.webp',
+    logo1x1Png: '/images/acaranya 1x1.png',
     favicon: '/images/favicon.ico',
     ogImage: '/og/default-og.jpg',
+    themeColor: '#ffffff',
   },
 
   contact: {
@@ -63,6 +65,11 @@ export const siteConfig = {
     address: 'Perumahan Wilis Indah II Blok H3 No. 12, Kediri, Jawa Timur',
     googleMapsUrl: 'https://maps.app.goo.gl/xxxx', // Tambahkan link maps jika ada
     foundedYear: 2022,
+    schemaLocality: 'Kediri',
+    schemaRegion: 'Jawa Timur',
+    schemaCountry: 'ID',
+    latitude: -7.8480,
+    longitude: 112.0178,
   },
 
   stats: {
@@ -86,6 +93,9 @@ export const siteConfig = {
     googleAnalyticsId: 'G-SME66PTLRE',
     googleTagManagerId: 'G-SME66PTLRE',
     metaPixelId: '',
+    ratingValue: '4.9',
+    reviewCount: '384',
+    priceRange: 'Rp 75.000 - Rp 250.000',
   },
 
   integrations: {
@@ -93,13 +103,18 @@ export const siteConfig = {
     orderUrl: '/order-undangan/',
     pricingUrl: '/harga/',
     catalogUrl: '/desain-undangan-digital/',
+    contactUrl: '/kontak/',
   },
 
   team: {
     founder: {
       name: 'Nando Rifky',
-      role: 'Founder',
+      role: 'Founder & CEO',
       avatar: '/images/nando-rifky.webp',
+      quote: [
+        "Saya percaya bahwa setiap momen spesial dalam hidup layak dirayakan dengan cara yang unik dan personal. Kami di Acaranya.id berkomitmen untuk menghadirkan undangan digital yang tidak hanya elegan dan inovatif, tapi juga mencerminkan kisah dan gaya setiap pasangan.",
+        "Kami berharap layanan kami dapat membantu menjadikan momen penting Anda lebih berkesan dan terkoneksi dalam setiap detailnya."
+      ]
     },
     editor1: {
       name: 'Indira',

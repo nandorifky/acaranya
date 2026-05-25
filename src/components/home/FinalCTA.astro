@@ -2,6 +2,7 @@
 import Container from "../base/Container.astro";
 import Icon from "../ui/Icon.astro";
 import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
+import { siteConfig } from "../../data/site";
 ---
 
 <section
@@ -45,7 +46,7 @@ import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
         class="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4"
       >
         <a
-          href="/desain-undangan-digital/"
+          href={siteConfig.integrations.catalogUrl}
           class="px-8 py-4 bg-brand-950 text-cream text-[11px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-900 transition-all duration-300 shadow-card hover:shadow-card-hover active:scale-[0.98]"
           id="final-cta-designs"
         >
