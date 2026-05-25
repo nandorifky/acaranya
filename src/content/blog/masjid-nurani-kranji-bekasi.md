@@ -5,7 +5,7 @@ description: >-
   & sakral yang cocok untuk akad nikah khidmat dengan fasilitas pendukung
   lengkap.
 publishedAt: '2026-04-08T17:50:07'
-updatedAt: '2026-04-08T17:50:07'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!
 canonicalUrl: 'https://acaranya.id/artikel/masjid-nurani-kranji-bekasi/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Pernikahan adalah momen sakral yang menjadi impian setiap pasangan. Memilih [venue pernikahan](https://acaranya.id/artikel/tips-memilih-venue-pernikahan/) yang tepat tentu menjadi salah satu langkah penting untuk mewujudkan pernikahan impian.
 
 Jika Anda sedang mencari venue yang unik, Masjid Nurani Kranji di Bekasi bisa menjadi pilihan menarik.
@@ -35,7 +33,7 @@ Tidak hanya sebagai tempat ibadah, masjid ini menawarkan keindahan arsitektur da
 
 Masjid Nurani Kranji memiliki arsitektur yang memadukan desain modern dan klasik, menciptakan suasana yang elegan dan sakral.
 
-Masjid Nurani Kranji ini dirancang dengan kubah megah yang dirancang oleh perusahaan [jual kubah masjid](https://qoobah.co.id) terbaik dengan dihiasi ukiran geometris, memberikan sentuhan estetika yang memukau.
+Masjid Nurani Kranji ini dirancang dengan kubah megah yang dirancang oleh perusahaan jual kubah masjid terbaik dengan dihiasi ukiran geometris, memberikan sentuhan estetika yang memukau.
 
 Dengan warna putih mendominasi, Masjid Nurani menghadirkan nuansa yang bersih dan menenangkan, sangat cocok untuk mengadakan acara penting seperti pernikahan.
 
@@ -47,7 +45,7 @@ Semua ini menjadikan Masjid Nurani Kranji bukan hanya tempat ibadah, tetapi juga
 
 ## Fasilitas Pendukung untuk Pernikahan
 
-[Masjid Nurani Kranji](https://jalinjanji.com/inspirasi/venue/keindahan-masjid-nurani-yang-cocok-untuk-wedding-venue/) menyediakan berbagai fasilitas pendukung untuk memudahkan pelaksanaan acara pernikahan.
+Masjid Nurani Kranji menyediakan berbagai fasilitas pendukung untuk memudahkan pelaksanaan acara pernikahan.
 
 Salah satu fasilitas unggulannya adalah ruang serbaguna yang dapat digunakan untuk acara resepsi. Ruang ini didesain dengan baik untuk mendukung berbagai kebutuhan dekorasi dan pengaturan tempat duduk tamu.
 

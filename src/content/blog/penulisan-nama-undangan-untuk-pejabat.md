@@ -4,7 +4,7 @@ description: >-
   Jangan sampai keliru! Simak panduan penulisan nama & gelar pejabat di undangan
   resmi agar tetap sopan dan sesuai protokol kenegaraan yang benar.
 publishedAt: '2026-04-08T17:50:48'
-updatedAt: '2026-04-08T17:50:48'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Panduan Penulisan Nama Undangan untuk Pejabat yang Benar
 canonicalUrl: 'https://acaranya.id/artikel/penulisan-nama-undangan-untuk-pejabat/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 [Menulis nama undangan](https://acaranya.id/artikel/etika-penulisan-nama-tamu-undangan/), khususnya untuk pejabat, bukan hanya soal kesopanan, tetapi juga menunjukkan penghormatan terhadap jabatan dan kedudukan orang yang diundang. Kesalahan dalam penulisan nama atau jabatan pejabat bisa dianggap kurang menghargai, sehingga penting untuk mengetahui aturan yang benar.
 
 Bagaimana cara menuliskan nama pejabat dengan tepat di undangan resmi? Berikut adalah panduan lengkapnya.

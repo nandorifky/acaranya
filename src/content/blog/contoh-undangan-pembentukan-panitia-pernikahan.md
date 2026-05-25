@@ -5,7 +5,7 @@ description: >-
   undangan rapat yang sopan untuk meminta kehadiran teman & keluarga melancarkan
   hari H.
 publishedAt: '2026-04-08T17:49:21'
-updatedAt: '2026-04-08T17:49:21'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Teks
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: Contoh Undangan Pembentukan Panitia Pernikahan
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pembentukan-panitia-pernikahan/'
 noindex: false
 ---
-4.8/5 - (15 suara)
-
 Pernikahan menjadi hari paling dinanti bagi calon pengantin baru. Pastinya, pembentukan panitia pernikahan juga tidak boleh kamu lewatkan.
 
 Undangan rapat dapat kamu kirimkan untuk meminta kehadiran orang lain dalam berkontribusi untuk acara pernikahan yang akan kamu gelar.

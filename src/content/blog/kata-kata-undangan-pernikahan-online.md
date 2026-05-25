@@ -5,7 +5,7 @@ description: >-
   teks undangan digital yang sesuai tema acara, dari formal hingga santai di
   sini.
 publishedAt: '2026-04-08T17:50:00'
-updatedAt: '2026-04-08T17:50:00'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Kata-Kata Undangan Pernikahan Online
 canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Rangkaian kata dalam [undangan pernikahan online](https://acaranya.id) tentu perlu diperhatikan oleh penyelenggara acara. Tentunya, ini menjadi salah satu faktor penting karena terkandung sopan santun dan etika di dalamnya.
 
 Undangan pernikahan digital, saat ini menjadi salah satu bukti perkembangan dunia teknologi yang sedang trending di beberapa media sosial. Kini, berbagai kalangan muda hingga tua menggunakan undangan jenis ini.

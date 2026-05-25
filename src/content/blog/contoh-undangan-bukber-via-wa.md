@@ -5,7 +5,7 @@ description: >-
   dan format undangan buka puasa bersama yang efektif untuk grup teman &
   keluarga.
 publishedAt: '2026-04-08T17:50:33'
-updatedAt: '2026-04-08T17:50:33'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: Contoh Undangan Bukber via WA
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-bukber-via-wa/'
 noindex: false
 ---
-3.5/5 - (17 suara)
-
 Pada bulan Ramadhan, buka puasa bersama atau yang sering disebut dengan bukber, menjadi salah satu kegiatan yang dinanti-nanti. Namun, persiapan acara ini terkadang memerlukan waktu dan tenaga ekstra, terutama dalam menyusun dan mengirimkan undangan. Oleh karena itu, penggunaan media sosial seperti WhatsApp (WA) menjadi pilihan yang efektif dan efisien.
 
 Kelebihan menggunakan WhatsApp sebagai media pengiriman undangan bukber tentu saja akan memudahkan penyelenggara acara dalam mengatur dan menyampaikan informasi penting terkait acara.

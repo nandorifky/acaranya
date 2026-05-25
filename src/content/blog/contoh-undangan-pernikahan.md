@@ -5,7 +5,7 @@ description: >-
   gaya simple, minimalis, hingga mewah yang bisa kamu jadikan referensi hari
   spesial.
 publishedAt: '2026-04-08T17:50:31'
-updatedAt: '2026-04-08T17:50:31'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: Contoh Undangan Pernikahan
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan/'
 noindex: false
 ---
-4.5/5 - (4 suara)
-
 Bagi banyak orang, menikah adalah peristiwa yang membahagiakan. Dalam momen ini, tentu kamu ingin mengundang semua orang, baik itu keluarga, kerabat, atau orang lain yang kamu kenal untuk hadir dalam acara pernikahan.
 
 Untuk memberitahukan acara pernikahanmu ke orang lain, pastinya kamu membutuhkan undangan. Sebagian besar bentuk atau desain undangan nikah ini berbeda dengan undangan lain, karena dibuat lebih menarik.

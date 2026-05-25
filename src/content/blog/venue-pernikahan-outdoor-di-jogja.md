@@ -5,7 +5,7 @@ description: >-
   di Jogja yang romantis & asri, dari Taman Sari hingga hotel bintang lima
   terbaik.
 publishedAt: '2026-04-08T17:50:10'
-updatedAt: '2026-04-08T17:50:10'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 7 Rekomendasi Venue Pernikahan Outdoor di Jogja
 canonicalUrl: 'https://acaranya.id/artikel/venue-pernikahan-outdoor-di-jogja/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Pernikahan adalah momen yang sangat spesial dalam hidup setiap orang. Memilih venue yang tepat untuk merayakan hari bahagia ini menjadi salah satu langkah penting yang harus kamu lakukan.
 
 Di Jogja, yang dikenal dengan keindahan alam dan budayanya, terdapat banyak pilihan venue pernikahan outdoor yang bisa membuat hari istimewa kamu semakin berkesan. Dalam artikel ini, kami akan memberikan rekomendasi venue pernikahan outdoor di Jogja yang tidak hanya indah, tetapi juga menawarkan pengalaman yang tak terlupakan.

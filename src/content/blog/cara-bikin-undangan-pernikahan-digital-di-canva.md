@@ -5,7 +5,7 @@ description: >-
   gratis. Bisa buat format gambar, video, hingga website tanpa perlu skill
   desain!
 publishedAt: '2026-04-08T17:50:49'
-updatedAt: '2026-04-08T17:50:49'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Cara Bikin Undangan Pernikahan Digital di Canva, Gratis!
 canonicalUrl: 'https://acaranya.id/artikel/cara-bikin-undangan-pernikahan-digital-di-canva/'
 noindex: false
 ---
-4.9/5 - (7 suara)
-
 Canva menjadi salah satu platform desain terkemuka, yang bisa digunakan untuk berbagai kebutuhan. Termasuk undangan digital, yang kini sedang ramai digunakan para calon pengantin, bisa dibuat menggunakan Canva.
 
 Lantas, bagaimana cara membuat undangan pernikahan digital di Canva?

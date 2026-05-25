@@ -4,7 +4,7 @@ description: >-
   Apa itu Double Date? Pahami pengertian, manfaat untuk keharmonisan hubungan,
   serta tips kencan ganda yang seru & bermakna bareng pasangan sahabatmu!
 publishedAt: '2026-04-08T17:51:09'
-updatedAt: '2026-04-08T17:51:09'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Relationship
 tags:
@@ -25,8 +25,6 @@ customBreadcrumbLabel: 'Double Date Artinya? Pengertian, Manfaat, dan Tips Melak
 canonicalUrl: 'https://acaranya.id/artikel/double-date-artinya/'
 noindex: false
 ---
-5/5 - (6 suara)
-
 _Double date_ kini menjadi tren populer di kalangan Gen Z yang mencari cara baru untuk menjaga hubungan tetap menarik. Kencan ganda ini menawarkan pengalaman yang berbeda dari kencan biasa, karena melibatkan dua pasangan yang berkumpul dan bersenang-senang bersama.
 
 _Double date_ dapat memberikan banyak manfaat, tidak hanya untuk mempererat hubungan antar pasangan, tetapi juga membantu memperluas wawasan dan jaringan sosial.

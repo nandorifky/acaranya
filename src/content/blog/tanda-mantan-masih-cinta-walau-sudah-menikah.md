@@ -5,7 +5,7 @@ description: >-
   menikah, dari aktivitas media sosial hingga usahanya untuk terus menjaga
   komunikasi.
 publishedAt: '2026-04-08T17:51:18'
-updatedAt: '2026-04-08T17:51:18'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah
 canonicalUrl: 'https://acaranya.id/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/'
 noindex: false
 ---
-3.3/5 - (12 suara)
-
 **Apakah mantan masih cinta walau sudah menikah?** Pertanyaan ini bisa jadi mencuat saat mantan tiba-tiba muncul kembali, entah dalam bentuk pesan singkat atau sekadar like di unggahan media sosial.
 
 Bagi beberapa orang, rasa penasaran tentang mantan yang sudah menikah bisa jadi sedikit mengganggu. Apakah ia masih menyimpan rasa meski sudah menjalin ikatan pernikahan dengan orang lain?

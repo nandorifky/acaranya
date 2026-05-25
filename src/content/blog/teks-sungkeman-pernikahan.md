@@ -4,7 +4,7 @@ description: >-
   Butuh kata-kata menyentuh hati? Simak 8 contoh teks sungkeman pernikahan yang
   mengharukan dalam berbagai bahasa untuk memohon maaf & restu kepada orang tua.
 publishedAt: '2026-04-08T17:49:33'
-updatedAt: '2026-04-08T17:49:33'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 8 Contoh Teks Sungkeman Pernikahan yang Mengharukan
 canonicalUrl: 'https://acaranya.id/artikel/teks-sungkeman-pernikahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Sungkeman adalah momen paling emosional dalam prosesi pernikahan tradisional di Indonesia. Bagi calon pengantin, ini adalah kesempatan untuk meminta maaf dan memohon restu kepada orang tua sebelum memulai kehidupan baru bersama pasangan.
 
 Jika kamu sedang mencari inspirasi teks sungkeman yang menyentuh hati, artikel ini memberikan contoh-contoh teks sungkeman dalam berbagai bahasa dan situasi.

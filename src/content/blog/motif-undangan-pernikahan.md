@@ -5,7 +5,7 @@ description: >-
   undangan pernikahan mulai dari gaya simple, floral, hingga mewah yang paling
   populer.
 publishedAt: '2026-04-08T17:51:26'
-updatedAt: '2026-04-10T16:42:57'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Motif Undangan Pernikahan
 canonicalUrl: 'https://acaranya.id/artikel/motif-undangan-pernikahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Memilih motif undangan pernikahan merupakan bagian penting untuk menciptakan desain _wedding invitation_ kamu agar terlihat lebih menarik.
 
 Dengan menentukan desain yang tepat, undangan yang akan kamu sebar untuk tamu acara akan jauh terlihat lebih cantik. Namun, pastikan kamu telah mencocokkan motif undangan dengan tema acara pernikahan yang sedang diselenggarakan.

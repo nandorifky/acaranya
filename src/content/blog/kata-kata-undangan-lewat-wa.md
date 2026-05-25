@@ -5,7 +5,7 @@ description: >-
   sopan tanpa mengurangi rasa hormat, lengkap dengan etika pengiriman yang
   benar.
 publishedAt: '2026-04-08T17:50:28'
-updatedAt: '2026-04-08T17:50:28'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat
 canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/'
 noindex: false
 ---
-5/5 - (36 suara)
-
 Dalam artikel ini, kamu akan mengetahui beberapa **kata-kata undangan lewat WA tanpa mengurangi rasa hormat** yang bisa kamu jadikan sebagai referensi.
 
 Sebelum mengirim undangan secara online atau lewat WhatsApp, kamu perlu memperhatikan beberapa etika agar penerima tetap merasa dihormati.

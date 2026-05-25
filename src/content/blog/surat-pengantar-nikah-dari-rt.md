@@ -4,7 +4,7 @@ description: >-
   Mau urus nikah? Simak panduan & syarat mendapatkan surat pengantar nikah dari
   RT/RW sebagai langkah awal pendaftaran pernikahan resmi di Kelurahan & KUA.
 publishedAt: '2026-04-08T17:50:16'
-updatedAt: '2026-04-08T17:50:16'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Surat Pengantar Nikah dari RT
 canonicalUrl: 'https://acaranya.id/artikel/surat-pengantar-nikah-dari-rt/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Hallo _Der_! Mengurus dokumen untuk keperluan menikah menjadi hal wajib kita agar pernikahan terdaftar secara resmi. Sebelum mengurus lebih lanjut, langkah pertama yang perlu dilakukan yaitu meminta surat pengantar nikah dari RT.
 
 Surat pengantar nikah dari RT menjadi hal wajib yang perlu kita dapatkan sebelum beranjak lebih lanjut untuk mengurus pernikahan ke kelurahan, hingga ke KUA (Kantor Urusan Agama).

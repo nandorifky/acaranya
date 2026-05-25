@@ -5,7 +5,7 @@ description: >-
   pernikahan digital & cetak agar tamu punya cukup waktu untuk bersiap hadir di
   acaramu.
 publishedAt: '2026-04-08T17:50:55'
-updatedAt: '2026-04-08T17:50:55'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Sebar Undangan H- Berapa? Waktu Ideal Bagikan Undangan
 canonicalUrl: 'https://acaranya.id/artikel/sebar-undangan-h-berapa/'
 noindex: false
 ---
-4.5/5 - (2 suara)
-
 **Sebar undangan H- berapa?** Pertanyaan ini sering muncul ketika merencanakan pernikahan. Undangan pernikahan adalah elemen krusial yang tidak bisa diabaikan, karena undangan menyampaikan informasi penting mengenai detail acara dan berkaitan langsung dengan kehadiran tamu. Untuk itu, [menyebarkan undangan tepat waktu](https://acaranya.id/artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/) sangat penting, tidak terlambat atau terlampau cepat.
 
 Ada beberapa aspek yang perlu diperhatikan untuk memastikan undangan tiba tepat waktu. Mulai dari persiapan produksi kartu undangan hingga pengiriman ke tamu. Durasi pengiriman undangan juga bergantung pada lokasi tamu, apakah berada di dalam kota atau luar kota.

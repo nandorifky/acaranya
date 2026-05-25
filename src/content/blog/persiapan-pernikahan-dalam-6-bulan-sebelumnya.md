@@ -5,7 +5,7 @@ description: >-
   panduan cicil kebutuhan mulai dari booking vendor hingga sebar undangan
   digital.
 publishedAt: '2026-04-08T17:51:15'
-updatedAt: '2026-04-08T17:51:15'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya
 canonicalUrl: 'https://acaranya.id/artikel/persiapan-pernikahan-dalam-6-bulan-sebelumnya/'
 noindex: false
 ---
-5/5 - (5 suara)
-
 Menyiapkan pernikahan memang bukan perkara sepele. Banyak pasangan sering kali merasa kewalahan karena tidak tahu harus memulai dari mana. Terlebih jika waktu yang tersedia terbatas, misalnya hanya enam bulan sebelum hari-H.
 
 Tanpa perencanaan yang matang, risiko stres, anggaran membengkak, hingga detail penting yang terlupakan bisa terjadi. Maka dari itu, memahami persiapan pernikahan dalam 6 bulan sebelumnya adalah langkah penting agar semuanya berjalan lancar.

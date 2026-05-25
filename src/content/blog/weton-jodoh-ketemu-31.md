@@ -5,7 +5,7 @@ description: >-
   dalam primbon Jawa, makna peringatannya, serta panduan menjaga kesetiaan dalam
   hubungan.
 publishedAt: '2026-04-08T17:49:52'
-updatedAt: '2026-04-08T17:49:52'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-31/'
 noindex: false
 ---
-4/5 - (10 suara)
-
 Weton, sebuah konsep perhitungan hari lahir dalam budaya Jawa, telah menjadi bagian tak terpisahkan dari tradisi masyarakat Jawa. Konsep ini digunakan untuk memahami karakter seseorang, menentukan hari baik, dan bahkan menentukan kecocokan dalam pernikahan. Di antara berbagai perhitungan weton, weton jodoh ketemu 31 menjadi salah satu yang menarik perhatian banyak orang.
 
 Perhitungan weton jodoh dilakukan dengan menjumlahkan nilai neptu dari hari dan pasaran lahir kedua calon pasangan. Setiap hari dan pasaran memiliki nilai neptu tertentu, yang kemudian dijumlahkan untuk mendapatkan total neptu pasangan. Total neptu ini kemudian digunakan untuk menafsirkan [kecocokan pasangan berdasarkan pedoman yang tertuang dalam primbon Jawa](https://acaranya.id/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/).

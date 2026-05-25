@@ -5,7 +5,7 @@ description: >-
   dicantumkan, mulai dari nama pengantin hingga detail lokasi, agar tamu tidak
   bingung.
 publishedAt: '2026-04-08T17:50:30'
-updatedAt: '2026-04-08T17:50:30'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -24,8 +24,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/
 noindex: false
 ---
-4.9/5 - (15 suara)
-
 Pernikahan adalah salah satu momen penting dan sakral dalam kehidupan seseorang. Dalam pernikahan, kedua mempelai akan diikat oleh janji suci untuk bersama-sama membangun rumah tangga yang harmonis.
 
 Untuk merayakan momen ini, keluarga dan teman-teman diundang untuk menghadiri acara pernikahan tersebut. Salah satu cara untuk menyampaikan undangan adalah melalui surat undangan pernikahan yang dirancang dengan baik dan informatif.

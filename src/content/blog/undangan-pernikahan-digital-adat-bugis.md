@@ -5,7 +5,7 @@ description: >-
   Bugis yang elegan, berkarakter, dan tetap modern untuk momen sakral kebanggaan
   keluarga.
 publishedAt: '2026-04-08T17:50:53'
-updatedAt: '2026-04-08T17:50:53'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Tema Undangan Pernikahan Digital Adat Bugis
 canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-digital-adat-bugis/'
 noindex: false
 ---
-5/5 - (6 suara)
-
 Pernikahan adalah momen sakral yang tidak akan terlupakan dalam hidup. Mempersiapkan segala sesuatunya dengan sempurna menjadi prioritas, termasuk undangan pernikahan. Kini, tren [undangan pernikahan online](https://acaranya.id) semakin populer, terutama dengan tema adat yang menggambarkan budaya dan tradisi keluarga.
 
 Salah satunya yang semakin diminati adalah **Undangan Digital Adat Bugis** yang menonjolkan keindahan dan karakter budaya Bugis yang kaya akan nilai-nilai luhur.

@@ -4,7 +4,7 @@ description: >-
   Jangan sampai salah cetak! Simak aturan & syarat foto buku nikah terbaru mulai
   dari ukuran, jumlah lembar, hingga warna background biru sesuai ketentuan KUA.
 publishedAt: '2026-04-08T17:50:21'
-updatedAt: '2026-04-08T17:50:21'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
 canonicalUrl: 'https://acaranya.id/artikel/syarat-foto-buku-nikah/'
 noindex: false
 ---
-2.9/5 - (8 suara)
-
 [Pernikahan](https://acaranya.id) adalah momen sakral yang penuh dengan persiapan, dan salah satu yang kadang terlupakan adalah **syarat foto buku nikah**. Ya, jangan kira urusan pas foto bisa dianggap sepele. Ternyata, ada aturan yang harus diikuti calon pengantin agar fotonya sah di mata KUA. Pertanyaannya, apa saja sih aturan mainnya?
 
 Dari ukuran, jumlah, hingga warna background foto, semuanya sudah diatur dengan jelas. Nah, biar nggak salah langkah, simak penjelasan berikut ini.

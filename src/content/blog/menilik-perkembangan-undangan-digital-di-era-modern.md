@@ -5,7 +5,7 @@ description: >-
   modern, efisiensinya bagi industri acara, hingga tren penggunaan di kalangan
   milenial.
 publishedAt: '2026-04-08T17:50:05'
-updatedAt: '2026-04-08T17:50:05'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -24,8 +24,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/menilik-perkembangan-undangan-digital-di-era-modern/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Dalam beberapa dekade terakhir, teknologi digital telah merambah hampir setiap aspek kehidupan manusia, termasuk dalam cara kita berkomunikasi dan merencanakan acara.
 
 Salah satu bentuk adaptasi teknologi ini adalah munculnya undangan digital. Baik dalam acara formal seperti pernikahan, hingga acara bisnis seperti **grand opening**, undangan digital semakin menjadi pilihan utama karena kemudahan dan efisiensinya. Fenomena ini tidak hanya terjadi di kalangan perorangan, tetapi juga telah menjadi tren global di berbagai sektor industri acara.

@@ -5,7 +5,7 @@ description: >-
   undangan pernikahan digital terbaik dari genre pop, romantis, hingga lagu
   Indonesia terbaru.
 publishedAt: '2026-04-08T17:50:33'
-updatedAt: '2026-04-08T17:50:33'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 60 Rekomendasi Lagu untuk Undangan Pernikahan Digital Ter
 canonicalUrl: 'https://acaranya.id/artikel/lagu-untuk-undangan-pernikahan-digital/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Apakah pernah terpikir oleh seseorang bahwa musik bisa menjadi _soulmate_ untuk undangan digital? Di era serba online ini, [undangan pernikahan digital](https://acaranya.id) tidak hanya sekedar mengumumkan hari bahagia, tapi juga bisa mengekspresikan kisah cinta melalui melodi.
 
 Bayangkan, setiap tamu mendapat salam hangat melalui harmoni lagu romantis yang memainkan latar saat mereka membuka undangan online!

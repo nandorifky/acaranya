@@ -4,7 +4,7 @@ description: >-
   6 Contoh Love Story di undangan digital yang bikin baper! Dari pertemuan tak
   terduga hingga cinta pada pandangan pertama, bikin undanganmu lebih personal.
 publishedAt: '2026-04-08T17:51:30'
-updatedAt: '2026-04-08T17:51:30'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 6 Contoh Love Story di Undangan Digital dan Tips Membuatn
 canonicalUrl: 'https://acaranya.id/artikel/contoh-love-story/'
 noindex: false
 ---
-4.7/5 - (13 suara)
-
 Halo _Acays_! Pernikahan adalah momen istimewa yang penuh cinta dan kebahagiaan. Salah satu cara untuk membuat undangan pernikahan lebih personal dan berkesan adalah dengan menyisipkan love story kalian di dalamnya.
 
 Yup, love story undangan digital bisa menjadi elemen yang bikin tamu-tamu undangan merasa lebih dekat dengan perjalanan cinta kalian. Nah, kali ini kita bakal ngasih beberapa contoh love story yang bisa kalian tiru atau jadikan inspirasi untuk undangan digital kalian. Simak, yuk!

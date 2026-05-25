@@ -4,7 +4,7 @@ description: >-
   Cek 9 contoh undangan pernikahan bahasa Jawa halus (Kromo Inggil) yang sopan.
   Wujudkan penghormatan mendalam bagi tamu dengan sentuhan tradisi yang kental.
 publishedAt: '2026-04-08T17:50:41'
-updatedAt: '2026-04-08T17:50:41'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -25,8 +25,6 @@ customBreadcrumbLabel: 9 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-jawa/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Dalam tradisi Jawa, undangan pernikahan bukan hanya sekadar pemberitahuan, tetapi juga wujud penghormatan kepada tamu undangan. Memilih kata-kata yang tepat, halus, dan sopan sangat penting, terutama jika pernikahan melibatkan adat Jawa yang kental.
 
 Undangan dengan **bahasa Jawa halus** akan menambah nuansa keakraban dan penghormatan yang mendalam bagi tamu.
@@ -254,7 +252,7 @@ Contoh ini lebih santai, cocok untuk teman akrab yang sudah sering berinteraksi.
 
 ### 5\. Undangan Bahasa Jawa Krama Alus
 
-Jika pernikahan diselenggarakan secara terbatas atau _[intimate wedding](https://jalinjanji.com/perencanaan/intimate-wedding/)_, undangan ini dapat menekankan kesakralan acara dengan bahasa yang halus dan penuh kehangatan.
+Jika pernikahan diselenggarakan secara terbatas atau _intimate wedding_, undangan ini dapat menekankan kesakralan acara dengan bahasa yang halus dan penuh kehangatan.
 
 > _Assalamu’alaikum Warahmatullahi Wabarakatuh._
 > 

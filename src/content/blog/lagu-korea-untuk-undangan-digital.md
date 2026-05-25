@@ -5,7 +5,7 @@ description: >-
   sangat pas untuk mempermanis suasana undangan digital pernikahanmu agar lebih
   estetik.
 publishedAt: '2026-04-08T17:50:57'
-updatedAt: '2026-04-08T17:50:57'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Deretan Lagu Korea untuk Undangan Pernikahan Digital yang
 canonicalUrl: 'https://acaranya.id/artikel/lagu-korea-untuk-undangan-digital/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Dalam era digital saat ini, tren undangan pernikahan terus berkembang. Salah satu tren terbaru adalah penggunaan undangan digital yang tidak hanya praktis, tetapi juga kreatif dan personal. Salah satu elemen penting yang bisa menambah kesan romantis pada undangan digital adalah musik latar.
 
 Untuk kamu yang menginginkan sentuhan berbeda dan manis, lagu Korea atau K-Pop sering kali menjadi pilihan yang tepat karena melodinya yang mendalam dan lirik yang penuh perasaan.

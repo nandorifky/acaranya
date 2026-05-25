@@ -4,7 +4,7 @@ description: >-
   Mengenal peran Among Tamu dalam pernikahan adat Jawa. Simak pengertian, tugas
   penyambutan, hingga tradisi yang membuat tamu merasa dihormati di sini!
 publishedAt: '2026-04-08T17:50:18'
-updatedAt: '2026-04-08T17:50:18'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 'Among Tamu Adalah: Pengertian, Peran, dan Tradisi dalam 
 canonicalUrl: 'https://acaranya.id/artikel/among-tamu/'
 noindex: false
 ---
-2.2/5 - (483 suara)
-
 Dalam acara pernikahan tradisional Jawa, ada banyak elemen yang melibatkan nilai-nilai budaya yang khas. Salah satunya adalah **among tamu**. Istilah ini merujuk pada sosok atau individu yang memiliki tanggung jawab penting untuk menyambut dan melayani tamu selama acara berlangsung. Among tamu bukan hanya sekadar pelayan, melainkan sosok yang memastikan para tamu merasa dihormati dan nyaman.
 
 Peran among tamu sangat krusial, terutama dalam acara besar seperti pernikahan adat Jawa yang memegang teguh prinsip kekeluargaan dan keramahan. Tradisi ini telah berlangsung turun temurun, mencerminkan keindahan budaya Jawa yang menghargai tamu sebagai bagian penting dalam kehidupan sosial.

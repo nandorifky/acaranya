@@ -4,7 +4,7 @@ description: >-
   Tampil memukau di pesta pernikahan dengan pilihan baju kebaya modern terbaru.
   Cek tren model, padu padan warna, dan tips memilih kebaya sesuai bentuk tubuh!
 publishedAt: '2026-04-08T17:50:21'
-updatedAt: '2026-04-08T17:50:21'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Busana
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 10 Rekomendasi Model Baju Kebaya Modern untuk Pesta Perni
 canonicalUrl: 'https://acaranya.id/artikel/baju-kebaya-modern-untuk-pesta-pernikahan/'
 noindex: false
 ---
-1.3/5 - (121 suara)
-
 ![Manekin memakai kebaya off-shoulder modern brokat berwarna ungu muda](/images/blog/content/Screenshot-2024-07-29-075755.png)
 
 [BELI SEKARANG](https://s.shopee.co.id/3fuKxan0mG)

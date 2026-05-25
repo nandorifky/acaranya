@@ -4,7 +4,7 @@ description: >-
   Apa itu Ngunduh Mantu? Simak pengertian, makna filosofis, hingga susunan acara
   prosesi adat Jawa ini dalam menyambut pengantin wanita ke keluarga pria.
 publishedAt: '2026-04-08T17:51:12'
-updatedAt: '2026-04-08T17:51:12'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 'Ngunduh Mantu Adalah: Pengertian dan Susunan Acaranya'
 canonicalUrl: 'https://acaranya.id/artikel/ngunduh-mantu/'
 noindex: false
 ---
-5/5 - (14 suara)
-
 Tradisi pernikahan di Indonesia memiliki ragam budaya yang menarik, salah satunya adalah prosesi ngunduh mantu. Apa sebenarnya ngunduh mantu, dan bagaimana susunan acara serta tata cara yang dilakukan dalam tradisi ini?
 
 Tidak sedikit yang penasaran mengenai makna di balik prosesi ini, terutama bagi yang akan menjalani atau sekadar ingin memahami adat pernikahan Jawa, terutama [Jawa Tengah](https://infojatengpos.com/) dan Jawa Timur.

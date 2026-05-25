@@ -5,7 +5,7 @@ description: >-
   orang tua yang menyentuh hati, lucu, & penuh doa sebagai ungkapan syukur
   keluarga.
 publishedAt: 2026-04-08T17:50:00.000Z
-updatedAt: 2026-04-08T17:50:00.000Z
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
 canonicalUrl: 'https://acaranya.id/artikel/ucapan-anniversary-pernikahan-untuk-orang-tua/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Perayaan **anniversary pernikahan untuk orang tua** bukan sekadar pengingat tahun-tahun kebersamaan mereka. Ini adalah momen untuk menghargai cinta, kerja keras, dan pengorbanan yang telah mereka lakukan untuk keluarga.
 
 Jadi, mengapa tidak menambahkan sentuhan personal dengan ucapan yang penuh makna?

@@ -5,7 +5,7 @@ description: >-
   fungsinya. Dilengkapi contoh nyata agar kamu tidak salah dalam berkomunikasi
   formal.
 publishedAt: '2026-04-08T17:49:44'
-updatedAt: '2026-04-08T17:49:44'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Surat
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'
 canonicalUrl: 'https://acaranya.id/artikel/perbedaan-surat-resmi-dan-tidak-resmi/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernahkah terpikir, apa sih **perbedaan surat resmi dan tidak resmi**? Mengapa ada surat yang harus menggunakan tata bahasa yang baku dan formal, sementara yang lainnya lebih santai seperti pesan dari seorang teman? Perbedaan ini sebenarnya sangat penting, terutama ketika berkomunikasi dalam konteks yang lebih formal atau pribadi.
 
 Artikel ini akan mengupas lebih dalam tentang **surat resmi** dan **surat tidak resmi**. Setelah membaca, akan lebih mudah mengenali mana surat yang tergolong resmi dan mana yang tidak. Mari kita bahas bersama-sama perbedaannya, mulai dari ciri-ciri hingga contohnya!

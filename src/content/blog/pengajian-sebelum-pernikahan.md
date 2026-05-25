@@ -5,7 +5,7 @@ description: >-
   sebelum pernikahan lengkap dengan rundown dan tips persiapan untuk keluarga &
   catin.
 publishedAt: '2026-04-08T17:51:16'
-updatedAt: '2026-04-08T17:51:16'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dip
 canonicalUrl: 'https://acaranya.id/artikel/pengajian-sebelum-pernikahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Acara **pengajian sebelum pernikahan** sering menjadi momen penuh makna bagi calon pengantin dan keluarga. Namun, mungkin banyak yang bertanya-tanya, bagaimana sih susunan acara pengajian yang ideal?
 
 Apa saja yang perlu dipersiapkan untuk memastikan acara berjalan dengan khidmat, namun tetap intim dan bersahaja?

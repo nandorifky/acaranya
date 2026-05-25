@@ -4,7 +4,7 @@ description: >-
   Apa itu Nikah Syighar? Pahami pengertian, dalil larangannya dalam Islam, serta
   alasan mengapa praktik ini bertentangan dengan syariat dan merugikan wanita.
 publishedAt: '2026-04-08T17:49:19'
-updatedAt: '2026-04-08T17:49:19'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:
@@ -24,8 +24,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/pengertian-nikah-syighar-dan-hukumnya-dalam-islam-yang-wajib-kamu-ketahui/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Tidak semua bentuk pernikahan yang dilakukan umat Islam sesuai dengan syariat. Salah satu bentuk praktik yang masih terjadi namun belum banyak dipahami adalah nikah syighar.
 
 Banyak orang mungkin belum menyadari bahwa nikah jenis ini bisa menyalahi aturan hukum Islam dan membawa dampak negatif bagi kedua belah pihak, khususnya perempuan.

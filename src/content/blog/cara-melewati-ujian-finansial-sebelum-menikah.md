@@ -5,7 +5,7 @@ description: >-
   mengatur keuangan, menyiapkan dana darurat, dan menjaga kejujuran bersama
   pasangan.
 publishedAt: '2026-04-08T17:49:23'
-updatedAt: '2026-04-08T17:49:23'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Anggaran
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Cara Melewati Ujian Finansial Sebelum Menikah
 canonicalUrl: 'https://acaranya.id/artikel/cara-melewati-ujian-finansial-sebelum-menikah/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernah dengar cerita tentang pasangan yang baru menikah langsung terjun ke lautan hutang? Cerita itu bukan dongeng, tapi realita yang bisa menghantui siapa saja yang tak serius menganggap [persiapan pernikahan](https://acaranya.id/artikel/wedding-checklist/).
 
 Menurut survei terkini, sebagian besar perceraian disulut oleh masalah keuangan yang tak kunjung usai.

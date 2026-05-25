@@ -5,7 +5,7 @@ description: >-
   ulasan mengenai tanggung jawab moral, spiritual, serta konsep balasan (karma)
   di sini.
 publishedAt: '2026-04-08T17:51:16'
-updatedAt: '2026-04-08T17:51:16'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Isla
 canonicalUrl: 'https://acaranya.id/artikel/karma-laki-laki-yang-menyakiti-hati-wanita/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 **Karma** seringkali menjadi topik yang menarik untuk dibahas, apalagi dalam konteks hubungan antara pria dan wanita. Lalu, bagaimana _karma_ berperan bagi laki-laki yang menyakiti hati wanita menurut Islam?
 
 Menurut ajaran Islam, tindakan menyakiti hati orang lain bukanlah hal yang dianggap ringan. Artikel ini akan membahas lebih dalam mengenai karma bagi laki-laki yang berbuat demikian dan bagaimana ajaran Islam memandang tindakan tersebut.

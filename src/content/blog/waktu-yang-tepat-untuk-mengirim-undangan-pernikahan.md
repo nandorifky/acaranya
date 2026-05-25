@@ -5,7 +5,7 @@ description: >-
   pernikahan (digital & cetak) agar tamu bisa mempersiapkan kehadiran mereka
   dengan baik.
 publishedAt: '2026-04-08T17:50:50'
-updatedAt: '2026-04-08T17:50:50'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -24,8 +24,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/
 noindex: false
 ---
-5/5 - (3 suara)
-
 Pernah merasa bingung kapan sebaiknya mengirim **undangan pernikahan**? Tentu saja, salah satu momen paling penting dalam merencanakan pernikahan adalah menentukan waktu pengiriman undangan
 
 Apakah harus dikirim terlalu awal, atau justru dikhawatirkan terlambat? Rencana pernikahan yang matang membutuhkan strategi pengiriman undangan yang tepat, agar tamu-tamu bisa mempersiapkan diri dengan baik.

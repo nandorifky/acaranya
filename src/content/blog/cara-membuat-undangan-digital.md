@@ -4,7 +4,7 @@ description: >-
   Tutorial lengkap cara membuat undangan digital sendiri di HP & Laptop secara
   gratis. Cocok untuk pemula yang ingin undangan aesthetic & kekinian!
 publishedAt: '2026-04-08T17:50:44'
-updatedAt: '2026-04-08T17:50:44'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Cara Membuat Undangan Digital Sendiri di HP dan Laptop Gr
 canonicalUrl: 'https://acaranya.id/artikel/cara-membuat-undangan-digital/'
 noindex: false
 ---
-5/5 - (41 suara)
-
 Membuat [undangan digital](https://acaranya.id) sendiri sebenarnya sangat mudah dilakukan, bahkan bisa melalui HP atau laptop. Kamu bisa membuatnya secara gratis tanpa harus mengeluarkan biaya, meskipun tetap tergantung pada jenis undangan yang ingin kamu buat.
 
 Saat ini, undangan digital banyak digunakan untuk berbagai acara, mulai dari pernikahan, ulang tahun, hingga acara besar seperti grand opening.

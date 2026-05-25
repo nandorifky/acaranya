@@ -5,7 +5,7 @@ description: >-
   tradisi, rangkaian prosesi, hingga tips membuat undangan yang sesuai dengan
   nilai adat.
 publishedAt: '2026-04-08T17:50:39'
-updatedAt: '2026-04-08T17:50:39'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: 5 Contoh Undangan Ngunduh Mantu dan Cara Membuatnya
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-ngunduh-mantu/'
 noindex: false
 ---
-3.3/5 - (12 suara)
-
 Ngunduh Mantu adalah tradisi yang tetap hidup dan dijalankan oleh sebagian besar masyarakat Jawa dan Sunda. Tradisi ini adalah rangkaian lanjutan setelah pesta pernikahan, di mana mempelai wanita dan keluarganya mengunjungi rumah mempelai laki-laki.
 
 Meskipun tidak wajib, tradisi ini masih dilakukan sebagai bentuk penghormatan dan pelestarian budaya yang sarat makna

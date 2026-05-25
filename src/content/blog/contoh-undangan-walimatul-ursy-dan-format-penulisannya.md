@@ -4,7 +4,7 @@ description: >-
   Panduan menyusun undangan Walimatul Ursy yang sopan & sesuai sunnah. Lengkap
   dengan format penulisan dasar mulai dari salam hingga detail informasi acara.
 publishedAt: '2026-04-08T17:50:43'
-updatedAt: '2026-04-08T17:50:43'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -27,8 +27,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/contoh-undangan-walimatul-ursy-dan-format-penulisannya/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Walimatul Ursy merupakan tradisi penting dalam masyarakat yang menjadi bagian tak terpisahkan dari pernikahan. Namun, bagaimana cara menyusun **undangan walimatul ursy** yang sopan dan sesuai dengan adat? Apakah harus mengikuti format tertentu atau bisa lebih fleksibel? Pertanyaan-pertanyaan ini sering kali muncul saat sedang merencanakan pernikahan.
 
 Artikel ini akan membahas contoh **undangan walimatul ursy** yang formal namun tetap bisa disesuaikan dengan kebutuhan. Selain itu, akan dibahas juga format undangan dan tips untuk membuatnya lebih berkesan.

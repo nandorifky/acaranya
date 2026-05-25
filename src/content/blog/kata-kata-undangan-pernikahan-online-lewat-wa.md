@@ -5,7 +5,7 @@ description: >-
   Tetap jaga etika dan kesantunan saat mengundang kerabat di era digital saat
   ini.
 publishedAt: '2026-04-08T17:49:45'
-updatedAt: '2026-04-08T17:49:45'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan
 canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online-lewat-wa/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Mengirim undangan pernikahan lewat WhatsApp (WA) kini sudah menjadi solusi praktis bagi banyak pasangan. Selain lebih cepat, cara ini juga membantu dalam hal efisiensi waktu, terutama ketika persiapan pernikahan begitu padat. Namun, meski praktis, penting untuk tetap menjaga kesopanan dan etika dalam penyampaian undangan.
 
 Dalam artikel ini, kami akan membahas secara lengkap bagaimana cara menyusun [kata-kata undangan pernikahan online](https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online/) lewat WA yang tetap sopan dan menghargai tamu undangan.

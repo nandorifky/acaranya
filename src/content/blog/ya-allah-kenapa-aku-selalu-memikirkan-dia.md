@@ -5,7 +5,7 @@ description: >-
   pikiran yang terus memikirkan si dia, serta cara menghadapinya dengan bijak
   dalam doa.
 publishedAt: '2026-04-08T17:50:24'
-updatedAt: '2026-04-08T17:50:24'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Relationship
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Ya Allah Kenapa Aku Selalu Memikirkan Dia? Pertanda Apa?
 canonicalUrl: 'https://acaranya.id/artikel/ya-allah-kenapa-aku-selalu-memikirkan-dia/'
 noindex: false
 ---
-5/5 - (4 suara)
-
 **“Ya Allah, kenapa aku selalu memikirkan dia?”** Pikiran tentang seseorang terus muncul di benak, seolah tak bisa terlepas. Situasi ini sering kali menimbulkan kebingungan, perasaan gelisah, bahkan terkadang membuat Kamu bertanya apakah ini adalah pertanda tertentu. Pikiran tersebut mungkin terasa sangat intens, hingga mengganggu fokus dalam keseharian.
 
 Jika Kamu sedang berada dalam fase seperti ini, penting untuk memahami bahwa apa yang Kamu rasakan sangat wajar. Pikiran yang berulang tentang seseorang bisa disebabkan oleh berbagai faktor, emosi, spiritual, atau bahkan psikologis.

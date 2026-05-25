@@ -5,7 +5,7 @@ description: >-
   Jawa yang dipercaya rawan konflik sepele, serta kunci sukses membangun
   kesabaran bersama.
 publishedAt: '2026-04-08T17:49:51'
-updatedAt: '2026-04-08T17:49:51'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Arti Weton Jodoh Ketemu 30 Menurut Primbon Jawa
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-30/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Dalam tradisi Jawa, Weton Jodoh Ketemu 30 menjadi salah satu konsep penting yang dipercaya dapat mengungkapkan kecocokan pasangan sebelum melangkah ke jenjang pernikahan. Weton, yang merupakan perhitungan hari dan pasaran kelahiran, diyakini memiliki pengaruh terhadap karakter, rezeki, dan bahkan jodoh seseorang. Ketemu 30 dalam konteks ini merujuk pada penjumlahan neptu (nilai) weton kedua calon pasangan yang menghasilkan angka 30.
 
 [Penafsiran kecocokan pasangan](https://acaranya.id/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/) dalam weton dilakukan dengan menjumlahkan neptu hari dan pasaran kelahiran masing-masing individu. Total neptu tersebut kemudian digunakan sebagai dasar untuk menafsirkan sifat, watak, dan kemungkinan keharmonisan hubungan dalam pernikahan.

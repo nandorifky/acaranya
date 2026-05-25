@@ -4,7 +4,7 @@ description: >-
   Waktunya move on! Simak 7 tanda mantan tidak akan kembali padamu, mulai dari
   putusnya komunikasi hingga hadirnya pasangan baru dalam kehidupan mereka.
 publishedAt: '2026-04-08T17:51:19'
-updatedAt: '2026-04-08T17:51:19'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu
 canonicalUrl: 'https://acaranya.id/artikel/tanda-mantan-tidak-akan-kembali/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernah merasa bimbang, apakah **mantan tidak akan kembali** atau mungkin masih ada harapan? Setelah putus, terkadang muncul keraguan dan berbagai pertanyaan. Mungkin ada harapan untuk kembali, atau malah sebaliknya, hubungan tersebut memang sudah benar-benar berakhir.
 
 Nah, bagaimana bisa mengetahui apakah mantan memiliki niat untuk kembali atau tidak?

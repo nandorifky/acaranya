@@ -4,7 +4,7 @@ description: >-
   Update undangan pernikahanmu dengan 7 tren desain digital terbaru tahun 2025.
   Dari gaya minimalis hingga tema futuristik, cek inspirasinya di Acaranya ID!
 publishedAt: '2026-04-08T17:51:06'
-updatedAt: '2026-04-08T17:51:06'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Undangan
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 7 Tren Desain Undangan Pernikahan Digital 2025
 canonicalUrl: 'https://acaranya.id/artikel/7-tren-desain-undangan-pernikahan-digital-2025/'
 noindex: false
 ---
-5/5 - (4 suara)
-
 Halo calon pengantin dan para pejuang acara! Kalau kamu lagi cari inspirasi buat undangan pernikahan yang kekinian, pas banget! Di sini kita bakal bahas tren [desain undangan digita](https://acaranya.id/desain-undangan-digital/)l yang sedang hits di tahun ini!
 
 Kenapa sih harus update sama tren? Selain biar undangannya nggak ketinggalan zaman, desain yang fresh juga bikin tamu-tamu kamu makin antusias buat datang ke hari spesialmu. Apalagi sekarang semua serba digital, undangan pun jadi ajang pamer kreativitas!

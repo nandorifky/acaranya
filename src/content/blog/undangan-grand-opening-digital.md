@@ -4,7 +4,7 @@ description: >-
   Perkenalkan bisnismu secara luas! Simak ragam desain & fitur undangan grand
   opening digital untuk pembukaan toko atau kantor yang profesional & efisien.
 publishedAt: '2026-04-08T17:51:30'
-updatedAt: '2026-04-08T17:51:30'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Blog
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Undangan Grand Opening Digital
 canonicalUrl: 'https://acaranya.id/artikel/undangan-grand-opening-digital/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 **[Grand opening](https://acaranya.id/desain-undangan-digital/grand-opening/)** merupakan momen yang penting bagi setiap bisnis. Acara ini menjadi kesempatan untuk memperkenalkan bisnis baru kepada masyarakat dan menarik minat pelanggan potensial.
 
 Dalam era digital seperti sekarang, undangan grand opening juga dapat dilakukan secara online. Hal ini memudahkan pengusaha dalam mengundang tamu dan mempromosikan acara mereka.

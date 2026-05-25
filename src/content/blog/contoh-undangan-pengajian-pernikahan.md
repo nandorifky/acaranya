@@ -5,7 +5,7 @@ description: >-
   bahasa yang formal & sopan untuk momen doa restu bersama keluarga besar &
   kerabat.
 publishedAt: '2026-04-08T17:50:37'
-updatedAt: '2026-04-08T17:50:37'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: Cara Membuat dan Contoh Undangan Pengajian Pernikahan
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pengajian-pernikahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Sudah mendekati hari besar dan masih bingung bagaimana cara membuat undangan pengajian pernikahan yang benar?
 
 Bukan hal yang aneh, apalagi dengan semakin banyaknya pilihan media dan format yang tersedia, seperti menggunakan Microsoft Word atau bahkan mengirimkan undangan lewat WhatsApp (WA). Jadi, mana yang harus dipilih dan apa saja yang perlu diperhatikan?

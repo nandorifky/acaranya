@@ -4,7 +4,7 @@ description: >-
   Mitos Jawa-Sunda dilarang menikah masih sering terdengar. Simak fakta sejarah
   Perang Bubat, pandangan hukum Islam, dan tips menjalaninya di era modern!
 publishedAt: '2026-04-08T17:51:14'
-updatedAt: '2026-04-08T17:51:14'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Bolehkah Orang Jawa Menikah dengan Orang Sunda? Ini Jawab
 canonicalUrl: 'https://acaranya.id/artikel/bolehkah-orang-jawa-menikah-dengan-orang-sunda/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernikahan antar suku, seperti antara orang Jawa dan Sunda, sering kali menjadi perbincangan hangat di masyarakat. Banyak yang bertanya-tanya, “Bolehkah orang Jawa menikah dengan orang Sunda?” Pertanyaan ini muncul karena adanya mitos dan kepercayaan yang berkembang sejak lama.
 
 Namun, di era modern seperti sekarang, penting untuk memahami fakta sebenarnya di balik mitos tersebut.

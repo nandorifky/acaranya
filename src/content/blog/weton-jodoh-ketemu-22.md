@@ -5,7 +5,7 @@ description: >-
   Jawa yang dipercaya sering memicu cekcok sepele, serta tips mengelola ego demi
   keutuhan hubungan.
 publishedAt: '2026-04-08T17:49:36'
-updatedAt: '2026-04-08T17:49:36'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Weton Jodoh Ketemu 22, Apa Artinya?'
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-22/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Dalam tradisi Jawa, weton atau hari kelahiran seseorang memiliki makna tersendiri, termasuk dalam menentukan kecocokan pasangan. Salah satu kombinasi weton yang menarik untuk diulas adalah Weton Jodoh Ketemu 22.
 
 Perhitungan ini didasarkan pada penjumlahan neptu (nilai) dari hari lahir dan pasaran Jawa, dan dipercaya dapat memberikan gambaran tentang kompatibilitas hubungan.

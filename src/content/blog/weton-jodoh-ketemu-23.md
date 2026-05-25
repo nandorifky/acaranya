@@ -5,7 +5,7 @@ description: >-
   primbon Jawa, potensi tantangan kesetiaan, serta cara bijak menjaga keutuhan
   hubungan.
 publishedAt: '2026-04-08T17:49:35'
-updatedAt: '2026-04-08T17:49:35'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Apa Arti Weton Jodoh Ketemu 23?
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-23/'
 noindex: false
 ---
-3.4/5 - (5 suara)
-
 Dalam budaya Jawa, Weton Jodoh Ketemu 23 merupakan salah satu perhitungan yang dipercaya dapat menafsirkan kecocokan pasangan dalam menjalani kehidupan rumah tangga.
 
 Perhitungan ini melibatkan penjumlahan nilai neptu dari hari dan pasaran kelahiran kedua calon pasangan. Hasil penjumlahan neptu tersebut kemudian diinterpretasikan berdasarkan primbon Jawa.

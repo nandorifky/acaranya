@@ -5,7 +5,7 @@ description: >-
   berkesan untuk sahabat, pacar, hingga keluarga agar momen spesialnya makin
   haru.
 publishedAt: '2026-04-08T17:51:06'
-updatedAt: '2026-04-08T17:51:06'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!
 canonicalUrl: 'https://acaranya.id/artikel/ucapan-selamat-wisuda/'
 noindex: false
 ---
-5/5 - (5 suara)
-
 Momen wisuda sering kali jadi ajang penuh haru dan bangga. Setelah bertahun-tahun berjuang menghadapi tugas, skripsi, dan ujian yang bikin stres, akhirnya semua itu terbayar dengan toga di kepala dan senyum di wajah. Tapi, di balik kemeriahan acara wisuda, sering kali kita bingung bagaimana cara menyampaikan ucapan selamat wisuda yang tepat. Apakah cukup dengan “selamat ya!” atau perlu sesuatu yang lebih bermakna?
 
 Tenang, kamu nggak sendirian. Karena itu, di artikel ini kami hadirkan kumpulan 40 ucapan selamat wisuda yang bisa kamu pilih sesuai dengan situasi dan hubungan kamu dengan si wisudawan. Dari yang simple sampai yang menyentuh hati, dari yang lucu sampai yang islami, semuanya kami rangkum khusus buat kamu. Yuk, lanjut baca sampai habis dan temukan ucapan terbaikmu!

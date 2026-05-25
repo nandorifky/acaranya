@@ -5,7 +5,7 @@ description: >-
   undangan resmi pernikahan agar sesuai dengan protokol militer dan etika yang
   benar.
 publishedAt: '2026-04-08T17:49:17'
-updatedAt: '2026-04-08T17:49:17'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -24,8 +24,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/cara-menuliskan-pangkat-tni-di-undangan-yang-tepat/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Ketika hendak membuat undangan resmi yang melibatkan perwira TNI, pernahkah terlintas di benak tentang bagaimana cara yang tepat menuliskan pangkat mereka?
 
 Tentu, mengingat pentingnya pangkat dalam dunia militer, salah menuliskannya bisa jadi masalah besar. Tapi tenang, semua bisa diatasi dengan memahami aturan dan tata cara penulisan yang benar.

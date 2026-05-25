@@ -5,7 +5,7 @@ description: >-
   Jannah agar hubungan suami istri penuh ketenteraman & cinta kasih hingga ke
   surga.
 publishedAt: '2026-04-08T17:51:27'
-updatedAt: '2026-04-08T17:51:27'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
 canonicalUrl: 'https://acaranya.id/artikel/samawa-till-jannah/'
 noindex: false
 ---
-5/5 - (4 suara)
-
 Di era modern ini, banyak pasangan muslim yang mendambakan pernikahan ideal dengan mengucapkan doa “samawa till jannah”. Ungkapan ini bukan sekadar trend atau kata-kata manis belaka, melainkan sebuah konsep pernikahan yang memiliki makna mendalam dalam ajaran Islam.
 
 Ketika kamu mendengar istilah samawa till jannah, mungkin yang terlintas adalah gambaran kehidupan rumah tangga yang penuh kebahagiaan.

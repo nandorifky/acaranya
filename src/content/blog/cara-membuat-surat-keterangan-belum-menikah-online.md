@@ -4,7 +4,7 @@ description: >-
   Panduan cara membuat surat keterangan belum menikah secara online. Cek syarat
   dokumen dari RT hingga Kelurahan agar urusan administrasimu cepat selesai!
 publishedAt: '2026-04-08T17:49:24'
-updatedAt: '2026-04-08T17:49:24'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:
@@ -23,8 +23,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/cara-membuat-surat-keterangan-belum-menikah-online/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Apa itu surat keterangan belum menikah dan mengapa penting untuk memiliki dokumen ini? Mungkin ada banyak alasan mengapa seseorang perlu mendapatkan surat ini, mulai dari persyaratan administrasi hingga keperluan pribadi. Dengan era digital seperti sekarang, proses pengajuan dokumen ini pun menjadi lebih mudah karena sudah bisa dilakukan secara online.
 
 Melalui artikel ini, akan dibahas secara lengkap bagaimana cara membuat surat keterangan belum menikah online. Yuk, simak panduannya!

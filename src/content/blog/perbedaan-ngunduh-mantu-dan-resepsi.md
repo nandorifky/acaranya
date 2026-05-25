@@ -5,7 +5,7 @@ description: >-
   Resepsi mulai dari makna tradisi, waktu pelaksanaan, hingga pihak
   penyelenggaranya di sini.
 publishedAt: '2026-04-08T17:51:08'
-updatedAt: '2026-04-08T17:51:08'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernika
 canonicalUrl: 'https://acaranya.id/artikel/perbedaan-ngunduh-mantu-dan-resepsi/'
 noindex: false
 ---
-5/5 - (5 suara)
-
 Pernikahan di Indonesia tidak hanya menjadi momen sakral bagi pasangan pengantin, tetapi juga sarat dengan tradisi dan budaya yang diwariskan turun-temurun. Salah satu ciri khas pernikahan adat Indonesia adalah banyaknya prosesi yang menyertainya, mulai dari lamaran, akad nikah, hingga pesta perayaan. Di antara rangkaian tersebut, **ngunduh mantu** dan **resepsi pernikahan** adalah dua istilah yang sering muncul, namun sering pula disalahartikan sebagai hal yang sama.
 
 Padahal, meskipun keduanya merupakan acara perayaan, **ngunduh mantu dan resepsi memiliki makna, pelaksanaan, dan tujuan yang berbeda**. Dalam artikel ini, kita akan mengulas perbedaan keduanya, serta bagaimana tradisi ini mencerminkan nilai-nilai kekeluargaan dalam pernikahan adat Indonesia, khususnya budaya Jawa.
@@ -49,7 +47,7 @@ Tradisi ini lebih lazim dilakukan pada pernikahan yang mengikuti adat Jawa atau 
 
 ## Apa Itu Resepsi Pernikahan?
 
-**[Resepsi pernikahan](https://jalinjanji.com/perencanaan/resepsi-pernikahan/)** merupakan acara perayaan yang diadakan setelah prosesi sakral pernikahan, seperti **akad nikah** dalam Islam atau **pemberkatan** dalam agama Kristen.
+**Resepsi pernikahan** merupakan acara perayaan yang diadakan setelah prosesi sakral pernikahan, seperti **akad nikah** dalam Islam atau **pemberkatan** dalam agama Kristen.
 
 Ini adalah momen ketika pasangan pengantin diperkenalkan kepada masyarakat, dan menjadi ajang silaturahmi antara keluarga besar kedua mempelai dengan para tamu undangan.
 

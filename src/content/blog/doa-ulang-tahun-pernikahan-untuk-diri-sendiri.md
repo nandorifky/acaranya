@@ -4,7 +4,7 @@ description: >-
   10 Doa ulang tahun pernikahan untuk diri sendiri. Langkah reflektif memohon
   keharmonisan, kesetiaan, dan keberkahan dalam menjalani bahtera rumah tangga.
 publishedAt: '2026-04-08T17:51:07'
-updatedAt: '2026-04-08T17:51:07'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -25,8 +25,6 @@ customBreadcrumbLabel: Ini 10 Doa Ulang Tahun Pernikahan untuk Diri Sendiri
 canonicalUrl: 'https://acaranya.id/artikel/doa-ulang-tahun-pernikahan-untuk-diri-sendiri/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Ulang tahun pernikahan merupakan momen istimewa dalam perjalanan hidup. Saat ulang tahun pernikahan tiba, tidak hanya pasangan yang patut dirayakan, tetapi juga diri sendiri.
 
 Berdoa untuk kesejahteraan, kebahagiaan, dan keberkahan dalam pernikahan menjadi langkah reflektif untuk menjaga hubungan yang harmonis. Doa-doa ini dapat memberikan ketenangan batin, harapan baru, serta rasa syukur atas perjalanan bersama.

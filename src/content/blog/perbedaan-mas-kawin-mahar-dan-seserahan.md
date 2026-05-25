@@ -5,7 +5,7 @@ description: >-
   Seserahan dalam pernikahan, mulai dari fungsi hingga ketentuannya dalam agama
   & adat.
 publishedAt: '2026-04-08T17:51:21'
-updatedAt: '2026-04-08T17:51:21'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'
 canonicalUrl: 'https://acaranya.id/artikel/perbedaan-mas-kawin-mahar-dan-seserahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Persiapan pernikahan memang melibatkan banyak hal yang perlu diperhatikan, mulai dari [venue](https://acaranya.id/artikel/tips-memilih-venue-pernikahan/), dekorasi, hingga berbagai pemberian yang memiliki makna khusus. Dalam tradisi pernikahan di Indonesia, ada beberapa istilah yang sering tertukar maknanya, yaitu mas kawin, mahar, dan seserahan.
 
 Kamu mungkin sering mendengar istilah-istilah tersebut dan menganggapnya sama. Padahal, masing-masing memiliki arti, fungsi, dan ketentuan yang berbeda dalam prosesi pernikahan. Mari kita bahas secara detail agar kamu bisa memahami perbedaan antara mas kawin, mahar pernikahan, dan seserahan atau hantaran.

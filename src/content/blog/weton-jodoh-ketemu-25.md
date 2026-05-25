@@ -5,7 +5,7 @@ description: >-
   hitungan Jawa, potensi cobaan ekonomi & perselisihan, serta cara
   mengantisipasinya.
 publishedAt: '2026-04-08T17:49:38'
-updatedAt: '2026-04-08T17:49:38'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Weton Jodoh Ketemu 25 Apa Artinya? Penjelasan Primbon Jaw
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-25/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Dalam budaya Jawa, weton merupakan sebuah konsep yang diyakini dapat memberikan gambaran tentang karakter seseorang dan kecocokannya dengan orang lain.
 
 Salah satu aspek yang paling sering dibahas adalah weton jodoh, yang dihitung berdasarkan penjumlahan nilai neptu dari hari dan pasaran kelahiran pasangan. Di antara berbagai kemungkinan jumlah neptu, weton jodoh ketemu 25 memiliki makna dan arti yang menarik untuk ditelusuri.

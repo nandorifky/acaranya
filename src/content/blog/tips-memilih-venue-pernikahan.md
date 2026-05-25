@@ -5,7 +5,7 @@ description: >-
   tepat, mulai dari penyesuaian tema hingga pertimbangan anggaran agar acaramu
   berkesan.
 publishedAt: '2026-04-08T17:49:47'
-updatedAt: '2026-04-08T17:49:47'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 8 Tips Memilih Venue Pernikahan yang Tepat
 canonicalUrl: 'https://acaranya.id/artikel/tips-memilih-venue-pernikahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Salah satu keputusan paling penting dalam [persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/) adalah memilih venue. **Venue pernikahan** adalah lokasi atau tempat di mana sebuah acara pernikahan berlangsung. Tempat ini bisa bervariasi sesuai dengan konsep, tema, dan gaya pernikahan yang diinginkan oleh pasangan pengantin.
 
 Venue pernikahan dapat berupa:

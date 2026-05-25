@@ -5,7 +5,7 @@ description: >-
   wajib kamu tahu, mulai dari atur anggaran hingga pilih vendor terbaik demi
   acara lancar.
 publishedAt: '2026-04-08T17:51:11'
-updatedAt: '2026-04-08T17:51:11'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: '11 List Persiapan Pernikahan tanpa WO, Rahasia Nikah Hem
 canonicalUrl: 'https://acaranya.id/artikel/list-persiapan-pernikahan-tanpa-wo/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Merencanakan pernikahan adalah momen yang penuh semangat dan emosi, tetapi juga bisa menjadi tantangan besar, terutama jika dilakukan tanpa bantuan Wedding Organizer (WO). Meskipun WO menawarkan kenyamanan dalam mengurus segala hal, tidak sedikit pasangan yang memilih mengurus sendiri pernikahannya demi penghematan biaya dan kendali penuh atas setiap detail.
 
 Untuk kalian yang berencana mengatur pernikahan sendiri, berikut ini adalah panduan [persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/) tanpa WO yang akan membantu agar acara kalian tetap berjalan lancar dan sesuai impian.

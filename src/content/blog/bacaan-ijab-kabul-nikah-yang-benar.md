@@ -4,7 +4,7 @@ description: >-
   Persiapkan akad nikahmu dengan menghafal bacaan ijab kabul yang benar &
   lancar. Lengkap dengan teks bahasa Indonesia, Arab, dan tips agar tidak grogi!
 publishedAt: '2026-04-08T17:51:13'
-updatedAt: '2026-04-08T17:51:13'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wa
 canonicalUrl: 'https://acaranya.id/artikel/bacaan-ijab-kabul-nikah-yang-benar/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Momen sakral pernikahan tak lepas dari prosesi ijab kabul. Ucapan “saya terima nikah dan kawinnya” adalah kalimat sakti yang mengikat janji suci sepasang pengantin.
 
 Namun, banyak yang masih ragu, apakah bacaan ijab kabul harus menggunakan bahasa Arab? Atau, apakah sah jika diucapkan dalam bahasa Indonesia, Jawa, Sunda, atau bahasa daerah lainnya?

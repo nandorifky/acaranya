@@ -5,7 +5,7 @@ description: >-
   berkesan! Cocok untuk pasangan yang ingin tampil beda & punya personalisasi
   tinggi.
 publishedAt: '2026-04-08T17:50:38'
-updatedAt: '2026-04-08T17:50:38'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Undangan Paspor: Desain Undangan Pernikahan yang Unik'
 canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-paspor-desain-unik/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Apakah sedang mencari ide undangan pernikahan yang berbeda dari biasanya? Mengapa tidak mencoba undangan paspor? Ini adalah pilihan unik dan menarik, terutama bagi pasangan yang ingin tampil beda untuk hari istimewa mereka.
 
 Namun, apakah desain ini hanya sekedar tren atau ada kelebihan tertentu yang membuatnya populer?

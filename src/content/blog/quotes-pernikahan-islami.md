@@ -5,7 +5,7 @@ description: >-
   yang penuh makna & doa untuk menghiasi undangan digitalmu agar lebih sakral &
   indah.
 publishedAt: '2026-04-08T17:49:09'
-updatedAt: '2026-04-08T17:49:09'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Kumpulan Quotes Pernikahan Islami untuk Undangan Digital
 canonicalUrl: 'https://acaranya.id/artikel/quotes-pernikahan-islami/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernikahan adalah momen sakral yang menyatukan dua insan dalam ikatan yang suci. Bagi pasangan muslim, mengutip ayat-ayat dalam Al-Quran atau menggunakan kata-kata bijak dari para ulama dapat memberikan sentuhan khusus pada undangan pernikahan digital.
 
 Apakah memilih quotes dalam bahasa inggris juga tetap relevan dan memberikan makna yang mendalam?

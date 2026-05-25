@@ -5,7 +5,7 @@ description: >-
   Sujanan dalam primbon Jawa, makna peringatannya, serta panduan bijak
   menghadapi tantangan hubungan.
 publishedAt: '2026-04-08T17:49:29'
-updatedAt: '2026-04-08T17:49:29'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-15/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Dalam tradisi Jawa, weton merupakan perhitungan hari lahir yang diyakini memiliki pengaruh terhadap karakter, nasib, dan bahkan kecocokan pasangan. Salah satu perhitungan yang menarik adalah weton jodoh, yang didasarkan pada jumlah neptu (nilai) hari dan pasaran kelahiran. Artikel ini akan membahas secara khusus mengenai weton jodoh ketemu 15, bagaimana cara menghitungnya, dan makna yang terkandung di dalamnya.
 
 Total neptu weton dihitung dengan menjumlahkan nilai hari dan pasaran kelahiran. Nilai hari dan pasaran kelahiran sudah ditentukan dalam kitab primbon Jawa, yang diwariskan secara turun temurun. Jumlah neptu ini kemudian digunakan untuk menafsirkan kecocokan pasangan berdasarkan berbagai macam interpretasi yang telah tertuang dalam primbon.

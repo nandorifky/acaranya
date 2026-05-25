@@ -5,7 +5,7 @@ description: >-
   pernikahan mulai dari perlengkapan ibadah hingga modern, beserta makna
   filosofisnya di sini.
 publishedAt: '2026-04-08T17:49:58'
-updatedAt: '2026-04-08T17:49:58'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Di
 canonicalUrl: 'https://acaranya.id/artikel/seserahan-pernikahan/'
 noindex: false
 ---
-4/5 - (8 suara)
-
 Seserahan pernikahan merupakan salah satu adat yang masih kuat dijaga dalam berbagai budaya pernikahan di Indonesia. Adat ini melibatkan pemberian serangkaian hadiah yang simbolis dari calon pengantin pria kepada calon pengantin wanita.
 
 Seserahan tidak hanya dianggap sebagai bentuk penghormatan kepada calon pengantin wanita dan keluarganya, tetapi juga sebagai representasi dari dukungan sosial dan finansial kepada pasangan baru tersebut.

@@ -5,7 +5,7 @@ description: >-
   pernikahan online yang menarik, mulai dari penentuan tema hingga pemilihan
   jenis font.
 publishedAt: '2026-04-08T17:50:32'
-updatedAt: '2026-04-08T17:50:32'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 10 Tips Memilih Desain Undangan Pernikahan Online yang Me
 canonicalUrl: 'https://acaranya.id/artikel/tips-memilih-desain-undangan-pernikahan-online/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Undangan pernikahan online semakin populer di era digital ini, karena memungkinkan calon pengantin untuk membuat undangan pernikahan dengan mudah dan praktis.
 
 Dengan [undangan pernikahan online](https://acaranya.id "undangan pernikahan online"), calon pengantin dapat menghemat waktu dan biaya untuk mencetak undangan secara manual, serta memberikan pengalaman yang lebih interaktif dan modern bagi para tamu undangan.

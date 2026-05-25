@@ -5,7 +5,7 @@ description: >-
   tujuan dan dampaknya dalam konteks perubahan norma sosial masyarakat dari masa
   ke masa.
 publishedAt: '2026-04-08T17:49:10'
-updatedAt: '2026-04-08T17:49:10'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Damp
 canonicalUrl: 'https://acaranya.id/artikel/lavender-marriage/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Pernahkah Kamu mendengar istilah _lavender marriage_? Istilah ini mungkin terdengar asing di telingamu, tetapi konsepnya memiliki sejarah yang cukup panjang dan menarik untuk dipahami. _Lavender marriage_ adalah sebuah pernikahan yang dilangsungkan bukan atas dasar cinta romantis, tetapi lebih kepada tujuan sosial, budaya, atau profesional tertentu.
 
 Fenomena ini sering kali dikaitkan dengan tekanan sosial pada era tertentu di mana orientasi seksual seseorang dianggap tabu untuk diungkapkan secara terbuka. Dengan memahami pengertian, sejarah, tujuan, dan dampaknya, Kamu bisa melihat bagaimana konsep ini relevan dalam konteks perubahan sosial dari waktu ke waktu.

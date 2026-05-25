@@ -5,7 +5,7 @@ description: >-
   pengantin hingga RSVP agar informasi acara tersampaikan dengan jelas &
   informatif.
 publishedAt: '2026-04-08T17:50:34'
-updatedAt: '2026-04-08T17:50:34'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via Wh
 canonicalUrl: 'https://acaranya.id/artikel/format-undangan-pernikahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 **Format undangan pernikahan** adalah salah satu hal yang paling penting dalam persiapan pernikahan. Kenapa? Karena undangan adalah representasi pertama dari acara besar yang akan datang.
 
 Bagaimana sih format undangan pernikahan yang benar? Apakah ada aturan khusus yang harus diikuti?

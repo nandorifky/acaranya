@@ -4,7 +4,7 @@ description: >-
   Meriahkan malam Natal bersama orang terdekat! Gunakan undangan Natal digital
   berbasis website yang praktis, estetik, dan punya fitur lengkap untuk acaramu.
 publishedAt: '2026-04-08T17:49:57'
-updatedAt: '2026-04-08T17:49:57'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Blog
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Undangan Natal Digital
 canonicalUrl: 'https://acaranya.id/artikel/undangan-natal-digital/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pada penghujung tahun, tentu perayaan Natal tidak akan dilupakan oleh umat Kristiani. Yang mana, tentu ini akan menjadi salah satu hari menyenangkan.
 
 Jika kamu berniat untuk mengadakan acara malam natal di rumah, kamu bisa mengundang seluruh tamu menggunakan **undangan natal digital**, sehingga lebih praktis.

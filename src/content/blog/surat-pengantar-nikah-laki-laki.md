@@ -5,7 +5,7 @@ description: >-
   mengurus surat pengantar nikah laki-laki (N1, N2, N4) agar urusan KUA lancar
   jaya.
 publishedAt: '2026-04-08T17:49:59'
-updatedAt: '2026-04-08T17:49:59'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Con
 canonicalUrl: 'https://acaranya.id/artikel/surat-pengantar-nikah-laki-laki/'
 noindex: false
 ---
-4.5/5 - (2 suara)
-
 Bagi para calon mempelai laki-laki, salah satu langkah penting dalam proses pernikahan adalah membuat surat pengantar nikah. Surat ini merupakan dokumen resmi yang diperlukan untuk mengurus akad nikah di Kantor Urusan Agama (KUA) atau lembaga berwenang lainnya sesuai dengan agama dan kepercayaan.
 
 Artikel ini akan memandu membahas lengkap tentang seluk beluk surat pengantar nikah laki-laki, mulai dari format dan struktur yang benar, persyaratan administrasi yang diperlukan, tata cara pengajuan, hingga contoh surat resmi dan tips membuatnya.

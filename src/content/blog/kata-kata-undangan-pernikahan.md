@@ -5,7 +5,7 @@ description: >-
   undangan pernikahan yang berkesan, baik untuk format formal maupun kasual
   kekinian.
 publishedAt: '2026-04-08T17:51:24'
-updatedAt: '2026-04-08T17:51:24'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Teks
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Kata-Kata Undangan Pernikahan
 canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-pernikahan/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Jika kamu telah memilih gaya [undangan pernikahan](https://acaranya.id) yang kamu inginkan dan membaca dengan teliti artikel kami, maka inilah saatnya untuk memutuskan kata-kata undangan pernikahan kamu.
 
 Kami telah menyusun panduan yang sempurna untuk membantu kamu meminimalkan stres dan memilih kata-kata yang akan mengatur nada yang sempurna untuk hari pernikahan kamu.

@@ -5,7 +5,7 @@ description: >-
   atau sudah move on melalui sinyal media sosial & sikapnya saat bertemu
   kembali.
 publishedAt: '2026-04-08T17:50:01'
-updatedAt: '2026-04-08T17:50:01'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Begini Cara Mengetes Mantan Masih Sayang atau Tidak
 canonicalUrl: 'https://acaranya.id/artikel/cara-mengetes-mantan-masih-sayang-atau-tidak/'
 noindex: false
 ---
-5/5 - (4 suara)
-
 Mantan pacar sering terlintas dalam pikiran? Banyak orang merasa penasaran apakah mantan masih memiliki perasaan setelah putus, terutama jika hubungan berakhir dengan hal yang belum tuntas. Artikel ini akan membahas cara mengetes apakah mantan masih sayang atau sudah benar-benar _move on_ dengan cara yang halus tanpa merusak perasaan.
 
 Berikut beberapa tanda yang bisa diperhatikan untuk mengetahui apakah mantan masih menyimpan perasaan atau sudah melanjutkan hidup.

@@ -5,7 +5,7 @@ description: >-
   Dukcapil. Penting untuk validasi legalitas sebelum melangkah ke jenjang
   serius.
 publishedAt: '2026-04-08T17:50:02'
-updatedAt: '2026-04-08T17:50:02'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'
 canonicalUrl: 'https://acaranya.id/artikel/cara-mengecek-status-pernikahan/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Mengetahui status pernikahan seseorang menjadi hal yang penting dalam berbagai keperluan, baik untuk urusan personal maupun legal. Hal ini bisa sangat bermanfaat sebelum seseorang melangkah ke jenjang pernikahan, untuk memastikan bahwa pasangan benar-benar lajang atau telah resmi bercerai dari pernikahan sebelumnya.
 
 Saat ini, dengan kemajuan teknologi, mengecek status pernikahan seseorang dapat dilakukan dengan cepat dan mudah melalui internet.

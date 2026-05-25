@@ -5,7 +5,7 @@ description: >-
   dari sisi anggaran, tradisi, hingga fitur interaktif untuk pernikahan
   modernmu.
 publishedAt: '2026-04-16T20:25:26'
-updatedAt: '2026-04-16T20:25:28'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Perbandingan Cetak Undangan vs. Undangan Digital, Pilih 
 canonicalUrl: 'https://acaranya.id/artikel/undangan-cetak-vs-undangan-digital/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Menentukan format undangan seringkali menjadi perdebatan panjang bagi pasangan yang tengah menyiapkan pernikahan. Kami memahami bahwa setiap pilihan membawa konsekuensi pada anggaran, estetika, hingga kenyamanan tamu undangan yang akan hadir di hari bahagia Anda.
 
 Keputusan antara memilih undangan cetak atau [undangan digital](https://acaranya.id/) harus didasarkan pada profil tamu, konsep acara, dan ketersediaan waktu produksi.

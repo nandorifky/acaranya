@@ -5,7 +5,7 @@ description: >-
   gambar, video, hingga website yang sedang tren dan banyak diminati calon
   pengantin muda.
 publishedAt: '2026-04-08T17:50:27'
-updatedAt: '2026-04-08T17:50:27'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: Contoh Undangan Pernikahan Digital
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-digital/'
 noindex: false
 ---
-4.7/5 - (7 suara)
-
 Cukup banyak **contoh undangan pernikahan digital** baik itu desain atau bentuk yang kini telah menjamur. Sebelum menggunakannya, pastikan kamu mengetahui beberapa poin pada artikel di bawah ini.
 
 [Undangan pernikahan digital](https://acaranya.id) menjadi salah satu bukti bahwa saat ini perkembangan teknologi di Indonesia bertumbuh dengan pesatnya. Hampir seluruh calon pengantin muda menggunakan undangan jenis ini.

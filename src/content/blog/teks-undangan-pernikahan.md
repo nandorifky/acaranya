@@ -5,7 +5,7 @@ description: >-
   menarik dari berbagai gaya & budaya agar hari bahagiamu makin berkesan bagi
   tamu.
 publishedAt: '2026-04-08T17:49:22'
-updatedAt: '2026-04-08T17:49:22'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 7 Contoh Teks Undangan Pernikahan Menarik
 canonicalUrl: 'https://acaranya.id/artikel/teks-undangan-pernikahan/'
 noindex: false
 ---
-5/5 - (24 suara)
-
 Pernikahan adalah momen sakral dan berharga dalam hidup seseorang. Pada momen ini, kedua belah pihak, baik pengantin dan keluarganya, ingin membagikan kebahagiaan mereka dengan orang-orang terdekat melalui sebuah undangan.
 
 Kata-kata undangan pernikahan menjadi salah satu elemen penting yang mencerminkan gaya dan harapan pasangan. Oleh karena itu, pemilihan kata-kata yang tepat dan menarik sangat penting.

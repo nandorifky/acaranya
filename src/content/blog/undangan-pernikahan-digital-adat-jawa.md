@@ -4,7 +4,7 @@ description: >-
   Paduan tradisi & teknologi! Cek 23 tema undangan pernikahan digital adat Jawa
   dari Acaranya.id yang sarat makna filosofis namun tetap tampil modern & mewah.
 publishedAt: '2026-04-08T17:50:59'
-updatedAt: '2026-04-08T17:50:59'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Contoh Desain Undangan Pernikahan Digital Adat Jawa
 canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-digital-adat-jawa/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Pernikahan adalah momen sakral yang selalu diimpikan oleh setiap pasangan, dan di Indonesia, setiap daerah memiliki tradisi dan adat istiadatnya sendiri yang unik. Salah satu tradisi yang paling kaya akan nilai budaya adalah pernikahan adat Jawa.
 
 Dengan segala keragaman upacara, simbol, dan maknanya, pernikahan adat Jawa menjadi salah satu pernikahan yang tidak hanya indah secara visual, tetapi juga sarat makna filosofi.

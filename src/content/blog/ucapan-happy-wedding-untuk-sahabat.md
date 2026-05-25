@@ -5,7 +5,7 @@ description: >-
   sahabat dalam bahasa Inggris & Indonesia yang menyentuh hati serta penuh
   makna.
 publishedAt: '2026-04-08T17:49:48'
-updatedAt: '2026-04-08T17:49:48'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 70 Contoh Ucapan Happy Wedding untuk Sahabat
 canonicalUrl: 'https://acaranya.id/artikel/ucapan-happy-wedding-untuk-sahabat/'
 noindex: false
 ---
-5/5 - (4 suara)
-
 Pernikahan adalah momen istimewa dalam kehidupan seseorang, apalagi jika itu adalah sahabat kita. Memberikan ucapan yang tepat untuk momen bahagia ini akan memberikan kesan mendalam.
 
 Namun, terkadang merangkai kata-kata yang menyentuh dan bermakna tidaklah mudah.

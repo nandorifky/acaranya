@@ -4,7 +4,7 @@ description: >-
   Cara menolak undangan dengan halus? Cek 5 contoh ucapan tidak bisa mengundang
   di acara pernikahan agar tetap menjaga silaturahmi & perasaan teman.
 publishedAt: '2026-04-08T17:49:27'
-updatedAt: '2026-04-08T17:49:27'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -24,8 +24,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/contoh-ucapan-tidak-bisa-mengundang-di-acara-pernikahan/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernikahan adalah momen yang sangat penting dalam kehidupan seseorang, tetapi kadang-kadang situasi tertentu membuat seseorang tidak bisa mengundang semua orang yang diinginkan.
 
 Bagaimana cara menyampaikan bahwa tidak semua orang bisa diundang tanpa menyinggung perasaan? Ini adalah salah satu dilema yang sering dihadapi oleh calon pengantin.

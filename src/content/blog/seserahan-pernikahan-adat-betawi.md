@@ -5,7 +5,7 @@ description: >-
   roti buaya. Simak daftar lengkap seserahan bermakna yang tetap hemat biaya di
   sini!
 publishedAt: '2026-04-08T17:49:26'
-updatedAt: '2026-04-08T17:49:26'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wa
 canonicalUrl: 'https://acaranya.id/artikel/seserahan-pernikahan-adat-betawi/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Saat membicarakan **seserahan pernikahan adat Betawi**, pasti muncul pertanyaan: Apa saja isi seserahan yang dibawa pengantin pria? Bagaimana jika ingin seserahan yang sederhana tapi tetap sarat makna?
 
 Dalam tradisi pernikahan Betawi, seserahan adalah simbol keseriusan, niat baik, dan penghormatan kepada keluarga pengantin wanita. Namun, apakah harus mahal dan mewah? Tentu tidak. Seserahan juga bisa sederhana dengan biaya yang tetap terjangkau.

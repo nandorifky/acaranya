@@ -5,7 +5,7 @@ description: >-
   Dari ejaan yang benar hingga penggunaan gelar, pastikan detail kecil ini tidak
   terlewat!
 publishedAt: '2026-04-08T17:50:44'
-updatedAt: '2026-04-08T17:50:44'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: 5 Etika Penulisan Nama Tamu Undangan Pernikahan yang Bena
 canonicalUrl: 'https://acaranya.id/artikel/etika-penulisan-nama-tamu-undangan/'
 noindex: false
 ---
-5/5 - (8 suara)
-
 Saat merencanakan pernikahan, banyak detail kecil yang perlu diperhatikan, dan salah satu yang sering kali terabaikan adalah etika penulisan nama tamu undangan. Bagaimana seharusnya nama tamu ditulis dengan benar di [undangan pernikahan](https://acaranya.id)? Apakah ada aturan tertentu yang harus diikuti untuk memastikan bahwa setiap tamu merasa dihargai dan undangan tersebut mencerminkan keseriusan acara?
 
 Artikel ini akan membahas berbagai aspek penting terkait penulisan nama tamu undangan, memberikan panduan lengkap untuk memastikan undangan yang tidak hanya indah tapi juga sesuai dengan etika.

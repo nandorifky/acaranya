@@ -5,7 +5,7 @@ description: >-
   dari konsep minimalis modern hingga fitur interaktif yang bikin undanganmu
   makin wow.
 publishedAt: '2026-04-08T17:50:51'
-updatedAt: '2026-04-08T17:50:51'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Tren Desain Undangan Digital Tahun 2024
 canonicalUrl: 'https://acaranya.id/artikel/tren-desain-undangan-digital-tahun-2024/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Di era serba digital seperti sekarang, undangan pernikahan pun mengalami transformasi yang signifikan. Tren desain [undangan digital](https://acaranya.id) terus berkembang mengikuti kemajuan teknologi dan preferensi pasangan modern. Kamu yang sedang merencanakan pernikahan pasti ingin undanganmu tampil istimewa dan memorable, bukan?
 
 Tahun 2024 membawa angin segar dalam dunia undangan digital wedding. Berbagai inovasi desain undangan online bermunculan, mulai dari animasi yang lebih dinamis hingga fitur interaktif yang mengesankan. Mari kita eksplorasi tren terbaru yang sedang happening di industri undangan digital tahun ini!

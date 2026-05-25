@@ -4,7 +4,7 @@ description: >-
   Mengenal keunikan baju pernikahan adat Betawi: Rias Besar Dandanan Care Haji
   dan Care None Pengantin Belade. Simak detail filosofi dan aksesorisnya!
 publishedAt: '2026-04-08T17:51:05'
-updatedAt: '2026-04-08T17:51:05'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Busana
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Baju Pernikahan Adat Betawi yang Penuh Makna
 canonicalUrl: 'https://acaranya.id/artikel/baju-pernikahan-adat-betawi/'
 noindex: false
 ---
-4.2/5 - (4 suara)
-
 Buat kamu yang sedang merancang momen pernikahan dan ingin menampilkan kekayaan budaya Indonesia, pasti sempat bertanya: seperti apa sih baju pernikahan adat Betawi itu? Nah, banyak calon pengantin merasa bingung saat mencari referensi pakaian adat untuk hari istimewa.
 
 Terutama ketika ingin memadukan keanggunan, kekayaan budaya, dan nilai tradisi dalam satu tampilan yang memesona. Baju adat Betawi, yang sering dianggap kurang populer dibandingkan adat Jawa atau Sunda, justru menyimpan keunikan dan simbol yang luar biasa dalam setiap detailnya.
@@ -34,7 +32,7 @@ Yuk, lanjut baca sampai selesai biar kamu makin yakin untuk memilih baju adat Be
 
 ## Ciri Khas Baju Pernikahan Adat Betawi yang Harus Kamu Tahu
 
-Tidak jauh berbeda dengan [baju pernikahan adat Sunda](https://jalinjanji.com/inspirasi/busana/baju-pernikahan-adat-sunda/), pakaian nikah adat Betawi bukanlah sekadar kain dan hiasan, tapi punya arti mendalam. Ciri khas utama dari pakaian ini adalah kesan megah dan warna yang cerah. Biasanya, warna merah mendominasi karena dianggap membawa keberuntungan dan semangat dalam kehidupan rumah tangga yang baru.
+Tidak jauh berbeda dengan baju pernikahan adat Sunda, pakaian nikah adat Betawi bukanlah sekadar kain dan hiasan, tapi punya arti mendalam. Ciri khas utama dari pakaian ini adalah kesan megah dan warna yang cerah. Biasanya, warna merah mendominasi karena dianggap membawa keberuntungan dan semangat dalam kehidupan rumah tangga yang baru.
 
 Untuk pengantin pria, busananya disebut **Dandanan Care Haji**. Tampilan ini terinspirasi dari pedagang Arab yang berdagang di Batavia, dengan ciri khas memakai jubah panjang, kopiah atau sorban, serta sepatu pantofel klasik. Sementara itu, pengantin wanita mengenakan **Kebaya Encim** yang penuh bordiran, lengkap dengan aksesori kepala seperti siger Betawi dan hiasan kembang goyang.
 

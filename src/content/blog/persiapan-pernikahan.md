@@ -5,7 +5,7 @@ description: >-
   wajib kamu siapkan, mulai dari atur budget, pilih tanggal, hingga cari vendor
   impian.
 publishedAt: '2026-04-08T17:49:44'
-updatedAt: '2026-04-08T17:49:44'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 14 Daftar yang Harus Dipersiapkan untuk Pernikahan
 canonicalUrl: 'https://acaranya.id/artikel/persiapan-pernikahan/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 Merencanakan pernikahan memang bisa jadi pengalaman yang penuh semangat, tapi juga nggak lepas dari tantangan. Setuju, kan? Mulai dari memilih gaun pengantin impian sampai mengatur tamu undangan, ada banyak sekali hal yang perlu dipikirkan.
 
 Tapi, sudah tahu belum apa saja persiapan pernikahan yang harus dilakukan? Jangan sampai ada yang terlewat, karena setiap detail penting untuk membuat hari spesial kamu jadi benar-benar tak terlupakan.

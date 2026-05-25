@@ -5,7 +5,7 @@ description: >-
   dipercaya membawa kemuliaan, rezeki melimpah, dan kebahagiaan sejati bagi
   pasangan.
 publishedAt: '2026-04-08T17:49:49'
-updatedAt: '2026-04-08T17:49:49'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Weton Jodoh Ketemu 26 Apa Artinya? Penjelasan Primbon Jaw
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-26/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Weton jodoh ketemu 26 merupakan salah satu hasil perhitungan weton dalam primbon Jawa. Perhitungan ini dilakukan dengan menjumlahkan neptu hari lahir dan pasaran kedua calon pasangan. Hasil penjumlahan tersebut kemudian diinterpretasikan berdasarkan makna yang tercantum dalam kitab primbon Jawa. Artikel ini akan membahas secara komprehensif mengenai arti, cara menghitung, dan makna weton jodoh ketemu 26.
 
 Secara umum, primbon Jawa menggunakan total neptu untuk menafsirkan [kecocokan pasangan](https://acaranya.id/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/). Neptu merupakan nilai yang diberikan pada hari dan pasaran dalam kalender Jawa. Setiap hari dan pasaran memiliki nilai neptu yang berbeda. Total neptu kedua pasangan kemudian dibagi dengan angka tertentu, seperti 4, 5, 7, dan 8. Sisa hasil bagi kemudian ditafsirkan berdasarkan makna yang tercantum dalam kitab primbon Jawa.

@@ -5,7 +5,7 @@ description: >-
   wajib bagi catin di beberapa daerah untuk memastikan kesiapan kesehatan
   keluarga.
 publishedAt: '2026-04-08T17:50:26'
-updatedAt: '2026-04-08T17:50:26'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas da
 canonicalUrl: 'https://acaranya.id/artikel/cara-mendapatkan-sertifikat-layak-nikah/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Menjelang pernikahan, ada banyak hal yang harus [dipersiapkan](https://acaranya.id/artikel/persiapan-pernikahan/), termasuk urusan administrasi seperti mendapatkan **sertifikat layak nikah**. Sertifikat ini adalah salah satu dokumen penting yang dikeluarkan oleh Puskesmas setelah melakukan pemeriksaan kesehatan bagi calon pengantin.
 
 Selain menjadi persyaratan administrasi di KUA, sertifikat ini juga memberikan jaminan kesehatan bagi pasangan yang akan menikah.

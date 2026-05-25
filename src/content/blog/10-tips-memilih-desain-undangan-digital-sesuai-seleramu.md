@@ -4,7 +4,7 @@ description: >-
   Bingung pilih desain undangan digital? Simak 10 tips jitu memilih tema, warna,
   hingga font yang sesuai dengan karakter pernikahanmu agar tampil menawan!
 publishedAt: '2026-04-08T17:50:57'
-updatedAt: '2026-04-08T17:50:57'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -24,8 +24,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Perkembangan teknologi membawa banyak kemudahan, salah satunya dalam hal merencanakan pernikahan. Sekarang, [undangan pernikahan digital](https://acaranya.id) menjadi tren yang semakin diminati oleh pasangan modern.
 
 Selain praktis, undangan digital memberikan fleksibilitas dalam desain dan penyebaran, serta ramah lingkungan. Namun, dengan banyaknya pilihan yang tersedia, memilih desain yang tepat bisa jadi membingungkan.

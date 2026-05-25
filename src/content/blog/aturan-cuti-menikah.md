@@ -4,7 +4,7 @@ description: >-
   Panduan lengkap aturan cuti menikah sesuai UU Ketenagakerjaan. Cek jatah hari,
   syarat pengajuan ke atasan, hingga tips agar tetap tenang saat hari H!
 publishedAt: '2026-04-08T17:50:18'
-updatedAt: '2026-04-08T17:50:18'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
 canonicalUrl: 'https://acaranya.id/artikel/aturan-cuti-menikah/'
 noindex: false
 ---
-1.1/5 - (120 suara)
-
 Pertanyaan mengenai cuti menikah berapa hari kerap muncul, terutama bagi mereka yang sedang merencanakan pernikahan. Pertanyaan ini wajar karena cuti menikah adalah salah satu hak karyawan yang dijamin oleh UU Ketenagakerjaan.
 
 Tapi, berapa lama sih sebenarnya durasi cuti menikah ini? Apakah durasinya berbeda untuk karyawan baru atau bagi yang sedang merencanakan pernikahan kedua? Tak hanya itu, apakah cuti menikah ini juga mengurangi jatah cuti tahunan?

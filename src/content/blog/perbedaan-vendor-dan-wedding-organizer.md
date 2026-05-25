@@ -5,7 +5,7 @@ description: >-
   Organizer (koordinator acara) agar kamu bisa memilih bantuan yang tepat untuk
   hari h.
 publishedAt: '2026-04-08T17:50:30'
-updatedAt: '2026-04-08T17:50:30'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Inilah Perbedaan Vendor dan Wedding Organizer (WO)
 canonicalUrl: 'https://acaranya.id/artikel/perbedaan-vendor-dan-wedding-organizer/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Menyiapkan pernikahan bisa menjadi tugas yang rumit dan penuh detail. Seringkali, pasangan yang akan menikah kebingungan dengan istilah _vendor_ dan _wedding organizer_ (WO). Meskipun keduanya terlibat dalam acara pernikahan, peran mereka sangat berbeda.
 
 Artikel ini akan menjawab pertanyaan-pertanyaan umum tentang **perbedaan vendor dan WO**, serta memberikan panduan bagaimana memilih yang terbaik sesuai kebutuhan pernikahanmu.

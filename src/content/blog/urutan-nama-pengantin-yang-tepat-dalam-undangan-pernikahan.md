@@ -5,7 +5,7 @@ description: >-
   dalam undangan pernikahan, serta alasan filosofis mengapa nama wanita sering
   didahulukan.
 publishedAt: '2026-04-08T17:50:47'
-updatedAt: '2026-04-08T17:50:47'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -25,8 +25,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Undangan pernikahan adalah salah satu elemen penting dalam persiapan pernikahan. Selain sebagai sarana pemberitahuan, undangan juga mencerminkan gaya dan konsep pernikahan yang akan digelar.
 
 Salah satu hal yang sering menjadi pertanyaan adalah urutan penulisan nama kedua mempelai dalam undangan. Lantas, siapakah yang namanya ditulis lebih dulu, pengantin pria atau wanita?

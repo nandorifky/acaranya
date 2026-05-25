@@ -5,7 +5,7 @@ description: >-
   lengkap dengan artinya. Bikin undanganmu tampil lebih kekinian, elegan, dan
   profesional!
 publishedAt: '2026-04-08T17:50:29'
-updatedAt: '2026-04-08T17:50:29'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: Contoh Undangan Pernikahan Bahasa Inggris
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-inggris/'
 noindex: false
 ---
-4.1/5 - (22 suara)
-
 Sepertinya, kini banyak yang mencari **contoh undangan pernikahan bahasa inggris** untuk membuatnya lebih menarik. Untuk itu, kamu akan menemukannya dalam artikel ini.
 
 Undangan pernikahan menjadi hal penting untuk sebuah acara resepsi. Tentu, resepsi nikah perlu mengundang orang lain agar lebih meriah.

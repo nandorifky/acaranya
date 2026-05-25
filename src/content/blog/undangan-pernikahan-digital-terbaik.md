@@ -5,7 +5,7 @@ description: >-
   digital terbaik dan murah sebagai solusi buat undangan website instan dalam
   hitungan jam.
 publishedAt: '2026-04-08T17:51:31'
-updatedAt: '2026-04-08T17:51:31'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 5 Platform Undangan Pernikahan Digital Terbaik dan Murah!
 canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-digital-terbaik/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Halo _Acays_! Era digital sekarang, undangan digital menjadi pilhan populer oleh para calon pengantin baru. Selain tampilannya yang keren, undangan ini juga terkenal akan kemudahannya dalam pengiriman dan penyebaran undangan.
 
 Jika kamu tertarik untuk menggunakan undangan pernikahan digital, diluar sana cukup banyak platform yang menyediakan layanan undangan pernikahan digital yang dengan [harga](https://acaranya.id/harga/), desain, dan fitur yang cukup beragam.

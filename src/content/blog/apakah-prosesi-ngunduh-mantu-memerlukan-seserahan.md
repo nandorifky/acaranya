@@ -4,7 +4,7 @@ description: >-
   Masih bingung soal seserahan di acara Ngunduh Mantu? Temukan jawaban lengkap
   mengenai tradisi, makna, dan persiapan penting untuk penyatuan dua keluarga.
 publishedAt: '2026-04-08T17:49:39'
-updatedAt: '2026-04-08T17:49:39'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?
 canonicalUrl: 'https://acaranya.id/artikel/apakah-prosesi-ngunduh-mantu-memerlukan-seserahan/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Ngunduh Mantu, sebuah tradisi yang dikenal di berbagai daerah, sering kali menimbulkan pertanyaan mengenai keharusan adanya **seserahan**. Sering kali, prosesi ini dianggap sebagai bagian penting dalam pernikahan.
 
 Lantas, apakah benar seserahan memegang peranan kunci dalam Ngunduh Mantu? Artikel ini akan membahas secara mendalam tentang hubungan antara Ngunduh Mantu dan seserahan, serta memberikan informasi yang bermanfaat tentang praktik ini.

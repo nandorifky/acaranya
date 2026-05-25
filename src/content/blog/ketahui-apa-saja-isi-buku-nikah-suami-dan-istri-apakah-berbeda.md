@@ -5,7 +5,7 @@ description: >-
   tercantum, makna warna buku nikah, serta pentingnya dokumen ini dalam
   administrasi negara.
 publishedAt: '2026-04-08T17:49:14'
-updatedAt: '2026-04-08T17:49:14'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:
@@ -25,8 +25,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/ketahui-apa-saja-isi-buku-nikah-suami-dan-istri-apakah-berbeda/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Ketika membicarakan pernikahan, salah satu dokumen yang sering kali muncul adalah buku nikah. Banyak yang bertanya-tanya, sebenarnya apa saja isi buku nikah tersebut? Apakah ada perbedaan antara buku nikah milik suami dan istri? Dan apakah ada kaitannya dengan warna buku nikah? Bagaimana aturan mengenai isi buku nikah dalam perspektif Islam?
 
 Pertanyaan-pertanyaan ini sering kali mengemuka, terutama bagi yang hendak melangsungkan pernikahan.

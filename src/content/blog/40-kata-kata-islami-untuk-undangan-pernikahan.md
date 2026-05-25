@@ -5,7 +5,7 @@ description: >-
   makna. Dari kutipan Al-Qur'an hingga Hadis, bikin undanganmu terasa lebih
   sakral!
 publishedAt: '2026-04-08T17:49:42'
-updatedAt: '2026-04-08T17:49:42'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 40 Kata-Kata Islami untuk Undangan Pernikahan
 canonicalUrl: 'https://acaranya.id/artikel/40-kata-kata-islami-untuk-undangan-pernikahan/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Menjelang hari pernikahan, salah satu hal yang sering membingungkan adalah memilih **kata-kata Islami untuk undangan pernikahan**. Bagaimana cara memilih kalimat yang tepat? Kata-kata yang ingin disampaikan tentu harus penuh makna dan mengandung doa yang baik, bukan?
 
 Menjadi momen sakral, undangan pernikahan harus menyampaikan pesan yang menyentuh hati, sekaligus mengingatkan akan pentingnya pernikahan dalam Islam sebagai ibadah.

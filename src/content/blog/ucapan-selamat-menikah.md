@@ -5,7 +5,7 @@ description: >-
   dari gaya santai hingga religi (Islam/Kristen) untuk momen bahagia pengantin
   baru.
 publishedAt: '2026-04-08T17:49:39'
-updatedAt: '2026-04-08T17:49:39'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan
 canonicalUrl: 'https://acaranya.id/artikel/ucapan-selamat-menikah/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Pernikahan selalu menjadi momen istimewa, penuh kebahagiaan, dan harapan. **Ucapan selamat menikah** sering kali menjadi ungkapan kasih dan doa untuk pengantin baru.
 
 Lalu, bagaimana menuliskan ucapan yang tepat untuk teman atau sahabat? Apakah ucapan yang islami atau Kristen lebih sesuai? Atau mungkin ingin menulis dalam bahasa Inggris?

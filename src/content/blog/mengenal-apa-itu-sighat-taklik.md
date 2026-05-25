@@ -5,7 +5,7 @@ description: >-
   bacaannya, serta kekuatan hukumnya dalam melindungi hak istri pasca
   pernikahan.
 publishedAt: '2026-04-08T17:49:15'
-updatedAt: '2026-04-08T17:49:15'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam 
 canonicalUrl: 'https://acaranya.id/artikel/mengenal-apa-itu-sighat-taklik/'
 noindex: false
 ---
-2/5 - (4 suara)
-
 Pernikahan itu ibarat perahu, yang kadang tenang, kadang terombang-ambing. Nah, pernah dengar tentang sighat taklik yang sering dicantumkan dalam buku nikah?
 
 Jangan sampai terlewat, karena sighat taklik nikah ini bisa jadi penyelamat atau malah ancaman dalam pernikahan. Sighat Ta’lik adalah semacam janji tertulis yang diucapkan oleh suami setelah ijab kabul, tapi apakah janji ini sekadar basa-basi atau ada kekuatan hukumnya?

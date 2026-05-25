@@ -5,7 +5,7 @@ description: >-
   warna merah maroon dan hijau, serta fungsi penting buku nikah di mata hukum
   Indonesia.
 publishedAt: '2026-04-08T17:49:13'
-updatedAt: '2026-04-08T17:49:13'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbed
 canonicalUrl: 'https://acaranya.id/artikel/warna-buku-nikah/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernah bertanya-tanya, warna buku nikah perempuan warna apa? dan mengapa warna buku nikah perempuan dan buku nikah laki-laki itu berbeda? Satu merah maroon untuk perempuan, satu hijau kalem untuk laki-laki.
 
 Apa ini sekadar soal estetika, atau ada makna yang lebih dalam di balik warna-warna ini? Atau mungkin, ada alasan historis yang bikin buku nikah punya dua wajah? Sungguh, pertanyaan-pertanyaan ini sering bikin penasaran.

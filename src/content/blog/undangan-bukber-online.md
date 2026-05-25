@@ -4,7 +4,7 @@ description: >-
   Praktis & hemat! Bikin undangan bukber online via WhatsApp dengan desain
   islami yang keren & fitur lengkap agar momen buka puasa bersamamu makin ramai.
 publishedAt: '2026-04-08T17:51:02'
-updatedAt: '2026-04-08T17:51:02'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Blog
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Undangan Bukber Online
 canonicalUrl: 'https://acaranya.id/artikel/undangan-bukber-online/'
 noindex: false
 ---
-2/5 - (185 suara)
-
 Terpikir untuk mengadakan buka bersama (bukber) secara online dengan keluarga, teman, atau rekan kerja tanpa harus repot-repot mencetak undangan? Kini, semuanya bisa dilakukan dengan mudah dan cepat melalui **undangan bukber online** yang dapat dikirim via WhatsApp!
 
 Di era digital saat ini, kegiatan berbuka puasa bersama pun bisa lebih praktis dan efisien. Selain itu, penggunaan [undangan digital](https://acaranya.id) ini juga ramah lingkungan, mengurangi konsumsi kertas, dan dapat menghemat biaya.

@@ -5,7 +5,7 @@ description: >-
   kamu booking, mulai dari katering hingga dokumentasi, beserta tips
   koordinasinya.
 publishedAt: '2026-04-08T17:50:14'
-updatedAt: '2026-04-08T17:50:14'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari 
 canonicalUrl: 'https://acaranya.id/artikel/vendor-pernikahan/'
 noindex: false
 ---
-5/5 - (7 suara)
-
 Merencanakan pernikahan memang momen yang penuh antusiasme, namun juga bisa terasa menantang jika dilakukan tanpa bantuan profesional seperti _wedding organizer_. Bagi kamu yang memutuskan untuk mengatur semuanya sendiri, penting sekali untuk mengetahui daftar vendor yang wajib dipersiapkan agar pernikahan berjalan lancar dan sesuai impian.
 
 Menyusun vendor pernikahan tak bisa sembarangan, apalagi jika dilakukan mendadak. Tanpa [persiapan pernikahan yang matang](https://acaranya.id/artikel/persiapan-pernikahan/), kamu bisa kewalahan dan hasilnya jauh dari harapan. Maka dari itu, pastikan kamu merencanakan segala sesuatunya sejak jauh-jauh hari.

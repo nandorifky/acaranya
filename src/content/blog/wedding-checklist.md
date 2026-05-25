@@ -5,7 +5,7 @@ description: >-
   terstruktur & lengkap untuk memantau setiap detail persiapan dari H-12 bulan
   hingga hari h.
 publishedAt: '2026-04-08T17:49:43'
-updatedAt: '2026-04-08T17:49:43'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Wedding Checklist Indonesia
 canonicalUrl: 'https://acaranya.id/artikel/wedding-checklist/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Merencanakan pernikahan adalah momen yang penuh dengan sukacita dan tentunya antisipasi. Hari bahagia ini menyatukan dua insan dalam ikatan cinta, dan tentunya menjadi dambaan banyak orang. Namun, di balik kebahagiaan tersebut, proses perencanaan pernikahan juga bisa terasa rumit dan overwhelming. Jangan khawatir, kamu tidak sendirian!
 
 Artikel ini hadir sebagai panduan lengkap untuk calon pengantin! Dengan **wedding checklist Indonesia** yang terstruktur dan rinci, kamu bisa bernapas lega. Checklist ini akan membantumu mengantisipasi setiap detail penting dan mentransformasikan mimpi pernikahanmu menjadi kenyataan yang berjalan lancar dan penuh kesan.
@@ -222,7 +220,7 @@ Berikut beberapa tips dalam mempersiapkan diri untuk pernikahan:
 
 ![Download Wedding Checklist Template Excel dan PDF](/images/blog/content/31c26069-5831-4138-9625-afb619ae532b.jpeg)
 
-**Wedding checklist template** adalah alat yang sangat membantu dalam proses [persiapan pernikahan](https://jalinjanji.com/perencanaan/persiapan-pernikahan/). Template ini menyediakan daftar lengkap semua tugas yang perlu diselesaikan, beserta timeline yang disarankan. Dengan menggunakan template ini, kamu dapat memastikan bahwa semua aspek pernikahan terencana dengan baik dan tidak ada yang terlupakan.
+**Wedding checklist template** adalah alat yang sangat membantu dalam proses persiapan pernikahan. Template ini menyediakan daftar lengkap semua tugas yang perlu diselesaikan, beserta timeline yang disarankan. Dengan menggunakan template ini, kamu dapat memastikan bahwa semua aspek pernikahan terencana dengan baik dan tidak ada yang terlupakan.
 
 **Tersedia dua format wedding checklist template:**
 

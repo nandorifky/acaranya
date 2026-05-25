@@ -2,7 +2,7 @@
 title: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya
 description: Etika & cara mengirim undangan digital lewat WhatsApp agar tetap sopan. Simak tips menulis kalimat pengantar yang menghargai tamu meskipun tanpa tatap muka.
 publishedAt: 2026-04-08T17:51:00
-updatedAt: 2026-05-25T06:31:00
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Undangan
 tags:
@@ -20,9 +20,6 @@ customBreadcrumbLabel: Cara Mengirim Undangan Digital Lewat WA
 canonicalUrl: https://acaranya.id/artikel/cara-mengirim-undangan-digital-lewat-wa/
 noindex: false
 ---
-
-5/5 - (3 suara)
-
 Penggunaan undangan digital kini semakin populer di Indonesia, terutama untuk acara pernikahan. Banyak orang merasa acara pernikahan mereka kurang lengkap tanpa menggunakan [undangan digital](https://acaranya.id).
 
 Namun, meskipun praktis, ada etika yang harus diperhatikan saat mengirim undangan digital, terutama dalam hal penyampaian dan tata cara.

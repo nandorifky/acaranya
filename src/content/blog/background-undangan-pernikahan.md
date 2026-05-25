@@ -5,7 +5,7 @@ description: >-
   inspirasi motif floral, rustic, hingga minimalis yang bikin undanganmu tampil
   elegan!
 publishedAt: '2026-04-08T17:50:52'
-updatedAt: '2026-04-08T17:50:52'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong
 canonicalUrl: 'https://acaranya.id/artikel/background-undangan-pernikahan/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Gambar latar belakang merupakan hal yang tidak boleh disepelekan dalam pemilihan desain undangan. Nah, dalam artikel ini, kami akan membagikan kumpulan background undangan pernikahan format PNG ataupun JPG dengan berbagai pilihan desain.
 
 Undangan pernikahan, merupakan salah satu hal yang akan diperlihatkan kepada tamu acara. Tentu, kamu sebagai calon pengantin tidak menginginkan gambar background yang _monoton_.

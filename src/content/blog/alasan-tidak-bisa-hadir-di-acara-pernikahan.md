@@ -5,7 +5,7 @@ description: >-
   pernikahan yang sopan & masuk akal tanpa merusak silaturahmi. Lengkap dengan
   tipsnya!
 publishedAt: '2026-04-08T17:49:28'
-updatedAt: '2026-04-08T17:49:28'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk 
 canonicalUrl: 'https://acaranya.id/artikel/alasan-tidak-bisa-hadir-di-acara-pernikahan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Tidak bisa hadir di acara pernikahan mungkin jadi dilema tersendiri. Apakah harus memberikan alasan jujur atau mencari cara yang lebih halus? Kadang, kesibukan atau kondisi tertentu membuat keputusan untuk tidak hadir sulit dihindari, namun harus tetap disampaikan dengan cara yang bijak.
 
 Nah, apa saja **alasan untuk tidak hadir acara** yang masuk akal dan tidak membuat hubungan jadi renggang?

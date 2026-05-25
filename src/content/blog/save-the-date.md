@@ -5,7 +5,7 @@ description: >-
   tanggal acara, serta cara membuatnya agar tamu undangan bisa mengatur jadwal
   jauh hari.
 publishedAt: '2026-04-08T17:50:25'
-updatedAt: '2026-04-08T17:50:25'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuat
 canonicalUrl: 'https://acaranya.id/artikel/save-the-date/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 **_Save the Date_ artinya apasih?** secara harfiah, ini adalah istilah dalam bahasa Inggris yang berarti **“simpan tanggal”** atau kita bisa menyebutnya **“pemberitahuan tanggal”**. Dalam konteks perencanaan acara, terutama pernikahan, _save the date_ berfungsi sebagai pemberitahuan awal kepada tamu undangan untuk menandai tanggal acara di kalender mereka.
 
 Kartu _save the date_ ini memiliki peran yang krusial dalam memastikan kehadiran tamu pada hari spesialmu. Dengan memberikan informasi lebih dini, para tamu dapat mengatur jadwal mereka dan menghindari bentrok dengan acara lainnya.

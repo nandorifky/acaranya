@@ -5,7 +5,7 @@ description: >-
   anak yang menarik. Cocok untuk sebar via WhatsApp dengan desain digital yang
   lucu!
 publishedAt: '2026-04-08T17:51:25'
-updatedAt: '2026-04-08T17:51:25'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak
 canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-ulang-tahun-anak/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Merayakan hari ulang tahun anak adalah momen spesial yang tak terlupakan bagi setiap orang tua. Di era digital seperti sekarang, membuat undangan ulang tahun anak menjadi lebih mudah dan praktis. Kamu bisa mengirimkan undangan digital via WhatsApp dengan desain yang menarik dan kata-kata yang berkesan.
 
 Pemilihan kata-kata dalam undangan ulang tahun anak perlu diperhatikan agar menghadirkan kesan yang tepat dan membuat tamu undangan tertarik untuk hadir. Baik itu undangan untuk anak laki-laki maupun perempuan, dalam bahasa Indonesia, bahasa Inggris, atau dengan nuansa islami, semuanya membutuhkan sentuhan kreatif yang sesuai dengan tema perayaan.

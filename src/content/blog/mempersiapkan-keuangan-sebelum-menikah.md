@@ -5,7 +5,7 @@ description: >-
   sebelum menikah, mulai dari rencana anggaran bersama hingga menyiapkan dana
   darurat.
 publishedAt: '2026-04-08T17:49:24'
-updatedAt: '2026-04-08T17:49:24'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Anggaran
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tah
 canonicalUrl: 'https://acaranya.id/artikel/mempersiapkan-keuangan-sebelum-menikah/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Menikah adalah momen penting yang menandai awal babak baru dalam hidup. Pernikahan bukan hanya tentang cinta dan kebahagiaan, tetapi juga tentang membangun masa depan bersama.
 
 Oleh karena itu, mempersiapkan keuangan sebelum menikah sangat penting untuk memastikan pernikahan yang harmonis dan stabil.

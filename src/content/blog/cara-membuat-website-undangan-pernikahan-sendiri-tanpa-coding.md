@@ -5,7 +5,7 @@ description: >-
   platform terbaik dan fitur interaktif yang bikin undanganmu tampil beda &
   mewah.
 publishedAt: '2026-04-08T17:49:56'
-updatedAt: '2026-04-08T17:49:56'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -25,8 +25,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/cara-membuat-website-undangan-pernikahan-sendiri-tanpa-coding/
 noindex: false
 ---
-5/5 - (2 suara)
-
 Pernikahan adalah salah satu momen paling penting dalam hidup. Tentu kamu ingin membagikan kabar bahagia ini dengan cara yang paling berkesan.
 
 Di era digital saat ini, undangan pernikahan fisik perlahan bergeser ke bentuk digital yang lebih personal, interaktif, dan tentunya ramah lingkungan.

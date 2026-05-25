@@ -5,7 +5,7 @@ description: >-
   hukum syariah, status kepemilikan, dan adab yang perlu diperhatikan di artikel
   ini.
 publishedAt: '2026-04-08T17:49:53'
-updatedAt: '2026-04-08T17:49:53'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Apakah Cincin Tunangan Boleh Dijual? Ini Penjelasan Menur
 canonicalUrl: 'https://acaranya.id/artikel/apakah-cincin-tunangan-boleh-dijual/'
 noindex: false
 ---
-5/5 - (3 suara)
-
 _Cincin tunangan_ adalah simbol cinta dan komitmen antara pasangan yang hendak melangsungkan pernikahan. Namun, dalam beberapa situasi, muncul pertanyaan: Apakah cincin tunangan boleh dijual?
 
 Dalam Islam, permasalahan ini perlu ditinjau dari perspektif hukum syariah agar keputusan yang diambil sesuai dengan tuntunan agama.

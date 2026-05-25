@@ -4,7 +4,7 @@ description: >-
   Apakah undangan pernikahan termasuk kategori undangan resmi? Cek perbedaan
   format, bahasa, dan konteks penggunaannya agar tidak salah dalam membuatnya!
 publishedAt: '2026-04-08T17:50:51'
-updatedAt: '2026-04-08T17:50:51'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Undangan
 tags:
@@ -23,8 +23,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/apakah-undangan-pernikahan-termasuk-undangan-resmi/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Undangan pernikahan sering kali menjadi perhatian utama saat menyelenggarakan perayaan besar seperti pernikahan. Namun, ada satu pertanyaan yang kerap muncul;
 
 _Apakah undangan pernikahan termasuk undangan resmi_?

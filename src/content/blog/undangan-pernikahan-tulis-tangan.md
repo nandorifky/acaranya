@@ -4,7 +4,7 @@ description: >-
   Lebih personal & berkesan! Simak cara membuat undangan pernikahan tulis tangan
   yang estetik lengkap dengan contoh isi teksnya untuk tamu spesial di hari h.
 publishedAt: '2026-04-08T17:50:36'
-updatedAt: '2026-04-08T17:50:36'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Contoh Surat Undangan Pernikahan Tulis Tangan Simple
 canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-tulis-tangan/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Kenapa sih harus repot-repot bikin undangan pernikahan tulis tangan? Bukankah tinggal cetak di percetakan atau [pesan online](https://acaranya.id) bisa jauh lebih simpel? Nah, di era digital seperti sekarang, justru yang tulis tangan itu spesial. Bukan hanya karena terasa lebih personal, tapi juga karena punya nilai sentimental yang bikin hati luluh. Mau bikin tamu merasa spesial? Mulai dari undangannya!
 
 Bagi yang tertarik untuk belajar cara membuat undangan pernikahan yang lebih personal, artikel ini menyajikan semua yang perlu diketahui. Mulai dari contoh hingga detail isi undangan pernikahan tulis tangan, semuanya ada di sini. Yuk, simak sampai habis!

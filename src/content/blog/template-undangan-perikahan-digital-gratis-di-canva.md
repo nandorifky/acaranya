@@ -4,7 +4,7 @@ description: >-
   Bikin undangan sendiri tanpa ribet? Cek 10 template undangan pernikahan
   digital gratis di Canva yang estetik, mudah diedit, dan cocok untuk pemula.
 publishedAt: '2026-04-08T17:51:00'
-updatedAt: '2026-04-08T17:51:00'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -23,8 +23,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/template-undangan-perikahan-digital-gratis-di-canva/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Mencari template undangan pernikahan yang cantik dan mudah diedit? Canva adalah solusi terbaik untuk kamu yang ingin membuat undangan pernikahan sendiri tanpa biaya. Dengan berbagai pilihan template gratis, kamu bisa menemukan desain yang sesuai dengan tema pernikahanmu, mulai dari gaya minimalis hingga klasik.
 
 Dalam artikel ini, kami akan memberikan daftar template undangan pernikahan gratis terbaik di Canva, lengkap dengan opsi-opsi yang bisa langsung kamu edit dan sesuaikan dengan detail acara pernikahanmu.

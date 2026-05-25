@@ -5,7 +5,7 @@ description: >-
   (catering, dekorasi, foto), serta tips memilih penyedia jasa profesional untuk
   hari h.
 publishedAt: '2026-04-08T17:51:08'
-updatedAt: '2026-04-08T17:51:08'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Vendor Pernikahan Adalah: Pengertian, Jenis, dan Tips Me
 canonicalUrl: 'https://acaranya.id/artikel/pengertian-vendor-pernikahan-adalah/'
 noindex: false
 ---
-1.1/5 - (198 suara)
-
 Perencanaan pernikahan adalah momen yang penuh dengan kebahagiaan, namun juga menuntut banyak persiapan yang matang. Salah satu kunci utama dalam menyukseskan acara pernikahan adalah memilih **vendor pernikahan** yang tepat.
 
 Namun, apa sebenarnya **vendor pernikahan** itu? Bagaimana cara memilih vendor yang terbaik untuk hari istimewamu?

@@ -4,7 +4,7 @@ description: >-
   Update rincian biaya akad nikah di KUA tahun terbaru. Dari tarif gratis hingga
   biaya nikah di luar kantor, serta dokumen apa saja yang harus disiapkan!
 publishedAt: '2026-04-08T17:49:54'
-updatedAt: '2026-04-08T17:49:54'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Anggaran
 tags:
@@ -22,8 +22,6 @@ customBreadcrumbLabel: Biaya Akad Nikah di KUA Terbaru dan Syaratnya
 canonicalUrl: 'https://acaranya.id/artikel/biaya-akad-nikah-di-kua/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Merencanakan pernikahan adalah sebuah perjalanan yang penuh lika-liku manis. Mulai dari [mencari vendor](https://acaranya.id/artikel/pengertian-vendor-pernikahan-adalah/), mencocokkan tanggal, hingga mempersiapkan daftar tamu.
 
 Di tengah banyaknya hal yang harus dipikirkan, satu pertanyaan umum sering kali muncul di benak calon pengantin, yaitu berapa sih biaya akad nikah di KUA? Ada yang bilang gratis, tapi tak sedikit juga yang mendengar ada biaya tertentu. Kebingungan ini wajar, dan tentu bisa menambah beban pikiran kalian.

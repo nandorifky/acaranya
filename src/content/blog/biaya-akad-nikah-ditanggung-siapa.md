@@ -5,7 +5,7 @@ description: >-
   agama, hingga solusi modern bagi pasangan yang ingin berbagi budget
   pernikahan.
 publishedAt: '2026-04-08T17:49:20'
-updatedAt: '2026-04-08T17:49:20'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Anggaran
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Biaya Akad Nikah Ditanggung Siapa? Jangan Sampai Salah Pa
 canonicalUrl: 'https://acaranya.id/artikel/biaya-akad-nikah-ditanggung-siapa/'
 noindex: false
 ---
-5/5 - (2 suara)
-
 Mempersiapkan pernikahan memang penuh dengan euforia, tetapi tak jarang juga diiringi dengan berbagai pertanyaan krusial yang bisa membuat pusing. Salah satu topik yang paling sering menjadi sumber kebingungan bahkan perdebatan kecil di antara calon pengantin dan keluarga adalah, “Sebenarnya, biaya akad nikah ditanggung siapa?”
 
 Pertanyaan ini terdengar sederhana, namun jawabannya bisa sangat beragam, tergantung pada adat, kebiasaan keluarga, hingga kesepakatan modern antara kedua belah pihak. Kebingungan ini wajar, karena salah langkah dalam membahasnya bisa menimbulkan kesalahpahaman yang tidak diinginkan menjelang hari H.

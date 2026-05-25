@@ -5,7 +5,7 @@ description: >-
   kata-kata penuh doa & nuansa religius yang cocok untuk momen sakral akad
   nikah.
 publishedAt: '2026-04-08T17:50:40'
-updatedAt: '2026-04-08T17:50:40'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: 5 Contoh Undangan Pernikahan Islami Unik dan Menarik
 canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/'
 noindex: false
 ---
-5/5 - (5 suara)
-
 Dalam artikel ini, kami akan membahas desain dan contoh undangan pernikahan Islami yang bisa kamu jadikan referensi.
 
 Undangan adalah bentuk pemberitahuan yang dikirimkan oleh penyelenggara acara untuk mengundang tamu, terutama dalam acara penting seperti pernikahan. Awalnya, undangan pernikahan umumnya berupa kartu fisik yang dirancang dengan menyertakan informasi detail mengenai acara tersebut. Namun, seiring perkembangan teknologi, undangan pernikahan digital kini menjadi pilihan yang lebih praktis dan efisien.

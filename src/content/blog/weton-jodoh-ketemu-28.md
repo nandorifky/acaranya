@@ -5,7 +5,7 @@ description: >-
   hitungan Jawa, tantangan di awal rumah tangga, serta tips menjaga komitmen
   tetap kuat.
 publishedAt: '2026-04-08T17:49:50'
-updatedAt: '2026-04-08T17:49:50'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: 'Arti Weton Jodoh Ketemu 28, Apakah Boleh Menikah?'
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-28/'
 noindex: false
 ---
-3.2/5 - (13 suara)
-
 Dalam budaya Jawa, weton memegang peranan penting dalam berbagai aspek kehidupan, termasuk dalam menentukan kecocokan jodoh. Weton merupakan hari lahir seseorang berdasarkan penanggalan Jawa yang dihitung berdasarkan hari dan pasaran. Jumlah neptu dari hari dan pasaran kemudian dijumlahkan untuk mendapatkan weton seseorang.
 
 Menghitung weton jodoh dilakukan dengan menjumlahkan neptu weton kedua calon pasangan. Jumlah neptu tersebut kemudian ditafsirkan berdasarkan kitab primbon Jawa. Perhitungan weton jodoh dipercaya dapat memberikan gambaran tentang kemungkinan kecocokan, harmonis, dan keberuntungan dalam pernikahan.

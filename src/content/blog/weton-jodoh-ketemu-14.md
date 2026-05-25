@@ -5,7 +5,7 @@ description: >-
   primbon Jawa, potensi konflik, serta tips membangun hubungan tetap harmonis &
   sabar.
 publishedAt: '2026-04-08T17:49:28'
-updatedAt: '2026-04-08T17:49:28'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Weton Jodoh Ketemu 14 Apa Artinya?
 canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-14/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Weton jodoh merupakan salah satu konsep dalam budaya Jawa yang digunakan untuk menafsirkan kecocokan pasangan berdasarkan hari lahir mereka. Perhitungan weton jodoh dilakukan dengan menjumlahkan neptu dari hari lahir dan pasaran masing-masing pasangan.
 
 Dari jumlah neptu tersebut, kemudian dikaitkan dengan makna dan interpretasi yang terdapat dalam primbon Jawa. Dalam artikel ini, kita akan membahas secara komprehensif tentang Weton Jodoh Ketemu 14, yaitu jumlah neptu pasangan yang mencapai angka 14.

@@ -5,7 +5,7 @@ description: >-
   digital yang modern & praktis untuk mengundang banyak kerabat hanya dalam satu
   klik.
 publishedAt: '2026-04-08T17:49:56'
-updatedAt: '2026-04-08T17:49:56'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Blog
 tags:
@@ -23,8 +23,6 @@ customBreadcrumbLabel: Undangan Open House Idul Fitri Digital
 canonicalUrl: 'https://acaranya.id/artikel/undangan-open-house-idul-fitri-digital/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Hari Raya Idul Fitri adalah waktu spesial ketika kita merayakan akhir dari bulan puasa, Ramadhan. Ini adalah hari penuh kegembiraan, saat keluarga dan teman berkumpul, saling memaafkan, dan berbagi kebahagiaan.
 
 Salah satu tradisi yang paling dinantikan adalah open house Idul Fitri, dimana rumah dibuka untuk menyambut tamu.

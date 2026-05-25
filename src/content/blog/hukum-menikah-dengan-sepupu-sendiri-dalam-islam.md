@@ -5,7 +5,7 @@ description: >-
   berdasarkan dalil syariah, sejarah, serta jenis-jenis hubungan sepupu yang
   halal dinikahi.
 publishedAt: '2026-04-08T17:50:12'
-updatedAt: '2026-04-08T17:50:12'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -26,8 +26,6 @@ customBreadcrumbLabel: Hukum Menikah dengan Sepupu Sendiri dalam Islam
 canonicalUrl: 'https://acaranya.id/artikel/hukum-menikah-dengan-sepupu-sendiri-dalam-islam/'
 noindex: false
 ---
-5/5 - (1 suara)
-
 Pernikahan dalam Islam memiliki aturan dan ketentuan yang sangat detail, termasuk dalam hal memilih pasangan hidup. Salah satu pertanyaan yang sering muncul di kalangan umat Muslim adalah tentang hukum menikahi sepupu. Apakah boleh menikah dengan sepupu dalam Islam? Pertanyaan ini menjadi perbincangan yang cukup serius mengingat praktik ini masih umum terjadi di beberapa komunitas Muslim.
 
 Dalam tradisi beberapa masyarakat, pernikahan dengan sepupu bukan hal yang asing. Bahkan di beberapa negara Muslim seperti Pakistan, Arab Saudi, dan negara-negara Timur Tengah lainnya, praktik menikah dengan sepupu masih umum dilakukan. Namun, penting untuk memahami pandangan Islam tentang hal ini agar kamu bisa mengambil keputusan yang tepat sesuai syariat.

@@ -5,7 +5,7 @@ description: >-
   penyedot saldo bank dan tips aman membedakan undangan asli dengan tautan
   berbahaya.
 publishedAt: '2026-04-08T17:50:03'
-updatedAt: '2026-04-08T17:50:03'
+updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:
@@ -25,8 +25,6 @@ canonicalUrl: >-
   https://acaranya.id/artikel/penipuan-apk-undangan-digital-yang-merusak-citra-layanan/
 noindex: false
 ---
-5/5 - (1 suara)
-
 Layanan [undangan pernikahan digital](https://acaranya.id) telah menjadi tren baru dalam beberapa tahun terakhir. Selain praktis, undangan digital memberikan sentuhan modern dan lebih ramah lingkungan dibandingkan dengan undangan fisik.
 
 Sayangnya, perkembangan teknologi ini juga diiringi dengan tantangan baru, yaitu maraknya kasus penipuan yang memanfaatkan APK malware yang menyamar sebagai undangan digital.
