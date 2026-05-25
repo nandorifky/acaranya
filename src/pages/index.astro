@@ -25,7 +25,7 @@ const jsonLd = [
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "name": siteConfig.name,
-    "image": `${siteConfig.url}/favicon.svg`,
+    "image": `${siteConfig.url}${siteConfig.branding.logo}`,
     "@id": `${siteConfig.url}/#localbusiness`,
     "url": siteConfig.url,
     "telephone": `+${siteConfig.contact.whatsapp}`,
@@ -68,10 +68,12 @@ const jsonLd = [
     "@type": "Organization",
     "name": siteConfig.name,
     "url": siteConfig.url,
-    "logo": `${siteConfig.url}/favicon.svg`,
+    "logo": `${siteConfig.url}${siteConfig.branding.logo}`,
     "sameAs": [
-      `https://instagram.com/${siteConfig.contact.instagram.replace('@', '')}`
-    ]
+      siteConfig.social.instagram.url,
+      siteConfig.social.facebook.url,
+      siteConfig.social.tiktok.url
+    ].filter(url => url)
   }
 ];
 ---

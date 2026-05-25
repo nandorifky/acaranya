@@ -73,7 +73,7 @@ import Icon from '../components/ui/Icon.astro';
         </a>
 
         <!-- Instagram -->
-        <a href={siteConfig.contact.instagramUrl} target="_blank" rel="noopener noreferrer" 
+        <a href={siteConfig.social.instagram.url} target="_blank" rel="noopener noreferrer" 
           class="group bg-cream rounded-3xl border border-border-soft/60 p-8 lg:p-10 text-center hover:border-soft-gold hover:shadow-card transition-all duration-300 flex flex-col justify-between items-center">
           <div class="space-y-6 flex flex-col items-center">
             <div class="w-12 h-12 rounded-full border border-soft-gold/20 flex items-center justify-center text-soft-gold group-hover:bg-brand-950/5 group-hover:border-brand-950/20 transition-colors duration-300">
@@ -85,7 +85,7 @@ import Icon from '../components/ui/Icon.astro';
             </div>
           </div>
           <span class="mt-8 text-xs font-sans font-bold tracking-widest uppercase text-soft-gold group-hover:text-brand-950 transition-colors duration-300">
-            @{siteConfig.contact.instagram}
+            {siteConfig.social.instagram.username}
           </span>
         </a>
 

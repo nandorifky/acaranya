@@ -93,7 +93,9 @@ import { siteConfig } from "../data/site";
             >
               Konsultasi WhatsApp
             </p>
-            <p class="text-sm font-medium text-brand-950">{siteConfig.contact.whatsappDisplay}</p>
+            <p class="text-sm font-medium text-brand-950">
+              {siteConfig.contact.whatsappDisplay}
+            </p>
           </div>
         </div>
 
@@ -282,19 +284,19 @@ import { siteConfig } from "../data/site";
               class="w-full h-full flex items-center justify-center bg-brand-50 rounded-[24px] overflow-hidden"
             >
               <img
-                src="/images/indira.webp"
-                alt="Indira Editor Acaranya.id"
+                src={siteConfig.team.founder.avatar}
+                alt={`${siteConfig.team.founder.name} ${siteConfig.team.founder.role} ${siteConfig.name}`}
                 class="w-full h-full object-cover"
               />
             </div>
           </div>
           <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">
-            Nando Rifky
+            {siteConfig.team.founder.name}
           </h3>
           <p
             class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
           >
-            Founder
+            {siteConfig.team.founder.role}
           </p>
         </div>
 
@@ -307,19 +309,19 @@ import { siteConfig } from "../data/site";
               class="w-full h-full flex items-center justify-center bg-brand-50 rounded-[24px] overflow-hidden"
             >
               <img
-                src="/images/indira.webp"
-                alt="Indira Editor Acaranya.id"
+                src={siteConfig.team.editor1.avatar}
+                alt={`${siteConfig.team.editor1.name} ${siteConfig.team.editor1.role} ${siteConfig.name}`}
                 class="w-full h-full object-cover"
               />
             </div>
           </div>
           <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">
-            Indira
+            {siteConfig.team.editor1.name}
           </h3>
           <p
             class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
           >
-            Editor
+            {siteConfig.team.editor1.role}
           </p>
         </div>
 
@@ -332,17 +334,17 @@ import { siteConfig } from "../data/site";
               class="w-full h-full flex items-center justify-center bg-brand-50 rounded-[24px] overflow-hidden"
             >
               <img
-                src="/images/vivi.webp"
-                alt="Vivi Editor Acaranya.id"
+                src={siteConfig.team.editor2.avatar}
+                alt={`${siteConfig.team.editor2.name} ${siteConfig.team.editor2.role} ${siteConfig.name}`}
                 class="w-full h-full object-cover"
               />
             </div>
           </div>
-          <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">Vivi</h3>
+          <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">{siteConfig.team.editor2.name}</h3>
           <p
             class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
           >
-            Editor
+            {siteConfig.team.editor2.role}
           </p>
         </div>
 
@@ -358,12 +360,12 @@ import { siteConfig } from "../data/site";
             </div>
           </div>
           <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">
-            5+ Freelancers
+            {siteConfig.team.freelancers.name}
           </h3>
           <p
             class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
           >
-            Marketing/Editor/Designer
+            {siteConfig.team.freelancers.role}
           </p>
         </div>
       </div>
@@ -401,7 +403,7 @@ import { siteConfig } from "../data/site";
           </h2>
           <div class="flex flex-col sm:flex-row justify-center gap-4 pt-4">
             <a
-              href="/desain-undangan-digital/"
+              href={siteConfig.integrations.catalogUrl}
               class="px-10 py-5 bg-brand-950 text-cream text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-brand-900 transition-all shadow-xl shadow-brand-900/10"
               >Pilih Desain Impian</a
             >

@@ -39,7 +39,7 @@ const jsonLd = [
       '@type': 'LocalBusiness',
       name: siteConfig.name,
       url: siteConfig.url,
-      image: `${siteConfig.url}/favicon.svg`,
+      image: `${siteConfig.url}${siteConfig.branding.logo}`,
       address: {
         '@type': 'PostalAddress',
         addressLocality: area.data.cityName,
@@ -125,7 +125,7 @@ const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComp
           <a href={waUrl} target="_blank" rel="noopener noreferrer" class="px-8 py-4 bg-brand-900 text-cream rounded-full hover:bg-brand-950 transition-all font-semibold tracking-widest text-[11px] uppercase shadow-card active:scale-[0.98] duration-300">
             Pesan di {area.data.cityName}
           </a>
-          <a href="/desain-undangan-digital/" class="px-8 py-4 border border-brand-300/80 rounded-full hover:bg-white hover:border-brand-500 transition-all font-semibold tracking-widest text-[11px] uppercase duration-300 text-brand-800">
+          <a href={siteConfig.integrations.catalogUrl} class="px-8 py-4 border border-brand-300/80 rounded-full hover:bg-white hover:border-brand-500 transition-all font-semibold tracking-widest text-[11px] uppercase duration-300 text-brand-800">
             Lihat Katalog Desain
           </a>
         </div>
@@ -176,7 +176,7 @@ const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComp
       </div>
 
       <div class="mt-16 text-center">
-         <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-8 py-4 border border-brand-300 rounded-full text-brand-900 text-[10px] font-bold uppercase tracking-[0.2em] hover:bg-white hover:border-brand-500 transition-all">
+         <a href={siteConfig.integrations.catalogUrl} class="inline-flex items-center gap-2 px-8 py-4 border border-brand-300 rounded-full text-brand-900 text-[10px] font-bold uppercase tracking-[0.2em] hover:bg-white hover:border-brand-500 transition-all">
             Jelajahi Semua Desain <Icon name="arrow-right" size={14} />
          </a>
       </div>
@@ -199,7 +199,7 @@ const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComp
                <a href={waUrl} target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-10 py-5 bg-brand-900 text-cream text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-brand-950 transition-all shadow-xl shadow-brand-900/10">
                   Konsultasi via WhatsApp
                </a>
-               <a href="/harga/" class="w-full sm:w-auto px-10 py-5 border border-brand-300 text-brand-900 text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-white transition-all">
+               <a href={siteConfig.integrations.pricingUrl} class="w-full sm:w-auto px-10 py-5 border border-brand-300 text-brand-900 text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-white transition-all">
                   Cek Daftar Harga
                </a>
             </div>

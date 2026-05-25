@@ -19,7 +19,7 @@ interface Props {
 const {
   title = siteConfig.seo.defaultTitle,
   description = siteConfig.seo.defaultDescription,
-  ogImage = siteConfig.ogImage,
+  ogImage = siteConfig.branding.ogImage,
   canonical,
   robots = 'index,follow',
   type = 'website',
@@ -44,14 +44,18 @@ const defaultJsonLd = [
     '@type': 'Organization',
     name: siteConfig.name,
     url: siteConfig.url,
-    logo: new URL('/favicon.svg', siteConfig.url).toString(),
+    logo: new URL(siteConfig.branding.logo, siteConfig.url).toString(),
     contactPoint: {
       '@type': 'ContactPoint',
       telephone: `+${siteConfig.contact.whatsapp}`,
       contactType: 'customer service',
       availableLanguage: 'Indonesian',
     },
-    sameAs: [siteConfig.contact.instagramUrl],
+    sameAs: [
+      siteConfig.social.instagram.url,
+      siteConfig.social.facebook.url,
+      siteConfig.social.tiktok.url,
+    ].filter(url => url),
   },
   {
     '@context': 'https://schema.org',

@@ -72,29 +72,50 @@ import Container from "../base/Container.astro";
 
         <!-- Social Icons -->
         <div class="flex items-center gap-4 pt-2">
-          <a
-            href={siteConfig.contact.instagramUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
-            aria-label="Follow us on Instagram"
-          >
-            <Icon name="instagram" size={18} class="group-hover:scale-110 transition-transform" />
-          </a>
-          <a
-            href="#"
-            class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
-            aria-label="Connect on LinkedIn"
-          >
-            <Icon name="linkedin" size={18} class="group-hover:scale-110 transition-transform" />
-          </a>
-          <a
-            href="#"
-            class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
-            aria-label="Join our Telegram"
-          >
-            <Icon name="brand-telegram" size={18} class="group-hover:scale-110 transition-transform" />
-          </a>
+          {siteConfig.social.instagram.active && (
+            <a
+              href={siteConfig.social.instagram.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+              aria-label={`Follow ${siteConfig.name} on Instagram`}
+            >
+              <Icon name="instagram" size={18} class="group-hover:scale-110 transition-transform" />
+            </a>
+          )}
+          {siteConfig.social.tiktok.active && (
+            <a
+              href={siteConfig.social.tiktok.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+              aria-label={`Follow ${siteConfig.name} on TikTok`}
+            >
+              <Icon name="zap" size={18} class="group-hover:scale-110 transition-transform" />
+            </a>
+          )}
+          {siteConfig.social.facebook.active && (
+            <a
+              href={siteConfig.social.facebook.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+              aria-label={`Follow ${siteConfig.name} on Facebook`}
+            >
+              <Icon name="facebook" size={18} class="group-hover:scale-110 transition-transform" />
+            </a>
+          )}
+          {siteConfig.social.telegram.active && (
+            <a
+              href={siteConfig.social.telegram.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="w-11 h-11 flex items-center justify-center rounded-2xl bg-white/5 border border-white/10 hover:bg-soft-gold hover:border-soft-gold hover:text-brand-950 transition-all duration-500 group shadow-lg"
+              aria-label="Join our Telegram"
+            >
+              <Icon name="brand-telegram" size={18} class="group-hover:scale-110 transition-transform" />
+            </a>
+          )}
         </div>
       </div>
 
