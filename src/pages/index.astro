@@ -74,6 +74,31 @@ const jsonLd = [
       siteConfig.social.facebook.url,
       siteConfig.social.tiktok.url
     ].filter(url => url)
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "@id": `${siteConfig.url}/#webapp`,
+    "name": siteConfig.name,
+    "url": siteConfig.url,
+    "operatingSystem": "All",
+    "applicationCategory": "DesignApplication",
+    "browserRequirements": "Requires HTML5, CSS3, JavaScript",
+    "publisher": {
+      "@type": "LocalBusiness",
+      "@id": `${siteConfig.url}/#localbusiness`
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "IDR",
+      "lowPrice": "75000",
+      "highPrice": "150000",
+      "priceRange": siteConfig.seo.priceRange,
+      "areaServed": {
+        "@type": "Country",
+        "name": "ID"
+      }
+    }
   }
 ];
 ---

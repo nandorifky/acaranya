@@ -53,12 +53,20 @@ const slug = design.id;
     <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 group-[.active-overlay]:opacity-100 pointer-events-none group-hover:pointer-events-auto group-[.active-overlay]:pointer-events-auto backdrop-blur-[2px]">
       <div class="flex flex-col sm:flex-row gap-2 px-4 w-full justify-center items-center">
         <a href={previewUrl} target="_blank" rel="noopener noreferrer"
+          aria-label={`Buka demo pratinjau langsung desain undangan digital ${title}`}
+          data-action="preview-design"
+          data-design-id={slug}
+          data-category={category}
           class="inline-flex items-center justify-center gap-1.5 px-4 py-2 sm:px-5 sm:py-2.5 bg-[#FAF9F6] text-brand-950 text-[9px] sm:text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white transition-colors duration-300 shadow-sm w-full sm:w-auto"
           onclick="event.stopPropagation()">
           <Icon name="eye" size={11} />
           Preview
         </a>
         <a href={`/order-undangan/?template=${slug}`}
+          aria-label={`Pesan pembuatan undangan digital menggunakan tema ${title}`}
+          data-action="order-design"
+          data-design-id={slug}
+          data-category={category}
           class="inline-flex items-center justify-center gap-1.5 px-4 py-2 sm:px-5 sm:py-2.5 bg-brand-900 text-cream text-[9px] sm:text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-colors duration-300 shadow-sm w-full sm:w-auto"
           onclick="event.stopPropagation()">
           Order
