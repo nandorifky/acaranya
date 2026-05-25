@@ -36,8 +36,8 @@ export const footerNavigation = {
   layanan: [
     { label: 'Undangan Digital', href: '/desain-undangan-digital/' },
     { label: 'Undangan Pernikahan', href: '/desain-undangan-digital/pernikahan/' },
-    { label: 'Undangan Khitanan', href: '/desain-undangan-digital/khitanan/' },
-    { label: 'Undangan Ulang Tahun', href: '/desain-undangan-digital/ulang-tahun/' },
+    { label: 'Undangan Khitanan', href: '/desain-undangan-digital/khitan/' },
+    { label: 'Undangan Ulang Tahun', href: '/desain-undangan-digital/birthday-party/' },
     { label: 'Undangan Aqiqah', href: '/desain-undangan-digital/aqiqah/' },
   ],
   perusahaan: [

@@ -1,17 +1,17 @@
 ---
-import MarketingLayout from '../../layouts/MarketingLayout.astro';
-import Container from '../../components/base/Container.astro';
-import Section from '../../components/base/Section.astro';
-import Icon from '../../components/ui/Icon.astro';
-import TableOfContents from '../../components/blog/TableOfContents.astro';
-import { getCollection, render, getEntry } from 'astro:content';
-import { siteConfig } from '../../data/site';
-import { Image } from 'astro:assets';
+import MarketingLayout from "../../layouts/MarketingLayout.astro";
+import Container from "../../components/base/Container.astro";
+import Section from "../../components/base/Section.astro";
+import Icon from "../../components/ui/Icon.astro";
+import TableOfContents from "../../components/blog/TableOfContents.astro";
+import { getCollection, render, getEntry } from "astro:content";
+import { siteConfig } from "../../data/site";
+import { Image } from "astro:assets";
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const posts = await getCollection("blog");
   const published = posts
-    .filter(p => p.data.status === 'published')
+    .filter((p) => p.data.status === "published")
     .sort((a, b) => {
       const dateA = a.data.updatedAt || a.data.publishedAt;
       const dateB = b.data.updatedAt || b.data.publishedAt;
@@ -33,48 +33,69 @@ const { post, prevPost, nextPost } = Astro.props;
 const { Content, headings } = await render(post);
 
 // Fetch author data
-const authorEntry = await getEntry('authors', post.data.author);
+const authorEntry = await getEntry("authors", post.data.author);
 const authorName = authorEntry ? authorEntry.data.name : post.data.author;
-const authorSlug = authorEntry ? authorEntry.id : '#';
+const authorSlug = authorEntry ? authorEntry.id : "#";
 
 const publishedDate = post.data.publishedAt.toISOString();
-const modifiedDate = post.data.updatedAt ? post.data.updatedAt.toISOString() : publishedDate;
-const publishedDisplay = post.data.publishedAt.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' });
-const modifiedDisplay = post.data.updatedAt ? post.data.updatedAt.toLocaleDateString('id-ID', { day: 'numeric', month: 'long', year: 'numeric' }) : null;
+const modifiedDate = post.data.updatedAt
+  ? post.data.updatedAt.toISOString()
+  : publishedDate;
+const publishedDisplay = post.data.publishedAt.toLocaleDateString("id-ID", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+});
+const modifiedDisplay = post.data.updatedAt
+  ? post.data.updatedAt.toLocaleDateString("id-ID", {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+    })
+  : null;
 
-const canonicalUrl = post.data.canonicalUrl || `${siteConfig.url}/artikel/${post.id}/`;
+const canonicalUrl =
+  post.data.canonicalUrl || `${siteConfig.url}/artikel/${post.id}/`;
 const pageTitle = post.data.customTitle || post.data.title;
-const robots = post.data.noIndex ? 'noindex,nofollow' : 'index,follow';
+const robots = post.data.noIndex ? "noindex,nofollow" : "index,follow";
 
 const shareTitle = encodeURIComponent(post.data.title);
 const shareUrl = encodeURIComponent(canonicalUrl);
-const shareText = encodeURIComponent(`${post.data.title} — ${post.data.description}`);
+const shareText = encodeURIComponent(
+  `${post.data.title} — ${post.data.description}`,
+);
 
 // JSON-LD Article schema
-const jsonLd = [{
-  '@context': 'https://schema.org',
-  '@type': 'Article',
-  headline: post.data.title,
-  description: post.data.description,
-  datePublished: publishedDate,
-  dateModified: modifiedDate,
-  author: {
-    '@type': 'Person',
-    name: authorName,
-    url: authorEntry ? `${siteConfig.url}/penulis/${authorEntry.id}/` : undefined,
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.data.title,
+    description: post.data.description,
+    datePublished: publishedDate,
+    dateModified: modifiedDate,
+    author: {
+      "@type": "Person",
+      name: authorName,
+      url: authorEntry
+        ? `${siteConfig.url}/penulis/${authorEntry.id}/`
+        : undefined,
+    },
+    publisher: {
+      "@type": "Organization",
+      name: siteConfig.name,
+      url: siteConfig.url,
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": canonicalUrl,
+    },
+    ...(post.data.image
+      ? { image: `${siteConfig.url}${post.data.image}` }
+      : {}),
+    keywords: post.data.tags.join(", "),
   },
-  publisher: {
-    '@type': 'Organization',
-    name: siteConfig.name,
-    url: siteConfig.url,
-  },
-  mainEntityOfPage: {
-    '@type': 'WebPage',
-    '@id': canonicalUrl,
-  },
-  ...(post.data.image ? { image: `${siteConfig.url}${post.data.image}` } : {}),
-  keywords: post.data.tags.join(', '),
-}];
+];
 ---
 
 <MarketingLayout
@@ -91,38 +112,47 @@ const jsonLd = [{
 >
   <article>
     <!-- Featured Image -->
-    {post.data.image && (
-      <section class="bg-cream pt-6 pb-0 lg:pt-8">
-        <Container narrow>
-          <figure>
-            <div class="aspect-[2/1] sm:aspect-[21/9] overflow-hidden rounded-sm">
-              <img
-                src={post.data.image}
-                alt={post.data.imageAlt || post.data.title}
-                width="1200"
-                height="630"
-                class="w-full h-full object-cover"
-                loading="eager"
-                fetchpriority="high"
-              />
-            </div>
-            {post.data.imageCaption && (
-              <figcaption class="text-center text-[11px] text-text-muted mt-2 italic">
-                {post.data.imageCaption}
-              </figcaption>
-            )}
-          </figure>
-        </Container>
-      </section>
-    )}
+    {
+      post.data.image && (
+        <section class="bg-cream pt-6 pb-0 lg:pt-8">
+          <Container narrow>
+            <figure>
+              <div class="aspect-[2/1] sm:aspect-[21/9] overflow-hidden rounded-sm">
+                <img
+                  src={post.data.image}
+                  alt={post.data.imageAlt || post.data.title}
+                  width="1200"
+                  height="630"
+                  class="w-full h-full object-cover"
+                  loading="eager"
+                  fetchpriority="high"
+                />
+              </div>
+              {post.data.imageCaption && (
+                <figcaption class="text-center text-[11px] text-text-muted mt-2 italic">
+                  {post.data.imageCaption}
+                </figcaption>
+              )}
+            </figure>
+          </Container>
+        </section>
+      )
+    }
 
     <!-- Article Header -->
-    <section class:list={['pt-6 pb-4 lg:pt-8 lg:pb-6', post.data.image ? 'bg-cream' : 'bg-cream pt-8 lg:pt-12']}>
+    <section
+      class:list={[
+        "pt-6 pb-4 lg:pt-8 lg:pb-6",
+        post.data.image ? "bg-cream" : "bg-cream pt-8 lg:pt-12",
+      ]}
+    >
       <Container narrow>
         <header class="max-w-2xl">
           <!-- Category & Date -->
           <div class="flex items-center gap-2 mb-3">
-            <span class="text-[11px] text-champagne font-semibold uppercase tracking-[0.2em]">
+            <span
+              class="text-[11px] text-champagne font-semibold uppercase tracking-[0.2em]"
+            >
               {post.data.category}
             </span>
             <span class="text-text-muted/30">·</span>
@@ -132,7 +162,9 @@ const jsonLd = [{
           </div>
 
           <!-- Title -->
-          <h1 class="font-serif text-[1.75rem] sm:text-[2.25rem] lg:text-[2.5rem] font-semibold text-text-primary leading-[1.15] mb-4">
+          <h1
+            class="font-serif text-[1.75rem] sm:text-[2.25rem] lg:text-[2.5rem] font-semibold text-text-primary leading-[1.15] mb-4"
+          >
             {post.data.title}
           </h1>
 
@@ -142,28 +174,52 @@ const jsonLd = [{
           </p>
 
           <!-- Author + Updated -->
-          <div class="flex items-center justify-between flex-wrap gap-3 pb-5 border-b border-border-soft/60">
+          <div
+            class="flex items-center justify-between flex-wrap gap-3 pb-5 border-b border-border-soft/60"
+          >
             <div class="flex items-center gap-3">
-              <a href={`/penulis/${authorSlug}/`} class="flex items-center gap-3 group">
-                <div class="w-9 h-9 rounded-full bg-brand-100 flex items-center justify-center overflow-hidden">
-                  {authorEntry?.data.avatar ? (
-                    <img src={authorEntry.data.avatar} alt={authorName} width="128" height="128" class="w-full h-full object-cover" loading="lazy" />
-                  ) : (
-                    <Icon name="user" size={16} class="text-brand-500" />
-                  )}
+              <a
+                href={`/penulis/${authorSlug}/`}
+                class="flex items-center gap-3 group"
+              >
+                <div
+                  class="w-9 h-9 rounded-full bg-brand-100 flex items-center justify-center overflow-hidden"
+                >
+                  {
+                    authorEntry?.data.avatar ? (
+                      <img
+                        src={authorEntry.data.avatar}
+                        alt={authorName}
+                        width="128"
+                        height="128"
+                        class="w-full h-full object-cover"
+                        loading="lazy"
+                      />
+                    ) : (
+                      <Icon name="user" size={16} class="text-brand-500" />
+                    )
+                  }
                 </div>
                 <div>
-                  <p class="text-sm font-medium text-text-primary group-hover:text-brand-500 transition-colors">{authorName}</p>
-                  <p class="text-[11px] text-text-muted">{authorEntry?.data.role || siteConfig.name}</p>
+                  <p
+                    class="text-sm font-medium text-text-primary group-hover:text-brand-500 transition-colors"
+                  >
+                    {authorName}
+                  </p>
+                  <p class="text-[11px] text-text-muted">
+                    {authorEntry?.data.role || siteConfig.name}
+                  </p>
                 </div>
               </a>
             </div>
-            {modifiedDisplay && (
-              <p class="text-[11px] text-text-muted flex items-center gap-1">
-                <Icon name="refresh-cw" size={11} />
-                Diperbarui {modifiedDisplay}
-              </p>
-            )}
+            {
+              modifiedDisplay && (
+                <p class="text-[11px] text-text-muted flex items-center gap-1">
+                  <Icon name="refresh-cw" size={11} />
+                  Diperbarui {modifiedDisplay}
+                </p>
+              )
+            }
           </div>
         </header>
       </Container>
@@ -182,25 +238,31 @@ const jsonLd = [{
           </div>
 
           <!-- Tags -->
-          {post.data.tags.length > 0 && (
-            <div class="mt-10 pt-6 border-t border-border-soft/60">
-              <div class="flex items-center gap-2 flex-wrap">
-                <Icon name="tag" size={14} class="text-text-muted" />
-                {post.data.tags.map((tag) => (
-                  <a
-                    href={`/artikel/tag/${tag}/`}
-                    class="text-[12px] text-text-muted bg-surface-muted px-2.5 py-1 rounded-sm capitalize hover:bg-brand-50 hover:text-brand-500 transition-colors"
-                  >
-                    {tag}
-                  </a>
-                ))}
+          {
+            post.data.tags.length > 0 && (
+              <div class="mt-10 pt-6 border-t border-border-soft/60">
+                <div class="flex items-center gap-2 flex-wrap">
+                  <Icon name="tag" size={14} class="text-text-muted" />
+                  {post.data.tags.map((tag) => (
+                    <a
+                      href={`/artikel/tag/${tag}/`}
+                      class="text-[12px] text-text-muted bg-surface-muted px-2.5 py-1 rounded-sm capitalize hover:bg-brand-50 hover:text-brand-500 transition-colors"
+                    >
+                      {tag}
+                    </a>
+                  ))}
+                </div>
               </div>
-            </div>
-          )}
+            )
+          }
 
           <!-- Share -->
           <div class="mt-8 pt-8 border-t border-border-soft/60">
-            <p class="text-[11px] font-semibold uppercase tracking-[0.15em] text-text-muted mb-4">Bagikan artikel</p>
+            <p
+              class="text-[11px] font-semibold uppercase tracking-[0.15em] text-text-muted mb-4"
+            >
+              Bagikan artikel
+            </p>
             <div class="flex items-center gap-3">
               <a
                 href={`https://wa.me/?text=${shareText}%20${shareUrl}`}
@@ -250,40 +312,56 @@ const jsonLd = [{
           </div>
 
           <!-- Prev / Next Navigation -->
-          {(prevPost || nextPost) && (
-            <div class="mt-12 pt-10 border-t border-border-soft/60 grid sm:grid-cols-2 gap-6">
-              <div class="group">
-                {prevPost && (
-                  <a href={`/artikel/${prevPost.id}/`} class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all">
-                    <span class="flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">
-                      <Icon name="arrow-left" size={10} /> Sebelumnya
-                    </span>
-                    <p class="font-serif text-sm font-semibold text-brand-950 group-hover:text-brand-500 transition-colors line-clamp-2 leading-relaxed">
-                      {prevPost.data.title}
-                    </p>
-                  </a>
-                )}
+          {
+            (prevPost || nextPost) && (
+              <div class="mt-12 pt-10 border-t border-border-soft/60 grid sm:grid-cols-2 gap-6">
+                <div class="group">
+                  {prevPost && (
+                    <a
+                      href={`/artikel/${prevPost.id}/`}
+                      class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all"
+                    >
+                      <span class="flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">
+                        <Icon name="arrow-left" size={10} /> Sebelumnya
+                      </span>
+                      <p class="font-serif text-sm font-semibold text-brand-950 group-hover:text-brand-500 transition-colors line-clamp-2 leading-relaxed">
+                        {prevPost.data.title}
+                      </p>
+                    </a>
+                  )}
+                </div>
+                <div class="group text-right">
+                  {nextPost && (
+                    <a
+                      href={`/artikel/${nextPost.id}/`}
+                      class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all"
+                    >
+                      <span class="flex items-center justify-end gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">
+                        Selanjutnya <Icon name="arrow-right" size={10} />
+                      </span>
+                      <p class="font-serif text-sm font-semibold text-brand-950 group-hover:text-brand-500 transition-colors line-clamp-2 leading-relaxed">
+                        {nextPost.data.title}
+                      </p>
+                    </a>
+                  )}
+                </div>
               </div>
-              <div class="group text-right">
-                {nextPost && (
-                  <a href={`/artikel/${nextPost.id}/`} class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all">
-                    <span class="flex items-center justify-end gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">
-                      Selanjutnya <Icon name="arrow-right" size={10} />
-                    </span>
-                    <p class="font-serif text-sm font-semibold text-brand-950 group-hover:text-brand-500 transition-colors line-clamp-2 leading-relaxed">
-                      {nextPost.data.title}
-                    </p>
-                  </a>
-                )}
-              </div>
-            </div>
-          )}
+            )
+          }
 
           <!-- CTA -->
           <div class="mt-14 p-7 bg-cream border border-border-soft text-center">
-            <h3 class="font-serif text-xl font-semibold text-text-primary mb-2">Tertarik membuat undangan digital?</h3>
-            <p class="text-sm text-text-muted mb-5">Lihat koleksi desain eksklusif kami dan order dengan mudah.</p>
-            <a href="/desain-undangan-digital/" class="inline-flex items-center gap-2 px-6 py-3 bg-brand-900 text-white text-[13px] font-medium uppercase tracking-wider rounded-sm hover:bg-brand-950 transition-colors">
+            <h3 class="font-serif text-xl font-semibold text-text-primary mb-2">
+              Tertarik Membuat Undangan Digital?
+            </h3>
+            <p class="text-sm text-text-muted mb-5">
+              Percayakan kebutuhan undangan digital dengan Acaranya.id, temukan
+              berbagai desain undangan digital terbaik untuk acara Anda.
+            </p>
+            <a
+              href="/desain-undangan-digital/"
+              class="inline-flex items-center gap-2 px-6 py-3 bg-brand-900 text-white text-[13px] font-medium uppercase tracking-wider rounded-sm hover:bg-brand-950 transition-colors"
+            >
               Lihat Desain
               <Icon name="arrow-right" size={14} />
             </a>
@@ -295,18 +373,22 @@ const jsonLd = [{
 </MarketingLayout>
 
 <script>
-  const copyBtn = document.getElementById('copy-url-btn');
+  const copyBtn = document.getElementById("copy-url-btn");
   if (copyBtn) {
-    copyBtn.addEventListener('click', async () => {
+    copyBtn.addEventListener("click", async () => {
       try {
         await navigator.clipboard.writeText(window.location.href);
-        copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
-        copyBtn.classList.add('!bg-[#B59A73]', '!text-white');
+        copyBtn.innerHTML =
+          '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
+        copyBtn.classList.add("!bg-[#B59A73]", "!text-white");
         setTimeout(() => {
-          copyBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>';
-          copyBtn.classList.remove('!bg-[#B59A73]', '!text-white');
+          copyBtn.innerHTML =
+            '<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="8" y="8" rx="2" ry="2"/><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"/></svg>';
+          copyBtn.classList.remove("!bg-[#B59A73]", "!text-white");
         }, 2000);
-      } catch (e) { /* noop */ }
+      } catch (e) {
+        /* noop */
+      }
     });
   }
 </script>

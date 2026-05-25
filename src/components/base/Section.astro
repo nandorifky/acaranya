@@ -2,23 +2,23 @@
 interface Props {
   class?: string;
   id?: string;
-  bg?: 'cream' | 'white' | 'muted' | 'brand' | 'dark';
+  bg?: "cream" | "white" | "muted" | "brand" | "dark";
 }
 
-const { class: className = '', id, bg = 'cream' } = Astro.props;
+const { class: className = "", id, bg = "cream" } = Astro.props;
 
 const bgClass: Record<string, string> = {
-  cream: 'bg-cream',
-  white: 'bg-white',
-  muted: 'bg-surface-muted',
-  brand: 'bg-brand-950 text-white',
-  dark: 'bg-[#121110] text-[#F4F0EB]',
+  cream: "bg-cream",
+  white: "bg-white",
+  muted: "bg-surface-muted",
+  brand: "bg-brand-950 text-white",
+  dark: "bg-[#121110] text-[#F4F0EB]",
 };
 ---
 
 <section
   id={id}
-  class:list={['py-20 sm:py-24 lg:py-32', bgClass[bg], className]}
+  class:list={["py-20 sm:py-24 lg:py-32", bgClass[bg], className]}
 >
   <slot />
 </section>
