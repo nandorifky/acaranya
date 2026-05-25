@@ -18,7 +18,7 @@ const publishedCategories = allCategories
   .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
 
 const canonicalUrl = `${siteConfig.url}/portfolio/`;
-const metaTitle = "Portofolio Undangan Digital Premium Klien Nyata | Acaranya.id";
+const metaTitle = "Portofolio Undangan Digital Premium Klien Nyata";
 const metaDescription = "Jelajahi galeri portofolio contoh website undangan digital mewah yang telah kami persembahkan untuk klien-klien istimewa kami. Dapatkan inspirasi sekarang.";
 ---
 
@@ -86,6 +86,7 @@ const metaDescription = "Jelajahi galeri portofolio contoh website undangan digi
               <article 
                 data-category={item.data.category}
                 class="portfolio-card group relative bg-surface border border-border-soft/60 rounded-3xl overflow-hidden hover:border-[#B59A73]/50 hover:-translate-y-1 transition-all duration-300 shadow-card hover:shadow-card-hover flex flex-col h-full"
+                id={`portfolio-card-${item.id}`}
               >
                 <!-- Thumbnail -->
                 <div class="relative aspect-[4/5] overflow-hidden bg-surface-muted shrink-0">
@@ -97,17 +98,19 @@ const metaDescription = "Jelajahi galeri portofolio contoh website undangan digi
                   />
                   
                   <!-- Hover overlay -->
-                  <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto backdrop-blur-[2px]">
+                  <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 group-[.active-overlay]:opacity-100 group-[.active-overlay]:pointer-events-auto transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto backdrop-blur-[2px]">
                     <div class="flex flex-col sm:flex-row gap-2 px-4 w-full justify-center items-center">
                       {item.data.liveUrl && (
                         <a href={item.data.liveUrl} target="_blank" rel="noopener noreferrer"
-                          class="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-[#FAF9F6] text-brand-950 text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white transition-colors duration-300 shadow-sm w-full sm:w-auto">
+                          class="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-[#FAF9F6] text-brand-950 text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white transition-colors duration-300 shadow-sm w-full sm:w-auto"
+                          onclick="event.stopPropagation()">
                           <Icon name="external-link" size={11} />
                           Kunjungi Website
                         </a>
                       )}
                       <a href={`/order-undangan/?request=custom&from=${item.id}`}
-                        class="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-colors duration-300 shadow-sm w-full sm:w-auto">
+                        class="inline-flex items-center justify-center gap-1.5 px-5 py-2.5 bg-brand-900 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-brand-950 transition-colors duration-300 shadow-sm w-full sm:w-auto"
+                        onclick="event.stopPropagation()">
                         Order Desain Ini
                         <Icon name="arrow-right" size={11} />
                       </a>
@@ -227,4 +230,49 @@ const metaDescription = "Jelajahi galeri portofolio contoh website undangan digi
   initFilters();
   // Run on Astro View Transitions load
   document.addEventListener('astro:page-load', initFilters);
+
+  function initPortfolioCards() {
+    const cards = document.querySelectorAll('article[id^="portfolio-card-"]');
+    
+    cards.forEach(card => {
+      card.addEventListener('click', (e) => {
+        // Hanya jalan pada layar sentuh/mobile yang lebar layarnya <= 1024px
+        if (window.matchMedia('(max-width: 1024px)').matches) {
+          // Jika yang di-klik adalah tombol link di dalam overlay, biarkan default navigation jalan
+          if ((e.target as HTMLElement).closest('a')) {
+            return;
+          }
+          
+          e.preventDefault();
+          e.stopPropagation();
+          
+          const isActive = card.classList.contains('active-overlay');
+          
+          // Tutup semua overlay card lain
+          cards.forEach(c => {
+            if (c !== card) c.classList.remove('active-overlay');
+          });
+          
+          // Toggle overlay untuk card yang di-klik
+          if (isActive) {
+            card.classList.remove('active-overlay');
+          } else {
+            card.classList.add('active-overlay');
+          }
+        }
+      });
+    });
+
+    // Klik di mana saja di luar untuk menutup semua overlay card yang aktif
+    document.addEventListener('click', (e) => {
+      if (!(e.target as HTMLElement).closest('article[id^="portfolio-card-"]')) {
+        cards.forEach(card => card.classList.remove('active-overlay'));
+      }
+    });
+  }
+
+  // Jalankan saat load pertama kali
+  initPortfolioCards();
+  // Jalankan juga saat Astro Page transition selesai
+  document.addEventListener('astro:page-load', initPortfolioCards);
 </script>
