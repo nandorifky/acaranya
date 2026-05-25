@@ -3,7 +3,6 @@ import MarketingLayout from '../../../layouts/MarketingLayout.astro';
 import Container from '../../../components/base/Container.astro';
 import Section from '../../../components/base/Section.astro';
 import DesignCard from '../../../components/designs/DesignCard.astro';
-import SearchDesign from '../../../components/designs/SearchDesign.astro';
 import CategoryWhyChooseUs from '../../../components/designs/CategoryWhyChooseUs.astro';
 import Icon from '../../../components/ui/Icon.astro';
 import Pagination from '../../../components/ui/Pagination.astro';
@@ -115,8 +114,6 @@ const canonicalUrl = isFirstPage
           ))}
         </nav>
       </div>
-
-      <SearchDesign categorySlug={categorySlug} categoryTitle={category.data.title} />
     </Container>
   </header>
 

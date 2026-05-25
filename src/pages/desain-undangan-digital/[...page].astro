@@ -3,7 +3,6 @@ import MarketingLayout from '../../layouts/MarketingLayout.astro';
 import Container from '../../components/base/Container.astro';
 import Section from '../../components/base/Section.astro';
 import DesignCard from '../../components/designs/DesignCard.astro';
-import SearchDesign from '../../components/designs/SearchDesign.astro';
 import Icon from '../../components/ui/Icon.astro';
 import Pagination from '../../components/ui/Pagination.astro';
 import { getCollection } from 'astro:content';
@@ -88,8 +87,6 @@ const canonicalUrl = isFirstPage
           ))}
         </nav>
       </div>
-
-      <SearchDesign />
     </Container>
   </header>
 
