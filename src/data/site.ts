@@ -8,9 +8,9 @@ export const siteConfig = {
   locale: 'id_ID',
 
   contact: {
-    whatsapp: '62895395094329',
-    whatsappDisplay: '+62 895-3950-94329',
-    email: 'halo@acaranya.id',
+    whatsapp: '6281234807480',
+    whatsappDisplay: '+62 812-3480-7480',
+    email: 'acaranya.id@gmail.com',
     instagram: '@acaranya.id',
     instagramUrl: 'https://instagram.com/acaranya.id',
   },

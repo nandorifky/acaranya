@@ -1,201 +1,325 @@
 ---
-import MarketingLayout from '../layouts/MarketingLayout.astro';
-import Container from '../components/base/Container.astro';
-import Section from '../components/base/Section.astro';
-import Icon from '../ui/Icon.astro';
-import { siteConfig } from '../data/site';
+import MarketingLayout from "../layouts/MarketingLayout.astro";
+import Container from "../components/base/Container.astro";
+import Section from "../components/base/Section.astro";
+import Icon from "../components/ui/Icon.astro";
+import { siteConfig } from "../data/site";
 ---
 
-<MarketingLayout 
-  title="Tentang Acaranya.id — Layanan Undangan Digital Profesional" 
+<MarketingLayout
+  title="Tentang Acaranya.id — Layanan Undangan Digital Profesional"
   description="Ketahui visi, misi, dan tim di balik Acaranya.id, penyedia layanan undangan digital website profesional di Indonesia."
 >
   <!-- Hero Section -->
-  <section class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden">
-    <div 
-      class="absolute inset-0 text-brand-300 opacity-20 pointer-events-none"
-      style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 24px 24px;"
-    ></div>
+  <section
+    class="relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden"
+  >
+    <!-- Background Decorations -->
+    <div class="absolute inset-0 pointer-events-none opacity-40">
+      <div class="absolute top-[-10%] left-[-5%] w-[600px] h-[600px] rounded-full bg-champagne/15 blur-[120px]"></div>
+      <div class="absolute bottom-[-5%] right-[-5%] w-[500px] h-[500px] rounded-full bg-brand-200/20 blur-[100px]"></div>
+    </div>
 
     <Container>
-      <div class="relative z-10 max-w-4xl mx-auto text-center space-y-6">
-        <span class="text-[10px] uppercase tracking-[0.25em] text-soft-gold font-bold">Tentang Kami</span>
-        <h1 class="font-serif text-4xl sm:text-5xl lg:text-6xl text-brand-950 leading-tight">
-          Menghubungkan Hati <br class="hidden sm:block" />
-          <span class="italic font-normal text-soft-gold">Melalui Cerita Digital</span>
+      <div class="relative z-10 max-w-4xl mx-auto text-center space-y-8 animate-fade-in-up">
+        <span
+          class="text-[10px] uppercase tracking-[0.3em] text-soft-gold font-bold"
+          >Perkenalkan</span
+        >
+        <h1
+          class="font-serif text-4xl sm:text-5xl lg:text-7xl text-brand-950 leading-[1.1] tracking-tight"
+        >
+          Tentang <br class="hidden sm:block" />
+          <span class="italic font-normal text-soft-gold"
+            >Acaranya.id</span
+          >
         </h1>
-        <p class="text-text-secondary text-base md:text-lg max-w-2xl mx-auto font-sans tracking-wide leading-relaxed">
-          Acaranya.id adalah layanan undangan pernikahan online profesional yang siap menggebrak industri undangan digital berbasis website dengan solusi kreatif dan personal.
+        <p
+          class="text-text-secondary text-base md:text-lg max-w-2xl mx-auto font-sans tracking-wide leading-relaxed"
+        >
+          Acaranya.id menjadi salah satu layanan undangan pernikahan online profesional yang siap menggebrak undangan digital berbasis website. Menjadi pendatang baru penyedia layanan undangan digital, kami memiliki banyak pilihan desain dan tema yang bisa kamu pilih sesuai selera!
         </p>
       </div>
     </Container>
   </section>
 
-  <!-- Info Strip -->
+  <!-- Business Card Strip -->
   <Section bg="white" class="py-12 border-y border-border-soft/60">
     <Container>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
-        <div class="flex items-center gap-4 justify-center md:justify-start">
-          <div class="w-12 h-12 rounded-full bg-cream flex items-center justify-center text-soft-gold">
-            <Icon name="map-pin" size={20} />
+      <div
+        class="grid grid-cols-1 md:grid-cols-3 gap-10 text-center md:text-left"
+      >
+        <div class="flex flex-col md:flex-row items-center gap-4 justify-center md:justify-start group">
+          <div
+            class="w-14 h-14 rounded-2xl bg-cream flex items-center justify-center text-soft-gold group-hover:bg-brand-900 group-hover:text-white transition-all duration-500 shadow-sm"
+          >
+            <Icon name="map-pin" size={24} />
           </div>
-          <div>
-            <p class="text-[10px] uppercase tracking-widest font-bold text-text-muted">Alamat</p>
-            <p class="text-sm font-medium text-brand-950">Perum Wilis Indah II Blok H3 No. 12, Kediri</p>
+          <div class="space-y-1">
+            <p
+              class="text-[10px] uppercase tracking-widest font-bold text-text-muted"
+            >
+              Alamat Kantor
+            </p>
+            <p class="text-sm font-medium text-brand-950 leading-snug">
+              Perumahan Wilis Indah II Blok H3 No. 12, <br/> Kediri, Jawa Timur
+            </p>
           </div>
         </div>
-        <div class="flex items-center gap-4 justify-center md:justify-start">
-          <div class="w-12 h-12 rounded-full bg-cream flex items-center justify-center text-soft-gold">
-            <Icon name="whatsapp" size={20} />
+        
+        <div class="flex flex-col md:flex-row items-center gap-4 justify-center md:justify-start group">
+          <div
+            class="w-14 h-14 rounded-2xl bg-cream flex items-center justify-center text-soft-gold group-hover:bg-brand-900 group-hover:text-white transition-all duration-500 shadow-sm"
+          >
+            <Icon name="whatsapp" size={24} />
           </div>
-          <div>
-            <p class="text-[10px] uppercase tracking-widest font-bold text-text-muted">Kontak</p>
+          <div class="space-y-1">
+            <p
+              class="text-[10px] uppercase tracking-widest font-bold text-text-muted"
+            >
+              Konsultasi WhatsApp
+            </p>
             <p class="text-sm font-medium text-brand-950">08123 480 7480</p>
           </div>
         </div>
-        <div class="flex items-center gap-4 justify-center md:justify-start">
-          <div class="w-12 h-12 rounded-full bg-cream flex items-center justify-center text-soft-gold">
-            <Icon name="mail" size={20} />
+
+        <div class="flex flex-col md:flex-row items-center gap-4 justify-center md:justify-start group">
+          <div
+            class="w-14 h-14 rounded-2xl bg-cream flex items-center justify-center text-soft-gold group-hover:bg-brand-900 group-hover:text-white transition-all duration-500 shadow-sm"
+          >
+            <Icon name="mail" size={24} />
           </div>
-          <div>
-            <p class="text-[10px] uppercase tracking-widest font-bold text-text-muted">Email</p>
-            <p class="text-sm font-medium text-brand-950">acaranya.id@gmail.com</p>
+          <div class="space-y-1">
+            <p
+              class="text-[10px] uppercase tracking-widest font-bold text-text-muted"
+            >
+              Korespondensi Email
+            </p>
+            <p class="text-sm font-medium text-brand-950">
+              acaranya.id@gmail.com
+            </p>
           </div>
         </div>
       </div>
     </Container>
   </Section>
 
-  <!-- Visi & Misi -->
-  <Section bg="cream-light">
+  <!-- Visi & Misi Section -->
+  <Section bg="cream-light" class="py-24 lg:py-32">
     <Container narrow>
-      <div class="grid gap-16">
-        <div class="space-y-6 text-center lg:text-left">
-          <div class="inline-block px-4 py-1.5 bg-brand-950 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full">Visi Kami</div>
-          <h2 class="font-serif text-3xl md:text-4xl text-brand-950 leading-snug">
-            Menjadi pilihan terdepan dan terpercaya dalam layanan undangan digital di Indonesia.
+      <div class="space-y-24 text-center">
+        <!-- Visi -->
+        <div class="space-y-8 animate-fade-in-up">
+          <div
+            class="inline-block px-5 py-2 bg-brand-950 text-cream text-[10px] font-bold uppercase tracking-[0.25em] rounded-full shadow-xl shadow-brand-900/10"
+          >
+            Visi Kami
+          </div>
+          <h2
+            class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight tracking-tight italic max-w-3xl mx-auto"
+          >
+            "Menjadi pilihan terdepan dan terpercaya dalam layanan undangan digital di Indonesia."
           </h2>
-          <p class="text-text-secondary text-lg leading-relaxed">
-            Menyediakan solusi kreatif dan personal yang menghubungkan hati dan cerita setiap pasangan di seluruh penjuru negeri.
+          <p class="text-text-secondary text-lg leading-relaxed max-w-2xl mx-auto">
+            Menyediakan solusi kreatif dan personal yang menghubungkan hati dan cerita setiap pasangan melalui inovasi teknologi yang bermakna.
           </p>
         </div>
 
-        <div class="space-y-8">
-          <div class="flex items-center gap-4 justify-center lg:justify-start">
-            <div class="h-px bg-soft-gold/30 flex-1"></div>
-            <div class="text-[10px] font-bold uppercase tracking-widest text-soft-gold">Misi Kami</div>
-            <div class="h-px bg-soft-gold/30 flex-1"></div>
+        <!-- Misi -->
+        <div class="space-y-12">
+          <div class="flex items-center gap-6 justify-center">
+            <div class="h-px bg-soft-gold/20 flex-1"></div>
+            <div
+              class="text-[10px] font-bold uppercase tracking-[0.4em] text-soft-gold"
+            >
+              Misi Strategis
+            </div>
+            <div class="h-px bg-soft-gold/20 flex-1"></div>
           </div>
-          
-          <div class="grid sm:grid-cols-2 gap-8">
-            <div class="space-y-3">
-              <h3 class="font-serif text-xl text-brand-950">Inovasi Personal</h3>
-              <p class="text-sm text-text-secondary leading-relaxed">Menawarkan layanan desain undangan digital yang inovatif, memudahkan klien menciptakan undangan yang mencerminkan gaya unik mereka.</p>
-            </div>
-            <div class="space-y-3">
-              <h3 class="font-serif text-xl text-brand-950">User Experience</h3>
-              <p class="text-sm text-text-secondary leading-relaxed">Berfokus pada pengalaman pengguna yang ramah dan efisien dengan platform yang intuitif bagi semua kalangan.</p>
-            </div>
-            <div class="space-y-3">
-              <h3 class="font-serif text-xl text-brand-950">Ramah Lingkungan</h3>
-              <p class="text-sm text-text-secondary leading-relaxed">Mengurangi penggunaan kertas melalui solusi digital sebagai bentuk komitmen kami terhadap kelestarian alam.</p>
-            </div>
-            <div class="space-y-3">
-              <h3 class="font-serif text-xl text-brand-950">Fitur Canggih</h3>
-              <p class="text-sm text-text-secondary leading-relaxed">Penyediaan fitur modern seperti manajemen tamu dengan QR code dan layanan pelanggan yang responsif.</p>
-            </div>
+
+          <div class="text-left bg-white p-8 md:p-12 rounded-[40px] border border-champagne/20 shadow-card">
+            <p class="text-text-secondary text-base md:text-lg leading-[1.8] font-sans">
+                Menawarkan layanan desain undangan digital yang inovatif dan personal, memudahkan klien dalam menciptakan undangan yang mencerminkan gaya unik mereka. Berfokus pada pengalaman pengguna yang ramah dan efisien dengan platform yang intuitif, mengurangi penggunaan kertas melalui solusi digital. Acaranya.id juga berkomitmen pada penyediaan fitur canggih seperti manajemen tamu dengan QR code, dan layanan pelanggan yang responsif, sembari terus berinovasi untuk menyempurnakan pengalaman spesial setiap pasangan.
+            </p>
           </div>
         </div>
       </div>
     </Container>
   </Section>
 
-  <!-- Founder Quote -->
-  <Section bg="brand-950" class="relative overflow-hidden py-24 lg:py-32">
-    <div class="absolute top-0 right-0 w-64 h-64 bg-soft-gold opacity-10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2"></div>
-    
+  <!-- Founder Spotlight -->
+  <Section bg="white" class="py-24 lg:py-32 overflow-hidden">
     <Container>
-      <div class="max-w-4xl mx-auto text-center space-y-12">
-        <Icon name="message-square-quote" size={48} class="text-soft-gold/30 mx-auto" />
-        <blockquote class="font-serif text-2xl md:text-4xl text-cream leading-tight italic">
-          "Setiap undangan digital yang kami kirimkan bukan sekedar pesan, tetapi jembatan cerita dan kasih, dilukis dengan teknologi untuk mengundang hati."
-        </blockquote>
-        <div class="space-y-2">
-          <p class="text-soft-gold font-bold uppercase tracking-[0.3em] text-xs">Nando Rifky</p>
-          <p class="text-cream/50 text-[10px] uppercase tracking-widest">Founder Acaranya.id</p>
+      <div class="grid lg:grid-cols-2 gap-16 items-center">
+        <div class="relative order-2 lg:order-1">
+          <div class="aspect-[4/5] rounded-[30px] overflow-hidden bg-cream border-8 border-white shadow-2xl relative z-10">
+            <img
+              src="/images/indira acaranya.webp" 
+              alt="Nando Rifky Founder Acaranya.id"
+              class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+            />
+          </div>
+          <!-- Decorative element -->
+          <div class="absolute -bottom-10 -right-10 w-48 h-48 bg-soft-gold/10 rounded-full blur-3xl -z-0"></div>
+          <div class="absolute -top-10 -left-10 w-48 h-48 bg-brand-100/50 rounded-full blur-3xl -z-0"></div>
+        </div>
+
+        <div class="space-y-8 order-1 lg:order-2">
+          <div class="space-y-4">
+             <span class="text-[10px] uppercase tracking-[0.4em] text-soft-gold font-bold">Founder Story</span>
+             <h2 class="font-serif text-4xl md:text-5xl text-brand-950 leading-tight">
+                Personal. <br/>
+                <span class="italic font-normal text-soft-gold">Unique. Memorable.</span>
+             </h2>
+          </div>
+          
+          <div class="space-y-6 text-text-secondary leading-relaxed text-lg italic">
+            <p>
+              "Saya percaya bahwa setiap momen spesial dalam hidup layak dirayakan dengan cara yang unik dan personal. Kami di Acaranya.id berkomitmen untuk menghadirkan undangan digital yang tidak hanya elegan dan inovatif, tapi juga mencerminkan kisah dan gaya setiap pasangan."
+            </p>
+            <p>
+              "Kami berharap layanan kami dapat membantu menjadikan momen penting Anda lebih berkesan dan terkoneksi dalam setiap detailnya."
+            </p>
+          </div>
+
+          <div class="pt-6 border-t border-border-soft flex items-center gap-4">
+             <div class="h-12 w-[1px] bg-soft-gold"></div>
+             <div>
+                <p class="font-serif text-xl font-bold text-brand-950 leading-none">Nando Rifky</p>
+                <p class="text-[10px] uppercase tracking-[0.2em] text-text-muted mt-2">Founder Acaranya.id</p>
+             </div>
+          </div>
         </div>
       </div>
     </Container>
   </Section>
 
   <!-- Team Section -->
-  <Section bg="white">
+  <Section bg="cream-light" class="py-24 lg:py-32">
     <Container>
-      <div class="text-center mb-20 space-y-4">
-        <span class="text-[10px] uppercase tracking-[0.2em] text-soft-gold font-bold">Our Team</span>
-        <h2 class="font-serif text-3xl md:text-5xl text-brand-950">Dibalik Layanan Terbaik Kami</h2>
-        <p class="text-text-secondary max-w-xl mx-auto">
-          Dapatkan pelayanan terbaik dari team profesional dan berpengalaman yang berdedikasi untuk momen spesial Anda.
-        </p>
+      <div class="max-w-2xl mx-auto text-center mb-20 space-y-4">
+        <span
+          class="text-[10px] uppercase tracking-[0.3em] text-soft-gold font-bold"
+          >Our Team</span
+        >
+        <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight">
+          Dapatkan pelayanan terbaik dari team profesional.
+        </h2>
       </div>
 
-      <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 max-w-5xl mx-auto">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-5xl mx-auto">
         <!-- Nando -->
         <div class="text-center group">
-          <div class="aspect-square rounded-2xl bg-cream border border-border-soft overflow-hidden mb-5 group-hover:border-soft-gold transition-all relative">
-            <div class="w-full h-full flex items-center justify-center bg-brand-50">
-               <Icon name="user" size={48} class="text-brand-200" />
+          <div
+            class="aspect-square rounded-[32px] bg-white border border-border-soft overflow-hidden mb-6 group-hover:border-soft-gold transition-all duration-500 p-2 shadow-sm group-hover:shadow-xl group-hover:-translate-y-2"
+          >
+            <div
+              class="w-full h-full flex items-center justify-center bg-brand-50 rounded-[24px]"
+            >
+              <Icon name="user" size={48} class="text-brand-200" />
             </div>
           </div>
-          <h3 class="font-serif text-lg text-brand-950 mb-1">Nando Rifky</h3>
-          <p class="text-[10px] uppercase tracking-widest text-text-muted font-bold">Founder</p>
+          <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">Nando Rifky</h3>
+          <p
+            class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
+          >
+            Founder
+          </p>
         </div>
 
         <!-- Indira -->
         <div class="text-center group">
-          <div class="aspect-square rounded-2xl bg-cream border border-border-soft overflow-hidden mb-5 group-hover:border-soft-gold transition-all">
-            <div class="w-full h-full flex items-center justify-center bg-brand-50">
-                <img src="/images/indira.webp" alt="Indira" class="w-full h-full object-cover" />
+          <div
+            class="aspect-square rounded-[32px] bg-white border border-border-soft overflow-hidden mb-6 group-hover:border-soft-gold transition-all duration-500 p-2 shadow-sm group-hover:shadow-xl group-hover:-translate-y-2"
+          >
+            <div
+              class="w-full h-full flex items-center justify-center bg-brand-50 rounded-[24px] overflow-hidden"
+            >
+              <img
+                src="/images/indira.webp"
+                alt="Indira Editor Acaranya.id"
+                class="w-full h-full object-cover"
+              />
             </div>
           </div>
-          <h3 class="font-serif text-lg text-brand-950 mb-1">Indira</h3>
-          <p class="text-[10px] uppercase tracking-widest text-text-muted font-bold">Editor</p>
+          <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">Indira</h3>
+          <p
+            class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
+          >
+            Editor
+          </p>
         </div>
 
         <!-- Vivi -->
         <div class="text-center group">
-          <div class="aspect-square rounded-2xl bg-cream border border-border-soft overflow-hidden mb-5 group-hover:border-soft-gold transition-all">
-            <div class="w-full h-full flex items-center justify-center bg-brand-50">
-               <Icon name="user" size={48} class="text-brand-200" />
+          <div
+            class="aspect-square rounded-[32px] bg-white border border-border-soft overflow-hidden mb-6 group-hover:border-soft-gold transition-all duration-500 p-2 shadow-sm group-hover:shadow-xl group-hover:-translate-y-2"
+          >
+            <div
+              class="w-full h-full flex items-center justify-center bg-brand-50 rounded-[24px]"
+            >
+              <Icon name="user" size={48} class="text-brand-200" />
             </div>
           </div>
-          <h3 class="font-serif text-lg text-brand-950 mb-1">Vivi</h3>
-          <p class="text-[10px] uppercase tracking-widest text-text-muted font-bold">Editor</p>
+          <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">Vivi</h3>
+          <p
+            class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
+          >
+            Editor
+          </p>
         </div>
 
         <!-- Freelancers -->
         <div class="text-center group">
-          <div class="aspect-square rounded-2xl bg-cream border border-border-soft overflow-hidden mb-5 group-hover:border-soft-gold transition-all">
-            <div class="w-full h-full flex items-center justify-center bg-brand-50">
-               <Icon name="users" size={48} class="text-brand-200" />
+          <div
+            class="aspect-square rounded-[32px] bg-white border border-border-soft overflow-hidden mb-6 group-hover:border-soft-gold transition-all duration-500 p-2 shadow-sm group-hover:shadow-xl group-hover:-translate-y-2"
+          >
+            <div
+              class="w-full h-full flex items-center justify-center bg-brand-900 rounded-[24px]"
+            >
+              <Icon name="users" size={48} class="text-cream opacity-50" />
             </div>
           </div>
-          <h3 class="font-serif text-lg text-brand-950 mb-1">5+ Freelancers</h3>
-          <p class="text-[10px] uppercase tracking-widest text-text-muted font-bold">Marketing/Editor/Designer</p>
+          <h3 class="font-serif text-lg text-brand-950 font-bold mb-1">5+ Freelancers</h3>
+          <p
+            class="text-[9px] uppercase tracking-[0.25em] text-soft-gold font-bold"
+          >
+            Marketing/Editor/Designer
+          </p>
         </div>
       </div>
     </Container>
   </Section>
 
+  <!-- Editorial Quote Strip -->
+  <section class="bg-brand-950 py-16 text-center overflow-hidden">
+     <Container>
+        <p class="font-serif text-xl md:text-2xl text-cream/80 italic max-w-4xl mx-auto">
+            "Setiap undangan digital kami kirimkan bukan sekedar pesan, tetapi jembatan cerita dan kasih, dilukis dengan teknologi untuk mengundang hati."
+        </p>
+     </Container>
+  </section>
+
   <!-- Final CTA -->
-  <Section bg="cream" class="py-20">
+  <Section bg="white" class="py-24 lg:py-32">
     <Container>
-      <div class="max-w-2xl mx-auto text-center space-y-8">
-        <h2 class="font-serif text-3xl text-brand-950">Siap menciptakan cerita indah Anda?</h2>
-        <div class="flex justify-center gap-4">
-          <a href="/desain-undangan-digital/" class="px-8 py-4 bg-brand-950 text-cream text-[11px] font-bold uppercase tracking-widest rounded-sm hover:bg-brand-900 transition-all">Pilih Desain</a>
-          <a href="/kontak/" class="px-8 py-4 border border-brand-950 text-brand-950 text-[11px] font-bold uppercase tracking-widest rounded-sm hover:bg-white transition-all">Hubungi Kami</a>
-        </div>
+      <div class="relative max-w-4xl mx-auto p-12 lg:p-20 text-center rounded-[40px] border border-champagne/30 bg-cream/40 overflow-hidden">
+         <div class="absolute -top-10 -right-10 w-40 h-40 bg-soft-gold/5 rounded-full blur-3xl"></div>
+         <div class="relative z-10 space-y-8">
+            <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight tracking-tight">Siap Menciptakan <br/> Cerita Indah Anda?</h2>
+            <div class="flex flex-col sm:flex-row justify-center gap-4 pt-4">
+              <a
+                href="/desain-undangan-digital/"
+                class="px-10 py-5 bg-brand-950 text-cream text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-brand-900 transition-all shadow-xl shadow-brand-900/10"
+                >Pilih Desain Impian</a
+              >
+              <a
+                href="/kontak/"
+                class="px-10 py-5 border border-brand-300 text-brand-950 text-[11px] font-bold uppercase tracking-[0.2em] rounded-full hover:bg-white transition-all"
+                >Hubungi Tim Kami</a
+              >
+            </div>
+         </div>
       </div>
     </Container>
   </Section>
