@@ -11,7 +11,7 @@ export const siteConfig = {
     logo1x1: '/images/acaranya logo 1x1.webp',
     logo1x1Png: '/images/acaranya 1x1.png',
     favicon: '/images/favicon.ico',
-    ogImage: '/images/default-og.png',
+    ogImage: '/images/default-og.jpg',
     themeColor: '#ffffff',
   },
 
