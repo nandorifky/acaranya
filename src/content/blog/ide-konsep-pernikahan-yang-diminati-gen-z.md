@@ -21,14 +21,6 @@ canonicalUrl: ''
 noindex: false
 ---
 
-#  Menurut Riset Kami
-
-- Meta description: Temukan 11 ide konsep pernikahan yang banyak diminati Gen Z berdasarkan riset editorial Acaranya.id, lengkap dengan metode riset, alasan tren, dan peluangnya untuk wedding organizer.
-- Primary keyword: ide konsep pernikahan
-- Secondary keyword: konsep pernikahan Gen Z, tren pernikahan Gen Z, tema pernikahan modern, konsep wedding intimate, undangan digital pernikahan, wedding organizer, reseller undangan digital
-- Search intent: informasional komersial
-- Target pembaca: wedding organizer, vendor wedding, venue, fotografer, katering, dan partner acara yang ingin memahami selera calon pengantin Gen Z
-
 Generasi Z mulai memberi warna baru dalam industri pernikahan. Mereka tidak selalu mengejar pesta besar, dekorasi berlapis, atau konsep yang terlihat mewah di mata semua orang. Banyak pasangan muda justru ingin pernikahan yang terasa personal, mudah dibagikan, ramah budget, tetap estetik, dan punya cerita yang jelas.
 
 Bagi wedding organizer, perubahan ini penting. Klien Gen Z biasanya datang dengan referensi visual yang kuat, moodboard dari media sosial, dan ekspektasi acara yang lebih fleksibel. Mereka ingin konsep pernikahan yang bukan hanya bagus difoto, tetapi juga enak dialami tamu, mudah dikelola, dan bisa menyatu dengan elemen digital seperti RSVP, peta lokasi, galeri foto, hingga undangan digital pernikahan.
@@ -49,7 +41,7 @@ Metode yang digunakan meliputi:
 
 Hasilnya tidak dimaksudkan sebagai angka pasar mutlak. Namun, pola ini cukup membantu untuk memahami arah selera Gen Z yang makin personal, visual, praktis, dan dekat dengan teknologi.
 
-## Kenapa Gen Z Memilih Konsep Pernikahan yang Lebih Personal
+## Kenapa Gen Z Memilih Konsep Pernikahan yang Lebih Personal?
 
 Gen Z tumbuh dengan budaya visual, media sosial, dan kebiasaan mengambil keputusan dari referensi digital. Karena itu, konsep pernikahan mereka sering dimulai dari mood, warna, cerita, dan pengalaman tamu.
 
@@ -297,21 +289,32 @@ Gunakan internal link secara natural dan tidak berlebihan.
 ## Rekomendasi Deskripsi Gambar dan Peletakannya
 
 1. Setelah paragraf pembuka:
+
     - Deskripsi gambar: Kolase moodboard konsep pernikahan Gen Z dengan elemen intimate wedding, garden setup, dekorasi minimalis, dan tampilan undangan digital di smartphone.
     - Alt text: Moodboard ide konsep pernikahan Gen Z dengan undangan digital pernikahan.
+
 2. Setelah bagian metode riset:
+
     - Deskripsi gambar: Diagram sederhana yang menunjukkan alur riset editorial dari audit brief, pengamatan desain, social listening, analisis tren, sampai evaluasi peluang untuk wedding organizer.
     - Alt text: Diagram metode riset konsep pernikahan Gen Z untuk wedding organizer.
+
 3. Pada bagian intimate wedding:
+
     - Deskripsi gambar: Meja makan panjang untuk intimate wedding dengan dekorasi bunga netral, lilin, dan kartu nama tamu personal.
     - Alt text: Konsep intimate wedding dengan dekorasi personal dan tamu terbatas.
+
 4. Pada bagian adat modern:
+
     - Deskripsi gambar: Dekorasi pernikahan adat modern dengan motif tradisional yang dibuat clean dan elegan.
     - Alt text: Konsep pernikahan adat modern untuk pasangan Gen Z.
+
 5. Pada bagian content-friendly wedding:
+
     - Deskripsi gambar: Area photobooth wedding dengan lighting hangat, backdrop estetik, dan tamu yang sedang membuat konten video pendek.
     - Alt text: Content-friendly wedding dengan area foto dan video untuk tamu.
+
 6. Menjelang CTA reseller:
+
     - Deskripsi gambar: Ilustrasi alur kerja wedding organizer yang menawarkan undangan digital sebagai bonus paket, mulai dari konsultasi klien, pengisian data, pembuatan undangan, sampai link siap dibagikan.
     - Alt text: Alur kerja wedding organizer dengan reseller undangan digital.
 
