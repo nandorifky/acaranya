@@ -11,6 +11,9 @@ export const GET: APIRoute = async () => {
     <loc>${siteConfig.url}/sitemap-blog.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>${siteConfig.url}/sitemap-news.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>${siteConfig.url}/sitemap-designs.xml</loc>
   </sitemap>
   <sitemap>

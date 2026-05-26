@@ -66,10 +66,11 @@ const shareText = encodeURIComponent(
 );
 
 // JSON-LD Article schema
+const isNews = post.data.tags?.includes("news");
 const jsonLd = [
   {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": isNews ? "NewsArticle" : "Article",
     headline: post.data.title,
     description: post.data.description,
     datePublished: publishedDate,
@@ -85,6 +86,10 @@ const jsonLd = [
       "@type": "Organization",
       name: siteConfig.name,
       url: siteConfig.url,
+      logo: {
+        "@type": "ImageObject",
+        url: new URL(siteConfig.branding.logo, siteConfig.url).toString(),
+      },
     },
     mainEntityOfPage: {
       "@type": "WebPage",

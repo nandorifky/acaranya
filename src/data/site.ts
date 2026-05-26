@@ -1,3 +1,9 @@
+import { pricingPlans } from './pricing-static';
+
+const minPrice = Math.min(...pricingPlans.map(p => p.price));
+const maxPrice = Math.max(...pricingPlans.map(p => p.price));
+const dynamicPriceRange = `Rp ${minPrice.toLocaleString('id-ID')} - Rp ${maxPrice.toLocaleString('id-ID')}`;
+
 export const siteConfig = {
   name: 'Acaranya.id',
   tagline: 'Undangan Digital Modern untuk Berbagai Acara',
@@ -95,7 +101,7 @@ export const siteConfig = {
     metaPixelId: '',
     ratingValue: '4.9',
     reviewCount: '384',
-    priceRange: 'Rp 75.000 - Rp 150.000',
+    priceRange: dynamicPriceRange,
   },
 
   integrations: {
