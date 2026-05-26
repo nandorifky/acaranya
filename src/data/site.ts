@@ -16,8 +16,8 @@ export const siteConfig = {
   },
 
   contact: {
-    whatsapp: '6281234807480',
-    whatsappDisplay: '+62 812-3480-7480',
+    whatsapp: '62895395094329',
+    whatsappDisplay: '+62 895-3950-94329',
     email: 'acaranya.id@gmail.com',
     emailDisplay: 'acaranya.id@gmail.com',
   },
