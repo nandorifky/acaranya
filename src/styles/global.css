@@ -262,6 +262,10 @@ h3 {
    Prose / Article — Editorial
    ────────────────────────────────────────────── */
 
+.prose {
+  overflow-wrap: break-word;
+}
+
 .prose h2 {
   font-family: var(--font-serif);
   font-size: 1.75rem;
@@ -429,6 +433,8 @@ h3 {
   text-underline-offset: 4px;
   text-decoration-color: var(--color-brand-200);
   transition: text-decoration-color 0.2s;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .prose a:hover {

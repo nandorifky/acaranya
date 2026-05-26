@@ -7,17 +7,57 @@ import { pricingPlans, comparisonFeatures } from '../data/pricing-static';
 import { createWhatsappUrl } from '../lib/whatsapp/create-whatsapp-url';
 import Icon from '../components/ui/Icon.astro';
 import FAQSection from '../components/home/FAQSection.astro';
+import { siteConfig } from '../data/site';
 
 const jsonLd = pricingPlans.map(plan => ({
   '@context': 'https://schema.org',
   '@type': 'Product',
   name: `Paket ${plan.name} - Undangan Digital`,
   description: plan.description,
+  image: `${siteConfig.url}${siteConfig.branding.ogImage}`,
+  brand: {
+    '@type': 'Brand',
+    name: siteConfig.name,
+  },
+  sku: `INV-${plan.slug.toUpperCase()}`,
   offers: {
     '@type': 'Offer',
+    url: `${siteConfig.url}/harga/`,
     price: plan.price,
     priceCurrency: 'IDR',
     availability: 'https://schema.org/InStock',
+    priceValidUntil: '2026-12-31',
+    shippingDetails: {
+      '@type': 'OfferShippingDetails',
+      shippingRate: {
+        '@type': 'MonetaryAmount',
+        value: 0,
+        currency: 'IDR',
+      },
+      deliveryTime: {
+        '@type': 'ShippingDeliveryTime',
+        handlingTime: {
+          '@type': 'QuantitativeValue',
+          minValue: 0,
+          maxValue: 1,
+          unitCode: 'DAY',
+        },
+        transitTime: {
+          '@type': 'QuantitativeValue',
+          minValue: 0,
+          maxValue: 0,
+          unitCode: 'DAY',
+        },
+      },
+    },
+    hasMerchantReturnPolicy: {
+      '@type': 'MerchantReturnPolicy',
+      applicableCountry: 'ID',
+      returnPolicyCategory: 'https://schema.org/NoReturns',
+      merchantReturnDays: 0,
+      returnMethod: 'https://schema.org/ReturnByMail',
+      returnFees: 'https://schema.org/FreeReturn',
+    },
   },
 }));
 ---
