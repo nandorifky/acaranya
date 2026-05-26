@@ -15,7 +15,7 @@ const pathname = Astro.url.pathname;
     class="max-w-5xl mx-auto px-5 py-2.5 sm:py-3 bg-surface/80 backdrop-blur-md rounded-full border border-border-soft/60 shadow-card flex items-center justify-between transition-all duration-300 relative overflow-hidden"
     id="header-container"
   >
-    {/* Reading Progress Bar (Hidden by default, shown via JS on articles) */}
+    {/* Reading Progress Bar (Global) */}
     <div
       id="reading-progress"
       class="absolute top-0 left-0 h-[2px] bg-soft-gold w-0 transition-all duration-150 z-20"
@@ -138,18 +138,18 @@ const pathname = Astro.url.pathname;
   const updateProgress = () => {
     if (!progressBar) return;
 
-    // Only show on article pages or long scrollable content
-    const isArticle = window.location.pathname.startsWith("/artikel/");
-    if (!isArticle) {
-      progressBar.style.display = "none";
-      return;
-    }
-
     const winScroll =
       document.body.scrollTop || document.documentElement.scrollTop;
     const height =
       document.documentElement.scrollHeight -
       document.documentElement.clientHeight;
+    
+    // Avoid division by zero
+    if (height <= 0) {
+      progressBar.style.width = "0%";
+      return;
+    }
+
     const scrolled = (winScroll / height) * 100;
     progressBar.style.width = scrolled + "%";
   };
