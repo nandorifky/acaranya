@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'
 customBreadcrumbLabel: 'Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya'
-canonicalUrl: 'https://acaranya.id/artikel/lavender-marriage/'
+canonicalUrl: '/artikel/lavender-marriage/'
 noindex: false
 ---
 Pernahkah Kamu mendengar istilah _lavender marriage_? Istilah ini mungkin terdengar asing di telingamu, tetapi konsepnya memiliki sejarah yang cukup panjang dan menarik untuk dipahami. _Lavender marriage_ adalah sebuah pernikahan yang dilangsungkan bukan atas dasar cinta romantis, tetapi lebih kepada tujuan sosial, budaya, atau profesional tertentu.
@@ -43,7 +43,7 @@ Namun, fenomena ini tidak hanya terjadi di Hollywood. Di berbagai budaya dan neg
 
 Tekanan sosial ini sering kali berasal dari keluarga, komunitas agama, atau aturan hukum yang diskriminatif terhadap hubungan sesama jenis.
 
-**_BACA JUGA:_** [_Viral di Medsos, “Marriage is Scary” Apa Artinya?_](https://acaranya.id/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/)
+**_BACA JUGA:_** [_Viral di Medsos, “Marriage is Scary” Apa Artinya?_](/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/)
 
 ### Tujuan Lavender Marriage
 
@@ -69,7 +69,7 @@ Lavender marriage memiliki dampak yang beragam, baik positif maupun negatif. Mes
     *   Menekan identitas diri dapat berdampak buruk pada kesehatan mental.
     *   Dalam beberapa kasus, pernikahan ini malah menimbulkan konflik baru jika salah satu pihak mulai ingin menjalani kehidupan yang lebih autentik.
 
-**_BACA JUGA:_** [_Pahami Arti Open Marriage dalam Pernikahan di Indonesia_](https://acaranya.id/artikel/arti-open-marriage-dalam-pernikahan/)
+**_BACA JUGA:_** [_Pahami Arti Open Marriage dalam Pernikahan di Indonesia_](/artikel/arti-open-marriage-dalam-pernikahan/)
 
 ### Kesimpulan
 

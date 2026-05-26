@@ -20,12 +20,12 @@ imageCaption: ''
 status: published
 seoTitle: 5 Platform Undangan Pernikahan Digital Terbaik dan Murah!
 customBreadcrumbLabel: 5 Platform Undangan Pernikahan Digital Terbaik dan Murah!
-canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-digital-terbaik/'
+canonicalUrl: '/artikel/undangan-pernikahan-digital-terbaik/'
 noindex: false
 ---
 Halo _Acays_! Era digital sekarang, undangan digital menjadi pilhan populer oleh para calon pengantin baru. Selain tampilannya yang keren, undangan ini juga terkenal akan kemudahannya dalam pengiriman dan penyebaran undangan.
 
-Jika kamu tertarik untuk menggunakan undangan pernikahan digital, diluar sana cukup banyak platform yang menyediakan layanan undangan pernikahan digital yang dengan [harga](https://acaranya.id/harga/), desain, dan fitur yang cukup beragam.
+Jika kamu tertarik untuk menggunakan undangan pernikahan digital, diluar sana cukup banyak platform yang menyediakan layanan undangan pernikahan digital yang dengan [harga](/harga/), desain, dan fitur yang cukup beragam.
 
 Nah, disini mimin akan bagiin platform undangan digital terbaik yang bisa kamu pertimbangkan untuk membuat undangan pernikahan digital.
 
@@ -45,7 +45,7 @@ Kami sangat mengerti dan memperhatikan hal tersebut. Karena itu, kami berikan pe
 
 Fitur? Jangan tanya lagi!
 
-Kami sediakan fitur lengkap mulai dari tamu tanpa batas, galery foto dan video, amplop digital, [love story](https://acaranya.id/artikel/contoh-love-story/), hingga RSVP semua ada!
+Kami sediakan fitur lengkap mulai dari tamu tanpa batas, galery foto dan video, amplop digital, [love story](/artikel/contoh-love-story/), hingga RSVP semua ada!
 
 Untuk informasi lebih lanjut, kamu bisa berselancar di situs kami ini.
 
@@ -81,7 +81,7 @@ Glo menawarkan pendekatan yang lebih personal dan eksklusif untuk undangan perni
 
 Di platform ini, kamu bisa membuat halaman pernikahan yang sepenuhnya kustomisasi, di mana semua informasi tersedia hanya untuk tamu yang kamu undang.
 
-Hal ini menciptakan suasana yang lebih pribadi dan intim. [Fitur-fitur unggulan](https://acaranya.id/fitur/) termasuk kemampuan untuk mengirimkan undangan, update, dan pengingat secara langsung ke ponsel tamu, serta integrasi dengan media sosial untuk memudahkan berbagi momen bahagia dengan keluarga dan teman.
+Hal ini menciptakan suasana yang lebih pribadi dan intim. [Fitur-fitur unggulan](/fitur/) termasuk kemampuan untuk mengirimkan undangan, update, dan pengingat secara langsung ke ponsel tamu, serta integrasi dengan media sosial untuk memudahkan berbagi momen bahagia dengan keluarga dan teman.
 
 * * *
 

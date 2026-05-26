@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Undangan Pembentukan Panitia Pernikahan
 customBreadcrumbLabel: Contoh Undangan Pembentukan Panitia Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pembentukan-panitia-pernikahan/'
+canonicalUrl: '/artikel/contoh-undangan-pembentukan-panitia-pernikahan/'
 noindex: false
 ---
 Pernikahan menjadi hari paling dinanti bagi calon pengantin baru. Pastinya, pembentukan panitia pernikahan juga tidak boleh kamu lewatkan.
@@ -72,7 +72,7 @@ Berikut ini contoh undangan rapat yang bisa kamu jadikan referensi:
 
 ## Download Undangan Rapat Panitia Pernikahan yang Bisa Diedit
 
-Jika tidak ingin ambil pusing, disini kamu juga bisa langsung download [contoh undangan](https://acaranya.id/artikel/contoh-undangan-pernikahan/) yang telah kami berikan di bawah ini:
+Jika tidak ingin ambil pusing, disini kamu juga bisa langsung download [contoh undangan](/artikel/contoh-undangan-pernikahan/) yang telah kami berikan di bawah ini:
 
 **PDF:** [Download Contoh Undangan Rapat Pernikahan](/images/blog/content/contoh-surat-undangan-rapat-panitia-pernikahan_acaranya.id_.pdf)  
 **DOC/Word**: [Download Contoh Undangan Pembentukan Panitia Pernikahan](/images/blog/content/pdf-contoh-surat-undangan-rapat-panitia-pernikahan-acaranya.id_.docx)
@@ -83,6 +83,6 @@ Itulah contoh undangan pembentukan panitia pernikahan yang bisa kamu contoh untu
 
 **Artikel Terkait:**
 
-*   [Contoh Undangan Pernikahan Digital](https://acaranya.id/artikel/contoh-undangan-pernikahan-digital/)
-*   [Contoh Undangan Pernikahan Islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/)
-*   [Contoh Undangan Pernikahan Bahasa Inggris](https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-inggris/)
+*   [Contoh Undangan Pernikahan Digital](/artikel/contoh-undangan-pernikahan-digital/)
+*   [Contoh Undangan Pernikahan Islami](/artikel/contoh-undangan-pernikahan-islami/)
+*   [Contoh Undangan Pernikahan Bahasa Inggris](/artikel/contoh-undangan-pernikahan-bahasa-inggris/)

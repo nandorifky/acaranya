@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa
 customBreadcrumbLabel: Ketahui Arti Weton Jodoh Ketemu 18 dalam Hitungan Jawa
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-18/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-18/'
 noindex: false
 ---
 Dalam tradisi Jawa, weton memegang peran penting dalam memahami karakter seseorang dan juga dalam menentukan kecocokan pasangan. Weton adalah hari lahir seseorang berdasarkan penanggalan Jawa yang terdiri dari hari dan pasaran.
@@ -43,7 +43,7 @@ Jika pasangan dengan Weton Jodoh Ketemu 18 menjalani pernikahan, mereka diramalk
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk memudahkan Anda dalam menghitung weton, Anda bisa memanfaatkan [kalkulator hitung weton online](https://acaranya.id/cek-weton/) dari Acaranya.id. Anda hanya perlu memasukkan tanggal lahir masing-masing pasangan, lalu kalkulator tersebut akan menampilkan hasil perhitungan weton secara otomatis.
+Untuk memudahkan Anda dalam menghitung weton, Anda bisa memanfaatkan [kalkulator hitung weton online](/cek-weton/) dari Acaranya.id. Anda hanya perlu memasukkan tanggal lahir masing-masing pasangan, lalu kalkulator tersebut akan menampilkan hasil perhitungan weton secara otomatis.
 
 Berikut tabel yang memuat nilai neptu dari hari dan pasaran Jawa:
 

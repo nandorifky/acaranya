@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: 40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis
 customBreadcrumbLabel: 40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis
-canonicalUrl: 'https://acaranya.id/artikel/doa-istri-ucapan-anniversary-pernikahan/'
+canonicalUrl: '/artikel/doa-istri-ucapan-anniversary-pernikahan/'
 noindex: false
 ---
 Momen **anniversary pernikahan** selalu membawa sejuta kenangan dan rasa syukur. Bagaimana tidak? Perjalanan bersama pasangan, dengan segala suka duka, layak untuk dirayakan.
@@ -112,7 +112,7 @@ Dalam menulis **ucapan anniversary pernikahan**, beberapa hal perlu diperhatikan
 
 Sebuah studi menunjukkan bahwa pasangan yang sering saling mengucapkan rasa terima kasih dan cinta memiliki hubungan yang lebih harmonis. Jadi, nggak ada salahnya mengungkapkan cinta melalui kata-kata.
 
-**BACA JUGA:** [Rekomendasi Kado Pernikahan yang Tak Terlupakan untuk Teman atau Sahabat](https://acaranya.id/artikel/rekomendasi-kado-pernikahan/)
+**BACA JUGA:** [Rekomendasi Kado Pernikahan yang Tak Terlupakan untuk Teman atau Sahabat](/artikel/rekomendasi-kado-pernikahan/)
 
 * * *
 

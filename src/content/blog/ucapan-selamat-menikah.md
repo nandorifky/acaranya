@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan
 customBreadcrumbLabel: 60 Ucapan Selamat Menikah Penuh Makna dan Berkesan
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-selamat-menikah/'
+canonicalUrl: '/artikel/ucapan-selamat-menikah/'
 noindex: false
 ---
 Pernikahan selalu menjadi momen istimewa, penuh kebahagiaan, dan harapan. **Ucapan selamat menikah** sering kali menjadi ungkapan kasih dan doa untuk pengantin baru.
@@ -55,11 +55,11 @@ Dalam ucapan pernikahan **islami**, doa dan harapan berdasarkan ajaran Islam sel
 
 **“Barakallah, semoga Allah selalu memberkahi pernikahan kalian. Semoga menjadi keluarga yang sakinah, mawaddah, warahmah.”**
 
-Kata-kata **[barakallah](https://acaranya.id/artikel/barakallah-till-jannah/)** sering kali digunakan dalam **ucapan islami** karena mengandung makna penuh doa. Harapan agar pasangan mendapatkan berkah dari Allah SWT sangatlah penting dalam konteks pernikahan, terutama untuk pasangan yang mendasarkan pernikahan mereka pada ajaran agama.
+Kata-kata **[barakallah](/artikel/barakallah-till-jannah/)** sering kali digunakan dalam **ucapan islami** karena mengandung makna penuh doa. Harapan agar pasangan mendapatkan berkah dari Allah SWT sangatlah penting dalam konteks pernikahan, terutama untuk pasangan yang mendasarkan pernikahan mereka pada ajaran agama.
 
 **“Selamat menikah! Semoga Allah menjadikan pernikahan kalian sebagai jalan menuju surga, penuh cinta dan kasih sayang di dunia dan akhirat.”**
 
-**_BACA JUGA:_** [_40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis_](https://acaranya.id/artikel/doa-istri-ucapan-anniversary-pernikahan/)
+**_BACA JUGA:_** [_40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis_](/artikel/doa-istri-ucapan-anniversary-pernikahan/)
 
 ## 4\. Ucapan Selamat Menikah Kristen
 
@@ -67,7 +67,7 @@ Bagi pasangan yang beragama Kristen, **ucapan selamat menikah** biasanya mengand
 
 **“Selamat menempuh hidup baru! Semoga kasih Tuhan selalu menaungi rumah tanggamu dan kalian berdua selalu dilimpahi berkat.”**
 
-[Ucapan seperti ini](https://acaranya.id/artikel/ucapan-selamat-menikah-kristen/) penuh makna religius yang menyampaikan harapan bahwa Tuhan akan senantiasa hadir dalam setiap langkah pasangan tersebut. Peran doa dalam pernikahan Kristen menjadi kunci untuk mempertahankan keharmonisan dalam rumah tangga.
+[Ucapan seperti ini](/artikel/ucapan-selamat-menikah-kristen/) penuh makna religius yang menyampaikan harapan bahwa Tuhan akan senantiasa hadir dalam setiap langkah pasangan tersebut. Peran doa dalam pernikahan Kristen menjadi kunci untuk mempertahankan keharmonisan dalam rumah tangga.
 
 **“Tuhan Yesus memberkati pernikahan kalian. Semoga rumah tangga ini selalu dipenuhi kasih, damai, dan berkat dari Tuhan.”**
 
@@ -83,7 +83,7 @@ Kata-kata ini sederhana namun bermakna. Dalam bahasa Inggris, banyak ungkapan si
 
 Ucapan dalam bahasa Inggris seperti ini tidak hanya terdengar elegan, tetapi juga bisa digunakan sebagai bagian dari kartu ucapan atau bahkan caption di media sosial.
 
-**_BACA JUGA:_** [_20 Ucapan Selamat Menikah untuk Mantan_](https://acaranya.id/artikel/ucapan-selamat-menikah-untuk-mantan/)
+**_BACA JUGA:_** [_20 Ucapan Selamat Menikah untuk Mantan_](/artikel/ucapan-selamat-menikah-untuk-mantan/)
 
 ## 6\. Ucapan Selamat Menikah dengan Doa Samawa
 

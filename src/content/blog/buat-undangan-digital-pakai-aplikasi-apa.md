@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Buat Undangan Digital Pakai Aplikasi Apa?
 customBreadcrumbLabel: Buat Undangan Digital Pakai Aplikasi Apa?
-canonicalUrl: 'https://acaranya.id/artikel/buat-undangan-digital-pakai-aplikasi-apa/'
+canonicalUrl: '/artikel/buat-undangan-digital-pakai-aplikasi-apa/'
 noindex: false
 ---
 Dalam era digital saat ini, pertanyaan tentang **buat undangan digital pakai aplikasi apa?** menjadi sangat relevan. Masyarakat semakin beralih dari undangan cetak ke format digital yang lebih praktis. Namun, dengan banyaknya pilihan aplikasi di luar sana, memilih yang tepat bisa jadi membingungkan.
@@ -128,7 +128,7 @@ Setelah memilih aplikasi, langkah selanjutnya adalah membuat undangan. Berikut b
 
 ## Manfaat Menggunakan Aplikasi untuk Undangan Digital
 
-Menggunakan aplikasi untuk **[buat undangan digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/)** memiliki banyak manfaat. Pertama, menghemat waktu dan tenaga. Dalam beberapa menit, undangan sudah siap dan bisa langsung dibagikan ke teman dan keluarga.
+Menggunakan aplikasi untuk **[buat undangan digital](/artikel/cara-membuat-undangan-digital/)** memiliki banyak manfaat. Pertama, menghemat waktu dan tenaga. Dalam beberapa menit, undangan sudah siap dan bisa langsung dibagikan ke teman dan keluarga.
 
 Kedua, ada banyak opsi desain yang tersedia. Pengguna tidak perlu menjadi desainer handal untuk menghasilkan undangan yang memukau. Dengan template yang ada, siapa pun bisa membuat undangan yang menarik.
 

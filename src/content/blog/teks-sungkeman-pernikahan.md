@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 8 Contoh Teks Sungkeman Pernikahan yang Mengharukan
 customBreadcrumbLabel: 8 Contoh Teks Sungkeman Pernikahan yang Mengharukan
-canonicalUrl: 'https://acaranya.id/artikel/teks-sungkeman-pernikahan/'
+canonicalUrl: '/artikel/teks-sungkeman-pernikahan/'
 noindex: false
 ---
 Sungkeman adalah momen paling emosional dalam prosesi pernikahan tradisional di Indonesia. Bagi calon pengantin, ini adalah kesempatan untuk meminta maaf dan memohon restu kepada orang tua sebelum memulai kehidupan baru bersama pasangan.
@@ -120,4 +120,4 @@ Dengan menyimpan dalam bentuk PDF, teks sungkeman bisa lebih mudah diakses dan d
 
 Menyusun teks sungkeman yang tulus dan bermakna sangat penting dalam prosesi pernikahan. Tidak ada aturan baku dalam menyusun teks sungkeman; yang utama adalah kejujuran dan ketulusan dari hati.
 
-Jika kamu memerlukan bantuan dalam merencanakan dan menyusun undangan pernikahan, pertimbangkan untuk menggunakan [jasa undangan digital](https://acaranya.id/services/) dari kami. Dengan layanan undangan digital terbaik, Acaranya.id membantumu menciptakan undangan yang unik dan memudahkan proses [persiapan pernikahanmu](https://acaranya.id/artikel/persiapan-pernikahan/)!
+Jika kamu memerlukan bantuan dalam merencanakan dan menyusun undangan pernikahan, pertimbangkan untuk menggunakan [jasa undangan digital](/services/) dari kami. Dengan layanan undangan digital terbaik, Acaranya.id membantumu menciptakan undangan yang unik dan memudahkan proses [persiapan pernikahanmu](/artikel/persiapan-pernikahan/)!

@@ -8,6 +8,7 @@ import Icon from '../../components/ui/Icon.astro';
 import Pagination from '../../components/ui/Pagination.astro';
 import { getCollection, render } from 'astro:content';
 import { siteConfig } from '../../data/site';
+import { pricingPlans } from '../../data/pricing-static';
 
 export async function getStaticPaths() {
   const categories = await getCollection('designCategories');
@@ -96,12 +97,53 @@ const title = isCategory
 
 const description = isCategory ? category.data.metaDescription : "Pilih template undangan digital mewah untuk berbagai acara spesial Anda. Desain estetik, modern, dan profesional.";
 const canonicalUrl = `${siteConfig.url}${page.url.current}`;
+
+// Use the price from the 'simple' plan as the base price for templates
+const basePrice = pricingPlans.find(p => p.slug === 'simple')?.price || 75000;
+
+// JSON-LD Schema
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: title,
+    description: description,
+    url: canonicalUrl,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    numberOfItems: page.total,
+    itemListElement: page.data.map((design, index) => ({
+      '@type': 'ListItem',
+      position: page.start + index + 1,
+      item: {
+        '@type': 'Product',
+        name: `Template Undangan Digital - ${design.data.title}`,
+        description: `Desain undangan digital ${design.data.category} tema ${design.data.title}.`,
+        image: `${siteConfig.url}${design.data.thumbnail}`,
+        brand: {
+          '@type': 'Brand',
+          name: siteConfig.name,
+        },
+        offers: {
+          '@type': 'Offer',
+          price: basePrice,
+          priceCurrency: 'IDR',
+          availability: 'https://schema.org/InStock',
+          url: `${siteConfig.url}/harga/`,
+        }
+      }
+    }))
+  }
+];
 ---
 
 <MarketingLayout
   title={title}
   description={description}
   canonical={canonicalUrl}
+  jsonLd={jsonLd}
 >
   <!-- Unified Hero Section -->
   <header class:list={["relative pt-24 pb-16 lg:pt-36 lg:pb-24 bg-cream overflow-hidden", !isFirstPage && "lg:pt-28 lg:pb-12"]}>

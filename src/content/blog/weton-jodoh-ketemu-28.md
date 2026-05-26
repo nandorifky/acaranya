@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Arti Weton Jodoh Ketemu 28, Apakah Boleh Menikah?'
 customBreadcrumbLabel: 'Arti Weton Jodoh Ketemu 28, Apakah Boleh Menikah?'
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-28/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-28/'
 noindex: false
 ---
 Dalam budaya Jawa, weton memegang peranan penting dalam berbagai aspek kehidupan, termasuk dalam menentukan kecocokan jodoh. Weton merupakan hari lahir seseorang berdasarkan penanggalan Jawa yang dihitung berdasarkan hari dan pasaran. Jumlah neptu dari hari dan pasaran kemudian dijumlahkan untuk mendapatkan weton seseorang.
@@ -41,7 +41,7 @@ Meskipun weton jodoh ketemu 28 memiliki arti yang kurang baik, tidak serta merta
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk memudahkan Anda dalam menemukan weton masing-masing pasangan, Anda bisa menggunakan tools Kalkulator cek weton online dari Acaranya.id. Alat ini memungkinkan Anda untuk menghitung weton jodoh dengan mudah dan cepat. Anda bisa mengakses kalkulator tersebut dengan mengunjungi link berikut: [cek weton online](https://acaranya.id/cek-weton/).
+Untuk memudahkan Anda dalam menemukan weton masing-masing pasangan, Anda bisa menggunakan tools Kalkulator cek weton online dari Acaranya.id. Alat ini memungkinkan Anda untuk menghitung weton jodoh dengan mudah dan cepat. Anda bisa mengakses kalkulator tersebut dengan mengunjungi link berikut: [cek weton online](/cek-weton/).
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Berikut ini merupakan makna hasil hitung dan pembagian neptu dalam primbon jodoh
 
 *   Sisa 1: Pegat. Pegat artinya perpisahan. Pasangan dengan hasil hitungan pegat dipercaya akan menghadapi masalah sampai berujung pada perpisahan. Masalah yang dihadapi bisa disebabkan faktor ekonomi maupun perselingkuhan. Pegat termasuk hasil perhitungan yang tidak baik, dan weton ini juga banyak dihindari. Solusi bagi pasangan yang memperoleh hasil hitungan pegat yaitu dengan memperbanyak berbagi kepada anak yatim piatu dan janda-janda jompo. Selain itu, usahakan untuk memperbanyak ikhtiar dan berdoa.
 *   Sisa 2: Ratu. Ratu memiliki arti diratukan. Pasangan yang hasil wetonnya ratu diyakini akan hidup bak diratukan dengan harta dan kehidupan harmonis. Mereka juga akan sangat dihormati dan disegani oleh lingkungan sekitarnya. Hasil hitungan ratu tergolong istimewa. Weton ini merupakan hasil yang paling bagus di antara weton lainnya. Pasangan yang memperoleh hasil weton ratu bisa dibilang jodoh sejati atau memang sudah ditakdirkan untuk berjodoh.
-*   Sisa 3: Jodoh. Sesuai namanya, pasangan dengan weton jodoh berarti sudah ditakdirkan bersatu. Pasangan ini dipercaya bisa membangun rumah tangga harmonis sampai akhir hayatnya. Mereka saling menerima kelebihan dan kekurangan masing-masing. Weton jodoh menunjukkan [kecocokan pada pasangan](https://acaranya.id/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/) yang akan menikah. Hasil hitungan ini juga termasuk weton yang baik.
+*   Sisa 3: Jodoh. Sesuai namanya, pasangan dengan weton jodoh berarti sudah ditakdirkan bersatu. Pasangan ini dipercaya bisa membangun rumah tangga harmonis sampai akhir hayatnya. Mereka saling menerima kelebihan dan kekurangan masing-masing. Weton jodoh menunjukkan [kecocokan pada pasangan](/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/) yang akan menikah. Hasil hitungan ini juga termasuk weton yang baik.
 *   Sisa 4: Topo. Weton topo artinya masalah. Pasangan yang mendapatkan hasil hitungan ini diramalkan akan menghadapi banyak masalah, cobaan, dan godaan pada awal hubungan atau kehidupan rumah tangganya. Hal ini bisa disebabkan sejumlah faktor, salah satunya ekonomi. Seiring berjalannya waktu, hubungan dapat membaik dan berjalan harmonis apabila keduanya tahu bagaimana cara menyikapi permasalahan yang terjadi. Sebaliknya, pasangan yang tidak mampu melewati cobaan dan masalahnya itu dapat berakhir dengan cerai.
 *   Sisa 5: Tinari. Tinari berarti bahagia. Pasangan dengan weton ini ditafsirkan akan diselimuti kebahagiaan. Mereka diyakini akan hidup bahagia dengan kondisi finansial yang berkecukupan dan rumah tangga harmonis. Pasangan dengan hasil hitungan tinari juga dipercaya tidak akan mengalami kesulitan. Masyarakat Jawa beranggapan bahwa weton tinari lebih baik dari weton jodoh.
 *   Sisa 6: Padu. Padu memiliki arti pertengkaran. Pasangan dengan weton ini dipercaya tidak punya kecocokan. Mereka akan sering menghadapi cekcok hanya karena masalah sepele. Ada kemungkinan juga keduanya sampai bercerai. Hubungan pasangan dengan weton padu diramalkan bisa membaik tergantung cara mereka menghadapi pertengkaran yang terjadi. Cekcok dapat dihindari dengan memilih hari pernikahan tertentu yang diyakini bisa meminimalisir kesialan yang akan terjadi di kemudian hari.

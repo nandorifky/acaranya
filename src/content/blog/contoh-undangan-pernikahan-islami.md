@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: 5 Contoh Undangan Pernikahan Islami Unik dan Menarik
 customBreadcrumbLabel: 5 Contoh Undangan Pernikahan Islami Unik dan Menarik
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/'
+canonicalUrl: '/artikel/contoh-undangan-pernikahan-islami/'
 noindex: false
 ---
 Dalam artikel ini, kami akan membahas desain dan contoh undangan pernikahan Islami yang bisa kamu jadikan referensi.
@@ -92,7 +92,7 @@ Beberapa fitur undangan website yang kami tawarkan yaitu seperti:
 10.  Ganti musik
 11.  Dll.
 
-Menariknya, kamu bisa mendapatkan semua fitur lengkap tersebut dengan harga yang cukup murah! Untuk melihat pilihan tema lain, kamu bisa membuka halaman [**desain undangan pernikahan**](https://acaranya.id/desain-undangan-digital/).
+Menariknya, kamu bisa mendapatkan semua fitur lengkap tersebut dengan harga yang cukup murah! Untuk melihat pilihan tema lain, kamu bisa membuka halaman [**desain undangan pernikahan**](/desain-undangan-digital/).
 
 ## Contoh Desain Undangan Pernikahan Islami Sederhana
 
@@ -100,7 +100,7 @@ Menariknya, kamu bisa mendapatkan semua fitur lengkap tersebut dengan harga yang
 
 Sumber: 1001Tutorial
 
-[Contoh undangan pernikahan](https://acaranya.id/artikel/contoh-undangan-pernikahan/) islami selanjutnya yaitu memiliki desain sederhana, yang identik dengan tampilan yang simple dan tidak menyisipkan elemen yang bukan prioritas. Seperti barcode rekening, profil pengantin, dan sejenisnya.
+[Contoh undangan pernikahan](/artikel/contoh-undangan-pernikahan/) islami selanjutnya yaitu memiliki desain sederhana, yang identik dengan tampilan yang simple dan tidak menyisipkan elemen yang bukan prioritas. Seperti barcode rekening, profil pengantin, dan sejenisnya.
 
 Pada umumnya, undangan nikah sederhana ini merupakan undangan konvensional atau dalam bentuk fisik dan terdiri dari satu lembar. Namun, ini juga tergantung preferensi masing-masing pengantin.
 
@@ -126,7 +126,7 @@ Namun tidak ada larangan jika kamu menggunakan desain ini untuk acara sederhana 
 
 ## Contoh Format Isi Undangan Pernikahan Islami Dalam Bahasa Inggris
 
-Hal yang tidak bisa dilewati yaitu memperhatikan format isi atau [kata-kata undangan pernikahan](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/) yang akan kamu buat. Tentunya, rancangan ini tidak bisa dibuat secara sembarangan.
+Hal yang tidak bisa dilewati yaitu memperhatikan format isi atau [kata-kata undangan pernikahan](/artikel/kata-kata-undangan-lewat-wa/) yang akan kamu buat. Tentunya, rancangan ini tidak bisa dibuat secara sembarangan.
 
 Berikut ini contoh format undangan pernikahan islami dalam bahasa Inggris dan Indonesia:
 

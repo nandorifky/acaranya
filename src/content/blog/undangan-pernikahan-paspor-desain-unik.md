@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Undangan Paspor: Desain Undangan Pernikahan yang Unik'
 customBreadcrumbLabel: 'Undangan Paspor: Desain Undangan Pernikahan yang Unik'
-canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-paspor-desain-unik/'
+canonicalUrl: '/artikel/undangan-pernikahan-paspor-desain-unik/'
 noindex: false
 ---
 Apakah sedang mencari ide undangan pernikahan yang berbeda dari biasanya? Mengapa tidak mencoba undangan paspor? Ini adalah pilihan unik dan menarik, terutama bagi pasangan yang ingin tampil beda untuk hari istimewa mereka.
@@ -35,7 +35,7 @@ Undangan paspor adalah konsep undangan pernikahan yang dirancang menyerupai pasp
 
 Undangan pernikahan desain paspor ini tidak hanya sekedar estetika, tapi juga membawa simbolisme mendalam, melambangkan awal perjalanan baru bersama sebagai pasangan suami istri.
 
-[Desain undangan](https://acaranya.id/artikel/desain-undangan-pernikahan-aesthetic/) seperti ini bisa diadaptasi dalam berbagai bentuk, termasuk [undangan digital](https://acaranya.id/services/undangan-pernikahan-digital/). Dengan semakin berkembangnya teknologi, banyak pasangan yang memilih undangan digital untuk kemudahan distribusi, hemat biaya, dan tentu saja ramah lingkungan.
+[Desain undangan](/artikel/desain-undangan-pernikahan-aesthetic/) seperti ini bisa diadaptasi dalam berbagai bentuk, termasuk [undangan digital](/services/undangan-pernikahan-digital/). Dengan semakin berkembangnya teknologi, banyak pasangan yang memilih undangan digital untuk kemudahan distribusi, hemat biaya, dan tentu saja ramah lingkungan.
 
 ## Mengapa Memilih Desain Undangan Paspor?
 
@@ -58,13 +58,13 @@ Kami memiliki tema undangan pernikahan digital yang unik, tidak terkecuali model
 
 [Preview Undangan](https://inv.acaranya.id/preview/green-passport)
 
-[CEK DESAIN UNDANGAN LENGKAP](https://acaranya.id/desain-undangan-digital/)
+[CEK DESAIN UNDANGAN LENGKAP](/desain-undangan-digital/)
 
-Jika kamu tertarik untuk menggunakannya, silahkan [hubungi kami](https://wa.me/6281234807480)!
+Jika kamu tertarik untuk menggunakannya, silahkan [hubungi kami](https://wa.me/62895395094329)!
 
 ## Cara Membuat Undangan Paspor Digital
 
-[Membuat undangan pernikahan](https://acaranya.id/artikel/cara-membuat-undangan-digital/) desain paspor tidak sesulit yang dibayangkan. Kini, banyak platform desain yang menawarkan template paspor siap pakai. Berikut langkah-langkah sederhana untuk membuatnya:
+[Membuat undangan pernikahan](/artikel/cara-membuat-undangan-digital/) desain paspor tidak sesulit yang dibayangkan. Kini, banyak platform desain yang menawarkan template paspor siap pakai. Berikut langkah-langkah sederhana untuk membuatnya:
 
 1.  **Pilih Template yang Sesuai**: Platform seperti Canva atau Adobe Spark menawarkan berbagai template undangan digital dengan tema paspor. Pilih yang paling sesuai dengan tema pernikahan.
 2.  **Kustomisasi Sesuai Keinginan**: Ubah teks, tambahkan foto, serta masukkan detail acara seperti tanggal, tempat, dan dress code.

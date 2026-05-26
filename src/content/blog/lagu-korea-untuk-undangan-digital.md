@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Deretan Lagu Korea untuk Undangan Pernikahan Digital yang Romantis
 customBreadcrumbLabel: Deretan Lagu Korea untuk Undangan Pernikahan Digital yang Romantis
-canonicalUrl: 'https://acaranya.id/artikel/lagu-korea-untuk-undangan-digital/'
+canonicalUrl: '/artikel/lagu-korea-untuk-undangan-digital/'
 noindex: false
 ---
 Dalam era digital saat ini, tren undangan pernikahan terus berkembang. Salah satu tren terbaru adalah penggunaan undangan digital yang tidak hanya praktis, tetapi juga kreatif dan personal. Salah satu elemen penting yang bisa menambah kesan romantis pada undangan digital adalah musik latar.
@@ -81,7 +81,7 @@ Berikut 10 OST drama Korea yang romantis dan cocok untuk undangan pernikahan dig
 
 ## Tips Memilih Lagu Korea untuk Undangan Digital
 
-Memilih [lagu undangan digital](https://acaranya.id/artikel/lagu-untuk-undangan-pernikahan-digital/) tidak hanya soal menyukai melodinya. Ada beberapa hal yang bisa kamu pertimbangkan agar musik latar yang kamu pilih benar-benar menyatu dengan tema undangan digitalmu.
+Memilih [lagu undangan digital](/artikel/lagu-untuk-undangan-pernikahan-digital/) tidak hanya soal menyukai melodinya. Ada beberapa hal yang bisa kamu pertimbangkan agar musik latar yang kamu pilih benar-benar menyatu dengan tema undangan digitalmu.
 
 ### Sesuaikan dengan Tema Pernikahan
 
@@ -109,11 +109,11 @@ Selain itu, musik juga berfungsi sebagai elemen personalisasi. Setiap pasangan m
 
 [![](/images/blog/content/auntumn-1024x1024.webp)](https://inv.acaranya.id/preview/auntumn)
 
-Acaranya ID selaku layanan undangan digital, memiliki cukup banyak pilihan desain [undangan pernikahan online](https://acaranya.id/) yang bisa kamu pilih sesuai keinginan, tidak terkecuali tema Korea.
+Acaranya ID selaku layanan undangan digital, memiliki cukup banyak pilihan desain [undangan pernikahan online](/) yang bisa kamu pilih sesuai keinginan, tidak terkecuali tema Korea.
 
 Dengan fitur lengkap dan harga yang sangat terjangkau, kamu bisa mendapatkan undangan digital elegan yang cantik. Selain itu, kami juga menjamin kepuasan pelanggan dengan menyediakan garansi revisi sepuasnya dan dukungan penuh hingga hari H.
 
-[Cek Desain](https://acaranya.id/desain-undangan-digital/)
+[Cek Desain](/desain-undangan-digital/)
 
 * * *
 
@@ -123,4 +123,4 @@ Jadi, jangan ragu untuk menambahkan lagu Korea romantis ke dalam undangan digita
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Pilih Acaranya ID untuk membuat **[undangan pernikahan online](https://acaranya.id/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!
+Pilih Acaranya ID untuk membuat **[undangan pernikahan online](/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!

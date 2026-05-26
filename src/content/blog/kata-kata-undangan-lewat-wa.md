@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat
 customBreadcrumbLabel: Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat
-canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/'
+canonicalUrl: '/artikel/kata-kata-undangan-lewat-wa/'
 noindex: false
 ---
 Dalam artikel ini, kamu akan mengetahui beberapa **kata-kata undangan lewat WA tanpa mengurangi rasa hormat** yang bisa kamu jadikan sebagai referensi.
@@ -31,7 +31,7 @@ Terlebih, saat ini penggunaan undangan digital cukup menjamur di Indonesia. Tent
 
 Jika kamu hendak menggunakan undangan digital, sebaiknya kamu telah memikirkan beberapa kata-kata agar tamu tetap merasa dihormati.
 
-Sebagai layanan undangan pernikahan online terbaik, disini **Acaranya.id** akan memberikan beberapa [kata-kata undangan](https://acaranya.id/artikel/kata-kata-undangan-pernikahan/) lewat WhatsApp yang bisa kamu jadikan sebagai referensi.
+Sebagai layanan undangan pernikahan online terbaik, disini **Acaranya.id** akan memberikan beberapa [kata-kata undangan](/artikel/kata-kata-undangan-pernikahan/) lewat WhatsApp yang bisa kamu jadikan sebagai referensi.
 
 ![kata-kata undangan lewat wa tanpa mengurangi rasa hormat](/images/blog/content/kata-kata-undangan-pernikahan-lewat-wa-tanpa-mengurangi-rasa-hormat.png)
 
@@ -77,7 +77,7 @@ Sebagai layanan undangan pernikahan online terbaik, disini **Acaranya.id** akan 
 > 
 > _Wassalamualaikum warahmatullahi wabarakatuh_.
 
-## [Kata-Kata Undangan Pernikahan Online](https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online/) Islami
+## [Kata-Kata Undangan Pernikahan Online](/artikel/kata-kata-undangan-pernikahan-online/) Islami
 
 > _Kepada: Bapak/Ibu_  
 > _Perihal: Mengundang pada acara pernikahan_

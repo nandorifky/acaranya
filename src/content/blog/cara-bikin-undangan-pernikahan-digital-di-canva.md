@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Cara Bikin Undangan Pernikahan Digital di Canva, Gratis!'
 customBreadcrumbLabel: 'Cara Bikin Undangan Pernikahan Digital di Canva, Gratis!'
-canonicalUrl: 'https://acaranya.id/artikel/cara-bikin-undangan-pernikahan-digital-di-canva/'
+canonicalUrl: '/artikel/cara-bikin-undangan-pernikahan-digital-di-canva/'
 noindex: false
 ---
 Canva menjadi salah satu platform desain terkemuka, yang bisa digunakan untuk berbagai kebutuhan. Termasuk undangan digital, yang kini sedang ramai digunakan para calon pengantin, bisa dibuat menggunakan Canva.
@@ -29,7 +29,7 @@ Lantas, bagaimana cara membuat undangan pernikahan digital di Canva?
 
 Dalam artikel ini, kita akan bagikan bagaimana cara bikin undangan digital di aplikasi Canva.
 
-Seperti penjelasan kita pada “[perbedaan undangan digital dan website](https://acaranya.id/artikel/perbedaan-undangan-digital-dan-website/)“, disini kamu akan paham bagaimana bikin undangan video, foto, dan website dengan aplikasi Canva. Simak terus artikel dibawah ini!
+Seperti penjelasan kita pada “[perbedaan undangan digital dan website](/artikel/perbedaan-undangan-digital-dan-website/)“, disini kamu akan paham bagaimana bikin undangan video, foto, dan website dengan aplikasi Canva. Simak terus artikel dibawah ini!
 
 ## Bikin Undangan Digital Gambar Statis dengan Canva
 
@@ -45,7 +45,7 @@ Selengkapnya, berikut ini cara membuat undangan digital gambar di Canva:
 2.  Dalam kolom pencarian, ketik **“Digital Wedding Invitation”**.
 3.  Setelah itu, akan muncul banyak pilihan template yang bisa kamu gunakan untuk undangan digital.
 4.  Pilih template gambar, jangan yang video! Template video akan ada _icon play_ di bagian pojok kiri bawah. Selain itu, silahkan pilih template undangan pernikahan yang gratis saja.
-5.  Jika sudah, kamu bisa edit bagian [nama pengantin](https://acaranya.id/artikel/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan/), tanggal dan waktu acara, lokasi, dan informasi lain terkait acaramu.
+5.  Jika sudah, kamu bisa edit bagian [nama pengantin](/artikel/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan/), tanggal dan waktu acara, lokasi, dan informasi lain terkait acaramu.
 6.  Karena ini bersifat universal, jangan beri nama tamu. Dengan begitu, kamu cukup membuat satu gambar undangan digital saja untuk di sebarkan ke tamu undangan.
 7.  Setelah itu, klik tombol _share_ di pojok kanan atas, dan pilih _download_.
 8.  Selanjutnya, pilih format gambar yang ingin kamu gunakan. Sangat direkomendasikan untuk _download_ dalam format PNG agar terlihat jernih.
@@ -78,7 +78,7 @@ Berikut cara membuat undangan digital video di Canva:
 
 ![cara membuat undangan pernikahan digital website di Canva](/images/blog/content/undangan-digital-website-canva-1024x619.webp)
 
-Kamu juga bisa memanfaatkan platform Canva untuk membuat undangan pernikahan website digital. Dengan undangan berbentuk website, tamu bisa dengan mudah melihat detail acara, [RSVP online](https://acaranya.id/rsvp/), bahkan menemukan lokasi acara melalui Google Maps.
+Kamu juga bisa memanfaatkan platform Canva untuk membuat undangan pernikahan website digital. Dengan undangan berbentuk website, tamu bisa dengan mudah melihat detail acara, [RSVP online](/rsvp/), bahkan menemukan lokasi acara melalui Google Maps.
 
 Berikut cara membuat undangan digital website di Canva:
 
@@ -100,9 +100,9 @@ Berikut cara membuat undangan digital website di Canva:
 > 
 > Acaranya.id menyediakan berbagai pilihan **tema undangan website** yang bisa disesuaikan dengan konsep pernikahanmu. Mulai dari tema minimalis, rustic, hingga tema mewah yang menonjolkan keindahan visual, semua bisa dipersonalisasi sesuai selera. Setiap halaman undangan dapat disesuaikan dengan informasi penting seperti tanggal, waktu, lokasi, galeri foto, hingga video prewedding untuk memberikan kesan lebih personal dan istimewa.
 > 
-> Dengan [harga yang **terjangkau**](https://acaranya.id/harga/), kamu bisa mendapatkan **website undangan pernikahan** yang lengkap dan profesional, tanpa harus menghabiskan banyak waktu atau biaya.
+> Dengan [harga yang **terjangkau**](/harga/), kamu bisa mendapatkan **website undangan pernikahan** yang lengkap dan profesional, tanpa harus menghabiskan banyak waktu atau biaya.
 > 
-> [Pesan Sekarang](https://acaranya.id/desain-undangan-digital/)
+> [Pesan Sekarang](/desain-undangan-digital/)
 
 * * *
 

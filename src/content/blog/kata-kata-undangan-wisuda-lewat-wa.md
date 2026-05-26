@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 customBreadcrumbLabel: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
-canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-wisuda-lewat-wa/'
+canonicalUrl: '/artikel/kata-kata-undangan-wisuda-lewat-wa/'
 noindex: false
 ---
-Mengundang orang-orang terdekat untuk hadir di acara wisuda merupakan bagian penting dalam perjalanan akademis. Di era digital seperti sekarang, penggunaan **[undangan wisuda digital](https://acaranya.id/jasa/undangan-wisuda-digital/)** melalui WhatsApp menjadi pilihan praktis dan efisien. Meski begitu, kita tetap perlu memperhatikan tata krama dan format undangan yang berlaku di Indonesia.
+Mengundang orang-orang terdekat untuk hadir di acara wisuda merupakan bagian penting dalam perjalanan akademis. Di era digital seperti sekarang, penggunaan **[undangan wisuda digital](/jasa/undangan-wisuda-digital/)** melalui WhatsApp menjadi pilihan praktis dan efisien. Meski begitu, kita tetap perlu memperhatikan tata krama dan format undangan yang berlaku di Indonesia.
 
 Membuat undangan wisuda lewat WA memang lebih simple, namun tetap harus memperhatikan struktur dan etika dalam penulisannya. Pemilihan kata-kata undangan wisuda yang tepat dapat mencerminkan kesopanan dan penghormatan kepada para tamu undangan. Mari simak beberapa contoh yang bisa kamu gunakan.
 
@@ -95,7 +95,7 @@ Format ini tetap relevan meski diterapkan dalam undangan wisuda digital. Penggun
 > 
 > Wassalam, (Nama)
 
-**_BACA JUGA:_** [_Kata-Kata Undangan Pernikahan Online_](https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online/)
+**_BACA JUGA:_** [_Kata-Kata Undangan Pernikahan Online_](/artikel/kata-kata-undangan-pernikahan-online/)
 
 ### 4\. Format dengan Dress Code dan Informasi Tambahan
 
@@ -136,8 +136,8 @@ Pengiriman undangan wisuda lewat WA perlu memperhatikan beberapa hal penting. Fo
 
 ## Buat Undangan Wisuda Digital dengan Acaranya ID
 
-Membuat undangan wisuda digital yang formal dan menarik bisa menjadi tantangan tersendiri. Jika kamu ingin undangan wisuda digitalmu tampil lebih profesional, Acaranya.id menyediakan layanan pembuatan [undangan digital](https://acaranya.id/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/) dengan format yang sesuai standar Indonesia.
+Membuat undangan wisuda digital yang formal dan menarik bisa menjadi tantangan tersendiri. Jika kamu ingin undangan wisuda digitalmu tampil lebih profesional, Acaranya.id menyediakan layanan pembuatan [undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/) dengan format yang sesuai standar Indonesia.
 
 Tim desainer Acaranya.id siap membantu menghadirkan undangan wisuda digital yang elegan dengan tetap mempertahankan nilai kesopanan dan format standar undangan Indonesia. Dapatkan konsultasi gratis untuk undangan wisudamu dengan menghubungi tim kami sekarang!
 
-[**PESAN UNDANGAN WISUDA DIGITAL**](https://wa.me/6281234807480)
+[**PESAN UNDANGAN WISUDA DIGITAL**](https://wa.me/62895395094329)

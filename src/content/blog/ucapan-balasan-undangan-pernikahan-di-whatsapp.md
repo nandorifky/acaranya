@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp
 customBreadcrumbLabel: 30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/'
+canonicalUrl: '/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/'
 noindex: false
 ---
 Saat mendapat [undangan pernikahan](https://acaranya.id), baik dari teman dekat atau saudara jauh, seringkali timbul pertanyaan: “Bagaimana cara membalas undangan ini dengan sopan tapi juga santai, apalagi kalau lewat WhatsApp?” Tentu, tak mau kan membalas dengan ucapan yang terkesan kaku atau malah terlalu formal? Ditambah lagi, banyak yang juga bertanya-tanya, “Apakah ada cara khusus untuk jawaban undangan pernikahan lewat WA yang sesuai dengan ajaran Islam?”
@@ -97,7 +97,7 @@ Membalas undangan pernikahan lewat WhatsApp sebenarnya tidak sulit, tapi ada beb
 
 ## Menurut Ajaran Islam
 
-Dilansir dari berbagai sumber, [dalam Islam](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/), menghadiri undangan pernikahan adalah sebuah bentuk penghormatan dan kewajiban sosial, selama tidak ada halangan yang jelas untuk tidak menghadirinya.
+Dilansir dari berbagai sumber, [dalam Islam](/artikel/contoh-undangan-pernikahan-islami/), menghadiri undangan pernikahan adalah sebuah bentuk penghormatan dan kewajiban sosial, selama tidak ada halangan yang jelas untuk tidak menghadirinya.
 
 Membalas undangan dengan baik dan sopan adalah bagian dari adab yang diajarkan dalam Islam. Balasan undangan pernikahan dalam Islam sering kali disertai dengan doa-doa keberkahan bagi kedua mempelai, sebagai bentuk dukungan spiritual dari yang diundang.
 

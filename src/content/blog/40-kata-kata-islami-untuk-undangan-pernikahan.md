@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 40 Kata-Kata Islami untuk Undangan Pernikahan
 customBreadcrumbLabel: 40 Kata-Kata Islami untuk Undangan Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/40-kata-kata-islami-untuk-undangan-pernikahan/'
+canonicalUrl: '/artikel/40-kata-kata-islami-untuk-undangan-pernikahan/'
 noindex: false
 ---
 Menjelang hari pernikahan, salah satu hal yang sering membingungkan adalah memilih **kata-kata Islami untuk undangan pernikahan**. Bagaimana cara memilih kalimat yang tepat? Kata-kata yang ingin disampaikan tentu harus penuh makna dan mengandung doa yang baik, bukan?
@@ -35,7 +35,7 @@ Artikel ini hadir untuk memberikan inspirasi berupa **kata-kata Islami** yang da
 
 Contoh Desain Undangan Islami
 
-Menyusun kata-kata Islami untuk [undangan pernikahan](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/) sebenarnya tidak sulit, namun ada beberapa hal yang perlu diperhatikan. Selain harus **mengandung doa** dan harapan, kalimat-kalimat tersebut sebaiknya juga mengacu pada ajaran agama, seperti menjaga kesederhanaan, namun tetap berkesan.
+Menyusun kata-kata Islami untuk [undangan pernikahan](/artikel/contoh-undangan-pernikahan-islami/) sebenarnya tidak sulit, namun ada beberapa hal yang perlu diperhatikan. Selain harus **mengandung doa** dan harapan, kalimat-kalimat tersebut sebaiknya juga mengacu pada ajaran agama, seperti menjaga kesederhanaan, namun tetap berkesan.
 
 Kalimat undangan bisa diselipkan dengan kutipan ayat Al-Qur’an atau Hadis, yang mengingatkan tamu akan tujuan mulia dari sebuah pernikahan, yaitu membangun rumah tangga yang sakinah, mawaddah, dan rahmah.
 
@@ -72,7 +72,7 @@ Dengan **menggunakan ayat Al-Qur’an dan Hadis** ini, undangan pernikahan tidak
 
 Kutipan ayat dan Hadis di atas dapat ditempatkan di berbagai bagian undangan, mulai dari pembuka, isi, hingga penutup, sehingga undangan terasa lebih lengkap dan sarat makna.
 
-_**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/)_
+_**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](/artikel/kata-kata-undangan-lewat-wa/)_
 
 ## 3\. Doa Pernikahan Islami
 
@@ -115,7 +115,7 @@ Kalimat-kalimat ini mengandung pesan mendalam tentang cinta, komitmen, dan keber
 14.  “Dalam pernikahan ini, kami berharap bisa saling menguatkan dalam setiap ujian, dan selalu berada di jalan yang Engkau ridhoi.”
 15.  “Pernikahan ini adalah wujud syukur kami kepada-Mu, ya Allah, yang telah mempertemukan dua hati untuk saling mencintai dan menghormati.”
 
-[Kata-kata](https://acaranya.id/artikel/kata-kata-undangan-pernikahan/) di atas bisa menjadi pilihan **yang tepat untuk undangan pernikahan** karena selain mengandung doa, juga menyampaikan harapan yang dalam akan keberkahan dan cinta yang abadi di jalan Allah.
+[Kata-kata](/artikel/kata-kata-undangan-pernikahan/) di atas bisa menjadi pilihan **yang tepat untuk undangan pernikahan** karena selain mengandung doa, juga menyampaikan harapan yang dalam akan keberkahan dan cinta yang abadi di jalan Allah.
 
 ## 5\. Penutup Undangan dengan Doa dan Harapan
 
@@ -127,7 +127,7 @@ Bagian penutup juga penting untuk memberikan kesan terakhir yang manis. Beberapa
 
 **Kalimat penutup Islami** ini memberikan kesan akhir yang penuh harapan dan rasa syukur, sekaligus mengingatkan akan pentingnya doa dalam pernikahan.
 
-**_BACA JUGA:_** [_Contoh Undangan Walimatul Ursy dan Format Penulisannya_](https://acaranya.id/artikel/contoh-undangan-walimatul-ursy-dan-format-penulisannya/)
+**_BACA JUGA:_** [_Contoh Undangan Walimatul Ursy dan Format Penulisannya_](/artikel/contoh-undangan-walimatul-ursy-dan-format-penulisannya/)
 
 * * *
 

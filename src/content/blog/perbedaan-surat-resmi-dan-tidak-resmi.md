@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'
 customBreadcrumbLabel: 'Perbedaan Surat Resmi dan Tidak Resmi, Ada Contohnya!'
-canonicalUrl: 'https://acaranya.id/artikel/perbedaan-surat-resmi-dan-tidak-resmi/'
+canonicalUrl: '/artikel/perbedaan-surat-resmi-dan-tidak-resmi/'
 noindex: false
 ---
 Pernahkah terpikir, apa sih **perbedaan surat resmi dan tidak resmi**? Mengapa ada surat yang harus menggunakan tata bahasa yang baku dan formal, sementara yang lainnya lebih santai seperti pesan dari seorang teman? Perbedaan ini sebenarnya sangat penting, terutama ketika berkomunikasi dalam konteks yang lebih formal atau pribadi.
@@ -105,7 +105,7 @@ Untuk surat tidak resmi, **strukturnya jauh lebih sederhana**. Biasanya hanya me
 
 Tidak ada aturan yang mengikat dalam hal ini, sehingga penulis bisa menyesuaikan gaya penulisan sesuai dengan keinginan mereka.
 
-**_BACA JUGA:_** [_Cara Membuat Surat Keterangan Belum Menikah Online dan Syaratnya_](https://acaranya.id/artikel/cara-membuat-surat-keterangan-belum-menikah-online/)
+**_BACA JUGA:_** [_Cara Membuat Surat Keterangan Belum Menikah Online dan Syaratnya_](/artikel/cara-membuat-surat-keterangan-belum-menikah-online/)
 
 ## Struktur Surat Resmi
 

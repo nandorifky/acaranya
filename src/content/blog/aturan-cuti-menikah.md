@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
 customBreadcrumbLabel: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
-canonicalUrl: 'https://acaranya.id/artikel/aturan-cuti-menikah/'
+canonicalUrl: '/artikel/aturan-cuti-menikah/'
 noindex: false
 ---
 Pertanyaan mengenai cuti menikah berapa hari kerap muncul, terutama bagi mereka yang sedang merencanakan pernikahan. Pertanyaan ini wajar karena cuti menikah adalah salah satu hak karyawan yang dijamin oleh UU Ketenagakerjaan.
@@ -68,7 +68,7 @@ Namun, untuk pernikahan kedua dan seterusnya, sebaiknya tetap melakukan diskusi 
 
 Solusi undangan pernikahan online dengan banyak pilihan desain dan revisi tanpa batas hanya di Acaranya.id!
 
-[**Konsultasi Gratis!**](https://acaranya.id/)
+[**Konsultasi Gratis!**](/)
 
 ## Apakah Cuti Menikah Mengurangi Cuti Tahunan?
 
@@ -78,7 +78,7 @@ Berdasarkan ketentuan dalam UU Ketenagakerjaan, **cuti menikah tidak akan mengur
 
 Namun, selalu ada baiknya untuk memeriksa peraturan internal perusahaan. Ada beberapa perusahaan yang memiliki kebijakan internal yang mungkin berbeda, walaupun secara hukum tetap harus memberikan cuti menikah tanpa mengurangi cuti tahunan.
 
-**BACA JUGA:** [Contoh Surat Undangan Pernikahan Tulis Tangan Simple](https://acaranya.id/artikel/undangan-pernikahan-tulis-tangan/)
+**BACA JUGA:** [Contoh Surat Undangan Pernikahan Tulis Tangan Simple](/artikel/undangan-pernikahan-tulis-tangan/)
 
 ## Contoh Surat Cuti Menikah
 

@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Among Tamu Adalah: Pengertian, Peran, dan Tradisi dalam Acara Pernikahan'
 customBreadcrumbLabel: 'Among Tamu Adalah: Pengertian, Peran, dan Tradisi dalam Acara Pernikahan'
-canonicalUrl: 'https://acaranya.id/artikel/among-tamu/'
+canonicalUrl: '/artikel/among-tamu/'
 noindex: false
 ---
 Dalam acara pernikahan tradisional Jawa, ada banyak elemen yang melibatkan nilai-nilai budaya yang khas. Salah satunya adalah **among tamu**. Istilah ini merujuk pada sosok atau individu yang memiliki tanggung jawab penting untuk menyambut dan melayani tamu selama acara berlangsung. Among tamu bukan hanya sekadar pelayan, melainkan sosok yang memastikan para tamu merasa dihormati dan nyaman.
@@ -38,7 +38,7 @@ Tugas among tamu tidak hanya sekadar menyambut di pintu masuk. Mereka juga memas
 
 Dalam konteks adat Jawa, tugas ini sangat penting karena tamu dianggap membawa berkah bagi tuan rumah. Oleh karena itu, peran among tamu bukanlah hal yang bisa dianggap remeh.
 
-**_BACA JUGA:_** [_Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan_](https://acaranya.id/artikel/pengertian-dan-tugas-pagar-ayu/)
+**_BACA JUGA:_** [_Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan_](/artikel/pengertian-dan-tugas-pagar-ayu/)
 
 ## Tugas dan Tanggung Jawab Among Tamu
 
@@ -67,7 +67,7 @@ Jika among tamu melayani dengan baik dan penuh kehangatan, tamu akan merasa diha
 
 ## Kriteria Menjadi Among Tamu
 
-Tidak sembarang orang bisa menjadi among tamu. Dalam [budaya Jawa](https://acaranya.id/artikel/seserahan-pernikahan-adat-jawa/), pemilihan among tamu didasarkan pada beberapa kriteria khusus. Selain kemampuan untuk bersikap ramah, among tamu juga harus memiliki pengetahuan mengenai adat yang sedang dilaksanakan.
+Tidak sembarang orang bisa menjadi among tamu. Dalam [budaya Jawa](/artikel/seserahan-pernikahan-adat-jawa/), pemilihan among tamu didasarkan pada beberapa kriteria khusus. Selain kemampuan untuk bersikap ramah, among tamu juga harus memiliki pengetahuan mengenai adat yang sedang dilaksanakan.
 
 Biasanya, among tamu adalah orang yang sudah dewasa, bijaksana, dan memiliki pengetahuan luas tentang tradisi yang berlaku.
 
@@ -100,4 +100,4 @@ Dengan memahami peran dan tanggung jawab among tamu, kamu dapat lebih mengapresi
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID memberi solusi bagi kamu yang ingin [undangan pernikahan online](https://acaranya.id/) yang stylish dan mudah dibagikan lewat berbagai platform digital.
+Acaranya ID memberi solusi bagi kamu yang ingin [undangan pernikahan online](/) yang stylish dan mudah dibagikan lewat berbagai platform digital.

@@ -21,7 +21,7 @@ status: published
 seoTitle: 5 Contoh Ucapan Tidak Bisa Mengundang di Acara Pernikahan
 customBreadcrumbLabel: 5 Contoh Ucapan Tidak Bisa Mengundang di Acara Pernikahan
 canonicalUrl: >-
-  https://acaranya.id/artikel/contoh-ucapan-tidak-bisa-mengundang-di-acara-pernikahan/
+  /artikel/contoh-ucapan-tidak-bisa-mengundang-di-acara-pernikahan/
 noindex: false
 ---
 Pernikahan adalah momen yang sangat penting dalam kehidupan seseorang, tetapi kadang-kadang situasi tertentu membuat seseorang tidak bisa mengundang semua orang yang diinginkan.
@@ -38,7 +38,7 @@ _“Teman-teman terkasih, dengan penuh rasa hormat, kami ingin memberitahukan ba
 
 Ucapan ini menekankan pada rasa hormat dan empati terhadap kondisi yang ada. Menggunakan bahasa yang personal dan penuh kasih sayang, calon pengantin bisa menjaga hubungan baik meski tidak bisa mengundang secara langsung.
 
-**BACA JUGA:** [_30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp_](https://acaranya.id/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/)
+**BACA JUGA:** [_30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp_](/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/)
 
 ## 2\. Ucapan Melalui Media Sosial
 
@@ -64,7 +64,7 @@ _“Kepada teman-teman dan kerabat yang kami hormati, kami ingin menginformasika
 
 Ucapan ini menunjukkan bahwa ada perhatian dan rasa hormat terhadap yang tidak bisa diundang. Formalitas ucapan ini cocok untuk rekan kerja atau relasi yang lebih jauh.
 
-**BACA JUGA:** [_Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat_](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/)
+**BACA JUGA:** [_Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat_](/artikel/kata-kata-undangan-lewat-wa/)
 
 ## 5\. Ucapan Melalui Video
 

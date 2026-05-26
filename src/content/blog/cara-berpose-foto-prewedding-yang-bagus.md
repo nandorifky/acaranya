@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 8 Cara Berpose Foto Prewedding yang Bagus
 customBreadcrumbLabel: 8 Cara Berpose Foto Prewedding yang Bagus
-canonicalUrl: 'https://acaranya.id/artikel/cara-berpose-foto-prewedding-yang-bagus/'
+canonicalUrl: '/artikel/cara-berpose-foto-prewedding-yang-bagus/'
 noindex: false
 ---
 Prewedding merupakan salah satu momen penting yang sering dipersiapkan oleh pasangan sebelum pernikahan. Selain menjadi kenangan indah, foto prewedding juga sering kali digunakan untuk undangan atau dekorasi pada hari pernikahan.
@@ -103,4 +103,4 @@ Menciptakan foto prewedding yang bagus memang membutuhkan persiapan, tetapi deng
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Buat pernikahanmu lebih modern dengan **[undangan pernikahan online](https://acaranya.id/)** yang bisa diakses oleh tamu kapan saja dan di mana saja.
+Buat pernikahanmu lebih modern dengan **[undangan pernikahan online](/)** yang bisa diakses oleh tamu kapan saja dan di mana saja.

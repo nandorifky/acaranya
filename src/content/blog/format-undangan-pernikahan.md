@@ -23,14 +23,14 @@ imageCaption: ''
 status: published
 seoTitle: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'
 customBreadcrumbLabel: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'
-canonicalUrl: 'https://acaranya.id/artikel/format-undangan-pernikahan/'
+canonicalUrl: '/artikel/format-undangan-pernikahan/'
 noindex: false
 ---
 **Format undangan pernikahan** adalah salah satu hal yang paling penting dalam persiapan pernikahan. Kenapa? Karena undangan adalah representasi pertama dari acara besar yang akan datang.
 
 Bagaimana sih format undangan pernikahan yang benar? Apakah ada aturan khusus yang harus diikuti?
 
-[Undangan pernikahan](https://acaranya.id/artikel/contoh-undangan-pernikahan/) bukan hanya sekedar kertas dengan informasi. Undangan adalah cerminan dari kepribadian dan tema acara. Menggunakan format undangan pernikahan yang benar bisa membantu memastikan semua informasi yang diperlukan tersampaikan dengan baik.
+[Undangan pernikahan](/artikel/contoh-undangan-pernikahan/) bukan hanya sekedar kertas dengan informasi. Undangan adalah cerminan dari kepribadian dan tema acara. Menggunakan format undangan pernikahan yang benar bisa membantu memastikan semua informasi yang diperlukan tersampaikan dengan baik.
 
 Yuk, kita telusuri lebih dalam tentang format undangan pernikahan yang benar. Simak terus ya!
 
@@ -97,7 +97,7 @@ Dalam membuat undangan pernikahan, ada beberapa kesalahan yang sering terjadi da
 
 **Salah Tulis Nama atau Tanggal**: Kesalahan ini bisa membuat tamu bingung atau bahkan datang di hari yang salah. Pastikan untuk memeriksa kembali semua informasi sebelum mencetak undangan.
 
-**Desain yang Terlalu Ramai**: [Desain undangan](https://acaranya.id/desain-undangan-digital/) yang terlalu ramai bisa mengalihkan perhatian dari informasi utama. Gunakan desain yang sederhana namun elegan.
+**Desain yang Terlalu Ramai**: [Desain undangan](/desain-undangan-digital/) yang terlalu ramai bisa mengalihkan perhatian dari informasi utama. Gunakan desain yang sederhana namun elegan.
 
 **Informasi yang Tidak Lengkap**: Jangan sampai ada informasi yang terlewat. Pastikan semua detail acara tercantum dengan lengkap dan jelas.
 
@@ -106,7 +106,7 @@ Dalam membuat undangan pernikahan, ada beberapa kesalahan yang sering terjadi da
 Memilih penyedia jasa undangan yang tepat juga sangat penting. Berikut adalah beberapa tips dalam memilih penyedia jasa undangan:
 
 1.  **Periksa Portofolio**
-2.  **Tanyakan [Harga dan Paket](https://acaranya.id/harga/) yang Ditawarkan**
+2.  **Tanyakan [Harga dan Paket](/harga/) yang Ditawarkan**
 3.  **Lihat Review dan Testimoni**
 
 **Periksa Portofolio**: Lihat hasil karya penyedia jasa undangan sebelumnya. Ini bisa memberikan gambaran tentang kualitas dan gaya desain yang mereka tawarkan.

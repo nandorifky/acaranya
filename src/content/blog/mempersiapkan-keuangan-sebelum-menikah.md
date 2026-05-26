@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tahu!'
 customBreadcrumbLabel: '8 Tips Mempersiapkan Keuangan Sebelum Menikah, Harus Tahu!'
-canonicalUrl: 'https://acaranya.id/artikel/mempersiapkan-keuangan-sebelum-menikah/'
+canonicalUrl: '/artikel/mempersiapkan-keuangan-sebelum-menikah/'
 noindex: false
 ---
 Menikah adalah momen penting yang menandai awal babak baru dalam hidup. Pernikahan bukan hanya tentang cinta dan kebahagiaan, tetapi juga tentang membangun masa depan bersama.
@@ -63,7 +63,7 @@ Sementara itu, asuransi kesehatan akan mengurangi beban biaya pengobatan jika sa
 
 Dengan memiliki asuransi jiwa dan kesehatan, kamu dapat meredakan kecemasan dan menghadapi masa depan dengan lebih tenang dan percaya diri.
 
-**BACA JUGA:** [Cara Melewati Ujian Finansial Sebelum Menikah](https://acaranya.id/artikel/cara-melewati-ujian-finansial-sebelum-menikah/)
+**BACA JUGA:** [Cara Melewati Ujian Finansial Sebelum Menikah](/artikel/cara-melewati-ujian-finansial-sebelum-menikah/)
 
 ## 5\. Sisihkan Dana Darurat
 

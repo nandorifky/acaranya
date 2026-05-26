@@ -22,7 +22,7 @@ status: published
 seoTitle: 'Ketahui Apa Saja Isi Buku Nikah Suami dan Istri, Apakah Berbeda?'
 customBreadcrumbLabel: 'Ketahui Apa Saja Isi Buku Nikah Suami dan Istri, Apakah Berbeda?'
 canonicalUrl: >-
-  https://acaranya.id/artikel/ketahui-apa-saja-isi-buku-nikah-suami-dan-istri-apakah-berbeda/
+  /artikel/ketahui-apa-saja-isi-buku-nikah-suami-dan-istri-apakah-berbeda/
 noindex: false
 ---
 Ketika membicarakan pernikahan, salah satu dokumen yang sering kali muncul adalah buku nikah. Banyak yang bertanya-tanya, sebenarnya apa saja isi buku nikah tersebut? Apakah ada perbedaan antara buku nikah milik suami dan istri? Dan apakah ada kaitannya dengan warna buku nikah? Bagaimana aturan mengenai isi buku nikah dalam perspektif Islam?
@@ -107,7 +107,7 @@ Pada halaman tertentu, biasanya terdapat pas foto suami dan istri yang ditempelk
 
 Foto ini berfungsi sebagai identifikasi visual dari pemilik buku nikah, memastikan bahwa buku tersebut hanya berlaku untuk pasangan yang tertera di dalamnya.
 
-**BACA JUGA:** [Syarat Foto Buku Nikah dan Aturannya, Lengkap!](https://acaranya.id/artikel/syarat-foto-buku-nikah/)
+**BACA JUGA:** [Syarat Foto Buku Nikah dan Aturannya, Lengkap!](/artikel/syarat-foto-buku-nikah/)
 
 ### 8\. Pernyataan dan Janji Nikah
 
@@ -152,7 +152,7 @@ Di samping itu, perbedaan ini juga menegaskan peran masing-masing dalam pernikah
 
 Dikutip dari sumber terpercaya, warna hijau pada buku nikah istri melambangkan kesuburan dan kehidupan baru, sedangkan cokelat pada buku nikah suami melambangkan kedewasaan dan tanggung jawab. Keduanya menggambarkan bagaimana peran suami dan istri harus saling melengkapi.
 
-**BACA JUGA:** [Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?](https://acaranya.id/artikel/warna-buku-nikah/)
+**BACA JUGA:** [Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?](/artikel/warna-buku-nikah/)
 
 ## Apa Saja Manfaat Buku Nikah?
 

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'
 customBreadcrumbLabel: 'Cara Mengecek Status Pernikahan Seseorang, Online Bisa!'
-canonicalUrl: 'https://acaranya.id/artikel/cara-mengecek-status-pernikahan/'
+canonicalUrl: '/artikel/cara-mengecek-status-pernikahan/'
 noindex: false
 ---
 Mengetahui status pernikahan seseorang menjadi hal yang penting dalam berbagai keperluan, baik untuk urusan personal maupun legal. Hal ini bisa sangat bermanfaat sebelum seseorang melangkah ke jenjang pernikahan, untuk memastikan bahwa pasangan benar-benar lajang atau telah resmi bercerai dari pernikahan sebelumnya.

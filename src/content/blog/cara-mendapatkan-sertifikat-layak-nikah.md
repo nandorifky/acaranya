@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas dan Syaratnya
 customBreadcrumbLabel: Cara Mendapatkan Sertifikat Layak Nikah dari Puskesmas dan Syaratnya
-canonicalUrl: 'https://acaranya.id/artikel/cara-mendapatkan-sertifikat-layak-nikah/'
+canonicalUrl: '/artikel/cara-mendapatkan-sertifikat-layak-nikah/'
 noindex: false
 ---
-Menjelang pernikahan, ada banyak hal yang harus [dipersiapkan](https://acaranya.id/artikel/persiapan-pernikahan/), termasuk urusan administrasi seperti mendapatkan **sertifikat layak nikah**. Sertifikat ini adalah salah satu dokumen penting yang dikeluarkan oleh Puskesmas setelah melakukan pemeriksaan kesehatan bagi calon pengantin.
+Menjelang pernikahan, ada banyak hal yang harus [dipersiapkan](/artikel/persiapan-pernikahan/), termasuk urusan administrasi seperti mendapatkan **sertifikat layak nikah**. Sertifikat ini adalah salah satu dokumen penting yang dikeluarkan oleh Puskesmas setelah melakukan pemeriksaan kesehatan bagi calon pengantin.
 
 Selain menjadi persyaratan administrasi di KUA, sertifikat ini juga memberikan jaminan kesehatan bagi pasangan yang akan menikah.
 
@@ -91,4 +91,4 @@ Jangan lupa untuk mempersiapkan semua dokumen dan mengikuti prosedur dengan baik
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Pilih Acaranya ID untuk membuat **[undangan pernikahan online](https://acaranya.id/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!
+Pilih Acaranya ID untuk membuat **[undangan pernikahan online](/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!

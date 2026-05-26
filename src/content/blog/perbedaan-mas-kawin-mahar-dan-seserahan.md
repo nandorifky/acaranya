@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'
 customBreadcrumbLabel: 'Ketahui Perbedaan Mas Kawin, Mahar, dan Seserahan'
-canonicalUrl: 'https://acaranya.id/artikel/perbedaan-mas-kawin-mahar-dan-seserahan/'
+canonicalUrl: '/artikel/perbedaan-mas-kawin-mahar-dan-seserahan/'
 noindex: false
 ---
-Persiapan pernikahan memang melibatkan banyak hal yang perlu diperhatikan, mulai dari [venue](https://acaranya.id/artikel/tips-memilih-venue-pernikahan/), dekorasi, hingga berbagai pemberian yang memiliki makna khusus. Dalam tradisi pernikahan di Indonesia, ada beberapa istilah yang sering tertukar maknanya, yaitu mas kawin, mahar, dan seserahan.
+Persiapan pernikahan memang melibatkan banyak hal yang perlu diperhatikan, mulai dari [venue](/artikel/tips-memilih-venue-pernikahan/), dekorasi, hingga berbagai pemberian yang memiliki makna khusus. Dalam tradisi pernikahan di Indonesia, ada beberapa istilah yang sering tertukar maknanya, yaitu mas kawin, mahar, dan seserahan.
 
 Kamu mungkin sering mendengar istilah-istilah tersebut dan menganggapnya sama. Padahal, masing-masing memiliki arti, fungsi, dan ketentuan yang berbeda dalam prosesi pernikahan. Mari kita bahas secara detail agar kamu bisa memahami perbedaan antara mas kawin, mahar pernikahan, dan seserahan atau hantaran.
 
@@ -35,7 +35,7 @@ Istilah mas kawin sebenarnya merupakan kata lain dari mahar yang lebih umum digu
 
 Dalam penentuan mahar atau mas kawin, Islam mengajarkan untuk tidak memberatkan pihak mempelai pria. Yang terpenting adalah nilai keberkahan dan keikhlasan dalam memberikannya. Beberapa bentuk mahar yang sering dijadikan pilihan antara lain perhiasan emas, uang tunai, atau Al-Quran.
 
-**_BACA SELENGKAPNYA:_** [_6 Contoh Mahar Pernikahan dalam Islam dan Ketentuannya_](https://acaranya.id/artikel/contoh-mahar-pernikahan-dalam-islam/)
+**_BACA SELENGKAPNYA:_** [_6 Contoh Mahar Pernikahan dalam Islam dan Ketentuannya_](/artikel/contoh-mahar-pernikahan-dalam-islam/)
 
 ![A stylish display of wedding accessories including shoes, invitations, and a rosary on a chair.](/images/blog/content/pexels-photo-29391506-29391506.jpg)
 
@@ -54,7 +54,7 @@ Isi seserahan biasanya disesuaikan dengan kemampuan pihak mempelai pria dan kese
 *   Buah-buahan
 *   Perlengkapan rumah tangga
 
-**_BACA SELENGKAPNYA:_** [_Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!_](https://acaranya.id/artikel/seserahan-pernikahan/)
+**_BACA SELENGKAPNYA:_** [_Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!_](/artikel/seserahan-pernikahan/)
 
 ## Perbedaan Utama Antara Mahar dan Seserahan
 

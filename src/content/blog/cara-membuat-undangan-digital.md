@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Cara Membuat Undangan Digital Sendiri di HP dan Laptop Gratis
 customBreadcrumbLabel: Cara Membuat Undangan Digital Sendiri di HP dan Laptop Gratis
-canonicalUrl: 'https://acaranya.id/artikel/cara-membuat-undangan-digital/'
+canonicalUrl: '/artikel/cara-membuat-undangan-digital/'
 noindex: false
 ---
 Membuat [undangan digital](https://acaranya.id) sendiri sebenarnya sangat mudah dilakukan, bahkan bisa melalui HP atau laptop. Kamu bisa membuatnya secara gratis tanpa harus mengeluarkan biaya, meskipun tetap tergantung pada jenis undangan yang ingin kamu buat.
@@ -60,7 +60,7 @@ Undangan jenis ini terbilang agak sulit dibuat oleh orang awam. Namun beruntungn
 
 **NOTE:** Flexclip ini hanya bisa diakses atau digunakan pada desktop saja. Jadi, untuk di HP belum bisa.
 
-**BACA JUGA:** [Contoh Undangan Pernikahan Islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/)
+**BACA JUGA:** [Contoh Undangan Pernikahan Islami](/artikel/contoh-undangan-pernikahan-islami/)
 
 Silahkan ikuti langkah-langkah berikut ini untuk membuat undangan video:
 
@@ -87,11 +87,11 @@ Flexclip memungkinkan kamu untuk membuat undangan video digital melalui editor o
 
 Untuk membuat undangan digital website, kamu perlu memahami hosting, domain, dan wordpress. Selain itu juga, ini membutuhkan banyak biaya jika kamu membuat website sendiri.
 
-Karena itulah **Acaranya.id** hadir untuk meringkankan kamu yang ingin menggunakan undangan digital berbasis website untuk berbagai acara, baik itu pernikahan, [walimatul ursy](https://acaranya.id/services/undangan-digital-walimatul-ursy/), ulang tahun, hingga [khitan](https://acaranya.id/services/undangan-khitan-digital/) dan aqiqah.
+Karena itulah **Acaranya.id** hadir untuk meringkankan kamu yang ingin menggunakan undangan digital berbasis website untuk berbagai acara, baik itu pernikahan, [walimatul ursy](/services/undangan-digital-walimatul-ursy/), ulang tahun, hingga [khitan](/services/undangan-khitan-digital/) dan aqiqah.
 
 Kami akan memberikan fasilitas revisi sepuasnya untuk kamu yang ingin memiliki undangan website.
 
-**BACA JUGA:** [Contoh Undangan Pernikahan Digital](https://acaranya.id/artikel/contoh-undangan-pernikahan-digital/)
+**BACA JUGA:** [Contoh Undangan Pernikahan Digital](/artikel/contoh-undangan-pernikahan-digital/)
 
 Namun jika kamu memilih untuk membuat sendiri, silahkan ikuti langkah-langkah di bawah ini:
 
@@ -113,7 +113,7 @@ Namun jika kamu memilih untuk membuat sendiri, silahkan ikuti langkah-langkah di
 
 ![cara membuat undangan pernikahan online](/images/blog/content/image-50.png)
 
-Acaranya.id hadir sebagai solusi untuk kamu yang ingin membuat [undangan pernikahan online](https://acaranya.id/) tanpa ribet.
+Acaranya.id hadir sebagai solusi untuk kamu yang ingin membuat [undangan pernikahan online](/) tanpa ribet.
 
 Dengan bebagai fitur lengkap dan pelayanan yang kami tawarkan, membuat 300+ calon pengantin menggunakan layanan undangan nikah online dari Acaranya.id.
 
@@ -121,7 +121,7 @@ Proses order yang mudah, pengerjaan cepat, pelayanan profesional, hingga revisi 
 
 **Cara membuat undangan pernikahan online** dari kami memiliki proses yang sangat mudah:
 
-1.  Pilih desain undangan. Kamu bisa memilih desain undangan sesuai kode yang tertera pada halaman [Catalog Desain](https://acaranya.id/desain-undangan-digital/).
+1.  Pilih desain undangan. Kamu bisa memilih desain undangan sesuai kode yang tertera pada halaman [Catalog Desain](/desain-undangan-digital/).
 2.  Hubungi kami. Kamu bisa langsung hubungi kami jika sudah menemukan desain yang pas.
 3.  Konsultasi desain. Kami sangat terbuka untuk kamu yang ingin custom desain, silahkan konsultasikan keinginanmu sekarang.
 4.  Pembayaran. Dengan berbagai kelebihan, kamu tidak perlu mengeluarkan uang banyak, silahkan lakukan pembayaran melalui metode yang sudah kami siapkan.

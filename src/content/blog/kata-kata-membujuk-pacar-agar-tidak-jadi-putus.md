@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: '10 Kata-Kata Membujuk Pacar Agar Tidak Jadi Putus, Bikin Luluh!'
 customBreadcrumbLabel: '10 Kata-Kata Membujuk Pacar Agar Tidak Jadi Putus, Bikin Luluh!'
-canonicalUrl: 'https://acaranya.id/artikel/kata-kata-membujuk-pacar-agar-tidak-jadi-putus/'
+canonicalUrl: '/artikel/kata-kata-membujuk-pacar-agar-tidak-jadi-putus/'
 noindex: false
 ---
 Hubungan asmara memang penuh dengan liku-liku, kadang dihadapkan pada permasalahan yang membuat salah satu pihak berpikir untuk berpisah.
@@ -57,7 +57,7 @@ Dalam hubungan, tidak semua masalah bisa diselesaikan dalam sekejap. Terkadang, 
 
 Namun, sambil menunggu, pastikan untuk tetap memberikan perhatian dan kasih sayang, agar pasangan merasa tetap dicintai meskipun sedang dalam masa jeda.
 
-_**BACA JUGA:** [Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah](https://acaranya.id/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)_
+_**BACA JUGA:** [Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah](/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)_
 
 ## 4\. “Aku ingin kita mencoba lagi, memperbaiki semua ini, pelan-pelan.”
 
@@ -109,7 +109,7 @@ Cobalah untuk mengatur waktu yang tepat untuk berbicara. Jangan memaksakan disku
 
 Sebuah hubungan yang sehat membutuhkan komunikasi yang baik, dan dengan kepala dingin, segala masalah bisa dicari solusinya.
 
-**_BACA JUGA:_** [_Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu_](https://acaranya.id/artikel/tanda-mantan-tidak-akan-kembali/)
+**_BACA JUGA:_** [_Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu_](/artikel/tanda-mantan-tidak-akan-kembali/)
 
 ## 10\. “Aku yakin kita bisa jadi lebih baik setelah semua ini.”
 

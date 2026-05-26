@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Bolehkah Menikah di Bulan Ramadhan? Penjelasan Lengkap Berdasarkan Hukum Islam
 customBreadcrumbLabel: Bolehkah Menikah di Bulan Ramadhan? Penjelasan Lengkap Berdasarkan Hukum Islam
-canonicalUrl: 'https://acaranya.id/artikel/menikah-di-bulan-ramadhan/'
+canonicalUrl: '/artikel/menikah-di-bulan-ramadhan/'
 noindex: false
 ---
 Banyak pertanyaan bermunculan di masyarakat mengenai hukum menikah di bulan Ramadhan. Beberapa orang mungkin ragu karena bulan Ramadhan identik dengan ibadah puasa dan peningkatan spiritualitas. Keraguan ini wajar, mengingat pentingnya menjalankan ibadah dengan sebaik-baiknya selama bulan suci ini.
@@ -66,7 +66,7 @@ Menikah di bulan Ramadhan memiliki beberapa hikmah dan keutamaan. Berikut bebera
 *   **Menjadi contoh bagi orang lain:** Pernikahan yang dilangsungkan dengan khusyuk dan sederhana di bulan Ramadhan dapat menjadi contoh bagi orang lain.
 *   **Menjadi awal yang baik untuk membangun keluarga sakinah:** Pernikahan di bulan Ramadhan dapat menjadi awal yang baik untuk membangun keluarga yang sakinah, mawaddah, dan rahmah.
 
-**BACA JUGA:** [Apakah Cincin Tunangan Boleh Dijual? Ini Penjelasan Menurut Islam](https://acaranya.id/artikel/apakah-cincin-tunangan-boleh-dijual/)
+**BACA JUGA:** [Apakah Cincin Tunangan Boleh Dijual? Ini Penjelasan Menurut Islam](/artikel/apakah-cincin-tunangan-boleh-dijual/)
 
 ## Mitos dan Kesalahpahaman Seputar Menikah di Bulan Ramadhan
 

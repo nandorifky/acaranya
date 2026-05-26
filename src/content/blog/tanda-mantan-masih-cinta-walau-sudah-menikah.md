@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah
 customBreadcrumbLabel: Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah
-canonicalUrl: 'https://acaranya.id/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/'
+canonicalUrl: '/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/'
 noindex: false
 ---
 **Apakah mantan masih cinta walau sudah menikah?** Pertanyaan ini bisa jadi mencuat saat mantan tiba-tiba muncul kembali, entah dalam bentuk pesan singkat atau sekadar like di unggahan media sosial.
@@ -63,7 +63,7 @@ Terkadang, mantan merasa bahwa tidak ada orang lain yang bisa memahami dirinya l
 
 Namun, penting juga untuk menjaga jarak jika situasi ini mulai membuat tidak nyaman. Ada batasan yang harus dijaga, terutama jika mantan sudah memiliki kehidupan baru dengan pasangan.
 
-**_**B**ACA JUGA:_** [_Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu_](https://acaranya.id/artikel/tanda-mantan-tidak-akan-kembali/)
+**_**B**ACA JUGA:_** [_Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu_](/artikel/tanda-mantan-tidak-akan-kembali/)
 
 ## 5\. Membandingkan Pasangan dengan Diri Kita
 
@@ -101,7 +101,7 @@ Cemburu adalah tanda emosional yang kuat. Jika mantan masih merasa tidak nyaman 
 
 Namun, tentu saja penting untuk menjaga jarak dan menghormati hubungan baru yang sedang dijalani, baik oleh mantan maupun oleh diri sendiri.
 
-**_BACA JUGA:_** [_20 Ucapan Selamat Menikah untuk Mantan, Sudahlah!_](https://acaranya.id/artikel/ucapan-selamat-menikah-untuk-mantan/)
+**_BACA JUGA:_** [_20 Ucapan Selamat Menikah untuk Mantan, Sudahlah!_](/artikel/ucapan-selamat-menikah-untuk-mantan/)
 
 * * *
 

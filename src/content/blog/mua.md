@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Kepanjangan MUA Adalah “Make Up Artist”, Pahami Definisinya'
 customBreadcrumbLabel: 'Kepanjangan MUA Adalah “Make Up Artist”, Pahami Definisinya'
-canonicalUrl: 'https://acaranya.id/artikel/mua/'
+canonicalUrl: '/artikel/mua/'
 noindex: false
 ---
 Profesi Make Up Artist (MUA) saat ini semakin populer dan dicari banyak orang. Di dunia kecantikan, seorang MUA tidak hanya berperan dalam mempercantik, tetapi juga memahami kebutuhan setiap klien agar tampil percaya diri.

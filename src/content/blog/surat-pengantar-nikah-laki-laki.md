@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Contoh'
 customBreadcrumbLabel: 'Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Contoh'
-canonicalUrl: 'https://acaranya.id/artikel/surat-pengantar-nikah-laki-laki/'
+canonicalUrl: '/artikel/surat-pengantar-nikah-laki-laki/'
 noindex: false
 ---
 Bagi para calon mempelai laki-laki, salah satu langkah penting dalam proses pernikahan adalah membuat surat pengantar nikah. Surat ini merupakan dokumen resmi yang diperlukan untuk mengurus akad nikah di Kantor Urusan Agama (KUA) atau lembaga berwenang lainnya sesuai dengan agama dan kepercayaan.

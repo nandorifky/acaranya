@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk Akal
 customBreadcrumbLabel: 8 Alasan Tidak Bisa Hadir di Acara Pernikahan yang Masuk Akal
-canonicalUrl: 'https://acaranya.id/artikel/alasan-tidak-bisa-hadir-di-acara-pernikahan/'
+canonicalUrl: '/artikel/alasan-tidak-bisa-hadir-di-acara-pernikahan/'
 noindex: false
 ---
 Tidak bisa hadir di acara pernikahan mungkin jadi dilema tersendiri. Apakah harus memberikan alasan jujur atau mencari cara yang lebih halus? Kadang, kesibukan atau kondisi tertentu membuat keputusan untuk tidak hadir sulit dihindari, namun harus tetap disampaikan dengan cara yang bijak.
@@ -51,7 +51,7 @@ Pekerjaan sering kali menjadi **alasan utama** banyak orang tidak bisa hadir di 
 
 Jika ada pekerjaan mendesak yang tidak bisa ditinggalkan, ini bisa dijadikan alasan yang sah untuk **tidak hadir acara**. Namun, penting juga untuk menyampaikannya dengan cara yang sopan dan jelas.
 
-**BACA JUGA:** [_30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp_](https://acaranya.id/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/)
+**BACA JUGA:** [_30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp_](/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/)
 
 ## 4\. Masalah Keluarga
 
@@ -81,6 +81,6 @@ Sebuah studi dari _Journal of Social and Personal Relationships_ menunjukkan bah
 
 ## 8\. Prinsip Pribadi
 
-Terakhir, ada kalanya seseorang menolak menghadiri acara pernikahan karena prinsip pribadi, seperti keyakinan terhadap konsep _[open marriage](https://acaranya.id/artikel/arti-open-marriage-dalam-pernikahan/)_ atau pernikahan yang tidak sejalan dengan nilai-nilai yang diyakini. Meskipun alasan ini mungkin jarang disampaikan secara langsung, tetapi prinsip tetap menjadi faktor penting.
+Terakhir, ada kalanya seseorang menolak menghadiri acara pernikahan karena prinsip pribadi, seperti keyakinan terhadap konsep _[open marriage](/artikel/arti-open-marriage-dalam-pernikahan/)_ atau pernikahan yang tidak sejalan dengan nilai-nilai yang diyakini. Meskipun alasan ini mungkin jarang disampaikan secara langsung, tetapi prinsip tetap menjadi faktor penting.
 
 Dalam hal ini, lebih baik mengungkapkan dengan cara yang bijak dan menghargai keputusan tuan rumah, meskipun tidak sejalan dengan nilai-nilai pribadi.

@@ -20,14 +20,14 @@ imageCaption: ''
 status: published
 seoTitle: 70 Contoh Ucapan Happy Wedding untuk Sahabat
 customBreadcrumbLabel: 70 Contoh Ucapan Happy Wedding untuk Sahabat
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-happy-wedding-untuk-sahabat/'
+canonicalUrl: '/artikel/ucapan-happy-wedding-untuk-sahabat/'
 noindex: false
 ---
 Pernikahan adalah momen istimewa dalam kehidupan seseorang, apalagi jika itu adalah sahabat kita. Memberikan ucapan yang tepat untuk momen bahagia ini akan memberikan kesan mendalam.
 
 Namun, terkadang merangkai kata-kata yang menyentuh dan bermakna tidaklah mudah.
 
-Untuk membantu kamu, berikut kita sajikan 70 ucapan _Happy Wedding_ untuk sahabat yang bisa kamu pilih, mulai dari yang menyentuh, simple, aesthetic, hingga [ucapan Islami](https://acaranya.id/artikel/ucapan-anniversary-pernikahan-islami-untuk-suami/).
+Untuk membantu kamu, berikut kita sajikan 70 ucapan _Happy Wedding_ untuk sahabat yang bisa kamu pilih, mulai dari yang menyentuh, simple, aesthetic, hingga [ucapan Islami](/artikel/ucapan-anniversary-pernikahan-islami-untuk-suami/).
 
 ## Ucapan Happy Wedding untuk Sahabat Bahasa Inggris
 
@@ -65,7 +65,7 @@ Kata-kata yang menyentuh hati bisa menjadi pilihan tepat untuk menyampaikan keba
 
 ![kartu ucapan happy wedding untuk sahabat aesthetic](/images/blog/content/kartu-ucapan-happy-wedding-aesthetic-1024x683.webp)
 
-Ingin memberikan [ucapan pernikahan](https://acaranya.id/artikel/ucapan-selamat-menikah/) yang _aesthetic_? Kata-kata indah ini bisa menjadi inspirasi:
+Ingin memberikan [ucapan pernikahan](/artikel/ucapan-selamat-menikah/) yang _aesthetic_? Kata-kata indah ini bisa menjadi inspirasi:
 
 *   “Di bawah langit yang biru, cinta kalian akan terus mekar seperti bunga di musim semi.”
 *   “Semoga hari ini menjadi awal dari petualangan cinta yang indah dan tak terlupakan.”

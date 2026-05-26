@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 10 Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan
 customBreadcrumbLabel: 10 Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/baju-kebaya-modern-untuk-pesta-pernikahan/'
+canonicalUrl: '/artikel/baju-kebaya-modern-untuk-pesta-pernikahan/'
 noindex: false
 ---
 ![Manekin memakai kebaya off-shoulder modern brokat berwarna ungu muda](/images/blog/content/Screenshot-2024-07-29-075755.png)
@@ -138,7 +138,7 @@ Untuk mereka yang menyukai kesederhanaan, kebaya dengan desain minimalis modern 
 
 ## Tips Memilih Model Baju Kebaya Modern untuk Acara Resepsi Pernikahan
 
-Memilih model kebaya modern yang tepat untuk acara [pernikahan](https://acaranya.id/artikel/rekomendasi-kado-pernikahan/) bukanlah tugas yang mudah. Berikut beberapa tips yang bisa membantu kamu:
+Memilih model kebaya modern yang tepat untuk acara [pernikahan](/artikel/rekomendasi-kado-pernikahan/) bukanlah tugas yang mudah. Berikut beberapa tips yang bisa membantu kamu:
 
 1.  **Sesuaikan dengan Tema Pernikahan**: Pastikan kebaya yang kamu pilih sesuai dengan tema dan nuansa pernikahan. Misalnya, untuk pernikahan tradisional, kamu bisa memilih kebaya **brokat** dengan detail klasik.
 2.  **Pilih Bahan yang Nyaman**: Kenyamanan adalah kunci. Pilih bahan yang nyaman dipakai sepanjang acara, seperti katun atau satin yang lembut di kulit.

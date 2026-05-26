@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Kata-Kata Undangan Pernikahan Online
 customBreadcrumbLabel: Kata-Kata Undangan Pernikahan Online
-canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online/'
+canonicalUrl: '/artikel/kata-kata-undangan-pernikahan-online/'
 noindex: false
 ---
 Rangkaian kata dalam [undangan pernikahan online](https://acaranya.id) tentu perlu diperhatikan oleh penyelenggara acara. Tentunya, ini menjadi salah satu faktor penting karena terkandung sopan santun dan etika di dalamnya.
@@ -71,13 +71,13 @@ Desain undangan akan menjadi petunjuk pertama tamu kamu tentang apa yang kamu re
 
 Kamu tidak perlu memberikan banyak detail, tetapi petunjuk tentang apa yang akan dikenakan, apakah akan ada makanan, dan perayaan seperti apa yang diharapkan akan membantu para tamu untuk bersiap-siap.
 
-**BACA JUGA:** [12 Kumpulan Kata-Kata Undangan Pernikahan Singkat dan Sopan](https://acaranya.id/artikel/kata-kata-undangan-pernikahan/)
+**BACA JUGA:** [12 Kumpulan Kata-Kata Undangan Pernikahan Singkat dan Sopan](/artikel/kata-kata-undangan-pernikahan/)
 
 ## Contoh Kata-Kata Undangan Pernikahan Online untuk WhatsApp dan Media Sosial Lainnya
 
 ![contoh kata kata undangan pernikahan online](/images/blog/content/image-69.png)
 
-Penulisan [undangan pernikahan digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/) tidak bisa dilakukan secara sembarangan. Terdapat etika dan urutan yang perlu kamu perhatikan didalamnya.
+Penulisan [undangan pernikahan digital](/artikel/cara-membuat-undangan-digital/) tidak bisa dilakukan secara sembarangan. Terdapat etika dan urutan yang perlu kamu perhatikan didalamnya.
 
 Jika tidak mau ribet, kamu bisa menggunakan contoh **kata-kata undangan pernikahan online** yang bisa dijadikan sebagai referensi:
 
@@ -95,7 +95,7 @@ Jika tidak mau ribet, kamu bisa menggunakan contoh **kata-kata undangan pernikah
 >   
 > _Wassalamualaikum warahmatullahi wabarakatuh_.
 
-### 2\. [Contoh Undangan Pernikahan Online Via WA](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/) untuk Teman
+### 2\. [Contoh Undangan Pernikahan Online Via WA](/artikel/kata-kata-undangan-lewat-wa/) untuk Teman
 
 > _Assalamualaikum warahmatullahi wabarakatuh._  
 >   
@@ -132,7 +132,7 @@ Jika tidak mau ribet, kamu bisa menggunakan contoh **kata-kata undangan pernikah
 > _Besar harapan kami Bapak/Ibu/Saudara/Saudari dapat menghadiri acara pernikahan ini. Terima kasih atas perhatiannya._  
 > _Wassalamualaikum warahmatullahi wabarakatuh._
 
-### 5\. Contoh Kalimat Mengundang [Undangan Pernikahan Digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/) Formal
+### 5\. Contoh Kalimat Mengundang [Undangan Pernikahan Digital](/artikel/cara-membuat-undangan-digital/) Formal
 
 > _Kepada: Bapak/Ibu_  
 > _Perihal: Mengundang pada acara pernikahan_  

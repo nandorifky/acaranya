@@ -19,10 +19,10 @@ imageCaption: ''
 status: published
 seoTitle: Biaya Akad Nikah di KUA Terbaru dan Syaratnya
 customBreadcrumbLabel: Biaya Akad Nikah di KUA Terbaru dan Syaratnya
-canonicalUrl: 'https://acaranya.id/artikel/biaya-akad-nikah-di-kua/'
+canonicalUrl: '/artikel/biaya-akad-nikah-di-kua/'
 noindex: false
 ---
-Merencanakan pernikahan adalah sebuah perjalanan yang penuh lika-liku manis. Mulai dari [mencari vendor](https://acaranya.id/artikel/pengertian-vendor-pernikahan-adalah/), mencocokkan tanggal, hingga mempersiapkan daftar tamu.
+Merencanakan pernikahan adalah sebuah perjalanan yang penuh lika-liku manis. Mulai dari [mencari vendor](/artikel/pengertian-vendor-pernikahan-adalah/), mencocokkan tanggal, hingga mempersiapkan daftar tamu.
 
 Di tengah banyaknya hal yang harus dipikirkan, satu pertanyaan umum sering kali muncul di benak calon pengantin, yaitu berapa sih biaya akad nikah di KUA? Ada yang bilang gratis, tapi tak sedikit juga yang mendengar ada biaya tertentu. Kebingungan ini wajar, dan tentu bisa menambah beban pikiran kalian.
 
@@ -40,7 +40,7 @@ Namun, status “gratis” ini memiliki syarat dan ketentuan yang berlaku. Kebij
 
 Umumnya, jam kerja KUA adalah dari hari Senin hingga Jumat, sekitar pukul 08.00 hingga 16.00 waktu setempat. Jadi, jika kalian berencana menikah di KUA pada hari dan jam tersebut, kalian tidak perlu mengeluarkan uang sepeser pun untuk biaya pencatatannya.
 
-**BACA JUGA:** [Biaya Akad Nikah Ditanggung Siapa?](https://acaranya.id/artikel/biaya-akad-nikah-ditanggung-siapa/)
+**BACA JUGA:** [Biaya Akad Nikah Ditanggung Siapa?](/artikel/biaya-akad-nikah-ditanggung-siapa/)
 
 ## Rincian Biaya Akad Nikah di Luar KUA (di Rumah atau Gedung)
 
@@ -98,4 +98,4 @@ Jadi, kesimpulannya sangat jelas. Biaya akad nikah di KUA adalah **gratis** jika
 
 Kunci utamanya adalah persiapan dokumen yang lengkap dan pendaftaran yang dilakukan tepat waktu, idealnya 1-2 bulan sebelum hari pernikahan.
 
-Dengan informasi ini, semoga tidak ada lagi keraguan dan kalian bisa fokus mempersiapkan momen sakral penyatuan cinta kalian. Setelah urusan KUA beres, saatnya membuat hari bahagiamu semakin berkesan dengan [undangan digital](https://acaranya.id/) premium dari [**Acaranya.id**](https://acaranya.id/)!
+Dengan informasi ini, semoga tidak ada lagi keraguan dan kalian bisa fokus mempersiapkan momen sakral penyatuan cinta kalian. Setelah urusan KUA beres, saatnya membuat hari bahagiamu semakin berkesan dengan [undangan digital](/) premium dari [**Acaranya.id**](/)!

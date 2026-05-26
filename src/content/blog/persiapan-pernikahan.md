@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 14 Daftar yang Harus Dipersiapkan untuk Pernikahan
 customBreadcrumbLabel: 14 Daftar yang Harus Dipersiapkan untuk Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/persiapan-pernikahan/'
+canonicalUrl: '/artikel/persiapan-pernikahan/'
 noindex: false
 ---
 Merencanakan pernikahan memang bisa jadi pengalaman yang penuh semangat, tapi juga nggak lepas dari tantangan. Setuju, kan? Mulai dari memilih gaun pengantin impian sampai mengatur tamu undangan, ada banyak sekali hal yang perlu dipikirkan.
@@ -35,7 +35,7 @@ Langkah pertama yang jelas harus dilakukan adalah menentukan tanggal pernikahan.
 
 Memilih tanggal juga bisa mempertimbangkan hari-hari besar atau momen penting lain dalam hidup. Jangan lupa, lihat kalender dan pastikan tak ada agenda penting lainnya.
 
-**_BACA:_** [_Daftar Tanggal Cantik untuk Menikah Tahun 2025_](https://acaranya.id/artikel/daftar-tanggal-cantik-untuk-menikah-tahun-2025/)
+**_BACA:_** [_Daftar Tanggal Cantik untuk Menikah Tahun 2025_](/artikel/daftar-tanggal-cantik-untuk-menikah-tahun-2025/)
 
 ## 2\. Budget Pernikahan
 
@@ -43,7 +43,7 @@ Budget atau anggaran adalah jantung dari **persiapan pernikahan**. Pikirkan angg
 
 Sering kali, biaya bisa membengkak karena banyaknya detail yang terlupakan di awal. Oleh karena itu, buatlah perencanaan finansial yang matang agar tidak pusing di tengah jalan.
 
-> _Silahkan baca panduan tentang **“[Tips Mempersiapkan Keuangan Sebelum Menikah](https://acaranya.id/artikel/mempersiapkan-keuangan-sebelum-menikah/)“** ini, mungkin cukup membantu juga dalam merencanakan anggaran pernikahanmu._
+> _Silahkan baca panduan tentang **“[Tips Mempersiapkan Keuangan Sebelum Menikah](/artikel/mempersiapkan-keuangan-sebelum-menikah/)“** ini, mungkin cukup membantu juga dalam merencanakan anggaran pernikahanmu._
 
 ## 3\. Memilih Venue Pernikahan
 
@@ -53,17 +53,17 @@ Venue atau lokasi pernikahan bisa dibilang salah satu hal yang paling penting da
 
 Jangan lupa untuk mengecek kapasitas venue, layanan yang disediakan, dan tentu saja, harganya. Buat juga daftar venue alternatif sebagai cadangan, just in case!
 
-> _Untuk memudahkan dalam merencanakan pernikahan, kamu bisa manfaatkan **[wedding checklist](https://acaranya.id/artikel/wedding-checklist/)** dari Acaranya.id. Namun, silahkan baca artikel ini hingga habis terlebih dahulu!_
+> _Untuk memudahkan dalam merencanakan pernikahan, kamu bisa manfaatkan **[wedding checklist](/artikel/wedding-checklist/)** dari Acaranya.id. Namun, silahkan baca artikel ini hingga habis terlebih dahulu!_
 
 ## 4\. Mengurus Dokumen Pernikahan
 
 Siapa bilang cinta saja sudah cukup? Untuk menikah, tetap butuh dokumen! Pastikan mengurus dokumen pernikahan jauh sebelum hari H, karena ini bisa memakan waktu.
 
-Biasanya, ada beberapa dokumen penting yang diperlukan, seperti KTP, KK, dan [surat pengantar](https://acaranya.id/artikel/surat-pengantar-nikah-laki-laki/) dari RT/RW setempat. Untuk pernikahan agama tertentu, mungkin ada syarat tambahan yang harus dipenuhi.
+Biasanya, ada beberapa dokumen penting yang diperlukan, seperti KTP, KK, dan [surat pengantar](/artikel/surat-pengantar-nikah-laki-laki/) dari RT/RW setempat. Untuk pernikahan agama tertentu, mungkin ada syarat tambahan yang harus dipenuhi.
 
 Selain itu, jika menikah lintas negara atau agama, persiapannya bisa lebih rumit. Jadi, pastikan semua dokumen siap agar pernikahan bisa berlangsung lancar tanpa kendala administratif.
 
-**_BACA:_** [_Surat Pengantar Nikah dari RT_](https://acaranya.id/artikel/surat-pengantar-nikah-dari-rt/)
+**_BACA:_** [_Surat Pengantar Nikah dari RT_](/artikel/surat-pengantar-nikah-dari-rt/)
 
 ## 5\. Gaun Pengantin
 
@@ -71,7 +71,7 @@ Momen memilih gaun pengantin seringkali menjadi salah satu bagian paling seru da
 
 Tak hanya gaun, jangan lupakan sepatu, aksesoris, dan makeup yang akan digunakan. Semuanya harus serasi, ya!
 
-_**BACA:**_ [_Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan_](https://acaranya.id/artikel/baju-kebaya-modern-untuk-pesta-pernikahan/)
+_**BACA:**_ [_Rekomendasi Model Baju Kebaya Modern untuk Pesta Pernikahan_](/artikel/baju-kebaya-modern-untuk-pesta-pernikahan/)
 
 ## 6\. Menentukan Riasan Pengantin
 
@@ -91,7 +91,7 @@ Mulailah dengan membuat daftar keluarga dan teman terdekat, kemudian sesuaikan d
 
 Ingat, semakin banyak tamu, semakin besar biaya. Jadi, susunlah daftar tamu dengan hati-hati dan jangan lupa mempertimbangkan ketersediaan tempat duduk dan katering.
 
-**_BACA:_** [_Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar_](https://acaranya.id/artikel/etika-penulisan-nama-tamu-undangan/)
+**_BACA:_** [_Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar_](/artikel/etika-penulisan-nama-tamu-undangan/)
 
 ## 8\. Souvenir Pernikahan
 
@@ -129,13 +129,13 @@ Pilihlah hiburan yang bisa dinikmati oleh semua tamu, baik yang muda maupun yang
 
 ![persiapan seserahan dan mahar pernikahan](/images/blog/content/isi-seserahan-pernikahan.jpg)
 
-Dalam pernikahan tradisional di Indonesia, seserahan dan mahar memiliki peran yang sangat penting. [Seserahan](https://acaranya.id/artikel/perbedaan-seserahan-lamaran-dan-pernikahan/) biasanya terdiri dari barang-barang yang diberikan oleh calon mempelai pria kepada calon mempelai wanita, seperti perlengkapan kecantikan, pakaian, hingga perlengkapan ibadah. Seserahan ini melambangkan tanggung jawab dan komitmen untuk menjaga dan merawat pasangan.
+Dalam pernikahan tradisional di Indonesia, seserahan dan mahar memiliki peran yang sangat penting. [Seserahan](/artikel/perbedaan-seserahan-lamaran-dan-pernikahan/) biasanya terdiri dari barang-barang yang diberikan oleh calon mempelai pria kepada calon mempelai wanita, seperti perlengkapan kecantikan, pakaian, hingga perlengkapan ibadah. Seserahan ini melambangkan tanggung jawab dan komitmen untuk menjaga dan merawat pasangan.
 
 Sementara itu, mahar adalah pemberian wajib yang menjadi syarat sah pernikahan dalam beberapa tradisi, terutama dalam ajaran Islam. Mahar bisa berupa uang, emas, atau benda-benda berharga lainnya yang disepakati oleh kedua belah pihak. Tidak perlu memaksakan diri, yang penting mahar dan seserahan disiapkan dengan niat baik dan sesuai kesepakatan keluarga.
 
 Persiapan seserahan dan mahar biasanya dilakukan jauh sebelum hari H. Jadi, pastikan semuanya sudah siap agar momen istimewa ini bisa berjalan lancar tanpa hambatan.
 
-[**Cek Seserahan Pernikahan**](https://acaranya.id/artikel/seserahan-pernikahan/)
+[**Cek Seserahan Pernikahan**](/artikel/seserahan-pernikahan/)
 
 ## 13\. Cincin Pernikahan
 

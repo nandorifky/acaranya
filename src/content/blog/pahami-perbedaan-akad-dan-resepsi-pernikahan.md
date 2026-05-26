@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Pahami Perbedaan Akad dan Resepsi Pernikahan
 customBreadcrumbLabel: Pahami Perbedaan Akad dan Resepsi Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/pahami-perbedaan-akad-dan-resepsi-pernikahan/'
+canonicalUrl: '/artikel/pahami-perbedaan-akad-dan-resepsi-pernikahan/'
 noindex: false
 ---
 Pernikahan adalah momen sakral yang penuh makna dalam kehidupan seseorang. Bagi pasangan yang sedang mempersiapkan pernikahan, memahami setiap tahap prosesi pernikahan menjadi hal penting. Dua bagian utama yang biasanya ada dalam pernikahan di Indonesia adalah **akad** dan **resepsi pernikahan**. Meskipun keduanya sering dianggap sebagai satu kesatuan, ternyata akad dan resepsi memiliki perbedaan signifikan, baik dalam aspek hukum, tradisi, maupun tujuan.
@@ -65,7 +65,7 @@ Beberapa hal yang biasanya ada dalam resepsi pernikahan antara lain:
 
 Resepsi pernikahan seringkali memakan waktu yang lebih lama dibandingkan akad. Selain sebagai perayaan, resepsi menjadi simbol kebersamaan dan apresiasi terhadap para tamu yang telah hadir untuk merayakan momen bahagia tersebut.
 
-**_BACA JUGA:_** [_Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia_](https://acaranya.id/artikel/perbedaan-ngunduh-mantu-dan-resepsi/)
+**_BACA JUGA:_** [_Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia_](/artikel/perbedaan-ngunduh-mantu-dan-resepsi/)
 
 ## Perbedaan Utama Antara Akad dan Resepsi Pernikahan
 

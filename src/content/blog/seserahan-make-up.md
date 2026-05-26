@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan
 customBreadcrumbLabel: Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/seserahan-make-up/'
+canonicalUrl: '/artikel/seserahan-make-up/'
 noindex: false
 ---
 Dalam perayaan pernikahan di Indonesia, seserahan memegang peranan penting sebagai simbolisasi berbagai harapan baik yang diberikan kepada pengantin. Di antara beragam item seserahan, seserahan make up tidak hanya menambah kecantikan namun juga mempersiapkan pengantin untuk tampil sempurna di hari istimewa.
@@ -74,7 +74,7 @@ Berikut adalah rincian produk yang bisa dijadikan contoh seserahan make up yang 
 *   **Beauty blender/sponge**: Untuk aplikasi foundation dan concealer yang sempurna, spons make up menjadi alat yang wajib ada dalam kit.
 *   **Makeup pouch**: Sebuah tas make up yang chic dan fungsional untuk menyimpan semua produk ini secara rapi dan aman.
 
-Setiap item dalam daftar ini dipilih tidak hanya karena kepraktisannya tetapi juga karena manfaat jangka panjang yang dapat diberikan kepada pengantin. Memilih **paket seserahan make up** yang sederhana namun lengkap akan sangat membantu calon pengantin dalam [persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/).
+Setiap item dalam daftar ini dipilih tidak hanya karena kepraktisannya tetapi juga karena manfaat jangka panjang yang dapat diberikan kepada pengantin. Memilih **paket seserahan make up** yang sederhana namun lengkap akan sangat membantu calon pengantin dalam [persiapan pernikahan](/artikel/persiapan-pernikahan/).
 
 ## Tips Memilih Produk Make Up untuk Isi Seserahan
 
@@ -161,4 +161,4 @@ Nah, itulah beberapa tips dan rekomendasi untuk memilih seserahan make up yang s
 
 Jangan lupa untuk menyesuaikan produk dengan kebutuhan dan jenis kulit pengantin, memilih produk dari brand terpercaya seperti Seserahan Make Up Wardah, dan mengintegrasikan produk-produk favorit calon pengantin untuk sentuhan yang lebih personal.
 
-Untuk lebih banyak ide dan inspirasi tentang seserahan make up apa saja yang bisa kamu gunakan, baca artikel kami tentang “[Seserahan Pernikahan](https://acaranya.id/artikel/seserahan-pernikahan/)” yang sudah terbit. Kamu akan menemukan berbagai informasi berguna yang dapat membantu kamu dalam merencanakan segala aspek pernikahanmu dengan lebih baik.
+Untuk lebih banyak ide dan inspirasi tentang seserahan make up apa saja yang bisa kamu gunakan, baca artikel kami tentang “[Seserahan Pernikahan](/artikel/seserahan-pernikahan/)” yang sudah terbit. Kamu akan menemukan berbagai informasi berguna yang dapat membantu kamu dalam merencanakan segala aspek pernikahanmu dengan lebih baik.

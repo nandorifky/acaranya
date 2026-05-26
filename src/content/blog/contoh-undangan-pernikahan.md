@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Undangan Pernikahan
 customBreadcrumbLabel: Contoh Undangan Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan/'
+canonicalUrl: '/artikel/contoh-undangan-pernikahan/'
 noindex: false
 ---
 Bagi banyak orang, menikah adalah peristiwa yang membahagiakan. Dalam momen ini, tentu kamu ingin mengundang semua orang, baik itu keluarga, kerabat, atau orang lain yang kamu kenal untuk hadir dalam acara pernikahan.
@@ -36,17 +36,17 @@ Nah, disini kami akan membagikan beberapa **contoh undangan pernikahan** yang bi
 
 ![Contoh Undangan Pernikahan Simple](/images/blog/content/image-2.png)
 
-[Undangan pernikahan](https://acaranya.id/) simple biasanya hanya terdiri dari satu lembar saja. Yang mana, ini hanya berisi pokok informasi acara pernikahan, seperti nama pengantin, tanggal, pukul, dan lokasi.
+[Undangan pernikahan](/) simple biasanya hanya terdiri dari satu lembar saja. Yang mana, ini hanya berisi pokok informasi acara pernikahan, seperti nama pengantin, tanggal, pukul, dan lokasi.
 
 Namun, kamu masih bisa custom desain undangan sesuai selera agar terlihat lebih cantik dan menarik.
 
-## 2\. [Contoh Undangan Pernikahan Islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/)
+## 2\. [Contoh Undangan Pernikahan Islami](/artikel/contoh-undangan-pernikahan-islami/)
 
 ![Contoh Undangan Pernikahan Islami](/images/blog/content/image-3.png)
 
 Sumber: [Pinterest](https://id.pinterest.com/acaranya/)
 
-Contoh undangan pernikahan selanjutnya yaitu bertema [islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/), yang jelas ini dikhususkan untuk orang muslim.
+Contoh undangan pernikahan selanjutnya yaitu bertema [islami](/artikel/contoh-undangan-pernikahan-islami/), yang jelas ini dikhususkan untuk orang muslim.
 
 Kamu bisa membuat desain undangan berukuran landscape sehingga dapat dilipat menjadi 2 bagian halaman. Untuk desain, silahkan sesuaikan preferensi masing-masing.
 
@@ -66,7 +66,7 @@ Pada umumnya, undangan online ini dibuat berbasis website. Sehingga, pengundang 
 
 Selain harga yang terjangkau, undangan pernikahan online yang kami tawarkan memiliki puluhan desain yang bisa kamu pilih sesuai selera.
 
-## 5\. [Contoh Undangan Pernikahan Digital](https://acaranya.id/artikel/contoh-undangan-pernikahan-digital/)
+## 5\. [Contoh Undangan Pernikahan Digital](/artikel/contoh-undangan-pernikahan-digital/)
 
 ![Contoh Undangan Pernikahan Digital](/images/blog/content/image-7.png)
 
@@ -82,7 +82,7 @@ Undangan pernikahan tulis tangan di atas dibuat dengan desain minimalis. Namun s
 
 Tentukan juga warna pena yang akan kamu gunakan, dan pakailah kertas kosong polos yang tebal agar terlihat lebih elegan.
 
-**BACA JUGA:** [Kata-Kata Undangan Pernikahan](https://acaranya.id/artikel/kata-kata-undangan-pernikahan/)
+**BACA JUGA:** [Kata-Kata Undangan Pernikahan](/artikel/kata-kata-undangan-pernikahan/)
 
 ## 7\. Contoh Undangan Pernikahan Dalam Bahasa Inggris
 

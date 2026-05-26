@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 20 Contoh Tema Undangan Digital Tanpa Foto
 customBreadcrumbLabel: 20 Contoh Tema Undangan Digital Tanpa Foto
-canonicalUrl: 'https://acaranya.id/artikel/undangan-digital-tanpa-foto/'
+canonicalUrl: '/artikel/undangan-digital-tanpa-foto/'
 noindex: false
 ---
 Undangan digital menjadi salah satu jenis undangan tren undangan yang saat ini memiliki banyak peminat. Selain berbagai kemudahan yang ditawarkan, undangan ini juga memiliki banyak pilihan desain yang menawan.
@@ -35,7 +35,7 @@ Berikut ini kumpulan undangan pernikahan digital tanpa foto yang bisa kamu jadik
 
 [Preview](https://inv.acaranya.id/preview/vine-flower)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital **“Vine Flower”** menampilkan desain minimalis namun elegan dengan dominasi warna putih krem sebagai latar belakang.
 
@@ -47,7 +47,7 @@ Elemen utama desain ini adalah rangkaian bunga-bunga kecil yang menjalar di sepa
 
 [Preview](https://inv.acaranya.id/preview/maroon-medieval)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital tanpa foto ini bernama **“Maroon Medieval”**, yang menghadirkan nuansa klasik dan mewah dengan sentuhan modern.
 
@@ -61,7 +61,7 @@ Elemen arsitektur seperti lengkungan dan menara kastil yang digambarkan dengan w
 
 [Preview](https://inv.acaranya.id/preview/maroon-javanese)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan pernikahan digital tanpa foto ini bernama “Maroon Javanese”. Dengan mengusung tema klasik Jawa yang elegan dan penuh makna. Latar belakang berwarna merah maroon yang kaya menciptakan suasana hangat dan meriah.
 
@@ -75,7 +75,7 @@ Ornamen-ornamen khas Jawa seperti kawung dan parang yang diukir dengan warna ema
 
 [Preview](https://inv.acaranya.id/preview/feminime-javanese)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital tanpa foto tema **“Feminime Javanese”** ini memadukan keindahan tradisi Jawa dengan sentuhan modern yang lembut.
 
@@ -89,7 +89,7 @@ Di tengah undangan, terdapat motif khas Jawa berupa keris yang dihias dengan uki
 
 [Preview](https://inv.acaranya.id/preview/maroon-flowers)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 **“Maroon Flowers”** ini menampilkan desain yang elegan dan romantis dengan nuansa klasik. Latar belakang berwarna merah maroon yang hangat menjadi kanvas sempurna untuk menampilkan keindahan bunga-bunga yang digambarkan dengan garis-garis halus berwarna putih.
 
@@ -101,7 +101,7 @@ Bunga-bunga mawar dan peony yang mekar sempurna menghiasi bagian atas dan bawah 
 
 [Preview](https://inv.acaranya.id/preview/floral-purple)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Selanjutnya ada **“Floral Purple”** yang menjadi tema undangan pernikahan digital tanpa foto dari Acaranya.id.
 
@@ -113,7 +113,7 @@ Elemen utama desain ini adalah rangkaian bunga-bunga kecil berwarna ungu dan put
 
 [Preview](https://inv.acaranya.id/preview/angela)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan pernikahan digital ini didominasi oleh warna merah marun yang elegan dan dipadukan dengan warna putih yang memberikan kesan bersih dan modern.
 
@@ -125,9 +125,9 @@ Desainnya yang minimalis terlihat mewah dengan aksen floral di bagian atas dan b
 
 [Preview](https://inv.acaranya.id/preview/islamic-wedding)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
-[Undangan pernikahan digital islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/) ini mengusung tema klasik dan elegan. Desainnya didominasi oleh warna-warna hangat seperti cokelat muda dan krem, menciptakan suasana yang hangat dan intim.
+[Undangan pernikahan digital islami](/artikel/contoh-undangan-pernikahan-islami/) ini mengusung tema klasik dan elegan. Desainnya didominasi oleh warna-warna hangat seperti cokelat muda dan krem, menciptakan suasana yang hangat dan intim.
 
 Elemen arsitektur khas bangunan Islam seperti kubah dan pilar menjadi latar belakang utama, memberikan kesan mewah dan berkelas.
 
@@ -137,7 +137,7 @@ Elemen arsitektur khas bangunan Islam seperti kubah dan pilar menjadi latar bela
 
 [Preview](https://inv.acaranya.id/preview/mandaling)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital tanpa foto ini menampilkan nuansa tradisional Mandailing yang kental. Desainnya didominasi oleh warna-warna hangat seperti cokelat tua, merah marun, dan putih krem, menciptakan suasana yang klasik dan elegan.
 
@@ -149,7 +149,7 @@ Ornamen khas **Mandaling**, seperti motif rumah adat, menghiasi bagian tengah un
 
 [Preview](https://inv.acaranya.id/preview/midnight-blue)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital ini mengusung tema elegan dan modern dengan warna dasar **Midnight Blue** yang dalam dan menenangkan. Desainnya minimalis namun tetap menarik perhatian.
 
@@ -163,7 +163,7 @@ Tema Midnight Blue memberikan kesan mewah dan timeless, sementara fitur-fitur in
 
 [Preview](https://inv.acaranya.id/preview/sunflower)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 **Undangan pernikahan digital tanpa foto dengan tema Sunflower** ini kemungkinan besar menghadirkan desain yang cerah, hangat, dan penuh kehidupan.
 
@@ -175,7 +175,7 @@ Bunga matahari (sunflower) identik dengan warna kuning cerah yang melambangkan k
 
 [Preview](https://inv.acaranya.id/preview/kamboja)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital dengan nama **“Kamboja”** ini memiliki desain yang elegan dan aesthetic. Latar belakang undangan berwarna krem dengan tekstur kertas yang memberikan kesan vintage. Di bagian atas, terdapat hiasan floral berupa bunga kamboja yang sederhana namun menawan.
 
@@ -185,7 +185,7 @@ Undangan digital dengan nama **“Kamboja”** ini memiliki desain yang elegan d
 
 [Preview](https://inv.acaranya.id/preview/javanese-wayang)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 [Undangan pernikahan online tanpa foto](https://acaranya.id) dengan tema wayang Jawa ini menghadirkan nuansa klasik dan elegan yang khas.
 
@@ -199,7 +199,7 @@ Terdapat dua buah gapura kayu yang menjadi bingkai utama undangan, melambangkan 
 
 [Preview](https://inv.acaranya.id/preview/aesthetic-java)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan pernikahan digital dengan tema **“Aesthetic Java”** ini menghadirkan perpaduan menarik antara unsur tradisional Jawa dan sentuhan modern yang estetik. Latar belakang undangan didominasi oleh warna gelap yang memberikan kesan mewah dan elegan, dihiasi dengan ornamen khas Jawa seperti motif batik dan ukiran kayu.
 
@@ -211,9 +211,9 @@ Elemen yang paling menonjol adalah gambar rumah joglo yang ikonik, menjadi simbo
 
 [Preview](https://inv.acaranya.id/preview/beautiful-flower)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
-[Undangan digital](https://acaranya.id/services/undangan-pernikahan-digital/) dengan nama **“Beautiful Flower”** ini menghadirkan nuansa romantis dan elegan. Latar belakang undangan didominasi oleh warna putih bersih yang memberikan kesan yang segar dan minimalis.
+[Undangan digital](/services/undangan-pernikahan-digital/) dengan nama **“Beautiful Flower”** ini menghadirkan nuansa romantis dan elegan. Latar belakang undangan didominasi oleh warna putih bersih yang memberikan kesan yang segar dan minimalis.
 
 Terdapat ilustrasi bunga-bunga berwarna cerah seperti merah muda, biru, dan hijau yang tersusun secara simetris di bagian atas dan bawah undangan, menciptakan bingkai yang indah.
 
@@ -223,7 +223,7 @@ Terdapat ilustrasi bunga-bunga berwarna cerah seperti merah muda, biru, dan hija
 
 [Preview](https://inv.acaranya.id/preview/sundar-bageecha)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan nikah digital tanpa foto bernama **“Sundar Bageecha”** ini menampilkan desain yang elegan dan penuh makna.
 
@@ -235,7 +235,7 @@ Dominasi warna pastel biru muda pada latar belakang memberikan kesan lembut dan 
 
 [Preview](https://inv.acaranya.id/preview/white-kingdom)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital pernikahan tanpa foto bernama **“White Kingdom”** ini mengusung konsep elegan dan klasik dengan dominasi warna putih dan sentuhan warna pastel lembut. Desainnya menampilkan arsitektur kastil yang megah sebagai latar belakang, memberikan kesan mewah dan romantis.
 
@@ -245,7 +245,7 @@ Undangan digital pernikahan tanpa foto bernama **“White Kingdom”** ini mengu
 
 [Preview](https://inv.acaranya.id/preview/medieval-kingdom)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan pernikahan tanpa foto bertema **“Medieval Kingdom”** ini mengusung tema klasik dan elegan dengan sentuhan nuansa abad pertengahan.
 
@@ -257,7 +257,7 @@ Desainnya menampilkan arsitektur kastil yang megah sebagai latar belakang, membe
 
 [Preview](https://inv.acaranya.id/preview/ethnic-pattern)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan dengan tema **“Ethnic Pattern”** ini mengusung konsep elegan dan modern dengan sentuhan tradisional. Desainnya didominasi oleh warna pastel lembut, seperti pink muda, yang memberikan kesan romantis dan hangat.
 
@@ -267,7 +267,7 @@ Undangan dengan tema **“Ethnic Pattern”** ini mengusung konsep elegan dan mo
 
 [Preview](https://inv.acaranya.id/preview/vintage-peacock)
 
-[Pesan Sekarang](https://wa.me/6281234807480)
+[Pesan Sekarang](https://wa.me/62895395094329)
 
 Undangan digital pernikahan dengan tema **“Vintage Peacock”** ini mengusung konsep elegan dan klasik dengan sentuhan alam yang mewah.
 

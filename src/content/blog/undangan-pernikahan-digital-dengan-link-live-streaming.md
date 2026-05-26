@@ -22,7 +22,7 @@ status: published
 seoTitle: Undangan Pernikahan Digital dengan Link Live Streaming
 customBreadcrumbLabel: Undangan Pernikahan Digital dengan Link Live Streaming
 canonicalUrl: >-
-  https://acaranya.id/artikel/undangan-pernikahan-digital-dengan-link-live-streaming/
+  /artikel/undangan-pernikahan-digital-dengan-link-live-streaming/
 noindex: false
 ---
 Di era digital saat ini, undangan pernikahan tidak lagi terbatas pada kertas yang dikirim melalui pos. Dengan kemajuan teknologi, [undangan pernikahan digital](https://acaranya.id) menjadi pilihan yang semakin populer. Salah satu fitur menarik yang bisa kamu tambahkan adalah link live streaming.
@@ -58,7 +58,7 @@ Dengan live streaming, kamu bisa berbagi momen berharga dengan lebih banyak oran
 
 Dengan fitur live streaming, kamu bisa memastikan bahwa semua orang yang kamu cintai dapat merasakan kebahagiaan di hari istimewa ini.
 
-[Pesan Undangan Digital](https://wa.me/6281234807480)
+[Pesan Undangan Digital](https://wa.me/62895395094329)
 
 ## Mengapa Memilih Acaranya ID untuk Undangan Digital?
 

@@ -20,7 +20,7 @@ status: published
 seoTitle: Apakah Undangan Pernikahan Termasuk Undangan Resmi? Cek Jawabannya!
 customBreadcrumbLabel: Apakah Undangan Pernikahan Termasuk Undangan Resmi? Cek Jawabannya!
 canonicalUrl: >-
-  https://acaranya.id/artikel/apakah-undangan-pernikahan-termasuk-undangan-resmi/
+  /artikel/apakah-undangan-pernikahan-termasuk-undangan-resmi/
 noindex: false
 ---
 Undangan pernikahan sering kali menjadi perhatian utama saat menyelenggarakan perayaan besar seperti pernikahan. Namun, ada satu pertanyaan yang kerap muncul;
@@ -31,7 +31,7 @@ Artikel ini akan menjelaskan secara detail mengenai pengertian undangan resmi, p
 
 ## Apa Itu Undangan Resmi?
 
-Sebelum menjawab pertanyaan utama, kita harus memahami apa yang dimaksud dengan undangan resmi. [**Undangan resmi** adalah](https://acaranya.id/artikel/perbedaan-surat-resmi-dan-tidak-resmi/) surat atau dokumen yang digunakan untuk mengajak seseorang menghadiri suatu acara yang memiliki sifat formal. Biasanya, undangan resmi digunakan untuk keperluan:
+Sebelum menjawab pertanyaan utama, kita harus memahami apa yang dimaksud dengan undangan resmi. [**Undangan resmi** adalah](/artikel/perbedaan-surat-resmi-dan-tidak-resmi/) surat atau dokumen yang digunakan untuk mengajak seseorang menghadiri suatu acara yang memiliki sifat formal. Biasanya, undangan resmi digunakan untuk keperluan:
 
 *   Acara kenegaraan
 *   Pertemuan bisnis

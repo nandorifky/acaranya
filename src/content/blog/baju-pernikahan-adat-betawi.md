@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Baju Pernikahan Adat Betawi yang Penuh Makna
 customBreadcrumbLabel: Baju Pernikahan Adat Betawi yang Penuh Makna
-canonicalUrl: 'https://acaranya.id/artikel/baju-pernikahan-adat-betawi/'
+canonicalUrl: '/artikel/baju-pernikahan-adat-betawi/'
 noindex: false
 ---
 Buat kamu yang sedang merancang momen pernikahan dan ingin menampilkan kekayaan budaya Indonesia, pasti sempat bertanya: seperti apa sih baju pernikahan adat Betawi itu? Nah, banyak calon pengantin merasa bingung saat mencari referensi pakaian adat untuk hari istimewa.
@@ -119,7 +119,7 @@ Vendor ini sering dipakai untuk acara-acara resmi dan resepsi pernikahan adat. T
 
 Plus, mereka juga menyediakan jasa rias pengantin yang sudah berpengalaman dalam menangani tema adat Betawi.
 
-**BACA JUGA:** [11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wanita](https://acaranya.id/artikel/seserahan-pernikahan-adat-betawi/)
+**BACA JUGA:** [11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wanita](/artikel/seserahan-pernikahan-adat-betawi/)
 
 * * *
 

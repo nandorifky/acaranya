@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 10+ Contoh Kata-Kata Undangan Grand Opening
 customBreadcrumbLabel: 10+ Contoh Kata-Kata Undangan Grand Opening
-canonicalUrl: 'https://acaranya.id/artikel/10-contoh-kata-kata-undangan-grand-opening/'
+canonicalUrl: '/artikel/10-contoh-kata-kata-undangan-grand-opening/'
 noindex: false
 ---
 Menyusun kata-kata undangan untuk acara grand opening merupakan salah satu langkah penting untuk menarik tamu yang relevan. Undangan ini mencerminkan identitas acara sekaligus mengajak audiens untuk hadir dan berpartisipasi.
@@ -147,12 +147,12 @@ Bagi Anda yang merencanakan grand opening, menggunakan undangan digital memiliki
 3.  **Aksesibilitas yang Mudah**: Tamu dapat menerima undangan melalui email, media sosial, atau pesan instan, membuatnya lebih mudah diakses dan diingat.
 4.  **Ramah Lingkungan**: Mengurangi penggunaan kertas, undangan digital juga lebih eco-friendly, sesuai dengan gaya hidup modern yang semakin peduli terhadap lingkungan.
 
-Jika Anda membutuhkan solusi undangan digital yang profesional untuk acara grand opening, **Acaranya ID** siap membantu. Kami menyediakan layanan pembuatan undangan digital yang dapat disesuaikan dengan tema dan konsep acara Anda. Dengan desain yang eksklusif dan fitur interaktif, [undangan grand opening](https://acaranya.id/artikel/undangan-grand-opening-digital/) Anda akan tampak lebih modern dan memikat.
+Jika Anda membutuhkan solusi undangan digital yang profesional untuk acara grand opening, **Acaranya ID** siap membantu. Kami menyediakan layanan pembuatan undangan digital yang dapat disesuaikan dengan tema dan konsep acara Anda. Dengan desain yang eksklusif dan fitur interaktif, [undangan grand opening](/artikel/undangan-grand-opening-digital/) Anda akan tampak lebih modern dan memikat.
 
 **Keuntungan menggunakan undangan digital dari kami:**
 
 *   Desain elegan dan responsif.
-*   [Fitur RSVP](https://acaranya.id/rsvp/) otomatis untuk memudahkan Anda memantau kehadiran tamu.
+*   [Fitur RSVP](/rsvp/) otomatis untuk memudahkan Anda memantau kehadiran tamu.
 *   Pengiriman undangan cepat dan terjangkau.
 
 Segera hubungi kami untuk mendapatkan layanan undangan digital yang memukau, dan pastikan acara grand opening Anda berjalan sukses dengan dukungan teknologi yang tepat!

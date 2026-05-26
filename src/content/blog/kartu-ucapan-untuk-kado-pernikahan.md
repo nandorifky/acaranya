@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan
 customBreadcrumbLabel: 50+ Ide Kata-Kata Kartu Ucapan Kado Pernikahan yang Berkesan
-canonicalUrl: 'https://acaranya.id/artikel/kartu-ucapan-untuk-kado-pernikahan/'
+canonicalUrl: '/artikel/kartu-ucapan-untuk-kado-pernikahan/'
 noindex: false
 ---
 Pernikahan adalah salah satu momen terpenting dalam hidup seseorang, sehingga memberi kado pernikahan sering kali diiringi dengan kartu ucapan yang penuh makna. Sebuah kartu ucapan yang berkesan tidak hanya melengkapi hadiah pernikahan, tetapi juga menjadi simbol dari doa dan harapan baik bagi pasangan yang baru saja menikah.
@@ -53,7 +53,7 @@ Berikut beberapa contoh kata-kata romantis yang bisa kamu gunakan:
 
 Terkadang, sedikit humor dapat membuat suasana lebih santai dan menyenangkan. Ucapan yang lucu bisa menjadi pilihan jika kamu ingin memberikan sedikit tawa di hari bahagia pasangan tersebut.
 
-Beberapa ide [ucapan pernikahan](https://acaranya.id/artikel/ucapan-selamat-menikah/) yang lucu dan menghibur adalah:
+Beberapa ide [ucapan pernikahan](/artikel/ucapan-selamat-menikah/) yang lucu dan menghibur adalah:
 
 1.  “Selamat menikah! Sekarang, kamu punya partner untuk nonton Netflix selamanya!”
 2.  “Akhirnya, kamu nggak perlu lagi swiping kanan di aplikasi! Selamat menikah!”
@@ -160,4 +160,4 @@ Jangan ragu untuk menambahkan sentuhan personal agar ucapanmu semakin berkesan d
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Dengan **[undangan pernikahan online](https://acaranya.id/)** dari Acaranya ID, kamu bisa merayakan momen spesial dengan cara yang lebih modern dan praktis.
+Dengan **[undangan pernikahan online](/)** dari Acaranya ID, kamu bisa merayakan momen spesial dengan cara yang lebih modern dan praktis.

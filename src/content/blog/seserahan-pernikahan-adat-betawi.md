@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wanita
 customBreadcrumbLabel: 11 Isi Seserahan Pernikahan Adat Betawi untuk Pria dan Wanita
-canonicalUrl: 'https://acaranya.id/artikel/seserahan-pernikahan-adat-betawi/'
+canonicalUrl: '/artikel/seserahan-pernikahan-adat-betawi/'
 noindex: false
 ---
 Saat membicarakan **seserahan pernikahan adat Betawi**, pasti muncul pertanyaan: Apa saja isi seserahan yang dibawa pengantin pria? Bagaimana jika ingin seserahan yang sederhana tapi tetap sarat makna?
@@ -53,7 +53,7 @@ Meskipun batik kerap dianggap sesuatu yang umum, tetap saja kain ini punya nilai
 
 ### 3\. Al-Qur’an
 
-Memberikan **Al-Qur’an** dalam [seserahan pernikahan](https://acaranya.id/artikel/seserahan-pernikahan/) adalah wujud komitmen kedua mempelai untuk menjalani kehidupan rumah tangga yang berdasarkan nilai-nilai agama. Ini adalah simbol kesucian dan niat baik dalam membangun rumah tangga yang harmonis dan penuh berkah.
+Memberikan **Al-Qur’an** dalam [seserahan pernikahan](/artikel/seserahan-pernikahan/) adalah wujud komitmen kedua mempelai untuk menjalani kehidupan rumah tangga yang berdasarkan nilai-nilai agama. Ini adalah simbol kesucian dan niat baik dalam membangun rumah tangga yang harmonis dan penuh berkah.
 
 Al-Qur’an biasanya disertakan dengan sajadah dan tasbih sebagai satu set. Untuk harga Al-Qur’an, bervariasi tergantung pada kualitas dan desain. Harganya bisa berkisar dari Rp100.000 hingga Rp300.000. Pilih Al-Qur’an yang memiliki tampilan elegan dengan cover indah yang menambah kesan sakral dalam seserahan.
 
@@ -79,7 +79,7 @@ Meski sederhana, pakaian dalam dalam seserahan tetap memiliki nilai simbolik dan
 
 ![seserahan make up adat betawi](/images/blog/content/seserahan-make-up-adat-betawi.jpg)
 
-**BACA SELENGKAPNYA:** [_Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan_](https://acaranya.id/artikel/seserahan-make-up/)
+**BACA SELENGKAPNYA:** [_Contoh Isi Seserahan Make Up Sederhana untuk Pernikahan_](/artikel/seserahan-make-up/)
 
 Alat makeup juga menjadi bagian dari **daftar seserahan** yang umum di pernikahan adat Betawi. Peralatan makeup melambangkan harapan agar pengantin wanita selalu tampil cantik dan terawat, baik di dalam rumah tangga maupun di depan umum.
 
@@ -119,7 +119,7 @@ Untuk **biaya**, kue-kue tradisional ini bisa sangat terjangkau, mulai dari Rp10
 
 Seserahan berupa makanan tradisional ini memperlihatkan bahwa meskipun sederhana, cinta dan kebahagiaan dalam rumah tangga tetap akan terasa manis.
 
-**BACA JUGA:** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](https://acaranya.id/artikel/seserahan-pernikahan-adat-jawa/)
+**BACA JUGA:** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](/artikel/seserahan-pernikahan-adat-jawa/)
 
 ### 11\. Roti Buaya
 

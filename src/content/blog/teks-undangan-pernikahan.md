@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 7 Contoh Teks Undangan Pernikahan Menarik
 customBreadcrumbLabel: 7 Contoh Teks Undangan Pernikahan Menarik
-canonicalUrl: 'https://acaranya.id/artikel/teks-undangan-pernikahan/'
+canonicalUrl: '/artikel/teks-undangan-pernikahan/'
 noindex: false
 ---
 Pernikahan adalah momen sakral dan berharga dalam hidup seseorang. Pada momen ini, kedua belah pihak, baik pengantin dan keluarganya, ingin membagikan kebahagiaan mereka dengan orang-orang terdekat melalui sebuah undangan.
@@ -35,7 +35,7 @@ Melalui artikel ini, kami akan berbagi 7 contoh teks undangan pernikahan yang me
 
 ## 1\. Kata-Kata Undangan Pernikahan Islami
 
-[Undangan pernikahan Islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/) biasanya mencakup kata-kata yang mencerminkan nilai-nilai agama dan spiritualitas. Misalnya:
+[Undangan pernikahan Islami](/artikel/contoh-undangan-pernikahan-islami/) biasanya mencakup kata-kata yang mencerminkan nilai-nilai agama dan spiritualitas. Misalnya:
 
 > _“Bagaimana kamu akan mengambilnya kembali, padahal sebagian kamu telah bergaul (bercampur) dengan yang lain sebagai suami-isteri. Dan mereka (isteri-isterimu) telah mengambil dari kamu perjanjian yang kuat.” (QS An-Nisa: 21)._  
 >   
@@ -88,7 +88,7 @@ Kata-kata undangan pernikahan Kristen biasanya mencerminkan nilai-nilai Kristian
 
 ## 4\. Teks Undangan Pernikahan Bahasa Inggris
 
-Bagi Anda yang ingin memberikan sentuhan modern dan internasional, berikut contoh kata-kata [undangan pernikahan Bahasa Inggris](https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-inggris/):
+Bagi Anda yang ingin memberikan sentuhan modern dan internasional, berikut contoh kata-kata [undangan pernikahan Bahasa Inggris](/artikel/contoh-undangan-pernikahan-bahasa-inggris/):
 
 > _Dear \[Recipient’s Name\],  
 >   
@@ -123,7 +123,7 @@ Bagi Anda yang menginginkan sesuatu yang sederhana dan langsung ke poin, berikut
 
 ## 6\. Teks Undangan Pernikahan Via WA
 
-Dengan perkembangan teknologi, banyak orang kini memilih untuk mengirim undangan secara digital, seperti melalui WhatsApp. Berikut contoh [kata-kata undangan pernikahan via WA](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/):
+Dengan perkembangan teknologi, banyak orang kini memilih untuk mengirim undangan secara digital, seperti melalui WhatsApp. Berikut contoh [kata-kata undangan pernikahan via WA](/artikel/kata-kata-undangan-lewat-wa/):
 
 > _Assalamualaikum warahmatullahi wabarakatuh.  
 >   

@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Bolehkah Orang Jawa Menikah dengan Orang Sunda? Ini Jawabannya!
 customBreadcrumbLabel: Bolehkah Orang Jawa Menikah dengan Orang Sunda? Ini Jawabannya!
-canonicalUrl: 'https://acaranya.id/artikel/bolehkah-orang-jawa-menikah-dengan-orang-sunda/'
+canonicalUrl: '/artikel/bolehkah-orang-jawa-menikah-dengan-orang-sunda/'
 noindex: false
 ---
 Pernikahan antar suku, seperti antara orang Jawa dan Sunda, sering kali menjadi perbincangan hangat di masyarakat. Banyak yang bertanya-tanya, “Bolehkah orang Jawa menikah dengan orang Sunda?” Pertanyaan ini muncul karena adanya mitos dan kepercayaan yang berkembang sejak lama.
@@ -67,7 +67,7 @@ Untuk melangsungkan pernikahan antara orang Jawa dan Sunda, berikut beberapa sya
 3.  **Pendaftaran di Kantor Urusan Agama (KUA) atau Catatan Sipil**: Daftarkan pernikahan secara resmi agar diakui oleh negara.​
 4.  **Menghormati Adat Istiadat**: Pahami dan hormati adat istiadat masing-masing suku untuk menciptakan harmoni dalam pernikahan.​
 
-**BACA JUGA:** [Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!](https://acaranya.id/artikel/bacaan-ijab-kabul-nikah-yang-benar/)
+**BACA JUGA:** [Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!](/artikel/bacaan-ijab-kabul-nikah-yang-benar/)
 
 ## Keuntungan Menikah Antar Suku
 
@@ -82,4 +82,4 @@ Menikah dengan pasangan dari suku berbeda, seperti antara orang Jawa dan Sunda, 
 
 Pernikahan antara orang Jawa dan Sunda tidak dilarang secara hukum maupun agama. Mitos yang berkembang sebaiknya tidak dijadikan penghalang untuk membangun rumah tangga yang bahagia. Dengan saling pengertian, komunikasi yang baik, dan menghormati perbedaan, pernikahan antar suku dapat berjalan harmonis dan sukses.
 
-Jika kamu sedang merencanakan pernikahan, pertimbangkan untuk menggunakan [jasa undangan pernikahan digital](https://acaranya.id/jasa/undangan-pernikahan-digital/) dari Acaranya.id untuk memudahkan proses undangan dan memberikan kesan modern pada pernikahan kamu.
+Jika kamu sedang merencanakan pernikahan, pertimbangkan untuk menggunakan [jasa undangan pernikahan digital](/jasa/undangan-pernikahan-digital/) dari Acaranya.id untuk memudahkan proses undangan dan memberikan kesan modern pada pernikahan kamu.

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman
 customBreadcrumbLabel: 20 Rekomendasi Kado Pernikahan Unik dan Berkesan untuk Teman
-canonicalUrl: 'https://acaranya.id/artikel/rekomendasi-kado-pernikahan/'
+canonicalUrl: '/artikel/rekomendasi-kado-pernikahan/'
 noindex: false
 ---
 Pernikahan adalah momen yang sangat istimewa bagi setiap pasangan. Seringkali, muncul pertanyaan seputar kado pernikahan yang tepat untuk teman atau kerabat. Bagi pengantin baru, kado yang bermanfaat dan berkesan tentu lebih dihargai dibandingkan barang yang hanya sekadar cantik dilihat.

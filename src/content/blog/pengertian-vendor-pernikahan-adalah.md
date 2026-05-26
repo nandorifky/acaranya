@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Vendor Pernikahan Adalah: Pengertian, Jenis, dan Tips Memilihnya'
 customBreadcrumbLabel: 'Vendor Pernikahan Adalah: Pengertian, Jenis, dan Tips Memilihnya'
-canonicalUrl: 'https://acaranya.id/artikel/pengertian-vendor-pernikahan-adalah/'
+canonicalUrl: '/artikel/pengertian-vendor-pernikahan-adalah/'
 noindex: false
 ---
 Perencanaan pernikahan adalah momen yang penuh dengan kebahagiaan, namun juga menuntut banyak persiapan yang matang. Salah satu kunci utama dalam menyukseskan acara pernikahan adalah memilih **vendor pernikahan** yang tepat.
@@ -37,7 +37,7 @@ Dalam sebuah pernikahan, vendor-vendor ini berperan sebagai tulang punggung acar
 
 ## Jenis-Jenis Vendor Pernikahan
 
-> [8 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H](https://acaranya.id/artikel/vendor-pernikahan/)
+> [8 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H](/artikel/vendor-pernikahan/)
 
 Penting untuk memahami berbagai jenis **vendor pernikahan** yang mungkin kamu butuhkan. Berikut adalah beberapa vendor yang umumnya diperlukan dalam acara pernikahan:
 
@@ -54,7 +54,7 @@ Penting untuk memahami berbagai jenis **vendor pernikahan** yang mungkin kamu bu
 6.  **Wedding Planner atau Organizer**  
     Jika kamu menginginkan pernikahan yang terorganisir dengan baik tanpa harus memikirkan hal-hal kecil, wedding planner bisa menjadi solusi. Mereka akan menangani semua aspek dari awal hingga akhir, memastikan bahwa acara berjalan lancar.
 
-**_BACA JUGA:_** [_Perbedaan Vendor dan Wedding Organizer (WO)_](https://acaranya.id/artikel/perbedaan-vendor-dan-wedding-organizer/)
+**_BACA JUGA:_** [_Perbedaan Vendor dan Wedding Organizer (WO)_](/artikel/perbedaan-vendor-dan-wedding-organizer/)
 
 ## Tips Memilih Vendor Pernikahan Ideal
 

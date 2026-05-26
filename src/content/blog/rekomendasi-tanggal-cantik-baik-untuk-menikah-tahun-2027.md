@@ -121,7 +121,7 @@ Dalam tradisi Jawa, hari baik menikah sering dihitung menggunakan weton, neptu, 
 
 Perlu dicatat, tidak ada satu tanggal yang otomatis baik untuk semua pasangan menurut weton. Tanggal yang dianggap cocok untuk satu pasangan bisa berbeda untuk pasangan lain karena bergantung pada hari lahir kedua calon pengantin.
 
-Untuk mendapatkan gambaran awal, pasangan bisa menggunakan halaman [Cek Weton Online Acaranya.id](https://acaranya.id/cek-weton/). Tools ini dapat membantu menghitung weton berdasarkan tanggal lahir, sehingga proses pencarian hari baik pernikahan 2027 menjadi lebih praktis sebelum didiskusikan dengan keluarga atau sesepuh.
+Untuk mendapatkan gambaran awal, pasangan bisa menggunakan halaman [Cek Weton Online Acaranya.id](/cek-weton/). Tools ini dapat membantu menghitung weton berdasarkan tanggal lahir, sehingga proses pencarian hari baik pernikahan 2027 menjadi lebih praktis sebelum didiskusikan dengan keluarga atau sesepuh.
 
 ### Cara Menggunakan Weton Sebagai Referensi
 
@@ -278,7 +278,7 @@ Weton tidak wajib dipakai oleh semua pasangan. Dalam tradisi Jawa, weton sering 
 
 ### Bagaimana Cara Cek Weton Pernikahan Secara Online
 
-Cek weton bisa dilakukan melalui tools online seperti [Cek Weton Acaranya.id](https://acaranya.id/cek-weton/). Pasangan hanya perlu memasukkan tanggal lahir untuk mengetahui weton dan nilai neptu sebagai referensi awal.
+Cek weton bisa dilakukan melalui tools online seperti [Cek Weton Acaranya.id](/cek-weton/). Pasangan hanya perlu memasukkan tanggal lahir untuk mengetahui weton dan nilai neptu sebagai referensi awal.
 
 ### Kapan Undangan Pernikahan 2027 Sebaiknya Disebar
 

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong
 customBreadcrumbLabel: Kumpulan Background Undangan Pernikahan PNG / JPG Kosong
-canonicalUrl: 'https://acaranya.id/artikel/background-undangan-pernikahan/'
+canonicalUrl: '/artikel/background-undangan-pernikahan/'
 noindex: false
 ---
 Gambar latar belakang merupakan hal yang tidak boleh disepelekan dalam pemilihan desain undangan. Nah, dalam artikel ini, kami akan membagikan kumpulan background undangan pernikahan format PNG ataupun JPG dengan berbagai pilihan desain.
@@ -39,7 +39,7 @@ Dibawah ini merupakan kumpulan desain background keren dengan resolusi tinggi un
 
 ### 1\. Background Undangan Pernikahan Digital Kosong
 
-Jika kamu menggunakan [undangan digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/), mungkin ukuran background undangan pernikahan dibawah ini cocok untuk kamu gunakan.
+Jika kamu menggunakan [undangan digital](/artikel/cara-membuat-undangan-digital/), mungkin ukuran background undangan pernikahan dibawah ini cocok untuk kamu gunakan.
 
 [![Background undangan pernikahan digital kosong bunga dengan motif daun hijau di sekelilingnya](/images/blog/content/e07c9577b9efe376f3016a3d87fe4bf0.jpg)](/images/blog/content/e07c9577b9efe376f3016a3d87fe4bf0.jpg)
 
@@ -115,7 +115,7 @@ Untuk kamu yang mengungsung tema elegan dan mewah yang identik dengan warna gela
 
 Jika kamu ingin mencari referensi desain lain, kami sangat merekomendasikan untuk menggunakan platform Pinterest. Disini, kamu bisa menemukan cukup banyak sekali ide dan inspirasi desain gambar termasuk latar belakang untuk undangan pernikahanmu.
 
-Mulai dari desain simpel, minimalis, elegan, bunga, hingga [bingkai undangan pernikahan PNG](https://acaranya.id/artikel/bingkai-undangan-pernikahan/) bisa kamu temukan disini!
+Mulai dari desain simpel, minimalis, elegan, bunga, hingga [bingkai undangan pernikahan PNG](/artikel/bingkai-undangan-pernikahan/) bisa kamu temukan disini!
 
 [Download Background Undangan](https://id.pinterest.com/acaranya/)
 
@@ -129,4 +129,4 @@ Dengan berbagai pilihan seperti motif bunga, elegan, atau _aesthetic_, kamu bisa
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Bergaya modern dengan **[undangan pernikahan online](https://acaranya.id/)** yang simple namun tetap berkesan. Acaranya ID menawarkan desain sesuai kebutuhanmu.
+Bergaya modern dengan **[undangan pernikahan online](/)** yang simple namun tetap berkesan. Acaranya ID menawarkan desain sesuai kebutuhanmu.

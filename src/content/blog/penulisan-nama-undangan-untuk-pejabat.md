@@ -19,10 +19,10 @@ imageCaption: ''
 status: published
 seoTitle: Panduan Penulisan Nama Undangan untuk Pejabat yang Benar
 customBreadcrumbLabel: Panduan Penulisan Nama Undangan untuk Pejabat yang Benar
-canonicalUrl: 'https://acaranya.id/artikel/penulisan-nama-undangan-untuk-pejabat/'
+canonicalUrl: '/artikel/penulisan-nama-undangan-untuk-pejabat/'
 noindex: false
 ---
-[Menulis nama undangan](https://acaranya.id/artikel/etika-penulisan-nama-tamu-undangan/), khususnya untuk pejabat, bukan hanya soal kesopanan, tetapi juga menunjukkan penghormatan terhadap jabatan dan kedudukan orang yang diundang. Kesalahan dalam penulisan nama atau jabatan pejabat bisa dianggap kurang menghargai, sehingga penting untuk mengetahui aturan yang benar.
+[Menulis nama undangan](/artikel/etika-penulisan-nama-tamu-undangan/), khususnya untuk pejabat, bukan hanya soal kesopanan, tetapi juga menunjukkan penghormatan terhadap jabatan dan kedudukan orang yang diundang. Kesalahan dalam penulisan nama atau jabatan pejabat bisa dianggap kurang menghargai, sehingga penting untuk mengetahui aturan yang benar.
 
 Bagaimana cara menuliskan nama pejabat dengan tepat di undangan resmi? Berikut adalah panduan lengkapnya.
 

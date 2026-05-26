@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Bacaan Istighfar dan Syahadat Sebelum Akad Nikah
 customBreadcrumbLabel: Bacaan Istighfar dan Syahadat Sebelum Akad Nikah
-canonicalUrl: 'https://acaranya.id/artikel/bacaan-istighfar-dan-syahadat-sebelum-akad-nikah/'
+canonicalUrl: '/artikel/bacaan-istighfar-dan-syahadat-sebelum-akad-nikah/'
 noindex: false
 ---
 ## Pentingnya Membaca Istighfar dan Syahadat Sebelum Akad Nikah
@@ -73,7 +73,7 @@ _Artinya:_
 
 Syahadat adalah pernyataan iman yang menjadi dasar dalam kehidupan setiap Muslim. Dengan membacanya sebelum akad, kamu meneguhkan bahwa niat membina rumah tangga ini dilandasi oleh keimanan dan ketaatan kepada ajaran Islam.
 
-**BACA JUGA:** [Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!](https://acaranya.id/artikel/bacaan-ijab-kabul-nikah-yang-benar/)
+**BACA JUGA:** [Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!](/artikel/bacaan-ijab-kabul-nikah-yang-benar/)
 
 ## Mengapa Bacaan Ini Penting Sebelum Akad?
 
@@ -97,7 +97,7 @@ Segala sesuatu yang diawali dengan mengingat Allah akan membawa keberkahan.
 
 Maka, membaca istighfar dan syahadat dapat menjadi langkah awal agar pernikahanmu penuh berkah dan rahmat.
 
-**BACA JUGA:** [Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah](https://acaranya.id/artikel/mengenal-apa-itu-sighat-taklik/)
+**BACA JUGA:** [Mengenal Apa itu Sighat Taklik, Isi dan Bacaannya dalam Buku Nikah](/artikel/mengenal-apa-itu-sighat-taklik/)
 
 ## Panduan Praktis Melafalkan Bacaan Sebelum Akad Nikah
 
@@ -132,7 +132,7 @@ Kamu juga bisa berkonsultasi kepada penghulu atau tokoh agama yang akan memimpin
 
 Jika kamu sudah siap secara lahir dan batin untuk akad nikah, jangan lupa untuk mempersiapkan undangan pernikahan yang praktis dan elegan.
 
-Gunakan [jasa undangan digital](https://acaranya.id/jasa/undangan-pernikahan-digital/) dari **Acaranya ID**, yang dirancang khusus untuk menyesuaikan tema pernikahanmu, lengkap dengan fitur RSVP, galeri foto, lokasi maps, dan masih banyak lagi! Praktis, kekinian, dan tetap berkesan.
+Gunakan [jasa undangan digital](/jasa/undangan-pernikahan-digital/) dari **Acaranya ID**, yang dirancang khusus untuk menyesuaikan tema pernikahanmu, lengkap dengan fitur RSVP, galeri foto, lokasi maps, dan masih banyak lagi! Praktis, kekinian, dan tetap berkesan.
 
 ## Kesimpulan
 

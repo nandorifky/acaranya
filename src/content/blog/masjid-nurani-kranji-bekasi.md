@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!'
 customBreadcrumbLabel: 'Masjid Nurani Kranji Bekasi, Wedding Venue yang Menarik!'
-canonicalUrl: 'https://acaranya.id/artikel/masjid-nurani-kranji-bekasi/'
+canonicalUrl: '/artikel/masjid-nurani-kranji-bekasi/'
 noindex: false
 ---
-Pernikahan adalah momen sakral yang menjadi impian setiap pasangan. Memilih [venue pernikahan](https://acaranya.id/artikel/tips-memilih-venue-pernikahan/) yang tepat tentu menjadi salah satu langkah penting untuk mewujudkan pernikahan impian.
+Pernikahan adalah momen sakral yang menjadi impian setiap pasangan. Memilih [venue pernikahan](/artikel/tips-memilih-venue-pernikahan/) yang tepat tentu menjadi salah satu langkah penting untuk mewujudkan pernikahan impian.
 
 Jika Anda sedang mencari venue yang unik, Masjid Nurani Kranji di Bekasi bisa menjadi pilihan menarik.
 

@@ -20,12 +20,12 @@ imageCaption: ''
 status: published
 seoTitle: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
 customBreadcrumbLabel: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-31/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-31/'
 noindex: false
 ---
 Weton, sebuah konsep perhitungan hari lahir dalam budaya Jawa, telah menjadi bagian tak terpisahkan dari tradisi masyarakat Jawa. Konsep ini digunakan untuk memahami karakter seseorang, menentukan hari baik, dan bahkan menentukan kecocokan dalam pernikahan. Di antara berbagai perhitungan weton, weton jodoh ketemu 31 menjadi salah satu yang menarik perhatian banyak orang.
 
-Perhitungan weton jodoh dilakukan dengan menjumlahkan nilai neptu dari hari dan pasaran lahir kedua calon pasangan. Setiap hari dan pasaran memiliki nilai neptu tertentu, yang kemudian dijumlahkan untuk mendapatkan total neptu pasangan. Total neptu ini kemudian digunakan untuk menafsirkan [kecocokan pasangan berdasarkan pedoman yang tertuang dalam primbon Jawa](https://acaranya.id/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/).
+Perhitungan weton jodoh dilakukan dengan menjumlahkan nilai neptu dari hari dan pasaran lahir kedua calon pasangan. Setiap hari dan pasaran memiliki nilai neptu tertentu, yang kemudian dijumlahkan untuk mendapatkan total neptu pasangan. Total neptu ini kemudian digunakan untuk menafsirkan [kecocokan pasangan berdasarkan pedoman yang tertuang dalam primbon Jawa](/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/).
 
 Memahami makna di balik weton jodoh ketemu 31 menjadi penting karena dapat memberikan gambaran tentang potensi hubungan yang akan dijalani oleh pasangan. Bagi pasangan yang sedang merencanakan pernikahan, mengetahui weton jodoh ketemu 31 dapat membantu mereka memahami dinamika hubungan yang mungkin terjadi dan bagaimana cara menyikapinya.
 
@@ -41,7 +41,7 @@ Jika Anda dan pasangan mendapatkan weton jodoh ketemu 31, jangan langsung merasa
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk mempermudah proses menghitung weton jodoh, Anda bisa menggunakan tools kalkulator cek weton online yang disediakan oleh Acaranya.id. Di sini, Anda hanya perlu memasukkan hari lahir dan pasaran lahir masing-masing pasangan, dan kalkulator akan menampilkan hasil perhitungan weton jodoh secara otomatis. Anda bisa mengakses kalkulator weton online di [https://acaranya.id/cek-weton/](https://acaranya.id/cek-weton/).
+Untuk mempermudah proses menghitung weton jodoh, Anda bisa menggunakan tools kalkulator cek weton online yang disediakan oleh Acaranya.id. Di sini, Anda hanya perlu memasukkan hari lahir dan pasaran lahir masing-masing pasangan, dan kalkulator akan menampilkan hasil perhitungan weton jodoh secara otomatis. Anda bisa mengakses kalkulator weton online di [/cek-weton/](/cek-weton/).
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |
@@ -53,13 +53,13 @@ Untuk mempermudah proses menghitung weton jodoh, Anda bisa menggunakan tools kal
 | Jumat | 6 |  – |  – |
 | Sabtu | 9 |  – |  – |
 
-Misalnya, pasangan yang terdiri dari perempuan dengan weton Minggu Wage dan laki-laki dengan weton Selasa Kliwon. Nilai neptu Minggu adalah 5, nilai neptu Wage adalah 4, nilai neptu Selasa adalah 3, dan nilai neptu Kliwon adalah 8. Total neptu pasangan ini adalah 5 + 4 + 3 + 8 = 20. Jadi, pasangan ini mendapatkan [weton jodoh ketemu 20](https://acaranya.id/artikel/weton-jodoh-ketemu-20/).
+Misalnya, pasangan yang terdiri dari perempuan dengan weton Minggu Wage dan laki-laki dengan weton Selasa Kliwon. Nilai neptu Minggu adalah 5, nilai neptu Wage adalah 4, nilai neptu Selasa adalah 3, dan nilai neptu Kliwon adalah 8. Total neptu pasangan ini adalah 5 + 4 + 3 + 8 = 20. Jadi, pasangan ini mendapatkan [weton jodoh ketemu 20](/artikel/weton-jodoh-ketemu-20/).
 
-Contoh lainnya, pasangan yang terdiri dari perempuan dengan weton Sabtu Legi dan laki-laki dengan weton Jumat Pahing. Nilai neptu Sabtu adalah 9, nilai neptu Legi adalah 5, nilai neptu Jumat adalah 6, dan nilai neptu Pahing adalah 9. Total neptu pasangan ini adalah 9 + 5 + 6 + 9 = 29. Jadi, pasangan ini mendapatkan [weton jodoh ketemu 29](https://acaranya.id/artikel/weton-jodoh-ketemu-29/).
+Contoh lainnya, pasangan yang terdiri dari perempuan dengan weton Sabtu Legi dan laki-laki dengan weton Jumat Pahing. Nilai neptu Sabtu adalah 9, nilai neptu Legi adalah 5, nilai neptu Jumat adalah 6, dan nilai neptu Pahing adalah 9. Total neptu pasangan ini adalah 9 + 5 + 6 + 9 = 29. Jadi, pasangan ini mendapatkan [weton jodoh ketemu 29](/artikel/weton-jodoh-ketemu-29/).
 
 Untuk mendapatkan weton jodoh ketemu 31, total neptu pasangan haruslah 31. Untuk mencapai jumlah neptu tersebut, pasangan harus memiliki hari dan pasaran lahir yang nilainya sesuai. Misalnya, perempuan lahir pada hari Selasa dengan nilai neptu 3 dan pasaran Wage dengan nilai neptu 4.
 
-Sementara, laki-laki lahir pada hari Minggu dengan nilai neptu 5 dan pasaran Pahing dengan nilai neptu 9. Total neptu pasangan ini adalah 3 + 4 + 5 + 9 = 21. Jadi, pasangan ini mendapatkan weton [jodoh ketemu 21](https://acaranya.id/artikel/weton-jodoh-ketemu-21/).
+Sementara, laki-laki lahir pada hari Minggu dengan nilai neptu 5 dan pasaran Pahing dengan nilai neptu 9. Total neptu pasangan ini adalah 3 + 4 + 5 + 9 = 21. Jadi, pasangan ini mendapatkan weton [jodoh ketemu 21](/artikel/weton-jodoh-ketemu-21/).
 
 ## Makna Hasil Hitung Weton Jodoh Menurut Primbon Jawa
 

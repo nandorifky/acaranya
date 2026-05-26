@@ -22,7 +22,7 @@ status: published
 seoTitle: Cara Membuat Website Undangan Pernikahan Sendiri Tanpa Coding
 customBreadcrumbLabel: Cara Membuat Website Undangan Pernikahan Sendiri Tanpa Coding
 canonicalUrl: >-
-  https://acaranya.id/artikel/cara-membuat-website-undangan-pernikahan-sendiri-tanpa-coding/
+  /artikel/cara-membuat-website-undangan-pernikahan-sendiri-tanpa-coding/
 noindex: false
 ---
 Pernikahan adalah salah satu momen paling penting dalam hidup. Tentu kamu ingin membagikan kabar bahagia ini dengan cara yang paling berkesan.
@@ -37,7 +37,7 @@ Kabar baiknya, semua itu tidak sepenuhnya benar. Kamu bisa membuat website undan
 
 Sebelum kita masuk ke langkah teknis, mari kita pahami mengapa website undangan menjadi pilihan populer.
 
-Berbeda dari [undangan digital](https://acaranya.id/) statis (seperti gambar JPEG), website undangan menawarkan interaktivitas. Tamu bisa melakukan konfirmasi kehadiran (RSVP) secara langsung, melihat galeri foto _pre-wedding_ kamu, membaca [love story](https://acaranya.id/artikel/contoh-love-story/) kalian, hingga mendapatkan petunjuk arah Google Maps ke lokasi acara.
+Berbeda dari [undangan digital](/) statis (seperti gambar JPEG), website undangan menawarkan interaktivitas. Tamu bisa melakukan konfirmasi kehadiran (RSVP) secara langsung, melihat galeri foto _pre-wedding_ kamu, membaca [love story](/artikel/contoh-love-story/) kalian, hingga mendapatkan petunjuk arah Google Maps ke lokasi acara.
 
 Website undangan juga mempermudah proses pembaruan. Jika ada perubahan jadwal atau lokasi, kamu cukup memperbaruinya di satu tempat.
 
@@ -75,7 +75,7 @@ Kamu tidak perlu memikirkan _hosting_, _domain_, atau instalasi _plugin_.
 
 Tentu, jika kamu tidak ingin ribet dan ingin hasil yang profesional dengan cepat, kamu bisa langsung menggunakan layanan kami.
 
-[PESAN UNDANGAN DIGITAL](https://wa.me/6281234807480)
+[PESAN UNDANGAN DIGITAL](https://wa.me/62895395094329)
 
 Namun, jika kamu memang tertantang untuk membangunnya dari nol, WordPress atau _website builder_ adalah jalur DIY (Do It Yourself) yang akan kita bahas selanjutnya.
 

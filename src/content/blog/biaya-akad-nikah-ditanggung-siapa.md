@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Biaya Akad Nikah Ditanggung Siapa? Jangan Sampai Salah Paham!
 customBreadcrumbLabel: Biaya Akad Nikah Ditanggung Siapa? Jangan Sampai Salah Paham!
-canonicalUrl: 'https://acaranya.id/artikel/biaya-akad-nikah-ditanggung-siapa/'
+canonicalUrl: '/artikel/biaya-akad-nikah-ditanggung-siapa/'
 noindex: false
 ---
 Mempersiapkan pernikahan memang penuh dengan euforia, tetapi tak jarang juga diiringi dengan berbagai pertanyaan krusial yang bisa membuat pusing. Salah satu topik yang paling sering menjadi sumber kebingungan bahkan perdebatan kecil di antara calon pengantin dan keluarga adalah, “Sebenarnya, biaya akad nikah ditanggung siapa?”
@@ -51,7 +51,7 @@ Ini akan membantu Acaris menempatkan diskusi pada konteks yang tepat saat berbic
 
 Di Indonesia yang kaya akan budaya, tidak ada satu aturan tunggal yang berlaku. Namun, ada sebuah pola umum yang bisa kita lihat. Dalam banyak adat, seperti Jawa dan Sunda, pihak pria secara tradisional menanggung biaya yang berkaitan langsung dengan prosesi ijab kabul, termasuk mahar dan seserahan.
 
-[Mahar adalah](https://acaranya.id/artikel/contoh-mahar-pernikahan-dalam-islam/) simbol kesanggupan pria untuk menafkahi, sehingga biayanya mutlak menjadi tanggung jawab mempelai pria.
+[Mahar adalah](/artikel/contoh-mahar-pernikahan-dalam-islam/) simbol kesanggupan pria untuk menafkahi, sehingga biayanya mutlak menjadi tanggung jawab mempelai pria.
 
 Sementara itu, pihak wanita sering kali lebih banyak mengambil peran dalam biaya yang berhubungan dengan acara setelah akad, seperti jamuan makan atau resepsi yang diselenggarakan di kediaman mereka.
 
@@ -80,7 +80,7 @@ Berikut adalah beberapa komponen biaya yang umumnya ada dalam sebuah prosesi aka
 7.  **Cincin Kawin** Umumnya, cincin kawin dibeli bersama atau menjadi tanggung jawab bersama, meski terkadang pihak pria yang menyiapkannya.
 8.  **Jamuan Makan Keluarga** Setelah akad, biasanya ada acara makan bersama keluarga inti. Biaya ini juga perlu dimasukkan dalam anggaran.
 
-**BACA JUGA:** [Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya](https://acaranya.id/artikel/persiapan-pernikahan-dalam-6-bulan-sebelumnya/)
+**BACA JUGA:** [Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya](/artikel/persiapan-pernikahan-dalam-6-bulan-sebelumnya/)
 
 ## Komunikasi adalah Kunci Utama
 

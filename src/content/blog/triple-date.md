@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Pahami Arti Triple Date, Manfaat, dan Tips Melakukannya'
 customBreadcrumbLabel: 'Pahami Arti Triple Date, Manfaat, dan Tips Melakukannya'
-canonicalUrl: 'https://acaranya.id/artikel/triple-date/'
+canonicalUrl: '/artikel/triple-date/'
 noindex: false
 ---
 _Triple date_ semakin populer di kalangan pasangan, baik yang baru berpacaran maupun yang sudah menikah, karena memberikan pengalaman unik dalam membangun hubungan. Dengan _triple date_, Kamu dan pasangan tidak hanya menghabiskan waktu berdua, tetapi juga mempererat hubungan sosial bersama pasangan lain.
@@ -33,7 +33,7 @@ Artikel ini akan membantu Kamu memahami apa itu _triple date_, manfaatnya, dan c
 
 ## Apa Itu _Triple Date_?
 
-_Triple date_ adalah konsep kencan yang melibatkan tiga pasangan yang bertemu dan beraktivitas bersama. Berbeda dengan _[double date](https://acaranya.id/artikel/double-date-artinya/)_ yang hanya melibatkan dua pasangan, _triple date_ menciptakan suasana yang lebih dinamis dan interaktif karena jumlah peserta yang lebih banyak.
+_Triple date_ adalah konsep kencan yang melibatkan tiga pasangan yang bertemu dan beraktivitas bersama. Berbeda dengan _[double date](/artikel/double-date-artinya/)_ yang hanya melibatkan dua pasangan, _triple date_ menciptakan suasana yang lebih dinamis dan interaktif karena jumlah peserta yang lebih banyak.
 
 Biasanya, _triple date_ dilakukan untuk saling mengenal teman baru atau membangun komunitas kecil dengan pasangan lain yang memiliki minat dan gaya hidup yang serupa.
 

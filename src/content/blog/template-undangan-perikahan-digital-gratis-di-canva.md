@@ -20,7 +20,7 @@ status: published
 seoTitle: 10 Template Undangan Pernikahan Digital Gratis di Canva
 customBreadcrumbLabel: 10 Template Undangan Pernikahan Digital Gratis di Canva
 canonicalUrl: >-
-  https://acaranya.id/artikel/template-undangan-perikahan-digital-gratis-di-canva/
+  /artikel/template-undangan-perikahan-digital-gratis-di-canva/
 noindex: false
 ---
 Mencari template undangan pernikahan yang cantik dan mudah diedit? Canva adalah solusi terbaik untuk kamu yang ingin membuat undangan pernikahan sendiri tanpa biaya. Dengan berbagai pilihan template gratis, kamu bisa menemukan desain yang sesuai dengan tema pernikahanmu, mulai dari gaya minimalis hingga klasik.
@@ -53,7 +53,7 @@ Berikut ini deretan template undangan pernikahan terbaik di Canva yang bisa kamu
 
 [Edit Desain](https://www.canva.com/design?create&type=TABQqqo4v1s&template=EAFogIa2JOA&category=tAEwhV3GgCA&analyticsCorrelationId=426ec52d-449a-428e-8422-407037f17366)
 
-**_BACA JUGA:_** [_20 Contoh Tema Undangan Digital Tanpa Foto_](https://acaranya.id/artikel/undangan-digital-tanpa-foto/)
+**_BACA JUGA:_** [_20 Contoh Tema Undangan Digital Tanpa Foto_](/artikel/undangan-digital-tanpa-foto/)
 
 ### 3\. Grey Beige Floral Illustration Wedding Invitation
 
@@ -95,7 +95,7 @@ Berikut ini deretan template undangan pernikahan terbaik di Canva yang bisa kamu
 
 [Edit Desain](https://www.canva.com/design?create&type=TABQqqo4v1s&template=EAGELsskWpU&category=tAEwhV3GgCA&analyticsCorrelationId=61b7b587-ff4a-4ca5-aecf-ad4bfc65d55c)
 
-**_BACA JUGA:_** [_Tema Undangan Pernikahan Digital Adat Jawa_](https://acaranya.id/artikel/undangan-pernikahan-digital-adat-jawa/)
+**_BACA JUGA:_** [_Tema Undangan Pernikahan Digital Adat Jawa_](/artikel/undangan-pernikahan-digital-adat-jawa/)
 
 ### 7\. Beige Nude Simple Classy Vintage Frame Wedding Invitation
 
@@ -137,7 +137,7 @@ Berikut ini deretan template undangan pernikahan terbaik di Canva yang bisa kamu
 
 [Edit Desain](https://www.canva.com/design?create&type=TABQqqo4v1s&template=EAF3qgp8c90&category=tAEwhV3GgCA&analyticsCorrelationId=c6f3aab2-e87a-4957-9400-539ce897aeef)
 
-Jika kamu belum tahu bagaimana cara menggunakan Canva, alangkah baiknya kamu baca dulu artikel kami tentang **“[Cara Bikin Undangan Pernikahan Digital di Canva, Gratis!](https://acaranya.id/artikel/cara-bikin-undangan-pernikahan-digital-di-canva/)“**.
+Jika kamu belum tahu bagaimana cara menggunakan Canva, alangkah baiknya kamu baca dulu artikel kami tentang **“[Cara Bikin Undangan Pernikahan Digital di Canva, Gratis!](/artikel/cara-bikin-undangan-pernikahan-digital-di-canva/)“**.
 
 * * *
 

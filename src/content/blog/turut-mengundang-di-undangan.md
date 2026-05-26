@@ -19,10 +19,10 @@ imageCaption: ''
 status: published
 seoTitle: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar
 customBreadcrumbLabel: Arti dan Penulisan “Turut Mengundang” di Undangan yang benar
-canonicalUrl: 'https://acaranya.id/artikel/turut-mengundang-di-undangan/'
+canonicalUrl: '/artikel/turut-mengundang-di-undangan/'
 noindex: false
 ---
-Pernah nggak sih, ketika nerima [undangan pernikahan](https://acaranya.id/), lihat ada istilah “turut mengundang” yang tertera? Apa sebenarnya arti dari istilah ini? Apakah hanya sekadar pelengkap dalam undangan atau ada makna lebih dalam yang harus dipahami?
+Pernah nggak sih, ketika nerima [undangan pernikahan](/), lihat ada istilah “turut mengundang” yang tertera? Apa sebenarnya arti dari istilah ini? Apakah hanya sekadar pelengkap dalam undangan atau ada makna lebih dalam yang harus dipahami?
 
 Tak jarang, istilah ini menimbulkan pertanyaan tentang siapa saja yang termasuk dalam daftar “turut mengundang” dan bagaimana susunan namanya diatur.
 
@@ -81,7 +81,7 @@ Supaya lebih jelas, berikut adalah **contoh isi undangan pernikahan turut mengun
 
 Contoh di atas menunjukkan bagaimana nama-nama pihak **turut mengundang** disusun dengan urutan yang mencerminkan penghormatan dan kedekatan hubungan. Ini penting untuk menjaga etika dan perasaan semua pihak yang terlibat.
 
-**BACA JUGA:** [Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp](https://acaranya.id/artikel/format-undangan-pernikahan/)
+**BACA JUGA:** [Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp](/artikel/format-undangan-pernikahan/)
 
 * * *
 

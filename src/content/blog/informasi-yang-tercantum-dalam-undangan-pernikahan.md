@@ -21,7 +21,7 @@ status: published
 seoTitle: 10 Informasi yang Tercantum dalam Undangan Pernikahan
 customBreadcrumbLabel: 10 Informasi yang Tercantum dalam Undangan Pernikahan
 canonicalUrl: >-
-  https://acaranya.id/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/
+  /artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/
 noindex: false
 ---
 Pernikahan adalah salah satu momen penting dan sakral dalam kehidupan seseorang. Dalam pernikahan, kedua mempelai akan diikat oleh janji suci untuk bersama-sama membangun rumah tangga yang harmonis.
@@ -102,7 +102,7 @@ Di era teknologi saat ini, pernikahan virtual menjadi pilihan bagi banyak pasang
 
 Hal ini dapat mencakup platform yang digunakan, tautan untuk mengakses, dan petunjuk penggunaan platform tersebut.
 
-_“Sudah tahu informasi yang wajib harus tercantum dalam undangan pernikahan? Sekarang, waktunya kamu mengetahui [**Contoh Undangan Pernikahan**](https://acaranya.id/artikel/contoh-undangan-pernikahan/).”_
+_“Sudah tahu informasi yang wajib harus tercantum dalam undangan pernikahan? Sekarang, waktunya kamu mengetahui [**Contoh Undangan Pernikahan**](/artikel/contoh-undangan-pernikahan/).”_
 
 * * *
 

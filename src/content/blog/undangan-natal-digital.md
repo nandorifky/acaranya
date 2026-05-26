@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Undangan Natal Digital
 customBreadcrumbLabel: Undangan Natal Digital
-canonicalUrl: 'https://acaranya.id/artikel/undangan-natal-digital/'
+canonicalUrl: '/artikel/undangan-natal-digital/'
 noindex: false
 ---
 Pada penghujung tahun, tentu perayaan Natal tidak akan dilupakan oleh umat Kristiani. Yang mana, tentu ini akan menjadi salah satu hari menyenangkan.
@@ -34,7 +34,7 @@ Dalam halaman ini, kami akan mengajakmu untuk berkenalan dengan salah satu layan
 
 Undangan natal online atau digital ini akan berbasis website sehingga setiap tamu dapat mengaksesnya secara online melalui link atau URL.
 
-[Undangan digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/) tentu memiliki kelebihan tersendiri dibandingkan undangan fisik, yang mana dari segi fitur undangan jenis ini jauh lebih unggul.
+[Undangan digital](/artikel/cara-membuat-undangan-digital/) tentu memiliki kelebihan tersendiri dibandingkan undangan fisik, yang mana dari segi fitur undangan jenis ini jauh lebih unggul.
 
 Mulai dari maps, ucapan selamat, hingga rundown acara bisa kamu sisipkan dalam undangan natal digitalmu nanti.
 
@@ -79,7 +79,7 @@ Langkah-langkah berikut mungkin akan membantu kamu sebelum order undangan natal 
 1.  Pilih undangan natal sesuai selera [disini](https://inv.acaranya.id/tema/natal).
 2.  Jika sudah, klik pesan dan kamu akan langsung diarahkan ke WhatsApp kami.
 3.  Setelah itu, informasikan seluruh detail acara dalam chat WhatsApp.
-4.  Lakukan pembayaran sesuai metode yang sudah kami sediakan ([Baca disini](https://acaranya.id/pembayaran/)).
+4.  Lakukan pembayaran sesuai metode yang sudah kami sediakan ([Baca disini](/pembayaran/)).
 5.  Kami akan langsung memproses undangan natalmu, dan kamu berhak terima jadi.
 6.  Jika perlu, kami juga akan memberikan benefit revisi sepuasnya!
 

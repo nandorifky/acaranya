@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
 customBreadcrumbLabel: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
-canonicalUrl: 'https://acaranya.id/artikel/arti-open-marriage-dalam-pernikahan/'
+canonicalUrl: '/artikel/arti-open-marriage-dalam-pernikahan/'
 noindex: false
 ---
 Pernahkah bertanya-tanya apa sebenarnya yang dimaksud dengan _open marriage_ atau pernikahan terbuka? Meskipun konsep ini mungkin terdengar tidak biasa bagi sebagian orang, nyatanya semakin banyak pasangan yang memilih menjalani hubungan dengan konsep _open marriage_ ini.
@@ -36,7 +36,7 @@ Banyak yang bertanya-tanya, apa sebenarnya arti _open marriage_ dalam konteks hu
 
 Namun, penting untuk diingat bahwa _open marriage_ tidak cocok untuk semua pasangan, dan harus didasari oleh rasa saling percaya serta komunikasi yang baik.
 
-**BACA JUGA:** [Viral di Medsos, “Marriage is Scary” Apa Artinya?](https://acaranya.id/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/)
+**BACA JUGA:** [Viral di Medsos, “Marriage is Scary” Apa Artinya?](/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/)
 
 ### 5 Fakta Menarik tentang Open Marriage
 

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Perbedaan Undangan Digital dan Website
 customBreadcrumbLabel: Perbedaan Undangan Digital dan Website
-canonicalUrl: 'https://acaranya.id/artikel/perbedaan-undangan-digital-dan-website/'
+canonicalUrl: '/artikel/perbedaan-undangan-digital-dan-website/'
 noindex: false
 ---
 Pada dasarnya, perbedaan undangan digital dan website jelas berbeda. Kamu akan mengetahuinya dibawah ini.

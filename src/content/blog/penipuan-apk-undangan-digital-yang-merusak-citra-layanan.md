@@ -22,7 +22,7 @@ status: published
 seoTitle: Penipuan APK Undangan Digital yang Merusak Citra Layanan
 customBreadcrumbLabel: Penipuan APK Undangan Digital yang Merusak Citra Layanan
 canonicalUrl: >-
-  https://acaranya.id/artikel/penipuan-apk-undangan-digital-yang-merusak-citra-layanan/
+  /artikel/penipuan-apk-undangan-digital-yang-merusak-citra-layanan/
 noindex: false
 ---
 Layanan [undangan pernikahan digital](https://acaranya.id) telah menjadi tren baru dalam beberapa tahun terakhir. Selain praktis, undangan digital memberikan sentuhan modern dan lebih ramah lingkungan dibandingkan dengan undangan fisik.
@@ -65,7 +65,7 @@ Layanan undangan digital juga sebaiknya memprioritaskan keamanan data pengguna d
 
 Sebagai penyedia layanan undangan digital, kami memiliki tanggung jawab besar dalam menjaga citra industri ini. Selain meningkatkan keamanan platform, kami proaktif dalam memberikan informasi kepada pengguna mengenai cara mengenali undangan digital palsu.
 
-Misalnya, memberikan tips sederhana seperti dalam [blog perikahan](https://acaranya.id/artikel) kami, serta memastikan bahwa domain undangan digital resmi selalu menggunakan HTTPS dan tidak meminta pengguna mengunduh aplikasi apapun.
+Misalnya, memberikan tips sederhana seperti dalam [blog perikahan](/artikel) kami, serta memastikan bahwa domain undangan digital resmi selalu menggunakan HTTPS dan tidak meminta pengguna mengunduh aplikasi apapun.
 
 Disisi lain, kami juga meyakinkan client bahwa undangan digital yang didapatkan dari Acaranya ID 100% tidak mengandung malware, hal ini telah dibuktikan ratusan client yang sudah menggunakan layanan kami.
 

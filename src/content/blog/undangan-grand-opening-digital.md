@@ -19,10 +19,10 @@ imageCaption: ''
 status: published
 seoTitle: Undangan Grand Opening Digital
 customBreadcrumbLabel: Undangan Grand Opening Digital
-canonicalUrl: 'https://acaranya.id/artikel/undangan-grand-opening-digital/'
+canonicalUrl: '/artikel/undangan-grand-opening-digital/'
 noindex: false
 ---
-**[Grand opening](https://acaranya.id/desain-undangan-digital/grand-opening/)** merupakan momen yang penting bagi setiap bisnis. Acara ini menjadi kesempatan untuk memperkenalkan bisnis baru kepada masyarakat dan menarik minat pelanggan potensial.
+**[Grand opening](/desain-undangan-digital/grand-opening/)** merupakan momen yang penting bagi setiap bisnis. Acara ini menjadi kesempatan untuk memperkenalkan bisnis baru kepada masyarakat dan menarik minat pelanggan potensial.
 
 Dalam era digital seperti sekarang, undangan grand opening juga dapat dilakukan secara online. Hal ini memudahkan pengusaha dalam mengundang tamu dan mempromosikan acara mereka.
 
@@ -49,7 +49,7 @@ Acaranya.id merupakan salah satu platform terbaik untuk membuat undangan grand o
 3.  **Integrasi dengan Media Sosial:** Kamu dapat dengan mudah membagikan undangan grand opening melalui media sosial seperti Facebook, Instagram, dan Twitter.
 4.  **Fitur RSVP:** Acaranya.id juga dilengkapi dengan fitur RSVP yang memudahkan kamu dalam mengatur tamu undangan dan mengetahui jumlah tamu yang akan hadir.
 5.  **Statistik Undangan:** Kamu dapat melihat statistik mengenai undangan yang telah dikirim, dibaca, dan direspon oleh para tamu undangan.
-6.  Dan masih banyak lagi! Kami menawarkan undangan digital dengan fitur lengkap, selengkapnya [**cek disini**](https://acaranya.id/fitur "cek disini").
+6.  Dan masih banyak lagi! Kami menawarkan undangan digital dengan fitur lengkap, selengkapnya [**cek disini**](/fitur "cek disini").
 
 ## Acaranya.id: Solusi Undangan Grand Opening Digital Murah dan Menarik
 

@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 6 Contoh Love Story di Undangan Digital dan Tips Membuatnya
 customBreadcrumbLabel: 6 Contoh Love Story di Undangan Digital dan Tips Membuatnya
-canonicalUrl: 'https://acaranya.id/artikel/contoh-love-story/'
+canonicalUrl: '/artikel/contoh-love-story/'
 noindex: false
 ---
 Halo _Acays_! Pernikahan adalah momen istimewa yang penuh cinta dan kebahagiaan. Salah satu cara untuk membuat undangan pernikahan lebih personal dan berkesan adalah dengan menyisipkan love story kalian di dalamnya.
@@ -60,9 +60,9 @@ _Let’s dive into some inspiring_ contoh kata-kata love story yang bisa bikin u
 > 
 > Jika kamu butuh undangan pernikahan yang cepat, **Acaranya.id** menawarkan layanan **[undangan pernikahan online](https://acaranya.id)** yang bisa selesai dalam **sehari saja**. Kamu cukup pilih tema, tambahkan detail acara seperti tanggal, lokasi, dan informasi RSVP. Semua undangan bisa langsung dikirim ke tamu secara praktis.
 > 
-> Acaranya.id punya berbagai pilihan tema yang sesuai dengan konsep pernikahanmu. [Harganya juga terjangkau](https://acaranya.id/harga/), jadi kamu nggak perlu khawatir soal budget!
+> Acaranya.id punya berbagai pilihan tema yang sesuai dengan konsep pernikahanmu. [Harganya juga terjangkau](/harga/), jadi kamu nggak perlu khawatir soal budget!
 > 
-> [Pilih Desain](https://acaranya.id/desain-undangan-digital/)
+> [Pilih Desain](/desain-undangan-digital/)
 
 ## Contoh 4: Cinta yang Tumbuh Perlahan
 

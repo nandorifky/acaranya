@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: '8 Tips Persiapan Mental Sebelum Menikah, Ini Penting!'
 customBreadcrumbLabel: '8 Tips Persiapan Mental Sebelum Menikah, Ini Penting!'
-canonicalUrl: 'https://acaranya.id/artikel/persiapan-mental-sebelum-menikah/'
+canonicalUrl: '/artikel/persiapan-mental-sebelum-menikah/'
 noindex: false
 ---
 Menikah adalah salah satu keputusan terbesar dalam hidup. Banyak yang berfokus pada persiapan fisik seperti gaun, venue, atau katering, tapi sebenarnya ada hal yang jauh lebih penting, yaitu **persiapan mental sebelum menikah**. Mengapa? Karena pernikahan bukan hanya tentang pesta sehari, melainkan perjalanan hidup yang panjang. Bagaimana seseorang menghadapi perubahan ini akan sangat dipengaruhi oleh kesiapan mental.
@@ -74,7 +74,7 @@ Pernikahan bukan hanya soal cinta, tapi juga soal rencana hidup bersama. Diskusi
 
 Membuat rencana masa depan bersama akan membantu menghindari kebingungan dan ketidakpastian di kemudian hari.
 
-Apakah sudah sepakat soal pengelolaan keuangan? Bagaimana dengan rencana memiliki anak? Jangan takut untuk membahas topik-topik ini. Semakin terbuka dalam membuat rencana, semakin kuat pula fondasi [persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/) yang dibangun.
+Apakah sudah sepakat soal pengelolaan keuangan? Bagaimana dengan rencana memiliki anak? Jangan takut untuk membahas topik-topik ini. Semakin terbuka dalam membuat rencana, semakin kuat pula fondasi [persiapan pernikahan](/artikel/persiapan-pernikahan/) yang dibangun.
 
 ## 8\. Mengembangkan Kemandirian
 

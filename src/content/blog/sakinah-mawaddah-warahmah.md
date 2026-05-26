@@ -20,12 +20,12 @@ imageCaption: ''
 status: published
 seoTitle: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam
 customBreadcrumbLabel: Pahami Arti Sakinah Mawaddah Warahmah dalam Islam
-canonicalUrl: 'https://acaranya.id/artikel/sakinah-mawaddah-warahmah/'
+canonicalUrl: '/artikel/sakinah-mawaddah-warahmah/'
 noindex: false
 ---
 Pernikahan dalam Islam memiliki makna yang sangat mendalam dan suci. Setiap pasangan Muslim yang menikah tentu mendambakan kehidupan rumah tangga yang harmonis dengan landasan **sakinah, mawaddah, dan warahmah** atau biasa disebut dengan **“SAMAWA”**. Ketiga kata ini sering kita dengar dalam prosesi akad nikah atau ceramah pernikahan, namun tak semua orang memahami maknanya secara mendalam.
 
-Membangun rumah tangga yang dilandasi dengan nilai-nilai sakinah, mawaddah, warahmah agar [_barakallah till jannah_](https://acaranya.id/artikel/barakallah-till-jannah/) bukanlah perkara yang mudah. Dibutuhkan pemahaman yang baik tentang makna dan penerapannya dalam kehidupan sehari-hari.
+Membangun rumah tangga yang dilandasi dengan nilai-nilai sakinah, mawaddah, warahmah agar [_barakallah till jannah_](/artikel/barakallah-till-jannah/) bukanlah perkara yang mudah. Dibutuhkan pemahaman yang baik tentang makna dan penerapannya dalam kehidupan sehari-hari.
 
 Artikel ini akan membahas secara detail tentang pengertian, maksud, dan implementasi konsep sakinah mawaddah warahmah dalam pernikahan Islam.
 
@@ -47,7 +47,7 @@ Ketika pasangan memahami konsep sakinah dengan baik, mereka akan berusaha mencip
 
 Dengan menerapkan konsep mawaddah, pasangan akan senantiasa menjaga api cinta mereka tetap menyala. Mereka akan terus berusaha memberikan yang terbaik untuk pasangan tanpa mengharapkan imbalan. Cinta yang tulus ini akan membuat hubungan pernikahan semakin kokoh.
 
-**BACA JUGA:** [Ketahui Pengertian Intimate Wedding hingga Keuntungannya](https://acaranya.id/artikel/intimate-wedding/)
+**BACA JUGA:** [Ketahui Pengertian Intimate Wedding hingga Keuntungannya](/artikel/intimate-wedding/)
 
 ## Implementasi Sakinah Mawaddah Warahmah dalam Kehidupan Sehari-hari
 
@@ -65,4 +65,4 @@ Perbedaan karakter, masalah ekonomi, campur tangan pihak ketiga, dan berbagai pe
 
 Yang terpenting adalah bagaimana pasangan bisa saling menguatkan dan mendukung satu sama lain. Ingatlah bahwa pernikahan adalah ibadah panjang yang membutuhkan kesabaran, pengertian, dan komitmen untuk terus berjuang bersama dalam suka maupun duka.
 
-**BACA JUGA:** [Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan](https://acaranya.id/artikel/pengertian-dan-tugas-pagar-ayu/)
+**BACA JUGA:** [Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan](/artikel/pengertian-dan-tugas-pagar-ayu/)

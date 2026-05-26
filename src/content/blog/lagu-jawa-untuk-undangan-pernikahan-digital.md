@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 10 Rekomendasi Lagu Jawa untuk Undangan Pernikahan Digital
 customBreadcrumbLabel: 10 Rekomendasi Lagu Jawa untuk Undangan Pernikahan Digital
-canonicalUrl: 'https://acaranya.id/artikel/lagu-jawa-untuk-undangan-pernikahan-digital/'
+canonicalUrl: '/artikel/lagu-jawa-untuk-undangan-pernikahan-digital/'
 noindex: false
 ---
 Pernikahan adalah momen yang sangat spesial dalam hidup, dan banyak pasangan yang ingin membuat undangan mereka menjadi lebih menarik. Dengan berkembangnya teknologi, undangan pernikahan digital kini semakin populer.
@@ -59,7 +59,7 @@ Lagu ini yang diciptakan oleh M Iqbal GA menceritakan tentang kesatuan cinta dal
 
 ## 7\. Widodari – Denny Caknan
 
-“Widodari” yang juga diciptakan oleh Denny Caknan adalah lagu yang memikat dengan lirik yang puitis. [Lagu ini bisa menambah kesan romantis pada undangan pernikahan digital](https://acaranya.id/artikel/lagu-untuk-undangan-pernikahan-digital/) dan memberikan sentuhan yang khas, juga sangat pas dinyanyikan di acara pernikahan.
+“Widodari” yang juga diciptakan oleh Denny Caknan adalah lagu yang memikat dengan lirik yang puitis. [Lagu ini bisa menambah kesan romantis pada undangan pernikahan digital](/artikel/lagu-untuk-undangan-pernikahan-digital/) dan memberikan sentuhan yang khas, juga sangat pas dinyanyikan di acara pernikahan.
 
 ## 8\. Lestari – Dru Wendra Wedhatama
 
@@ -87,4 +87,4 @@ Semoga rekomendasi ini membantu kamu dalam menciptakan undangan yang tak terlupa
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID membuat undangan digital untuk pernikahan lebih mudah dan elegan. Bagikan undanganmu tanpa batas dengan [**undangan pernikahan online terbaik**](https://acaranya.id/) yang berkelas.
+Acaranya ID membuat undangan digital untuk pernikahan lebih mudah dan elegan. Bagikan undanganmu tanpa batas dengan [**undangan pernikahan online terbaik**](/) yang berkelas.

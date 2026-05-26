@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan
 customBreadcrumbLabel: Susunan Acara Pengajian Sebelum Pernikahan yang Harus Dipersiapkan
-canonicalUrl: 'https://acaranya.id/artikel/pengajian-sebelum-pernikahan/'
+canonicalUrl: '/artikel/pengajian-sebelum-pernikahan/'
 noindex: false
 ---
 Acara **pengajian sebelum pernikahan** sering menjadi momen penuh makna bagi calon pengantin dan keluarga. Namun, mungkin banyak yang bertanya-tanya, bagaimana sih susunan acara pengajian yang ideal?
@@ -77,7 +77,7 @@ Sesi doa bersama ini biasanya diikuti dengan **isak tangis haru**, terutama dari
 
 Momen doa bersama sering kali menjadi waktu introspeksi bagi calon pengantin dan keluarga, memperkuat niat baik dalam membangun rumah tangga yang bahagia.
 
-**_BACA JUGA:_** [_Penulisan “Turut Mengundang” di Undangan yang benar_](https://acaranya.id/artikel/turut-mengundang-di-undangan/)
+**_BACA JUGA:_** [_Penulisan “Turut Mengundang” di Undangan yang benar_](/artikel/turut-mengundang-di-undangan/)
 
 ### 5\. Makan Bersama
 
@@ -85,7 +85,7 @@ Setelah rangkaian acara pengajian selesai, biasanya dilanjutkan dengan **sesi ma
 
 Dalam acara pengajian, makanan yang disajikan umumnya berupa hidangan khas daerah atau menu yang sederhana namun lezat.
 
-Beberapa contoh menu yang sering disajikan adalah nasi tumpeng, nasi kebuli, atau makanan ringan seperti jajanan pasar dan kue tradisional. Hal ini dilakukan sebagai bentuk rasa syukur dan berbagi kebahagiaan dengan para tamu [undangan](https://acaranya.id/artikel/contoh-undangan-pengajian-pernikahan/).
+Beberapa contoh menu yang sering disajikan adalah nasi tumpeng, nasi kebuli, atau makanan ringan seperti jajanan pasar dan kue tradisional. Hal ini dilakukan sebagai bentuk rasa syukur dan berbagi kebahagiaan dengan para tamu [undangan](/artikel/contoh-undangan-pengajian-pernikahan/).
 
 ### 6\. Penutupan Acara dan Salam-Salaman
 
@@ -115,7 +115,7 @@ Sesi dokumentasi ini sering kali menjadi salah satu bagian paling menyenangkan d
 
 * * *
 
-Acara **pengajian [sebelum pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/)** bukan hanya menjadi momen spiritual, tetapi juga sarana untuk mempererat hubungan dengan keluarga dan teman-teman dekat. Setiap tahap dalam susunan acara, mulai dari pembukaan hingga penutupan, memiliki makna dan tujuan tersendiri.
+Acara **pengajian [sebelum pernikahan](/artikel/persiapan-pernikahan/)** bukan hanya menjadi momen spiritual, tetapi juga sarana untuk mempererat hubungan dengan keluarga dan teman-teman dekat. Setiap tahap dalam susunan acara, mulai dari pembukaan hingga penutupan, memiliki makna dan tujuan tersendiri.
 
 Selain itu, dengan adanya pembacaan ayat suci, tausiyah, doa bersama, dan sesi salam-salaman, pengajian bisa menjadi momen yang sangat berkesan menjelang hari pernikahan.
 

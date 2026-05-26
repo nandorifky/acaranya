@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: '4 Tujuan Utama Pernikahan dalam Islam, Catin Wajib Tahu!'
 customBreadcrumbLabel: '4 Tujuan Utama Pernikahan dalam Islam, Catin Wajib Tahu!'
-canonicalUrl: 'https://acaranya.id/artikel/4-tujuan-utama-pernikahan-dalam-islam/'
+canonicalUrl: '/artikel/4-tujuan-utama-pernikahan-dalam-islam/'
 noindex: false
 ---
 Pernikahan adalah salah satu ikatan suci yang memiliki peran sangat penting dalam kehidupan setiap muslim. Tidak hanya sebagai perjanjian yang mengikat dua insan, pernikahan dalam Islam juga dianggap sebagai wujud dari ibadah yang mengharapkan keridhaan Allah SWT.

@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 6 Tips Memilih Jasa Undangan Pernikahan Digital yang Tepat
 customBreadcrumbLabel: 6 Tips Memilih Jasa Undangan Pernikahan Digital yang Tepat
-canonicalUrl: 'https://acaranya.id/artikel/tips-memilih-jasa-undangan-pernikahan-digital/'
+canonicalUrl: '/artikel/tips-memilih-jasa-undangan-pernikahan-digital/'
 noindex: false
 ---
 Halo _Der_! Pernahkah terpikirkan bagaimana memilih **[jasa undangan pernikahan digital](https://acaranya.id)** yang tepat? Mengingat pernikahan adalah momen istimewa dalam hidup, tentunya undangan pernikahan haruslah spesial.

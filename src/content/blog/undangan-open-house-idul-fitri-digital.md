@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Undangan Open House Idul Fitri Digital
 customBreadcrumbLabel: Undangan Open House Idul Fitri Digital
-canonicalUrl: 'https://acaranya.id/artikel/undangan-open-house-idul-fitri-digital/'
+canonicalUrl: '/artikel/undangan-open-house-idul-fitri-digital/'
 noindex: false
 ---
 Hari Raya Idul Fitri adalah waktu spesial ketika kita merayakan akhir dari bulan puasa, Ramadhan. Ini adalah hari penuh kegembiraan, saat keluarga dan teman berkumpul, saling memaafkan, dan berbagi kebahagiaan.
@@ -53,7 +53,7 @@ Cukup banyak contoh desain yang bisa kamu jadikan referensi untuk undangan fisik
 
 ### 2\. Contoh Undangan Open House Lebaran Gambar PNG/JPG
 
-Undangan gambar menjadi salah satu [jenis undangan digital](https://acaranya.id/artikel/perbedaan-undangan-digital-dan-website/) yang terkenal dengan kemudahannya dalam membagikannya. Berikut ini beberapa contoh undangan open house lebaran dalam format PNG/JPG yang bisa kamu jadikan referensi.
+Undangan gambar menjadi salah satu [jenis undangan digital](/artikel/perbedaan-undangan-digital-dan-website/) yang terkenal dengan kemudahannya dalam membagikannya. Berikut ini beberapa contoh undangan open house lebaran dalam format PNG/JPG yang bisa kamu jadikan referensi.
 
 ![](/images/blog/content/Copy-of-Ramadan-Iftar-Dinner-Template.jpg)
 
@@ -91,7 +91,7 @@ Berikut ini beberapa tema islami yang bisa kamu custom:
 
 **[Live Preview](https://inv.acaranya.id/preview/eid-mubarak "Live Preview")**
 
-[PESAN UNDANGAN DIGITAL](https://wa.me/6281234807480)
+[PESAN UNDANGAN DIGITAL](https://wa.me/62895395094329)
 
 ## Fitur Undangan Open House Idul Fitri Digital
 
@@ -133,7 +133,7 @@ Dengan tarif hanya Rp100.000, Acaranya.id menyediakan website undangan yang dapa
 
 Berbagai pilihan desain yang dapat disesuaikan dengan tema Lebaran, membuat setiap undangan bukan sekadar formalitas, melainkan sebuah pengalaman yang kaya dan berkesan.
 
-[Acaranya.id](https://acaranya.id/) menawarkan solusi elegan dan ekonomis untuk kebutuhan undangan digital Open House Lebaran.
+[Acaranya.id](/) menawarkan solusi elegan dan ekonomis untuk kebutuhan undangan digital Open House Lebaran.
 
 ## Cara Order Undangan Open House Idul Fitri 1445 H
 
@@ -142,13 +142,13 @@ Acaranya.id memudahkan proses pembuatan website undangan digital untuk Open Hous
 1.  Pilih desain undangan Open House Lebaran yang diinginkan pada **[Catalog Desain](https://inv.acaranya.id/tema "Catalog Desain")** kami.
 2.  Tekan tombol **“PESAN”** yang ada di halaman, yang akan mengarahkan langsung ke chat WhatsApp Acaranya.id.
 3.  Berikan detail lengkap acara Open House Lebaran melalui chat tersebut.
-4.  Lakukan pembayaran dengan metode yang telah disediakan (detail lebih lanjut dapat [dibaca di situs kami](https://acaranya.id/pembayaran/ "dibaca di situs kami")).
+4.  Lakukan pembayaran dengan metode yang telah disediakan (detail lebih lanjut dapat [dibaca di situs kami](/pembayaran/ "dibaca di situs kami")).
 5.  Setelah pembayaran diterima, Acaranya.id akan segera memproses undangan digital Anda.
 6.  Nikmati fasilitas revisi tanpa batas untuk memastikan undangan sesuai keinginan.
 
 Dengan layanan ini, membuat undangan Open House Lebaran digital menjadi mudah, cepat, dan sesuai dengan apa yang dibayangkan.
 
-[PESAN UNDANGAN](https://wa.me/6281234807480/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20open%20house.)
+[PESAN UNDANGAN](https://wa.me/62895395094329/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20open%20house.)
 
 ## Contoh Kata-Kata Undangan Open House Idul Fitri
 
@@ -207,8 +207,8 @@ Idul Fitri adalah momen istimewa yang ditandai dengan kebersamaan, silaturahmi, 
 > Wassalam,  
 > Keluarga Besar Halim_
 
-**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/)
+**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](/artikel/kata-kata-undangan-lewat-wa/)
 
 * * *
 
-Itulah beberapa contoh desain undangan Open House idul fitri yang bisa kamu jadikan sebagai referensi. Kamu langsung [hubungi Acaranya.id](https://acaranya.id/artikel/kontak/) untuk pemesanan undangan digital berbagai acara.
+Itulah beberapa contoh desain undangan Open House idul fitri yang bisa kamu jadikan sebagai referensi. Kamu langsung [hubungi Acaranya.id](/artikel/kontak/) untuk pemesanan undangan digital berbagai acara.

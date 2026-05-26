@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia
 customBreadcrumbLabel: Perbedaan Ngunduh Mantu dan Resepsi dalam Tradisi Pernikahan Indonesia
-canonicalUrl: 'https://acaranya.id/artikel/perbedaan-ngunduh-mantu-dan-resepsi/'
+canonicalUrl: '/artikel/perbedaan-ngunduh-mantu-dan-resepsi/'
 noindex: false
 ---
 Pernikahan di Indonesia tidak hanya menjadi momen sakral bagi pasangan pengantin, tetapi juga sarat dengan tradisi dan budaya yang diwariskan turun-temurun. Salah satu ciri khas pernikahan adat Indonesia adalah banyaknya prosesi yang menyertainya, mulai dari lamaran, akad nikah, hingga pesta perayaan. Di antara rangkaian tersebut, **ngunduh mantu** dan **resepsi pernikahan** adalah dua istilah yang sering muncul, namun sering pula disalahartikan sebagai hal yang sama.
@@ -29,7 +29,7 @@ Padahal, meskipun keduanya merupakan acara perayaan, **ngunduh mantu dan resepsi
 
 ## Apa Itu Ngunduh Mantu?
 
-[Ngunduh mantu](https://acaranya.id/artikel/ngunduh-mantu/) adalah salah satu tradisi pernikahan adat yang umum dijumpai dalam budaya Jawa, dan dalam beberapa kasus juga diterapkan di daerah lain di Indonesia. Secara etimologis, “ngunduh” berarti memetik atau mengambil hasil, sementara “mantu” berarti menantu. Dengan demikian, **ngunduh mantu dapat diartikan sebagai “memetik menantu” atau “menyambut menantu”**, yaitu mempelai wanita yang kini resmi menjadi bagian dari keluarga mempelai pria.
+[Ngunduh mantu](/artikel/ngunduh-mantu/) adalah salah satu tradisi pernikahan adat yang umum dijumpai dalam budaya Jawa, dan dalam beberapa kasus juga diterapkan di daerah lain di Indonesia. Secara etimologis, “ngunduh” berarti memetik atau mengambil hasil, sementara “mantu” berarti menantu. Dengan demikian, **ngunduh mantu dapat diartikan sebagai “memetik menantu” atau “menyambut menantu”**, yaitu mempelai wanita yang kini resmi menjadi bagian dari keluarga mempelai pria.
 
 ### Makna dan Tujuan Ngunduh Mantu
 

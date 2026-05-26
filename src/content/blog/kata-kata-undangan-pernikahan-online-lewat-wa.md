@@ -20,12 +20,12 @@ imageCaption: ''
 status: published
 seoTitle: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan
 customBreadcrumbLabel: Kata-Kata Undangan Pernikahan Online Lewat WA yang Sopan
-canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online-lewat-wa/'
+canonicalUrl: '/artikel/kata-kata-undangan-pernikahan-online-lewat-wa/'
 noindex: false
 ---
 Mengirim undangan pernikahan lewat WhatsApp (WA) kini sudah menjadi solusi praktis bagi banyak pasangan. Selain lebih cepat, cara ini juga membantu dalam hal efisiensi waktu, terutama ketika persiapan pernikahan begitu padat. Namun, meski praktis, penting untuk tetap menjaga kesopanan dan etika dalam penyampaian undangan.
 
-Dalam artikel ini, kami akan membahas secara lengkap bagaimana cara menyusun [kata-kata undangan pernikahan online](https://acaranya.id/artikel/kata-kata-undangan-pernikahan-online/) lewat WA yang tetap sopan dan menghargai tamu undangan.
+Dalam artikel ini, kami akan membahas secara lengkap bagaimana cara menyusun [kata-kata undangan pernikahan online](/artikel/kata-kata-undangan-pernikahan-online/) lewat WA yang tetap sopan dan menghargai tamu undangan.
 
 ## Kenapa Menggunakan Undangan Pernikahan Online Lewat WA?
 
@@ -47,7 +47,7 @@ Namun, untuk orang yang lebih tua atau memiliki jabatan penting, pastikan kamu m
 
 Misalnya, untuk undangan ke teman, kamu bisa menggunakan bahasa yang lebih kasual. Tapi, tetap sopan dan penuh rasa hormat.
 
-Pertimbangkan juga untuk menggunakan [kata-kata undangan tanpa mengurangi rasa hormat](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/), agar tamu undangan tetap merasa dihargai.
+Pertimbangkan juga untuk menggunakan [kata-kata undangan tanpa mengurangi rasa hormat](/artikel/kata-kata-undangan-lewat-wa/), agar tamu undangan tetap merasa dihargai.
 
 ### 2\. Susun Kalimat dengan Rapi
 
@@ -99,6 +99,6 @@ Salom,Dengan hormat, kami ingin mengundang Saudara/i untuk menghadiri acara pemb
 
 * * *
 
-Itulah berbagai contoh dan tata cara membuat [kata-kata undangan pernikahan](https://acaranya.id/artikel/kata-kata-undangan-pernikahan/) online lewat WhatsApp yang sopan dan efektif.
+Itulah berbagai contoh dan tata cara membuat [kata-kata undangan pernikahan](/artikel/kata-kata-undangan-pernikahan/) online lewat WhatsApp yang sopan dan efektif.
 
 Meski dikirim secara digital, pastikan untuk tetap memperhatikan kesopanan dan informasi yang lengkap. Kamu juga bisa menambahkan elemen menarik seperti gambar atau video untuk membuat undangan lebih spesial.

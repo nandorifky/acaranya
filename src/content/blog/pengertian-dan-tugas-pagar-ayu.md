@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'
 customBreadcrumbLabel: 'Pagar Ayu Adalah: Pengertian dan Peran Penting Dalam Pernikahan'
-canonicalUrl: 'https://acaranya.id/artikel/pengertian-dan-tugas-pagar-ayu/'
+canonicalUrl: '/artikel/pengertian-dan-tugas-pagar-ayu/'
 noindex: false
 ---
 Pernah dengar istilah pagar ayu saat datang ke acara pernikahan? Dalam adat pernikahan di Indonesia, pagar ayu menjadi salah satu elemen penting yang sering kali menjadi perhatian, terutama karena pesona dan peran mereka di hari bahagia sang pengantin.
@@ -61,7 +61,7 @@ Di beberapa acara pernikahan, pagar ayu juga bertugas memberikan suvenir atau ta
 
 ### 2\. Mengiringi Pengantin dalam Prosesi
 
-Peran utama lainnya dari pagar ayu adalah mengiringi pengantin dalam berbagai prosesi yang berlangsung selama acara. Baik dalam prosesi [akad nikah](https://acaranya.id/artikel/bacaan-ijab-kabul-nikah-yang-benar/) atau upacara adat, maupun saat resepsi, pagar ayu biasanya berada di samping atau mengikuti langkah pengantin dari belakang.
+Peran utama lainnya dari pagar ayu adalah mengiringi pengantin dalam berbagai prosesi yang berlangsung selama acara. Baik dalam prosesi [akad nikah](/artikel/bacaan-ijab-kabul-nikah-yang-benar/) atau upacara adat, maupun saat resepsi, pagar ayu biasanya berada di samping atau mengikuti langkah pengantin dari belakang.
 
 Pada beberapa pernikahan adat, pagar ayu juga memiliki posisi tertentu selama prosesi berlangsung. Mereka berdiri dengan formasi yang telah diatur di sekitar pengantin, memberikan kesan harmonis dan teratur.
 
@@ -77,7 +77,7 @@ Salah satu aspek yang sering diabaikan, tetapi tak kalah penting, adalah peran p
 
 Misalnya, pada sesi foto bersama, pagar ayu sering kali ikut serta dalam sesi foto keluarga atau dengan tamu-tamu penting. Mereka membantu memastikan setiap sesi foto berjalan tertib, membantu mengarahkan tamu untuk berpose, serta memberikan senyum manis yang menambah keindahan dalam setiap foto.
 
-Tak hanya itu, pagar ayu juga berperan dalam rangkaian acara adat, seperti saat melakukan **[“sungkeman”](https://acaranya.id/artikel/teks-sungkeman-pernikahan/)** atau saat prosesi adat tertentu yang melibatkan keluarga besar. Kehadiran mereka menciptakan suasana yang lebih khidmat dan harmonis. Pada beberapa kesempatan, mereka juga turut serta dalam momen hiburan seperti tarian atau sesi dansa yang sering dilakukan di akhir acara resepsi, membuat suasana semakin meriah dan menyenangkan.
+Tak hanya itu, pagar ayu juga berperan dalam rangkaian acara adat, seperti saat melakukan **[“sungkeman”](/artikel/teks-sungkeman-pernikahan/)** atau saat prosesi adat tertentu yang melibatkan keluarga besar. Kehadiran mereka menciptakan suasana yang lebih khidmat dan harmonis. Pada beberapa kesempatan, mereka juga turut serta dalam momen hiburan seperti tarian atau sesi dansa yang sering dilakukan di akhir acara resepsi, membuat suasana semakin meriah dan menyenangkan.
 
 ### 4\. Mengelola Alur Acara
 

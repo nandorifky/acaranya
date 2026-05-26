@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Weton Jodoh Ketemu 17, Cocok atau Tidak?'
 customBreadcrumbLabel: 'Weton Jodoh Ketemu 17, Cocok atau Tidak?'
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-17/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-17/'
 noindex: false
 ---
 Dalam budaya Jawa, weton merupakan salah satu elemen penting dalam menentukan kecocokan pasangan. Weton Jodoh Ketemu 17, khususnya, menarik perhatian banyak orang karena dianggap memiliki makna dan pengaruh yang unik dalam kehidupan pernikahan. Artikel ini akan mengulas secara mendalam mengenai Weton Jodoh Ketemu 17, menjelaskan cara perhitungannya, dan makna yang terkandung di dalamnya menurut primbon Jawa.
@@ -41,7 +41,7 @@ Apabila pasangan dengan Weton Jodoh Ketemu 17 memutuskan untuk melanjutkan ke je
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk memudahkan Anda dalam menghitung weton jodoh, Anda bisa menggunakan tools Kalkulator cek weton online dari Acaranya.id. Dengan mengakses [kalkulator weton online](https://acaranya.id/cek-weton/) ini, Anda dapat dengan mudah menemukan weton masing-masing pasangan dan menghitung total neptu dari keduanya.
+Untuk memudahkan Anda dalam menghitung weton jodoh, Anda bisa menggunakan tools Kalkulator cek weton online dari Acaranya.id. Dengan mengakses [kalkulator weton online](/cek-weton/) ini, Anda dapat dengan mudah menemukan weton masing-masing pasangan dan menghitung total neptu dari keduanya.
 
 Sebagai contoh, pasangan dengan weton Senin Pahing dan Kamis Wage akan memiliki jumlah neptu sebagai berikut:
 

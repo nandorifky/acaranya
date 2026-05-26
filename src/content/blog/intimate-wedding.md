@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Mengenal Apa itu Intimate Wedding dan Keuntungannya
 customBreadcrumbLabel: Mengenal Apa itu Intimate Wedding dan Keuntungannya
-canonicalUrl: 'https://acaranya.id/artikel/intimate-wedding/'
+canonicalUrl: '/artikel/intimate-wedding/'
 noindex: false
 ---
 Dalam beberapa tahun terakhir, konsep pernikahan telah mengalami banyak perubahan, dan salah satu tren yang semakin populer adalah **intimate wedding**. Pernikahan intim ini menawarkan pengalaman yang lebih personal dan mendalam bagi pasangan yang ingin merayakan cinta mereka dengan cara yang berbeda. Jika kamu sedang merencanakan pernikahan dan ingin tahu lebih banyak tentang apa itu intimate wedding, artikel ini akan memberikan semua informasi yang kamu butuhkan.
@@ -64,7 +64,7 @@ Jika kamu tertarik untuk mengadakan pernikahan intim, berikut adalah beberapa id
 *   **Makanan yang Spesial**: Sajikan makanan yang kamu dan pasangan sukai. Kamu bisa memilih menu yang lebih personal, seperti hidangan favorit atau makanan yang memiliki kenangan khusus.
 *   **Acara yang Interaktif**: Buat acara yang melibatkan tamu, seperti permainan atau sesi berbagi cerita. Ini akan membuat suasana semakin akrab dan menyenangkan.
 
-**BACA JUGA:** [Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya](https://acaranya.id/artikel/lavender-marriage/)
+**BACA JUGA:** [Lavender Marriage: Pengertian, Sejarah, Tujuan, dan Dampaknya](/artikel/lavender-marriage/)
 
 ## Tips Merencanakan Intimate Wedding
 

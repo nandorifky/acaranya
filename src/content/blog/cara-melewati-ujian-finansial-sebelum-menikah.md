@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: Cara Melewati Ujian Finansial Sebelum Menikah
 customBreadcrumbLabel: Cara Melewati Ujian Finansial Sebelum Menikah
-canonicalUrl: 'https://acaranya.id/artikel/cara-melewati-ujian-finansial-sebelum-menikah/'
+canonicalUrl: '/artikel/cara-melewati-ujian-finansial-sebelum-menikah/'
 noindex: false
 ---
-Pernah dengar cerita tentang pasangan yang baru menikah langsung terjun ke lautan hutang? Cerita itu bukan dongeng, tapi realita yang bisa menghantui siapa saja yang tak serius menganggap [persiapan pernikahan](https://acaranya.id/artikel/wedding-checklist/).
+Pernah dengar cerita tentang pasangan yang baru menikah langsung terjun ke lautan hutang? Cerita itu bukan dongeng, tapi realita yang bisa menghantui siapa saja yang tak serius menganggap [persiapan pernikahan](/artikel/wedding-checklist/).
 
 Menurut survei terkini, sebagian besar perceraian disulut oleh masalah keuangan yang tak kunjung usai.
 
@@ -35,7 +35,7 @@ Dalam artikel ini akan dibahas tuntas tentang bagaimana melalui **ujian finansia
 
 Memulai perjalanan menuju altar pernikahan itu ibarat lompatan besar—dan tentu saja, bukan hanya soal cinta.
 
-Finansial sebelum [pernikahan](https://acaranya.id/artikel/) perlu dikelola dengan hati-hati. Pertama, kenali dulu aliran keuangan masing-masing. Dilansir dari data _The Financial Diet_, sekitar 40% pasangan mengaku tidak tahu persis berapa penghasilan pasangannya. Nah, ini bisa jadi awal petaka jika tak segera ditangani.
+Finansial sebelum [pernikahan](/artikel/) perlu dikelola dengan hati-hati. Pertama, kenali dulu aliran keuangan masing-masing. Dilansir dari data _The Financial Diet_, sekitar 40% pasangan mengaku tidak tahu persis berapa penghasilan pasangannya. Nah, ini bisa jadi awal petaka jika tak segera ditangani.
 
 Mulailah dengan membuat daftar pendapatan dan pengeluaran bulanan. Ini adalah langkah pertama untuk menyusun _budget_ atau anggaran yang realistis. Tak perlu malu untuk membicarakan hal ini bersama pasangan. Ingat, kejujuran adalah kunci utama di sini.
 

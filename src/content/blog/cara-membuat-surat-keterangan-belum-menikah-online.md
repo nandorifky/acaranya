@@ -20,7 +20,7 @@ status: published
 seoTitle: Cara Membuat Surat Keterangan Belum Menikah Online dan Syaratnya
 customBreadcrumbLabel: Cara Membuat Surat Keterangan Belum Menikah Online dan Syaratnya
 canonicalUrl: >-
-  https://acaranya.id/artikel/cara-membuat-surat-keterangan-belum-menikah-online/
+  /artikel/cara-membuat-surat-keterangan-belum-menikah-online/
 noindex: false
 ---
 Apa itu surat keterangan belum menikah dan mengapa penting untuk memiliki dokumen ini? Mungkin ada banyak alasan mengapa seseorang perlu mendapatkan surat ini, mulai dari persyaratan administrasi hingga keperluan pribadi. Dengan era digital seperti sekarang, proses pengajuan dokumen ini pun menjadi lebih mudah karena sudah bisa dilakukan secara online.
@@ -46,7 +46,7 @@ Sebelum memulai proses pengajuan, ada beberapa syarat yang harus dipenuhi. Berik
 
 Pastikan semua dokumen tersebut sudah disiapkan dalam bentuk digital (scan atau foto) dengan kualitas yang jelas dan mudah dibaca. Jangan lupa juga memastikan bahwa informasi dalam dokumen sudah sesuai dengan data yang ada di sistem pemerintah.
 
-**BACA JUGA:** [Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Contoh](https://acaranya.id/artikel/surat-pengantar-nikah-laki-laki/)
+**BACA JUGA:** [Surat Pengantar Nikah Laki-Laki: Format, Syarat, dan Contoh](/artikel/surat-pengantar-nikah-laki-laki/)
 
 ## Langkah-Langkah Membuat Surat Keterangan Belum Menikah Online
 
@@ -58,7 +58,7 @@ Berikut adalah langkah-langkah untuk mengajukan surat keterangan belum menikah s
 4.  **Verifikasi dan submit**: Setelah semua data diisi dan dokumen diunggah, periksa kembali untuk memastikan tidak ada kesalahan. Jika sudah yakin, klik tombol “submit” untuk mengajukan permohonan.
 5.  **Tunggu konfirmasi**: Setelah pengajuan selesai, biasanya akan ada email atau notifikasi dari pihak kelurahan mengenai status permohonan. Jika disetujui, surat keterangan belum menikah akan dikirimkan dalam bentuk digital yang bisa diunduh dan dicetak.
 
-**BACA JUGA:** [Surat Pengantar Nikah dari RT](https://acaranya.id/artikel/surat-pengantar-nikah-dari-rt/)
+**BACA JUGA:** [Surat Pengantar Nikah dari RT](/artikel/surat-pengantar-nikah-dari-rt/)
 
 ## Mengapa Proses Ini Bisa Lebih Mudah dengan Bantuan dari RT dan Kelurahan?
 
@@ -116,7 +116,7 @@ _\[Tanda Tangan dan Stempel Lurah\]_
 
 Surat di atas adalah contoh standar surat keterangan belum menikah yang dapat bervariasi tergantung pada daerah atau kebijakan kelurahan setempat. Pastikan informasi di dalam surat telah benar dan sesuai dengan data yang dimiliki sebelum menggunakannya untuk keperluan resmi.
 
-**BACA JUGA:** [Contoh Surat Undangan Pernikahan Tulis Tangan Simple](https://acaranya.id/artikel/undangan-pernikahan-tulis-tangan/)
+**BACA JUGA:** [Contoh Surat Undangan Pernikahan Tulis Tangan Simple](/artikel/undangan-pernikahan-tulis-tangan/)
 
 ## Fungsi Surat Keterangan Belum Menikah
 

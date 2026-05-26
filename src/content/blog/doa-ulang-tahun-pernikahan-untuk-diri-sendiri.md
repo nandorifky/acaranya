@@ -22,7 +22,7 @@ imageCaption: ''
 status: published
 seoTitle: Ini 10 Doa Ulang Tahun Pernikahan untuk Diri Sendiri
 customBreadcrumbLabel: Ini 10 Doa Ulang Tahun Pernikahan untuk Diri Sendiri
-canonicalUrl: 'https://acaranya.id/artikel/doa-ulang-tahun-pernikahan-untuk-diri-sendiri/'
+canonicalUrl: '/artikel/doa-ulang-tahun-pernikahan-untuk-diri-sendiri/'
 noindex: false
 ---
 Ulang tahun pernikahan merupakan momen istimewa dalam perjalanan hidup. Saat ulang tahun pernikahan tiba, tidak hanya pasangan yang patut dirayakan, tetapi juga diri sendiri.
@@ -45,7 +45,7 @@ Doa ini sebagai bentuk ungkapan syukur atas karunia usia pernikahan yang semakin
 
 Keharmonisan menjadi elemen penting dalam pernikahan. Melalui doa ini, seseorang meminta agar hubungan pernikahan selalu dilandasi oleh cinta dan dukungan satu sama lain.
 
-**_BACA JUGA:_** [_6 Contoh Ucapan Anniversary Pernikahan Islami untuk Suami_](https://acaranya.id/artikel/ucapan-anniversary-pernikahan-islami-untuk-suami/)
+**_BACA JUGA:_** [_6 Contoh Ucapan Anniversary Pernikahan Islami untuk Suami_](/artikel/ucapan-anniversary-pernikahan-islami-untuk-suami/)
 
 ## 3\. Doa Perlindungan Dari Konflik
 
@@ -89,7 +89,7 @@ Kebahagiaan dalam rumah tangga merupakan hal yang didambakan oleh setiap pasanga
 
 Cinta yang terus tumbuh dan kuat adalah pilar dalam pernikahan. Doa ini menjadi sarana untuk memohon agar cinta yang ada tidak pernah pudar, bahkan semakin dalam.
 
-**_BACA JUGA:_** [_40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis_](https://acaranya.id/artikel/doa-istri-ucapan-anniversary-pernikahan/)
+**_BACA JUGA:_** [_40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis_](/artikel/doa-istri-ucapan-anniversary-pernikahan/)
 
 ## 10\. Doa Menguatkan Iman Dalam Pernikahan
 

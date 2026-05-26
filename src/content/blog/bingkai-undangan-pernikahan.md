@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Bingkai Undangan Pernikahan
 customBreadcrumbLabel: Bingkai Undangan Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/bingkai-undangan-pernikahan/'
+canonicalUrl: '/artikel/bingkai-undangan-pernikahan/'
 noindex: false
 ---
 Pernikahan adalah momen yang paling ditunggu-tunggu dalam hidup banyak orang. Oleh karena itu, persiapan pernikahan harus dilakukan dengan baik, termasuk dalam hal undangan pernikahan.
@@ -93,7 +93,7 @@ Selain itu, pemilihan tempat untuk meletakkan frame juga perlu dipertimbangkan. 
 
 Hal ini akan membuat undangan pernikahan terlihat lebih menonjol dan memberikan kesan yang lebih mendalam kepada tamu undangan.
 
-**BACA JUGA:** [Cara Membuat Undangan Pernikahan Digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/)
+**BACA JUGA:** [Cara Membuat Undangan Pernikahan Digital](/artikel/cara-membuat-undangan-digital/)
 
 ## Tips Memilih Bingkai Undangan yang Tepat
 

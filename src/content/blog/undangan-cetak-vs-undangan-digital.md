@@ -20,12 +20,12 @@ imageCaption: ''
 status: published
 seoTitle: 'Perbandingan Cetak Undangan vs. Undangan Digital, Pilih Mana?'
 customBreadcrumbLabel: 'Perbandingan Cetak Undangan vs. Undangan Digital, Pilih Mana?'
-canonicalUrl: 'https://acaranya.id/artikel/undangan-cetak-vs-undangan-digital/'
+canonicalUrl: '/artikel/undangan-cetak-vs-undangan-digital/'
 noindex: false
 ---
 Menentukan format undangan seringkali menjadi perdebatan panjang bagi pasangan yang tengah menyiapkan pernikahan. Kami memahami bahwa setiap pilihan membawa konsekuensi pada anggaran, estetika, hingga kenyamanan tamu undangan yang akan hadir di hari bahagia Anda.
 
-Keputusan antara memilih undangan cetak atau [undangan digital](https://acaranya.id/) harus didasarkan pada profil tamu, konsep acara, dan ketersediaan waktu produksi.
+Keputusan antara memilih undangan cetak atau [undangan digital](/) harus didasarkan pada profil tamu, konsep acara, dan ketersediaan waktu produksi.
 
 Cetak undangan memberikan kesan formal dan fisik yang nyata, sementara versi digital menawarkan kepraktisan distribusi dalam hitungan detik.
 
@@ -90,7 +90,7 @@ Inilah alasan mengapa **manfaat undangan pernikahan cetak** tetap relevan di ten
 
 ## Cara Mengirim Undangan Digital Lewat WhatsApp yang Sopan
 
-[Etika mengirim undangan](https://acaranya.id/artikel/cara-mengirim-undangan-digital-lewat-wa/) lewat media sosial terletak pada personalisasi pesan dan pemilihan waktu yang tepat agar tidak dianggap sebagai spam oleh penerima.
+[Etika mengirim undangan](/artikel/cara-mengirim-undangan-digital-lewat-wa/) lewat media sosial terletak pada personalisasi pesan dan pemilihan waktu yang tepat agar tidak dianggap sebagai spam oleh penerima.
 
 Pastikan Anda tidak hanya mengirimkan link mentah, melainkan menyertainya dengan pengantar yang hangat dan menyebutkan nama tamu dengan benar.
 
@@ -99,7 +99,7 @@ Pastikan Anda tidak hanya mengirimkan link mentah, melainkan menyertainya dengan
 3.  **Jelaskan Cara Penggunaan:** Berikan instruksi singkat jika ada fitur penting seperti **RSVP online** atau **barcode lokasi** yang perlu mereka akses.
 4.  **Format Nama Tamu:** Pastikan **format nama tamu di undangan digital** tertulis dengan benar pada sistem agar saat mereka membuka link, nama mereka muncul secara otomatis di layar pembuka.
 
-Waktu pengiriman juga krusial. Kirimkan undangan minimal 2 hingga 4 minggu sebelum acara sebagai [save the date](https://acaranya.id/artikel/save-the-date/) agar tamu memiliki waktu luang untuk mengatur jadwal mereka.
+Waktu pengiriman juga krusial. Kirimkan undangan minimal 2 hingga 4 minggu sebelum acara sebagai [save the date](/artikel/save-the-date/) agar tamu memiliki waktu luang untuk mengatur jadwal mereka.
 
 Hindari mengirim undangan di jam istirahat atau larah malam agar tetap terlihat profesional dan sopan.
 
@@ -117,7 +117,7 @@ Terkadang, desain yang sederhana justru memberikan kesan lebih elegan dan modern
 
 ## Integrasi RSVP Online dan Google Maps dalam Undangan Modern
 
-Fitur **[RSVP online](https://acaranya.id/rsvp/)** pada undangan digital memberikan efisiensi luar biasa bagi panitia pernikahan dalam mengelola jumlah katering dan kapasitas ruangan secara akurat.
+Fitur **[RSVP online](/rsvp/)** pada undangan digital memberikan efisiensi luar biasa bagi panitia pernikahan dalam mengelola jumlah katering dan kapasitas ruangan secara akurat.
 
 Tamu cukup menekan tombol konfirmasi kehadiran, dan data tersebut akan langsung masuk ke dashboard pengelolaan tamu Anda.
 

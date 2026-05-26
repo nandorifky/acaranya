@@ -20,12 +20,12 @@ imageCaption: ''
 status: published
 seoTitle: Weton Jodoh Ketemu 26 Apa Artinya? Penjelasan Primbon Jawa
 customBreadcrumbLabel: Weton Jodoh Ketemu 26 Apa Artinya? Penjelasan Primbon Jawa
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-26/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-26/'
 noindex: false
 ---
 Weton jodoh ketemu 26 merupakan salah satu hasil perhitungan weton dalam primbon Jawa. Perhitungan ini dilakukan dengan menjumlahkan neptu hari lahir dan pasaran kedua calon pasangan. Hasil penjumlahan tersebut kemudian diinterpretasikan berdasarkan makna yang tercantum dalam kitab primbon Jawa. Artikel ini akan membahas secara komprehensif mengenai arti, cara menghitung, dan makna weton jodoh ketemu 26.
 
-Secara umum, primbon Jawa menggunakan total neptu untuk menafsirkan [kecocokan pasangan](https://acaranya.id/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/). Neptu merupakan nilai yang diberikan pada hari dan pasaran dalam kalender Jawa. Setiap hari dan pasaran memiliki nilai neptu yang berbeda. Total neptu kedua pasangan kemudian dibagi dengan angka tertentu, seperti 4, 5, 7, dan 8. Sisa hasil bagi kemudian ditafsirkan berdasarkan makna yang tercantum dalam kitab primbon Jawa.
+Secara umum, primbon Jawa menggunakan total neptu untuk menafsirkan [kecocokan pasangan](/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/). Neptu merupakan nilai yang diberikan pada hari dan pasaran dalam kalender Jawa. Setiap hari dan pasaran memiliki nilai neptu yang berbeda. Total neptu kedua pasangan kemudian dibagi dengan angka tertentu, seperti 4, 5, 7, dan 8. Sisa hasil bagi kemudian ditafsirkan berdasarkan makna yang tercantum dalam kitab primbon Jawa.
 
 Memahami weton jodoh ketemu 26 penting bagi Anda, khususnya bagi yang ingin mengetahui kecocokan pasangan berdasarkan tradisi Jawa. Meskipun tidak semua orang percaya dengan ramalan weton, memahami filosofi dan konsep di baliknya dapat memberikan wawasan yang lebih luas tentang budaya Jawa. Selain itu, pemahaman ini juga dapat membantu Anda dalam memahami nilai-nilai budaya dan tradisi yang diwariskan secara turun temurun.
 
@@ -43,7 +43,7 @@ Jika pasangan yang memiliki weton jodoh ketemu 26 menikah, diharapkan mereka aka
 
 Untuk memudahkan Anda menemukan weton masing-masing pasangan, Anda dapat menggunakan tools kalkulator cek weton online dari Acaranya.id.
 
-Anda dapat mengakses halaman kalkulator weton online melalui link ini: [https://acaranya.id/cek-weton/](https://acaranya.id/cek-weton/).
+Anda dapat mengakses halaman kalkulator weton online melalui link ini: [/cek-weton/](/cek-weton/).
 
 Kalkulator ini akan membantu Anda menghitung weton dan menafsirkannya secara mudah dan akurat.
 

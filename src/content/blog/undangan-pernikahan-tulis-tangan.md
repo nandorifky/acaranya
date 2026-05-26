@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Surat Undangan Pernikahan Tulis Tangan Simple
 customBreadcrumbLabel: Contoh Surat Undangan Pernikahan Tulis Tangan Simple
-canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-tulis-tangan/'
+canonicalUrl: '/artikel/undangan-pernikahan-tulis-tangan/'
 noindex: false
 ---
 Kenapa sih harus repot-repot bikin undangan pernikahan tulis tangan? Bukankah tinggal cetak di percetakan atau [pesan online](https://acaranya.id) bisa jauh lebih simpel? Nah, di era digital seperti sekarang, justru yang tulis tangan itu spesial. Bukan hanya karena terasa lebih personal, tapi juga karena punya nilai sentimental yang bikin hati luluh. Mau bikin tamu merasa spesial? Mulai dari undangannya!
@@ -45,7 +45,7 @@ Mungkin terdengar sederhana, tetapi membuat **undangan pernikahan tulis tangan**
 5.  **Latihan Menulis**: Ya, tidak ada salahnya untuk latihan terlebih dahulu di selembar kertas lain. Ini berguna untuk menghindari kesalahan penulisan atau tinta yang meleber.
 6.  **Mulai Menulis**: Dengan semua persiapan yang matang, saatnya mulai menulis undangan. Tulis dengan hati-hati dan penuh perasaan. Ingat, ini bukan cuma undangan, ini adalah karya seni!
 
-**BACA JUGA:** [10 Informasi yang Tercantum dalam Undangan Pernikahan](https://acaranya.id/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/)
+**BACA JUGA:** [10 Informasi yang Tercantum dalam Undangan Pernikahan](/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/)
 
 ## Contoh Isi Surat Undangan Pernikahan Tulis Tangan
 
@@ -108,7 +108,7 @@ Membuat **surat undangan pernikahan tulis tangan** tidak perlu rumit. Simpel tap
 > Dengan penuh cinta,  
 > \[Nama Mempelai Pria & Wanita\]
 
-**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/)
+**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](/artikel/kata-kata-undangan-lewat-wa/)
 
 ### Mengapa Tulisan Tangan Lebih Berkesan?
 

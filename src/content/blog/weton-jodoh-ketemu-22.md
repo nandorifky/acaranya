@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Weton Jodoh Ketemu 22, Apa Artinya?'
 customBreadcrumbLabel: 'Weton Jodoh Ketemu 22, Apa Artinya?'
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-22/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-22/'
 noindex: false
 ---
 Dalam tradisi Jawa, weton atau hari kelahiran seseorang memiliki makna tersendiri, termasuk dalam menentukan kecocokan pasangan. Salah satu kombinasi weton yang menarik untuk diulas adalah Weton Jodoh Ketemu 22.
@@ -53,7 +53,7 @@ Mereka perlu saling pengertian, berkompromi, dan belajar menyelesaikan masalah d
 
 ## Cara Menghitung Weton Jodoh
 
-Anda dapat menggunakan [Kalkulator weton online](https://acaranya.id/cek-weton/) dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan.
+Anda dapat menggunakan [Kalkulator weton online](/cek-weton/) dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan.
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |

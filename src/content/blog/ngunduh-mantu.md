@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Ngunduh Mantu Adalah: Pengertian dan Susunan Acaranya'
 customBreadcrumbLabel: 'Ngunduh Mantu Adalah: Pengertian dan Susunan Acaranya'
-canonicalUrl: 'https://acaranya.id/artikel/ngunduh-mantu/'
+canonicalUrl: '/artikel/ngunduh-mantu/'
 noindex: false
 ---
 Tradisi pernikahan di Indonesia memiliki ragam budaya yang menarik, salah satunya adalah prosesi ngunduh mantu. Apa sebenarnya ngunduh mantu, dan bagaimana susunan acara serta tata cara yang dilakukan dalam tradisi ini?
@@ -100,9 +100,9 @@ Di resepsi ini, para tamu undangan juga akan menikmati hidangan khas Jawa yang k
 
 ![Seserahan ngunduh mantu](/images/blog/content/isi-seserahan-pernikahan-untuk-wanita.jpg)
 
-Pada beberapa acara ngunduh mantu, ada juga sesi pemberian **seserahan tambahan** dari keluarga mempelai pria kepada mempelai wanita. [Seserahan](https://acaranya.id/artikel/seserahan-pernikahan/) ini bisa berupa pakaian, atau benda-benda yang dianggap memiliki makna keberkahan bagi rumah tangga mereka.
+Pada beberapa acara ngunduh mantu, ada juga sesi pemberian **seserahan tambahan** dari keluarga mempelai pria kepada mempelai wanita. [Seserahan](/artikel/seserahan-pernikahan/) ini bisa berupa pakaian, atau benda-benda yang dianggap memiliki makna keberkahan bagi rumah tangga mereka.
 
-**_BACA SELENGKAPNYA:_** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](https://acaranya.id/artikel/seserahan-pernikahan-adat-jawa/)
+**_BACA SELENGKAPNYA:_** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](/artikel/seserahan-pernikahan-adat-jawa/)
 
 Pemberian seserahan tambahan ini biasanya dilakukan dengan prosesi sederhana, di mana kedua belah pihak saling memberikan hadiah simbolis sebagai lambang kerjasama dan keharmonisan keluarga baru yang terbentuk.
 
@@ -150,7 +150,7 @@ Untuk memudahkan proses penyebaran undangan, saat ini banyak keluarga menggunaka
 
 Di sini, undangan digital bisa dirancang sesuai dengan tema dan preferensi acara, memberikan kemudahan untuk mengundang tamu secara praktis melalui platform online.
 
-Dengan **Acaranya.id**, [undangan digital](https://acaranya.id) dapat didesain dengan berbagai fitur menarik seperti [RSVP online](https://acaranya.id/rsvp/), peta lokasi acara, dan video presentasi yang membuat acara ngunduh mantu lebih modern tanpa menghilangkan nilai tradisionalnya.
+Dengan **Acaranya.id**, [undangan digital](https://acaranya.id) dapat didesain dengan berbagai fitur menarik seperti [RSVP online](/rsvp/), peta lokasi acara, dan video presentasi yang membuat acara ngunduh mantu lebih modern tanpa menghilangkan nilai tradisionalnya.
 
 * * *
 

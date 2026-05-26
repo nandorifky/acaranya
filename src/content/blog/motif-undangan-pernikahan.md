@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Motif Undangan Pernikahan
 customBreadcrumbLabel: Motif Undangan Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/motif-undangan-pernikahan/'
+canonicalUrl: '/artikel/motif-undangan-pernikahan/'
 noindex: false
 ---
 Memilih motif undangan pernikahan merupakan bagian penting untuk menciptakan desain _wedding invitation_ kamu agar terlihat lebih menarik.
@@ -37,9 +37,9 @@ Pertama yaitu undangan pernikahan dengan motif yang simple. Desain ini memiliki 
 
 Untuk kamu yang suka dengan hal-hal simple, mungkin motif undangan pernikahan ini sangat cocok untuk kamu.
 
-**BACA JUGA: [Contoh Undangan Pernikahan](https://acaranya.id/artikel/contoh-undangan-pernikahan)**
+**BACA JUGA: [Contoh Undangan Pernikahan](/artikel/contoh-undangan-pernikahan)**
 
-## 2\. Motif [Desain Undangan Pernikahan](https://acaranya.id/artikel/desain-undangan-pernikahan-aesthetic/) Mewah dan Elegan
+## 2\. Motif [Desain Undangan Pernikahan](/artikel/desain-undangan-pernikahan-aesthetic/) Mewah dan Elegan
 
 ![motif undangan pernikahan mewah dan elegan](/images/blog/content/image-28.png)
 
@@ -47,7 +47,7 @@ Jika kamu menyukai hal berbau kemewahan, mungkin motif undangan pernikahan yang 
 
 Desain mewah berbentuk amplop yang tebal dengan warna hitam, akan membuat undangan ini terlihat elegan. Terlebih, terdapat PIN inisial nama pengantin dalam pembuka amplop undangan.
 
-**BACA JUGA: [Contoh Undangan Pernikahan Bahasa Inggris](https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-inggris/)**
+**BACA JUGA: [Contoh Undangan Pernikahan Bahasa Inggris](/artikel/contoh-undangan-pernikahan-bahasa-inggris/)**
 
 ## 3\. Motif Undangan Pernikahan Terbaru Trend 2023 – 2024
 
@@ -57,7 +57,7 @@ Selanjutnya, juga tersedia motif undangan pernikahan terbaru yang mengikuti tren
 
 Pada era digital sekarang, banyak orang yang menggunakan [undangan pernikahan online](https://acaranya.id), karena dipercaya memiliki cara kerja yang lebih praktis. Disamping itu, juga tersedia cukup banyak desain yang bisa di _custom_ sesuka hati.
 
-Selengkapnya, kamu bisa memilih tema atau motif pada halaman **[desain undangan pernikahan](https://acaranya.id/artikel/desain-undangan-pernikahan-aesthetic/)**.
+Selengkapnya, kamu bisa memilih tema atau motif pada halaman **[desain undangan pernikahan](/artikel/desain-undangan-pernikahan-aesthetic/)**.
 
 ## 4\. Desain Motif Undangan Pernikahan Unik
 
@@ -67,7 +67,7 @@ Jika kamu ingin tampil beda dengan yang lain, kini cukup banyak inspirasi motif 
 
 Salah satunya yaitu undangan berbentuk kaca yang mewah dengan desain bunga. Dengan menggunakan undangan ini, acara kamu akan terlihat lebih berkesan.
 
-**BACA JUGA: [Contoh Undangan Pernikahan Islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/)**
+**BACA JUGA: [Contoh Undangan Pernikahan Islami](/artikel/contoh-undangan-pernikahan-islami/)**
 
 ## 5\. Motif Undangan Pernikahan Batik dan Wayang
 
@@ -77,7 +77,7 @@ Sebagai warga Indonesia, kita harus bangga karena batik yang telah mendunia. Kin
 
 _Black_ dan _Gold_ merupakan warna dasar dari undangan pernikahan ini yang membuat terlihat sangat mewah dan elegan.
 
-**BACA JUGA: [Contoh Undangan Pernikahan Digital](https://acaranya.id/artikel/contoh-undangan-pernikahan-digital)**
+**BACA JUGA: [Contoh Undangan Pernikahan Digital](/artikel/contoh-undangan-pernikahan-digital)**
 
 * * *
 

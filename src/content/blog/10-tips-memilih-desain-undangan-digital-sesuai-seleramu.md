@@ -21,7 +21,7 @@ status: published
 seoTitle: 10 Tips Memilih Desain Undangan Digital Sesuai Seleramu
 customBreadcrumbLabel: 10 Tips Memilih Desain Undangan Digital Sesuai Seleramu
 canonicalUrl: >-
-  https://acaranya.id/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/
+  /artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/
 noindex: false
 ---
 Perkembangan teknologi membawa banyak kemudahan, salah satunya dalam hal merencanakan pernikahan. Sekarang, [undangan pernikahan digital](https://acaranya.id) menjadi tren yang semakin diminati oleh pasangan modern.
@@ -82,7 +82,7 @@ Pastikan juga tipografi yang Kamu pilih mudah dibaca, terutama untuk informasi p
 
 Ada berbagai platform yang bisa Kamu gunakan untuk mengirim undangan pernikahan digital, mulai dari media sosial hingga email. Namun, pastikan Kamu memilih platform yang memudahkan tamu untuk mengakses undangan dengan cepat dan mudah.
 
-Untuk undangan interaktif, Kamu bisa memilih platform yang memungkinkan tamu merespons langsung, seperti [RSVP digital](https://acaranya.id/rsvp/). Ini akan mempermudah dalam pengelolaan jumlah tamu yang akan hadir.
+Untuk undangan interaktif, Kamu bisa memilih platform yang memungkinkan tamu merespons langsung, seperti [RSVP digital](/rsvp/). Ini akan mempermudah dalam pengelolaan jumlah tamu yang akan hadir.
 
 ## 9\. Manfaatkan Fitur RSVP Online
 
@@ -102,9 +102,9 @@ Sentuhan personal ini akan membuat undangan pernikahan digitalmu lebih berkesan 
 
 Undangan Pernikahan Digital by Acaranya ID
 
-**[Acaranya ID](https://acaranya.id)** menjadi salah satu [jasa undangan digital](https://acaranya.id/services/) terkemuka yang memiliki fitur lengkap dan banyak variasi desain. Kamu bisa memilih desain undangan digital sesuai seleramu!
+**[Acaranya ID](https://acaranya.id)** menjadi salah satu [jasa undangan digital](/services/) terkemuka yang memiliki fitur lengkap dan banyak variasi desain. Kamu bisa memilih desain undangan digital sesuai seleramu!
 
-[Cek Desain Undangan Digital](https://acaranya.id/desain-undangan-digital/)
+[Cek Desain Undangan Digital](/desain-undangan-digital/)
 
 * * *
 

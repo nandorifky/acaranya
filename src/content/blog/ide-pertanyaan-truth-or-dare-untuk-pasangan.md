@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: 50 Ide Pertanyaan Truth or Dare untuk Pasangan
 customBreadcrumbLabel: 50 Ide Pertanyaan Truth or Dare untuk Pasangan
-canonicalUrl: 'https://acaranya.id/artikel/ide-pertanyaan-truth-or-dare-untuk-pasangan/'
+canonicalUrl: '/artikel/ide-pertanyaan-truth-or-dare-untuk-pasangan/'
 noindex: false
 ---
 Permainan _Truth or Dare_ adalah cara klasik untuk mengenal pasangan lebih dekat sekaligus menciptakan momen menyenangkan bersama. Dengan memilih antara “_truth_” untuk menjawab pertanyaan jujur atau “_dare_” untuk melakukan tantangan, permainan ini mampu mencairkan suasana dan menambah kedekatan emosional.

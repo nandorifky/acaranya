@@ -19,14 +19,14 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Desain Undangan Pernikahan Digital Adat Jawa
 customBreadcrumbLabel: Contoh Desain Undangan Pernikahan Digital Adat Jawa
-canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-digital-adat-jawa/'
+canonicalUrl: '/artikel/undangan-pernikahan-digital-adat-jawa/'
 noindex: false
 ---
 Pernikahan adalah momen sakral yang selalu diimpikan oleh setiap pasangan, dan di Indonesia, setiap daerah memiliki tradisi dan adat istiadatnya sendiri yang unik. Salah satu tradisi yang paling kaya akan nilai budaya adalah pernikahan adat Jawa.
 
 Dengan segala keragaman upacara, simbol, dan maknanya, pernikahan adat Jawa menjadi salah satu pernikahan yang tidak hanya indah secara visual, tetapi juga sarat makna filosofi.
 
-Seiring perkembangan zaman, konsep undangan pernikahan pun turut berubah. Di era digital seperti sekarang, undangan pernikahan tidak lagi hanya dalam bentuk fisik, tetapi juga telah berevolusi menjadi [undangan digital](https://acaranya.id) yang lebih praktis dan modern. Meski begitu, sentuhan tradisi tetap bisa dihadirkan dalam [undangan pernikahan digital](https://acaranya.id/jasa/undangan-pernikahan-digital/), salah satunya dengan mengusung tema adat Jawa.
+Seiring perkembangan zaman, konsep undangan pernikahan pun turut berubah. Di era digital seperti sekarang, undangan pernikahan tidak lagi hanya dalam bentuk fisik, tetapi juga telah berevolusi menjadi [undangan digital](https://acaranya.id) yang lebih praktis dan modern. Meski begitu, sentuhan tradisi tetap bisa dihadirkan dalam [undangan pernikahan digital](/jasa/undangan-pernikahan-digital/), salah satunya dengan mengusung tema adat Jawa.
 
 Dalam artikel ini, kita akan membahas beberapa tema undangan pernikahan digital adat Jawa, yang memadukan unsur tradisional dan modern secara harmonis.
 
@@ -81,7 +81,7 @@ Berikut ini merupakan daftar undangan pernikahan digital tema Adat Jawa dari Aca
 
 [![Wayang Jawa](/images/blog/content/inv.acaranya.id_preview_wayang-jawaiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/wayang-jawa)
 
-**_LIHAT JUGA:_** [_Contoh Tema Undangan Digital Tanpa Foto_](https://acaranya.id/artikel/undangan-digital-tanpa-foto/)
+**_LIHAT JUGA:_** [_Contoh Tema Undangan Digital Tanpa Foto_](/artikel/undangan-digital-tanpa-foto/)
 
 ## Cara Order Undangan Pernikahan Online Tema Adat Jawa di Acaranya.id
 

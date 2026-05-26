@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Undangan Bukber Online
 customBreadcrumbLabel: Undangan Bukber Online
-canonicalUrl: 'https://acaranya.id/artikel/undangan-bukber-online/'
+canonicalUrl: '/artikel/undangan-bukber-online/'
 noindex: false
 ---
 Terpikir untuk mengadakan buka bersama (bukber) secara online dengan keluarga, teman, atau rekan kerja tanpa harus repot-repot mencetak undangan? Kini, semuanya bisa dilakukan dengan mudah dan cepat melalui **undangan bukber online** yang dapat dikirim via WhatsApp!
@@ -48,7 +48,7 @@ _**NB:** Text, Background, Music, dan sebagainya bisa di custom sesuai selera!_
 
 Temukan desain lebih lengkap, Klik **[DISINI](https://inv.acaranya.id/tema/islami)**.
 
-[**PESAN UNDANGAN**](https://wa.me/6281234807480/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)
+[**PESAN UNDANGAN**](https://wa.me/62895395094329/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)
 
 ## Fitur Undangan Buka Bersama Online
 
@@ -93,11 +93,11 @@ Langkah-langkah berikut mungkin akan membantu kamu sebelum order website undanga
 1.  Pilih undangan bukber sesuai desain di atas.
 2.  Jika sudah, klik tombol “**PESAN**” di bawah dan kamu akan langsung diarahkan ke WhatsApp kami.
 3.  Setelah itu, informasikan seluruh detail acara dalam chat WhatsApp.
-4.  Lakukan pembayaran sesuai metode yang sudah kami sediakan ([Baca disini](https://acaranya.id/pembayaran/)).
+4.  Lakukan pembayaran sesuai metode yang sudah kami sediakan ([Baca disini](/pembayaran/)).
 5.  Kami akan langsung memproses undangan buka bersama, dan kamu berhak terima jadi.
 6.  Jika perlu, kami juga akan memberikan benefit revisi sepuasnya!
 
-[**PESAN UNDANGAN**](https://wa.me/6281234807480/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)
+[**PESAN UNDANGAN**](https://wa.me/62895395094329/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)
 
 ## Jenis Undangan Buka Bersama yang Banyak Dicari
 
@@ -163,4 +163,4 @@ Undangan ini cocok untuk menciptakan kesan yang baik di mata penerima undangan.
 
 Dengan mengakses situs Acaranya.id, pengguna dapat memilih desain undangan yang diinginkan, mengisi informasi acara, dan melakukan pembayaran secara online. Setelah itu, undangan bukber siap dikirimkan melalui WhatsApp atau media lainnya.
 
-[**PESAN UNDANGAN**](https://wa.me/6281234807480/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)
+[**PESAN UNDANGAN**](https://wa.me/62895395094329/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)

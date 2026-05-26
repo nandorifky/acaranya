@@ -21,7 +21,7 @@ status: published
 seoTitle: Alasan Kenapa Pakai Undangan Digital untuk Acara Pernikahan
 customBreadcrumbLabel: Alasan Kenapa Pakai Undangan Digital untuk Acara Pernikahan
 canonicalUrl: >-
-  https://acaranya.id/artikel/alasan-kenapa-pakai-undangan-digital-untuk-acara-pernikahan/
+  /artikel/alasan-kenapa-pakai-undangan-digital-untuk-acara-pernikahan/
 noindex: false
 ---
 Dalam acara pernikahan, kurang lengkap rasanya jika tidak menggunakan undangan online. Terlebih, di era digital ini cukup banyak platform dan layanan yang memungkinkan kamu untuk mendapatkan undangan jenis ini.
@@ -67,19 +67,19 @@ Fitur-fitur undangan digital ini mencakup:
 *   Halaman Live Streaming
 *   Turut Mengundang
 *   Guest Book
-*   Ucapan & [RSVP](https://acaranya.id/rsvp/)
-*   DLL, Cek selengkapnya **[DISINI](https://acaranya.id/fitur/)**
+*   Ucapan & [RSVP](/rsvp/)
+*   DLL, Cek selengkapnya **[DISINI](/fitur/)**
 
 ## 5\. Biaya Lebih Murah
 
-Rata-rata biaya pembuatan undangan pernikahan digital berkisar Rp 50.000 – Rp 300.000, bahkan ada yang gratis. Mengingat cukup banyak [persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/) yang harus dihadapi, tentu ini membutuhkan biaya yang banyak.
+Rata-rata biaya pembuatan undangan pernikahan digital berkisar Rp 50.000 – Rp 300.000, bahkan ada yang gratis. Mengingat cukup banyak [persiapan pernikahan](/artikel/persiapan-pernikahan/) yang harus dihadapi, tentu ini membutuhkan biaya yang banyak.
 
 Dengan adanya undangan pernikahan digital, ini memungkinkan untuk memangkas biaya pernikahan dan bisa dialokasikan ke kebutuhan lainnya.
 
-\*_Untuk biaya layanan kami, bisa cek di halaman **[Paket Harga Undangan Online](https://acaranya.id/harga/)**._
+\*_Untuk biaya layanan kami, bisa cek di halaman **[Paket Harga Undangan Online](/harga/)**._
 
 * * *
 
 Penggunaan undangan digital merupakan bukti perkembangan digitalisasi di Indonesia. Dengan ini, kita perlu mendukung sepenuhnya akan kehadiran tren baru ini.
 
-Jika kamu merasa penggunaan undangan pernikahan online tidak etis dan menyimpang dengan budaya daerah yang menggunakan undangan kertas, kamu bisa membaca artikel kami tentang “[**4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya**](https://acaranya.id/artikel/cara-mengirim-undangan-digital-lewat-wa/)“.
+Jika kamu merasa penggunaan undangan pernikahan online tidak etis dan menyimpang dengan budaya daerah yang menggunakan undangan kertas, kamu bisa membaca artikel kami tentang “[**4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya**](/artikel/cara-mengirim-undangan-digital-lewat-wa/)“.

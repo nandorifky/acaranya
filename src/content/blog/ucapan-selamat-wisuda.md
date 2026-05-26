@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!
 customBreadcrumbLabel: 40 Ucapan Selamat Wisuda Simple Tapi Berkesan!
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-selamat-wisuda/'
+canonicalUrl: '/artikel/ucapan-selamat-wisuda/'
 noindex: false
 ---
 Momen wisuda sering kali jadi ajang penuh haru dan bangga. Setelah bertahun-tahun berjuang menghadapi tugas, skripsi, dan ujian yang bikin stres, akhirnya semua itu terbayar dengan toga di kepala dan senyum di wajah. Tapi, di balik kemeriahan acara wisuda, sering kali kita bingung bagaimana cara menyampaikan ucapan selamat wisuda yang tepat. Apakah cukup dengan “selamat ya!” atau perlu sesuatu yang lebih bermakna?
@@ -130,7 +130,7 @@ Kalimat bijak yang bisa jadi pengingat untuk tetap rendah hati.
 **25\. “The future is yours. Go get it!”**  
 Simpel tapi punya efek motivasi tinggi.
 
-**BACA JUGA:** [5 Contoh Kata-Kata Undangan Wisuda Lewat WA](https://acaranya.id/artikel/kata-kata-undangan-wisuda-lewat-wa/)
+**BACA JUGA:** [5 Contoh Kata-Kata Undangan Wisuda Lewat WA](/artikel/kata-kata-undangan-wisuda-lewat-wa/)
 
 ## Ucapan Selamat Wisuda untuk Diri Sendiri
 
@@ -183,7 +183,7 @@ Humor segar yang tetap mengandung dukungan.
 **40\. “Sarjana udah, jodoh kapan?”**  
 Ucapan bercanda yang sering jadi pembuka obrolan wisuda.
 
-> Rayakan acara wisudamu dengan [undangan graduation digital](https://acaranya.id/jasa/undangan-wisuda-digital/) dari Acaranya ID!
+> Rayakan acara wisudamu dengan [undangan graduation digital](/jasa/undangan-wisuda-digital/) dari Acaranya ID!
 
 * * *
 

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 8 Cara Membangun Hubungan Baik dengan Calon Mertua
 customBreadcrumbLabel: 8 Cara Membangun Hubungan Baik dengan Calon Mertua
-canonicalUrl: 'https://acaranya.id/artikel/cara-membangun-hubungan-baik-dengan-calon-mertua/'
+canonicalUrl: '/artikel/cara-membangun-hubungan-baik-dengan-calon-mertua/'
 noindex: false
 ---
 Membangun hubungan yang baik dengan calon mertua adalah langkah penting dalam menjalin hubungan yang serius. Hubungan ini tidak hanya akan mempengaruhi hubunganmu dengan pasangan, tetapi juga dapat memberikan dampak positif pada kehidupan sosial dan emosionalmu.
@@ -59,7 +59,7 @@ Ajak mereka untuk ikut serta dalam kegiatan keluarga, seperti makan malam atau a
 
 Kamu juga bisa mengajak mereka untuk berlibur bersama atau melakukan aktivitas yang mereka sukai. Dengan melibatkan mereka, kamu menunjukkan bahwa kamu menghargai keberadaan mereka dan ingin menjalin hubungan yang lebih dekat.
 
-**BACA JUGA:** [Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah](https://acaranya.id/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)
+**BACA JUGA:** [Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah](/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)
 
 ## 6\. Tunjukkan Ketulusan
 

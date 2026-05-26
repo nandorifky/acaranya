@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Peran MC dalam Suksesnya Acara Pernikahan
 customBreadcrumbLabel: Peran MC dalam Suksesnya Acara Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/peran-mc-dalam-suksesnya-acara-pernikahan/'
+canonicalUrl: '/artikel/peran-mc-dalam-suksesnya-acara-pernikahan/'
 noindex: false
 ---
 Setiap detail dari acara ini, mulai dari dekorasi hingga makanan, harus direncanakan dengan cermat untuk memastikan semuanya berjalan lancar. Salah satu elemen yang sering kali diabaikan namun sangat penting adalah peran MC (Master of Ceremony).
@@ -73,7 +73,7 @@ Selain itu, MC juga harus berkoordinasi dengan vendor lain, seperti fotografer, 
 
 ### Pentingnya Koordinasi dengan Vendor
 
-Koordinasi yang baik antara MC dan [vendor pernikahan](https://acaranya.id/artikel/pengertian-vendor-pernikahan-adalah/) sangat penting untuk memastikan semua aspek acara berjalan sesuai harapan. Berikut adalah beberapa alasan mengapa komunikasi yang efektif dengan vendor sangat diperlukan:
+Koordinasi yang baik antara MC dan [vendor pernikahan](/artikel/pengertian-vendor-pernikahan-adalah/) sangat penting untuk memastikan semua aspek acara berjalan sesuai harapan. Berikut adalah beberapa alasan mengapa komunikasi yang efektif dengan vendor sangat diperlukan:
 
 1.  **Menghindari Kebingungan**: Dengan berkomunikasi secara jelas, MC dapat menghindari kebingungan mengenai waktu dan tempat setiap segmen acara.
 2.  **Menyesuaikan Jadwal**: Jika ada perubahan mendadak, seperti keterlambatan dalam pengantaran makanan atau dekorasi, MC dapat segera menyesuaikan jadwal dan memberi tahu tamu.

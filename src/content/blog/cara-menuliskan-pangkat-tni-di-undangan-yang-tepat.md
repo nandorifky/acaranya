@@ -21,7 +21,7 @@ status: published
 seoTitle: Cara Menuliskan Pangkat TNI di Undangan yang Tepat
 customBreadcrumbLabel: Cara Menuliskan Pangkat TNI di Undangan yang Tepat
 canonicalUrl: >-
-  https://acaranya.id/artikel/cara-menuliskan-pangkat-tni-di-undangan-yang-tepat/
+  /artikel/cara-menuliskan-pangkat-tni-di-undangan-yang-tepat/
 noindex: false
 ---
 Ketika hendak membuat undangan resmi yang melibatkan perwira TNI, pernahkah terlintas di benak tentang bagaimana cara yang tepat menuliskan pangkat mereka?
@@ -40,7 +40,7 @@ Tidak hanya itu, penulisan yang tepat juga mencerminkan profesionalisme dari pih
 
 Jadi, menulis pangkat TNI di undangan bukan sekadar formalitas, melainkan suatu kewajiban yang harus dipenuhi dengan baik.
 
-**BACA JUGA:** [Arti “Turut Mengundang” di Undangan dan Contoh Isinya](https://acaranya.id/artikel/turut-mengundang-di-undangan/)
+**BACA JUGA:** [Arti “Turut Mengundang” di Undangan dan Contoh Isinya](/artikel/turut-mengundang-di-undangan/)
 
 ## Struktur dan Tata Cara Penulisan Pangkat TNI
 
@@ -83,7 +83,7 @@ Agar lebih jelas, berikut adalah beberapa contoh penulisan pangkat TNI di undang
 
 Butuh undangan pelantikan, perpisahan atau pelepasan yang resmi? Acaranya.id menyediakan banyak ragam pilihan desain untuk kebutuhan undangan digital.
 
-[Hubungi Kami](https://wa.me/6281234807480)
+[Hubungi Kami](https://wa.me/62895395094329)
 
 ## Mengapa Kesalahan Penulisan Bisa Menjadi Fatal?
 

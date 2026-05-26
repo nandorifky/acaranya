@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
 customBreadcrumbLabel: 50 Ucapan Anniversary Pernikahan untuk Orang Tua
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-anniversary-pernikahan-untuk-orang-tua/'
+canonicalUrl: '/artikel/ucapan-anniversary-pernikahan-untuk-orang-tua/'
 noindex: false
 ---
 Perayaan **anniversary pernikahan untuk orang tua** bukan sekadar pengingat tahun-tahun kebersamaan mereka. Ini adalah momen untuk menghargai cinta, kerja keras, dan pengorbanan yang telah mereka lakukan untuk keluarga.
@@ -47,7 +47,7 @@ Artikel ini menghadirkan 50 ide ucapan yang bisa digunakan untuk membuat hari sp
 9.  “Semoga perjalanan cinta kalian tetap seasyik Netflix tanpa buffering.”
 10.  “Cinta kalian adalah bukti bahwa pernikahan adalah tentang kompromi… dan siapa yang mencuci piring.”
 
-**BACA JUGA:** [Doa Istri Ucapan Anniversary Pernikahan yang Romantis](https://acaranya.id/artikel/doa-istri-ucapan-anniversary-pernikahan/)
+**BACA JUGA:** [Doa Istri Ucapan Anniversary Pernikahan yang Romantis](/artikel/doa-istri-ucapan-anniversary-pernikahan/)
 
 ### **Ucapan Penuh Makna**
 

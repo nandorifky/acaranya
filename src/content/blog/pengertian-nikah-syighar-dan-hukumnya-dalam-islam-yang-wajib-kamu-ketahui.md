@@ -21,7 +21,7 @@ status: published
 seoTitle: Pengertian Nikah Syighar dan Hukumnya dalam Islam yang Wajib Kamu Ketahui
 customBreadcrumbLabel: Pengertian Nikah Syighar dan Hukumnya dalam Islam yang Wajib Kamu Ketahui
 canonicalUrl: >-
-  https://acaranya.id/artikel/pengertian-nikah-syighar-dan-hukumnya-dalam-islam-yang-wajib-kamu-ketahui/
+  /artikel/pengertian-nikah-syighar-dan-hukumnya-dalam-islam-yang-wajib-kamu-ketahui/
 noindex: false
 ---
 Tidak semua bentuk pernikahan yang dilakukan umat Islam sesuai dengan syariat. Salah satu bentuk praktik yang masih terjadi namun belum banyak dipahami adalah nikah syighar.
@@ -34,7 +34,7 @@ Dengan mengetahui hal ini, kamu bisa menghindari praktik yang tidak sah dan mema
 
 ## Apa Itu Nikah Syighar?
 
-Nikah syighar adalah bentuk pernikahan di mana dua pria menikahkan saudara perempuan atau wali perempuannya satu sama lain tanpa adanya mahar. Praktik ini lebih mengutamakan pertukaran pasangan daripada tujuan utama pernikahan itu sendiri, yaitu membentuk keluarga yang [sakinah, mawaddah, wa rahmah](https://acaranya.id/artikel/samawa-till-jannah/).
+Nikah syighar adalah bentuk pernikahan di mana dua pria menikahkan saudara perempuan atau wali perempuannya satu sama lain tanpa adanya mahar. Praktik ini lebih mengutamakan pertukaran pasangan daripada tujuan utama pernikahan itu sendiri, yaitu membentuk keluarga yang [sakinah, mawaddah, wa rahmah](/artikel/samawa-till-jannah/).
 
 Contohnya, seorang pria berkata kepada pria lain, “Aku akan menikahkanmu dengan saudara perempuanku, dengan syarat kamu menikahkan aku dengan saudaramu.”
 
@@ -56,7 +56,7 @@ Pengharaman nikah syighar bukan tanpa alasan. Praktik ini menyimpang dari prinsi
 
 ### 1\. Mengabaikan Mahar sebagai Rukun Nikah
 
-[Mahar](https://acaranya.id/artikel/contoh-mahar-pernikahan-dalam-islam/) adalah salah satu rukun penting dalam akad nikah yang wajib diberikan oleh mempelai pria kepada wanita. Dalam nikah syighar, mahar dihilangkan atau dianggap tak penting karena diganti dengan pertukaran wali. Ini jelas bertentangan dengan hukum Islam.
+[Mahar](/artikel/contoh-mahar-pernikahan-dalam-islam/) adalah salah satu rukun penting dalam akad nikah yang wajib diberikan oleh mempelai pria kepada wanita. Dalam nikah syighar, mahar dihilangkan atau dianggap tak penting karena diganti dengan pertukaran wali. Ini jelas bertentangan dengan hukum Islam.
 
 Mahar bukan hanya sekadar simbol, tetapi bentuk penghormatan dan tanggung jawab dari seorang suami kepada istrinya. Tanpa mahar yang sah, maka kedudukan akad nikah menjadi tidak sah.
 

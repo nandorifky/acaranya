@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!'
 customBreadcrumbLabel: 'Bacaan Ijab Kabul Nikah yang Benar dalam Islam, Tidak Wajib Bahasa Arab!'
-canonicalUrl: 'https://acaranya.id/artikel/bacaan-ijab-kabul-nikah-yang-benar/'
+canonicalUrl: '/artikel/bacaan-ijab-kabul-nikah-yang-benar/'
 noindex: false
 ---
 Momen sakral pernikahan tak lepas dari prosesi ijab kabul. Ucapan “saya terima nikah dan kawinnya” adalah kalimat sakti yang mengikat janji suci sepasang pengantin.
@@ -59,7 +59,7 @@ Islam tidak membatasi penggunaan bahasa tertentu dalam ijab kabul. Yang terpenti
 
 Banyak pasangan yang memilih untuk mengucapkan ijab kabul dalam bahasa Indonesia, Jawa, Sunda, atau bahasa daerah lainnya, sesuai dengan budaya dan kebiasaan masing-masing. Hal ini tidak mengurangi keabsahan pernikahan.
 
-**BACA JUGA:** [Kumpulan Quotes Pernikahan Islami untuk Undangan Digital](https://acaranya.id/artikel/quotes-pernikahan-islami/)
+**BACA JUGA:** [Kumpulan Quotes Pernikahan Islami untuk Undangan Digital](/artikel/quotes-pernikahan-islami/)
 
 ## Contoh Bacaan Ijab Kabul dalam Berbagai Bahasa
 
@@ -100,7 +100,7 @@ Sebelum melaksanakan akad nikah, ada beberapa hal yang perlu dipersiapkan, antar
 *   **Menyiapkan mahar:** Sesuaikan jumlah dan jenis mahar dengan kemampuan calon pengantin pria.
 *   **Mengurus surat-surat nikah:** Lengkapi semua persyaratan administrasi yang diperlukan untuk mendapatkan surat nikah.
 
-**SELENGKAPNYA:** [Wedding Checklist Indonesia](https://acaranya.id/artikel/wedding-checklist/)
+**SELENGKAPNYA:** [Wedding Checklist Indonesia](/artikel/wedding-checklist/)
 
 * * *
 

@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: 10 Souvenir Pernikahan Harga 2000 yang Unik dan Berkesan
 customBreadcrumbLabel: 10 Souvenir Pernikahan Harga 2000 yang Unik dan Berkesan
-canonicalUrl: 'https://acaranya.id/artikel/souvenir-pernikahan-harga-2000/'
+canonicalUrl: '/artikel/souvenir-pernikahan-harga-2000/'
 noindex: false
 ---
-Halo Acaris! Dalam [persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/), tentu ada hal yang sangat membingungkan, salah satunya adalah souvernir. Terlebih, jika kamu menyelenggarakan pernikahan sederhana, pasti harus mengatur keuangan dengan baik.
+Halo Acaris! Dalam [persiapan pernikahan](/artikel/persiapan-pernikahan/), tentu ada hal yang sangat membingungkan, salah satunya adalah souvernir. Terlebih, jika kamu menyelenggarakan pernikahan sederhana, pasti harus mengatur keuangan dengan baik.
 
 Namun, kali ini kamu tidak perlu khawatir Acaris! Karena, melalui artikel ini kamu akan menemukan deretan souvenir pernikahan harga 2000 yang tetap bermanfaat, unik, dan berkesan untuk tamu undangan.
 

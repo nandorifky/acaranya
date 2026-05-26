@@ -14,11 +14,16 @@ import Partners from "../components/home/Partners.astro";
 import FinalCTA from "../components/home/FinalCTA.astro";
 import { siteConfig } from "../data/site";
 import { getCollection } from 'astro:content';
+import { pricingPlans } from "../data/pricing-static";
 
 const allTestimonials = await getCollection('testimonials');
 const publishedTestimonials = allTestimonials
   .filter(t => t.data.status === 'published')
   .slice(0, 5); // Take up to 5 for schema
+
+const prices = pricingPlans.map(p => p.price);
+const lowPrice = Math.min(...prices);
+const highPrice = Math.max(...prices);
 
 const jsonLd = [
   {
@@ -91,8 +96,8 @@ const jsonLd = [
     "offers": {
       "@type": "AggregateOffer",
       "priceCurrency": "IDR",
-      "lowPrice": "75000",
-      "highPrice": "150000",
+      "lowPrice": lowPrice.toString(),
+      "highPrice": highPrice.toString(),
       "priceRange": siteConfig.seo.priceRange,
       "areaServed": {
         "@type": "Country",

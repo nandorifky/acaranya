@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Wedding Checklist Indonesia
 customBreadcrumbLabel: Wedding Checklist Indonesia
-canonicalUrl: 'https://acaranya.id/artikel/wedding-checklist/'
+canonicalUrl: '/artikel/wedding-checklist/'
 noindex: false
 ---
 Merencanakan pernikahan adalah momen yang penuh dengan sukacita dan tentunya antisipasi. Hari bahagia ini menyatukan dua insan dalam ikatan cinta, dan tentunya menjadi dambaan banyak orang. Namun, di balik kebahagiaan tersebut, proses perencanaan pernikahan juga bisa terasa rumit dan overwhelming. Jangan khawatir, kamu tidak sendirian!
@@ -70,7 +70,7 @@ Berikut beberapa tips dalam menentukan tanggal dan budget pernikahan:
 
 ## 2\. Memilih Konsep Pernikahan
 
-Konsep pernikahan akan menjadi benang merah yang menyatukan keseluruhan acara. Diskusikan dengan pasangan tentang konsep pernikahan yang kalian inginkan. Apakah kalian mendambakan pernikahan yang elegan dan mewah, [intimate](https://acaranya.id/artikel/intimate-wedding/) dan sederhana, bernuansa tradisional, atau justru bertema outdoor yang natural?
+Konsep pernikahan akan menjadi benang merah yang menyatukan keseluruhan acara. Diskusikan dengan pasangan tentang konsep pernikahan yang kalian inginkan. Apakah kalian mendambakan pernikahan yang elegan dan mewah, [intimate](/artikel/intimate-wedding/) dan sederhana, bernuansa tradisional, atau justru bertema outdoor yang natural?
 
 Setelah menentukan konsep dasar, lanjutkan dengan memilih tema pernikahan yang lebih spesifik. Misalnya, untuk konsep elegan, kalian bisa memilih tema fairytale wedding dengan dominasi warna putih dan silver. Sedangkan untuk konsep outdoor, tema rustic wedding dengan dekorasi kayu dan sentuhan tanaman hijau bisa menjadi pilihan yang menarik.
 
@@ -202,7 +202,7 @@ Berikut beberapa tips dalam mengurus undangan pernikahan:
 
 **Tips**: Kamu dapat menghemat budget dengan membuat undangan pernikahan DIY (Do It Yourself) bersama dengan keluarga dan sahabat. Ada banyak ide undangan pernikahan DIY yang dapat kamu temukan di internet.
 
-**_BACA JUGA:_** [_Contoh Undangan Pernikahan_](https://acaranya.id/artikel/contoh-undangan-pernikahan/)
+**_BACA JUGA:_** [_Contoh Undangan Pernikahan_](/artikel/contoh-undangan-pernikahan/)
 
 ## 10\. Mempersiapkan Diri untuk Pernikahan
 

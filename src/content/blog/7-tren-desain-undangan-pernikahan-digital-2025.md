@@ -19,14 +19,14 @@ imageCaption: ''
 status: published
 seoTitle: 7 Tren Desain Undangan Pernikahan Digital 2025
 customBreadcrumbLabel: 7 Tren Desain Undangan Pernikahan Digital 2025
-canonicalUrl: 'https://acaranya.id/artikel/7-tren-desain-undangan-pernikahan-digital-2025/'
+canonicalUrl: '/artikel/7-tren-desain-undangan-pernikahan-digital-2025/'
 noindex: false
 ---
-Halo calon pengantin dan para pejuang acara! Kalau kamu lagi cari inspirasi buat undangan pernikahan yang kekinian, pas banget! Di sini kita bakal bahas tren [desain undangan digita](https://acaranya.id/desain-undangan-digital/)l yang sedang hits di tahun ini!
+Halo calon pengantin dan para pejuang acara! Kalau kamu lagi cari inspirasi buat undangan pernikahan yang kekinian, pas banget! Di sini kita bakal bahas tren [desain undangan digita](/desain-undangan-digital/)l yang sedang hits di tahun ini!
 
 Kenapa sih harus update sama tren? Selain biar undangannya nggak ketinggalan zaman, desain yang fresh juga bikin tamu-tamu kamu makin antusias buat datang ke hari spesialmu. Apalagi sekarang semua serba digital, undangan pun jadi ajang pamer kreativitas!
 
-Yuk langsung aja kita intip apa saja sih tren desain [undangan pernikahan pernikahan](https://acaranya.id/jasa/undangan-pernikahan-digital/) di tahun 2025:
+Yuk langsung aja kita intip apa saja sih tren desain [undangan pernikahan pernikahan](/jasa/undangan-pernikahan-digital/) di tahun 2025:
 
 ## 1\. NIKAHFIX
 
@@ -52,7 +52,7 @@ Setiap elemen dipadukan dengan harmonis, mulai dari pemilihan font hingga tata l
 
 ![feminime javanese](/images/blog/content/feminime-javanese-1024x1024.jpg)
 
-Tema **Feminine Javanese** memadukan keanggunan feminin dengan sentuhan budaya [adat Jawa](https://acaranya.id/artikel/undangan-pernikahan-digital-adat-jawa/) yang lembut dan penuh makna. Desainnya didominasi oleh motif bunga halus dan warna pastel yang menenangkan, menciptakan suasana hangat dan romantis sekaligus elegan.
+Tema **Feminine Javanese** memadukan keanggunan feminin dengan sentuhan budaya [adat Jawa](/artikel/undangan-pernikahan-digital-adat-jawa/) yang lembut dan penuh makna. Desainnya didominasi oleh motif bunga halus dan warna pastel yang menenangkan, menciptakan suasana hangat dan romantis sekaligus elegan.
 
 Detail ornamen tradisional Jawa diselaraskan dengan tata letak modern, menghasilkan undangan digital yang tidak hanya cantik secara visual tapi juga sarat nilai budaya. Tema ini sangat cocok untuk pasangan yang ingin menggabungkan estetika feminim dengan kekayaan warisan lokal dalam momen spesial mereka.
 
@@ -68,7 +68,7 @@ Desain ini menghadirkan kesan timeless dengan detail artistik yang halus, member
 
 [Preview Vintage Forest](https://inv.acaranya.id/preview/vintage-forest)
 
-**BACA JUGA:** [20 Contoh Tema Undangan Digital Tanpa Foto](https://acaranya.id/artikel/undangan-digital-tanpa-foto/)
+**BACA JUGA:** [20 Contoh Tema Undangan Digital Tanpa Foto](/artikel/undangan-digital-tanpa-foto/)
 
 ## 5\. Minimalist Black
 
@@ -110,4 +110,4 @@ Kalau butuh rekomendasi atau mau konsultasi soal desain undangan digital lainnya
 
 Selamat menyiapkan hari bahagia!
 
-[PESAN UNDANGAN DIGITAL](https://wa.me/6281234807480)
+[PESAN UNDANGAN DIGITAL](https://wa.me/62895395094329)

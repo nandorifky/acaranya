@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'
 customBreadcrumbLabel: 'Arti Weton Jodoh Ketemu 15, Cocok atau Tidak?'
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-15/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-15/'
 noindex: false
 ---
 Dalam tradisi Jawa, weton merupakan perhitungan hari lahir yang diyakini memiliki pengaruh terhadap karakter, nasib, dan bahkan kecocokan pasangan. Salah satu perhitungan yang menarik adalah weton jodoh, yang didasarkan pada jumlah neptu (nilai) hari dan pasaran kelahiran. Artikel ini akan membahas secara khusus mengenai weton jodoh ketemu 15, bagaimana cara menghitungnya, dan makna yang terkandung di dalamnya.
@@ -41,7 +41,7 @@ Jika pasangan dengan weton Jodoh Ketemu 15 memutuskan untuk menikah, mereka perl
 
 ## Cara Menghitung Weton Jodoh
 
-Kamu dapat menggunakan [Kalkulator cek weton online](https://acaranya.id/cek-weton/) dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan.
+Kamu dapat menggunakan [Kalkulator cek weton online](/cek-weton/) dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan.
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |

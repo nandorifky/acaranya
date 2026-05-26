@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Weton Jodoh Ketemu 20: Arti dan Cara Menghitungnya'
 customBreadcrumbLabel: 'Weton Jodoh Ketemu 20: Arti dan Cara Menghitungnya'
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-20/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-20/'
 noindex: false
 ---
 Dalam budaya Jawa, Weton Jodoh merupakan salah satu metode tradisional untuk menafsirkan kecocokan pasangan berdasarkan hari lahir dan pasaran. Di antara beragam hasil hitungan Weton, Weton Jodoh Ketemu 20 memiliki makna tersendiri, yang diyakini dapat membawa pengaruh bagi kehidupan pernikahan. Artikel ini akan membahas arti dan cara menghitung Weton Jodoh Ketemu 20, serta bagaimana interpretasinya menurut primbon Jawa.
@@ -41,7 +41,7 @@ Jika pasangan dengan Weton Jodoh Ketemu 20 memutuskan untuk melangkah ke jenjang
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk memudahkan menemukan Weton masing-masing pasangan, Anda dapat menggunakan tools kalkulator weton online **[disini](https://acaranya.id/cek-weton/)**. Berikut cara menghitung Weton Jodoh:
+Untuk memudahkan menemukan Weton masing-masing pasangan, Anda dapat menggunakan tools kalkulator weton online **[disini](/cek-weton/)**. Berikut cara menghitung Weton Jodoh:
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Selasa (3) + Pon (7) = 10
 Kamis (8) + Kliwon (8) = 16
 
 **Total Weton Jodoh:**  
-10 + 16 = [26](https://acaranya.id/artikel/weton-jodoh-ketemu-26/)
+10 + 16 = [26](/artikel/weton-jodoh-ketemu-26/)
 
 Berdasarkan tabel Weton Jodoh, hasil perhitungan tersebut termasuk dalam kategori **“Tibo Ratu”**.
 

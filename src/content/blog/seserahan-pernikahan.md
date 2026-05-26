@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!
 customBreadcrumbLabel: Isi Seserahan Pernikahan Apa Saja? Cek List Lengkapnya Disini!
-canonicalUrl: 'https://acaranya.id/artikel/seserahan-pernikahan/'
+canonicalUrl: '/artikel/seserahan-pernikahan/'
 noindex: false
 ---
 Seserahan pernikahan merupakan salah satu adat yang masih kuat dijaga dalam berbagai budaya pernikahan di Indonesia. Adat ini melibatkan pemberian serangkaian hadiah yang simbolis dari calon pengantin pria kepada calon pengantin wanita.
@@ -98,7 +98,7 @@ Berikut adalah contoh list seserahan pernikahan yang dapat kamu pertimbangkan un
 
 **Make Up dan Produk Kecantikan**
 
-*   **[Seserahan Make Up](https://acaranya.id/artikel/seserahan-make-up/)**: Dasar make up termasuk foundation, primer, blush on, mascara, dan lipstik.
+*   **[Seserahan Make Up](/artikel/seserahan-make-up/)**: Dasar make up termasuk foundation, primer, blush on, mascara, dan lipstik.
 *   **Produk Perawatan Kulit**: Set perawatan wajah, masker, toner, serum, dan pelembab.
 *   **Produk Perawatan Rambut**: Shampoo, kondisioner, masker rambut, dan produk styling.
 
@@ -114,7 +114,7 @@ Berikut adalah contoh list seserahan pernikahan yang dapat kamu pertimbangkan un
 *   **Alat Musik**: Gitar, keyboard, atau alat musik favorit lainnya.
 *   **Peralatan Olahraga**: Sepeda, set yoga, atau alat fitness.
 
-**BACA JUGA:** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](https://acaranya.id/artikel/seserahan-pernikahan-adat-jawa/)
+**BACA JUGA:** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](/artikel/seserahan-pernikahan-adat-jawa/)
 
 ### Tips Memilih Isi Seserahan Nikah
 
@@ -134,7 +134,7 @@ Dengan persiapan yang matang dan pemilihan yang bijaksana, seserahan bisa menjad
 
 Seserahan tidak hanya tentang benda, tetapi juga tentang nilai, cinta, dan komitmen yang ingin dibagikan kepada pasangan di hari spesial mereka.
 
-**BACA JUGA:** [_Wedding Checklist Indonesia_](https://acaranya.id/artikel/wedding-checklist/)
+**BACA JUGA:** [_Wedding Checklist Indonesia_](/artikel/wedding-checklist/)
 
 ## Persiapan Seserahan Pernikahan
 
@@ -245,6 +245,6 @@ Diskusikan dengan jelas tentang jadwal dan timeline, serta pastikan bahwa mereka
 
 * * *
 
-Memilih vendor untuk seserahan pernikahan tidak sekadar mencari penyedia jasa, tetapi lebih kepada mitra yang bisa mewujudkan [visi pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/) kamu.
+Memilih vendor untuk seserahan pernikahan tidak sekadar mencari penyedia jasa, tetapi lebih kepada mitra yang bisa mewujudkan [visi pernikahan](/artikel/persiapan-pernikahan/) kamu.
 
 Dengan memperhatikan detail, melakukan riset yang cermat, dan memilih dengan bijaksana, kamu bisa mendapatkan seserahan yang tidak hanya indah secara estetika tetapi juga bermakna dan personal. Ini semua tentang menciptakan momen yang tidak terlupakan dalam merayakan cinta dan komitmen bersama orang yang kamu cintai.

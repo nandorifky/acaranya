@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Barakallah Till Jannah Artinya? Ini Makna dan Penerapannya
 customBreadcrumbLabel: Barakallah Till Jannah Artinya? Ini Makna dan Penerapannya
-canonicalUrl: 'https://acaranya.id/artikel/barakallah-till-jannah/'
+canonicalUrl: '/artikel/barakallah-till-jannah/'
 noindex: false
 ---
 Pernah mendengar ungkapan **“Barakallah Till Jannah”**? Frasa ini kerap terdengar di tengah masyarakat, terutama dalam konteks memberikan doa atau harapan baik. Tapi, sebenarnya apa sih arti dari ungkapan ini? Bagaimana pula cara mengamalkan dan menggapainya dalam kehidupan sehari-hari?
@@ -44,7 +44,7 @@ Ungkapan **“Barakallah Till Jannah”** tidak hanya memiliki arti yang mendala
 
 ### 1\. Saat Menghadiri Pernikahan
 
-[Pernikahan](https://acaranya.id/artikel/pengajian-sebelum-pernikahan/) adalah salah satu momen yang penuh dengan doa dan harapan baik. Ungkapan **“Barakallah Till Jannah”** sering digunakan untuk mendoakan pasangan pengantin agar pernikahan mereka penuh berkah dan berjalan harmonis hingga surga. Mengucapkan **Barakallah** saat memberi ucapan selamat bisa memperdalam makna doa tersebut.
+[Pernikahan](/artikel/pengajian-sebelum-pernikahan/) adalah salah satu momen yang penuh dengan doa dan harapan baik. Ungkapan **“Barakallah Till Jannah”** sering digunakan untuk mendoakan pasangan pengantin agar pernikahan mereka penuh berkah dan berjalan harmonis hingga surga. Mengucapkan **Barakallah** saat memberi ucapan selamat bisa memperdalam makna doa tersebut.
 
 > _“Selamat menempuh hidup baru, semoga selalu dalam berkah Allah **Barakallah Till Jannah**.”_
 
@@ -82,7 +82,7 @@ Selain pada momen-momen khusus, ungkapan **Barakallah Till Jannah** juga bisa di
 
 Dengan menambahkan ungkapan ini di akhir kalimat, doa menjadi lebih lengkap, mencakup keberkahan dunia hingga akhirat.
 
-**_BACA JUGA:_** [_40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis_](https://acaranya.id/artikel/doa-istri-ucapan-anniversary-pernikahan/)
+**_BACA JUGA:_** [_40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis_](/artikel/doa-istri-ucapan-anniversary-pernikahan/)
 
 ## Praktik Cara Menggapai Jannah (Surga)
 
@@ -112,7 +112,7 @@ Seseorang yang memperbanyak amalan sunnah akan mendapatkan cinta Allah, dan cint
 
 Bukan hanya amalan-amalan besar, tetapi juga amalan kecil seperti senyum kepada sesama, menolong orang lain, atau bahkan hanya sekadar mendoakan kebaikan untuk orang lain bisa menjadi pemberat amal kebaikan yang mengantarkan seseorang ke surga.
 
-**_BACA JUGA:_** [_6 Contoh Ucapan Anniversary Pernikahan Islami untuk Suami_](https://acaranya.id/artikel/ucapan-anniversary-pernikahan-islami-untuk-suami/)
+**_BACA JUGA:_** [_6 Contoh Ucapan Anniversary Pernikahan Islami untuk Suami_](/artikel/ucapan-anniversary-pernikahan-islami-untuk-suami/)
 
 ## Mengapa Penting Memahami Makna Barakallah Till Jannah?
 

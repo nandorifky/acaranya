@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 10 Tips Memilih Desain Undangan Pernikahan Online yang Menarik
 customBreadcrumbLabel: 10 Tips Memilih Desain Undangan Pernikahan Online yang Menarik
-canonicalUrl: 'https://acaranya.id/artikel/tips-memilih-desain-undangan-pernikahan-online/'
+canonicalUrl: '/artikel/tips-memilih-desain-undangan-pernikahan-online/'
 noindex: false
 ---
 Undangan pernikahan online semakin populer di era digital ini, karena memungkinkan calon pengantin untuk membuat undangan pernikahan dengan mudah dan praktis.
@@ -73,4 +73,4 @@ Sebelum mengirimkan undangan pernikahan online, uji coba terlebih dahulu pada be
 
 Terakhir, tambahkan elemen personalisasi pada undangan pernikahan online Anda. Misalnya, tambahkan foto atau cerita singkat tentang kisah cinta Anda dan pasangan. Hal ini dapat menambahkan sentuhan personal pada undangan pernikahan online Anda.
 
-Anda juga dapat membaca artikel kami tentang “[Cara Membuat Undangan Digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/)” untuk mengetahui cara membuat desain yang menarik dan sesuai dengan tema pernikahan Anda.
+Anda juga dapat membaca artikel kami tentang “[Cara Membuat Undangan Digital](/artikel/cara-membuat-undangan-digital/)” untuk mengetahui cara membuat desain yang menarik dan sesuai dengan tema pernikahan Anda.

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Apa Arti Weton Jodoh Ketemu 23?
 customBreadcrumbLabel: Apa Arti Weton Jodoh Ketemu 23?
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-23/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-23/'
 noindex: false
 ---
 Dalam budaya Jawa, Weton Jodoh Ketemu 23 merupakan salah satu perhitungan yang dipercaya dapat menafsirkan kecocokan pasangan dalam menjalani kehidupan rumah tangga.
@@ -55,7 +55,7 @@ Dengan kesadaran penuh dan niat untuk menjaga hubungan yang suci, pasangan denga
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk menghitung Weton Jodoh, Anda dapat menggunakan [kalkulator weton](https://acaranya.id/cek-weton/) yang disediakan di **Acaranya.id**. Anda cukup memasukkan tanggal lahir Anda dan pasangan Anda, lalu website ini akan otomatis menghitung Weton Jodoh Anda.
+Untuk menghitung Weton Jodoh, Anda dapat menggunakan [kalkulator weton](/cek-weton/) yang disediakan di **Acaranya.id**. Anda cukup memasukkan tanggal lahir Anda dan pasangan Anda, lalu website ini akan otomatis menghitung Weton Jodoh Anda.
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ Untuk menghitung Weton Jodoh, Anda dapat menggunakan [kalkulator weton](https://
 
 Sebagai contoh, jika seseorang lahir pada hari Kamis, Kliwon dan pasangannya lahir pada hari Rabu, Wage, maka Weton Jodoh mereka dapat dihitung sebagai berikut:
 
-Jumlah neptu Weton Jodoh mereka adalah 15 + 12 = [27](https://acaranya.id/artikel/weton-jodoh-ketemu-27/).
+Jumlah neptu Weton Jodoh mereka adalah 15 + 12 = [27](/artikel/weton-jodoh-ketemu-27/).
 
 Contoh lainnya, jika seseorang lahir pada hari Minggu, Legi dan pasangannya lahir pada hari Senin, Pahing, maka Weton Jodoh mereka dapat dihitung sebagai berikut:
 

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Viral di Medsos, “Marriage is Scary” Apa Artinya?'
 customBreadcrumbLabel: 'Viral di Medsos, “Marriage is Scary” Apa Artinya?'
-canonicalUrl: 'https://acaranya.id/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/'
+canonicalUrl: '/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/'
 noindex: false
 ---
 Pernikahan. Seharusnya menjadi momen bahagia yang ditunggu-tunggu banyak orang, tetapi mengapa banyak yang berpikir bahwa **pernikahan itu menakutkan**? Apakah benar, **marriage is scary**?
@@ -78,7 +78,7 @@ Namun, ketakutan akan pernikahan ini tidak bisa diabaikan begitu saja, terutama 
 
 Tidak ada yang salah dengan merasa takut akan pernikahan, tetapi mungkin perlu dipertimbangkan kembali apa yang sebenarnya menjadi sumber ketakutan tersebut.
 
-**BACA JUGA:** [Wedding Checklist Indonesia](https://acaranya.id/artikel/wedding-checklist/)
+**BACA JUGA:** [Wedding Checklist Indonesia](/artikel/wedding-checklist/)
 
 ## Mengatasi Ketakutan Akan Menikah
 
@@ -89,7 +89,7 @@ Jika **pernikahan itu menakutkan**, bagaimana cara menghadapinya? Beberapa strat
 2.  **Memahami dan Menerima Ketidakpastian**  
     Tidak ada pernikahan yang sempurna, dan itu normal. Menerima bahwa akan ada tantangan dan ketidakpastian dalam pernikahan dapat membantu mengurangi rasa takut.
 3.  **Mempersiapkan Diri Secara Emosional dan Finansial**  
-    Ketakutan terhadap pernikahan sering kali berkaitan dengan ketidakpastian [finansial](https://acaranya.id/artikel/cara-melewati-ujian-finansial-sebelum-menikah/) dan emosional. Mempersiapkan diri dalam kedua aspek ini dapat memberikan rasa aman dan kepercayaan diri untuk menghadapi pernikahan.
+    Ketakutan terhadap pernikahan sering kali berkaitan dengan ketidakpastian [finansial](/artikel/cara-melewati-ujian-finansial-sebelum-menikah/) dan emosional. Mempersiapkan diri dalam kedua aspek ini dapat memberikan rasa aman dan kepercayaan diri untuk menghadapi pernikahan.
 4.  **Membicarakan dengan Profesional**  
     Jika ketakutan akan pernikahan terasa terlalu besar, berbicara dengan seorang profesional seperti psikolog atau konselor pernikahan bisa sangat membantu. Mereka dapat memberikan perspektif baru dan alat untuk mengelola ketakutan tersebut.
 

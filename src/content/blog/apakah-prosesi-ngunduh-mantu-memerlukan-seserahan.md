@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?
 customBreadcrumbLabel: Apakah Prosesi Ngunduh Mantu Memerlukan Seserahan?
-canonicalUrl: 'https://acaranya.id/artikel/apakah-prosesi-ngunduh-mantu-memerlukan-seserahan/'
+canonicalUrl: '/artikel/apakah-prosesi-ngunduh-mantu-memerlukan-seserahan/'
 noindex: false
 ---
 Ngunduh Mantu, sebuah tradisi yang dikenal di berbagai daerah, sering kali menimbulkan pertanyaan mengenai keharusan adanya **seserahan**. Sering kali, prosesi ini dianggap sebagai bagian penting dalam pernikahan.
@@ -30,7 +30,7 @@ Membaca artikel ini akan memberikan pemahaman yang lebih jelas tentang pentingny
 
 ## Apa Itu Ngunduh Mantu?
 
-**[Ngunduh Mantu](https://acaranya.id/artikel/ngunduh-mantu/)** adalah sebuah tradisi yang dilakukan setelah akad nikah dalam beberapa budaya, terutama di Jawa. Tradisi ini biasanya melibatkan kedua mempelai dan keluarga besar mereka, di mana mereka melakukan serangkaian acara untuk merayakan penyatuan dua keluarga.
+**[Ngunduh Mantu](/artikel/ngunduh-mantu/)** adalah sebuah tradisi yang dilakukan setelah akad nikah dalam beberapa budaya, terutama di Jawa. Tradisi ini biasanya melibatkan kedua mempelai dan keluarga besar mereka, di mana mereka melakukan serangkaian acara untuk merayakan penyatuan dua keluarga.
 
 Meskipun acara ini bervariasi antara satu daerah dengan daerah lainnya, esensinya tetap sama, yaitu sebagai simbol penyatuan dan perayaan.
 
@@ -38,13 +38,13 @@ Dalam **Ngunduh Mantu**, sering kali terdapat elemen seperti jamuan makan, pertu
 
 ## Apa Itu Seserahan?
 
-**[Seserahan](https://acaranya.id/artikel/seserahan-pernikahan/)** adalah berbagai barang yang dibawa oleh pihak mempelai pria untuk diberikan kepada pihak mempelai wanita. Barang-barang ini biasanya berupa makanan, pakaian, atau benda-benda lain yang dianggap sebagai simbol penghargaan dan rasa syukur. Tradisi ini memiliki berbagai makna, tergantung pada daerah dan budaya masing-masing.
+**[Seserahan](/artikel/seserahan-pernikahan/)** adalah berbagai barang yang dibawa oleh pihak mempelai pria untuk diberikan kepada pihak mempelai wanita. Barang-barang ini biasanya berupa makanan, pakaian, atau benda-benda lain yang dianggap sebagai simbol penghargaan dan rasa syukur. Tradisi ini memiliki berbagai makna, tergantung pada daerah dan budaya masing-masing.
 
 Seserahan sering kali dianggap sebagai bentuk simbolis dari tanggung jawab dan komitmen mempelai pria. Barang-barang ini tidak hanya memiliki nilai material, tetapi juga nilai simbolis yang tinggi.
 
 Oleh karena itu, banyak keluarga yang memilih untuk mempersiapkan seserahan dengan hati-hati sebagai bagian dari prosesi pernikahan.
 
-**_BACA JUGA:_** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](https://acaranya.id/artikel/seserahan-pernikahan-adat-jawa/)
+**_BACA JUGA:_** [_20 Isi Seserahan Pernikahan Adat Jawa Sederhana dan Biayanya_](/artikel/seserahan-pernikahan-adat-jawa/)
 
 ## Apakah Seserahan Diperlukan dalam Ngunduh Mantu?
 

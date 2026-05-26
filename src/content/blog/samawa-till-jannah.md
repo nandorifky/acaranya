@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
 customBreadcrumbLabel: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
-canonicalUrl: 'https://acaranya.id/artikel/samawa-till-jannah/'
+canonicalUrl: '/artikel/samawa-till-jannah/'
 noindex: false
 ---
 Di era modern ini, banyak pasangan muslim yang mendambakan pernikahan ideal dengan mengucapkan doa “samawa till jannah”. Ungkapan ini bukan sekadar trend atau kata-kata manis belaka, melainkan sebuah konsep pernikahan yang memiliki makna mendalam dalam ajaran Islam.
@@ -33,9 +33,9 @@ Namun, tahukah kamu bahwa frasa ini mengandung filosofi yang sangat dalam tentan
 
 > Tulisan arab untuk **“samawa till jannah”** adalah **“سماوة حتى الجنة”**.
 
-**[Samawa adalah](https://acaranya.id/artikel/sakinah-mawaddah-warahmah/)** singkatan dari tiga kata bahasa Arab: Sakinah, Mawaddah, dan Warahmah. Sedangkan “till jannah” berasal dari bahasa Inggris yang artinya “hingga surga”. Jadi, arti samawa till jannah secara harfiah adalah pernikahan yang dilandasi ketenteraman (sakinah), cinta kasih (mawaddah), dan kasih sayang (warahmah) yang bertahan hingga di surga.
+**[Samawa adalah](/artikel/sakinah-mawaddah-warahmah/)** singkatan dari tiga kata bahasa Arab: Sakinah, Mawaddah, dan Warahmah. Sedangkan “till jannah” berasal dari bahasa Inggris yang artinya “hingga surga”. Jadi, arti samawa till jannah secara harfiah adalah pernikahan yang dilandasi ketenteraman (sakinah), cinta kasih (mawaddah), dan kasih sayang (warahmah) yang bertahan hingga di surga.
 
-Dalam perspektif Islam, pernikahan bukan hanya tentang penyatuan dua insan, tetapi juga merupakan ibadah yang nilai pahalanya berkelanjutan. Ketika seseorang mengucapkan “[barakallah till jannah](https://acaranya.id/artikel/barakallah-till-jannah/)” sebagai doa pernikahan, itu merupakan harapan agar keberkahan Allah SWT senantiasa menyertai pasangan tersebut hingga di surga kelak.
+Dalam perspektif Islam, pernikahan bukan hanya tentang penyatuan dua insan, tetapi juga merupakan ibadah yang nilai pahalanya berkelanjutan. Ketika seseorang mengucapkan “[barakallah till jannah](/artikel/barakallah-till-jannah/)” sebagai doa pernikahan, itu merupakan harapan agar keberkahan Allah SWT senantiasa menyertai pasangan tersebut hingga di surga kelak.
 
 ## Mendalami Makna Sakinah dalam Kehidupan Rumah Tangga
 

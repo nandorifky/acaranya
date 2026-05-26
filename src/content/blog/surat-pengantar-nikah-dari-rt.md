@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Surat Pengantar Nikah dari RT
 customBreadcrumbLabel: Surat Pengantar Nikah dari RT
-canonicalUrl: 'https://acaranya.id/artikel/surat-pengantar-nikah-dari-rt/'
+canonicalUrl: '/artikel/surat-pengantar-nikah-dari-rt/'
 noindex: false
 ---
 Hallo _Der_! Mengurus dokumen untuk keperluan menikah menjadi hal wajib kita agar pernikahan terdaftar secara resmi. Sebelum mengurus lebih lanjut, langkah pertama yang perlu dilakukan yaitu meminta surat pengantar nikah dari RT.
@@ -45,7 +45,7 @@ Namun untuk jaga-jaga, kamu bisa mempersiapkan syarat dokumen surat pengantar ni
 
 Sepengalaman penulis, surat pengantar ini terdapat di setiap RT. Jadi, kita hanya perlu mengisi data diri dan tanda tangan materai.
 
-Untuk alur pengurusan dokumen lebih lengkap, kamu bisa baca [disini](https://acaranya.id/artikel).
+Untuk alur pengurusan dokumen lebih lengkap, kamu bisa baca [disini](/artikel).
 
 ## Download dan Contoh Surat Pengantar Nikah dari RT
 

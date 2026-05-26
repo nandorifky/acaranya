@@ -78,7 +78,7 @@ Salah satu salah kaprah dalam membaca tren undangan digital adalah menganggap pe
 
 Calon pengantin dan penyelenggara acara kini juga mencari kepraktisan. Undangan harus mudah dibuat, mudah dikirim, mudah dibuka, dan tetap terlihat layak untuk momen penting. Desain, kecepatan akses, responsivitas mobile, dan kemudahan revisi menjadi bagian dari keputusan.
 
-Di titik ini, tren undangan digital 2026 bergerak ke arah yang lebih matang. Pasar tidak hanya membutuhkan file gambar untuk disebarkan, tetapi juga [website undangan pernikahan](https://acaranya.id/desain-undangan-digital/pernikahan/) yang memiliki struktur informasi jelas dan fitur acara yang benar-benar terpakai.
+Di titik ini, tren undangan digital 2026 bergerak ke arah yang lebih matang. Pasar tidak hanya membutuhkan file gambar untuk disebarkan, tetapi juga [website undangan pernikahan](/desain-undangan-digital/pernikahan/) yang memiliki struktur informasi jelas dan fitur acara yang benar-benar terpakai.
 
 ### Fitur yang Makin Dicari
 
@@ -127,7 +127,7 @@ Musim nikah 2026 memperlihatkan bahwa undangan digital semakin melekat dalam car
 
 Undangan digital 2026 menjadi jawaban atas kebutuhan tersebut. Format berbasis website memungkinkan informasi acara disusun lebih lengkap, dibagikan lebih cepat, dan diperbarui lebih fleksibel. Fitur seperti RSVP, Google Maps, galeri foto, amplop digital, dan QR Code check-in membuat undangan tidak lagi hanya menjadi pemberitahuan, tetapi juga alat bantu manajemen acara.
 
-Di tengah tren tersebut, layanan Acaranya.id memperlihatkan bagaimana undangan digital dapat digunakan untuk berbagai acara, mulai dari pernikahan hingga acara keluarga dan acara resmi. Dengan desain yang dapat dipilih sesuai kebutuhan serta fitur yang mendukung distribusi dan pengelolaan tamu, [undangan digital](https://acaranya.id/) semakin relevan sebagai bagian dari persiapan acara modern.
+Di tengah tren tersebut, layanan Acaranya.id memperlihatkan bagaimana undangan digital dapat digunakan untuk berbagai acara, mulai dari pernikahan hingga acara keluarga dan acara resmi. Dengan desain yang dapat dipilih sesuai kebutuhan serta fitur yang mendukung distribusi dan pengelolaan tamu, [undangan digital](/) semakin relevan sebagai bagian dari persiapan acara modern.
 
 **Sumber Rujukan**
 

@@ -22,14 +22,14 @@ imageCaption: ''
 status: published
 seoTitle: 9 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan
 customBreadcrumbLabel: 9 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-jawa/'
+canonicalUrl: '/artikel/contoh-undangan-pernikahan-bahasa-jawa/'
 noindex: false
 ---
 Dalam tradisi Jawa, undangan pernikahan bukan hanya sekadar pemberitahuan, tetapi juga wujud penghormatan kepada tamu undangan. Memilih kata-kata yang tepat, halus, dan sopan sangat penting, terutama jika pernikahan melibatkan adat Jawa yang kental.
 
 Undangan dengan **bahasa Jawa halus** akan menambah nuansa keakraban dan penghormatan yang mendalam bagi tamu.
 
-Berikut enam [contoh undangan pernikahan](https://acaranya.id/artikel/contoh-undangan-pernikahan/) bahasa Jawa sopan yang bisa kamu jadikan sebagai referensi.
+Berikut enam [contoh undangan pernikahan](/artikel/contoh-undangan-pernikahan/) bahasa Jawa sopan yang bisa kamu jadikan sebagai referensi.
 
 ## Struktur Dasar Undangan Pernikahan Bahasa Jawa
 
@@ -143,7 +143,7 @@ Untuk kerabat yang lebih tua, **bahasa Jawa kromo inggil** digunakan untuk menun
 
 Dalam contoh undangan ini, penggunaan bahasa **kromo inggil** mencerminkan penghormatan yang mendalam kepada tamu, khususnya kerabat yang lebih tua. Bahasa yang halus dan penuh sopan santun ini sangat tepat untuk menambah kesan sakral dalam acara pernikahan.
 
-**_BACA JUGA:_** [_Contoh Undangan Pernikahan Islami_](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/)
+**_BACA JUGA:_** [_Contoh Undangan Pernikahan Islami_](/artikel/contoh-undangan-pernikahan-islami/)
 
 ### 2\. Undangan Bahasa Jawa Kromo Madya untuk Teman Sebaya
 
@@ -248,7 +248,7 @@ Untuk teman akrab, undangan yang lebih santai namun tetap sopan bisa menjadi pil
 
 Contoh ini lebih santai, cocok untuk teman akrab yang sudah sering berinteraksi. Meskipun menggunakan bahasa yang lebih sederhana, kesopanan tetap dijaga.
 
-**_BACA JUGA:_** [_Contoh Undangan Pernikahan Digital_](https://acaranya.id/artikel/contoh-undangan-pernikahan-digital/)
+**_BACA JUGA:_** [_Contoh Undangan Pernikahan Digital_](/artikel/contoh-undangan-pernikahan-digital/)
 
 ### 5\. Undangan Bahasa Jawa Krama Alus
 
@@ -327,7 +327,7 @@ Fitur dalam file undangan ini:
 *   Cocok untuk berbagai jenis tamu, baik kerabat maupun teman akrab.
 *   Bisa digunakan untuk pernikahan adat Jawa formal maupun acara sederhana.
 
-**_BACA JUGA:_** [_Contoh Undangan Pernikahan Bahasa Inggris_](https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-inggris/)
+**_BACA JUGA:_** [_Contoh Undangan Pernikahan Bahasa Inggris_](/artikel/contoh-undangan-pernikahan-bahasa-inggris/)
 
 Klik link di bawah ini untuk Download file Undangan Pernikahan Bahasa Jawa Word siap edit:
 
@@ -337,4 +337,4 @@ Klik link di bawah ini untuk Download file Undangan Pernikahan Bahasa Jawa Word 
 
 Menggunakan undangan pernikahan bahasa Jawa yang halus dan sopan memberikan sentuhan tradisional yang mendalam pada acara pernikahan. Bahasa yang dipilih, baik kromo inggil untuk kerabat yang lebih tua, kromo madya untuk teman sebaya, hingga bahasa Jawa santai untuk teman akrab, mampu mencerminkan penghormatan dan kesopanan.
 
-Acaranya ID memiliki [desain undangan digital tema jawa](https://acaranya.id/desain-undangan-digital/) yang bisa kamu gunakan untuk keperluan pernikahanmu. Dengan fitur lengkap, menggunakan [undangan online](https://acaranya.id) juga akan memangkas biaya pernikahanmu lho! Yuk, digitalkan undanganmu sekarang!
+Acaranya ID memiliki [desain undangan digital tema jawa](/desain-undangan-digital/) yang bisa kamu gunakan untuk keperluan pernikahanmu. Dengan fitur lengkap, menggunakan [undangan online](https://acaranya.id) juga akan memangkas biaya pernikahanmu lho! Yuk, digitalkan undanganmu sekarang!

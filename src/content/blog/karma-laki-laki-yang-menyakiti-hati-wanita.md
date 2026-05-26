@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Islam
 customBreadcrumbLabel: Ini Karma Laki-laki yang Menyakiti Hati Wanita dalam Islam
-canonicalUrl: 'https://acaranya.id/artikel/karma-laki-laki-yang-menyakiti-hati-wanita/'
+canonicalUrl: '/artikel/karma-laki-laki-yang-menyakiti-hati-wanita/'
 noindex: false
 ---
 **Karma** seringkali menjadi topik yang menarik untuk dibahas, apalagi dalam konteks hubungan antara pria dan wanita. Lalu, bagaimana _karma_ berperan bagi laki-laki yang menyakiti hati wanita menurut Islam?
@@ -43,7 +43,7 @@ Sebagai contoh, jika seorang laki-laki menyakiti hati wanita dengan kata-kata ka
 
 Hal ini dapat berupa kesulitan atau penderitaan yang ia alami sebagai konsekuensi dari tindakannya tersebut.
 
-**_BACA JUGA:_** [_Kumpulan Quotes Pernikahan Islami_](https://acaranya.id/artikel/quotes-pernikahan-islami/)
+**_BACA JUGA:_** [_Kumpulan Quotes Pernikahan Islami_](/artikel/quotes-pernikahan-islami/)
 
 #### 2\. **Pentingnya Meminta Maaf dan Bertobat**
 

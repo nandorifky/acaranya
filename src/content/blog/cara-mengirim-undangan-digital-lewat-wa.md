@@ -17,7 +17,7 @@ imageCaption: ''
 status: published
 seoTitle: 4 Cara Mengirim Undangan Digital Lewat WA dan Etikanya
 customBreadcrumbLabel: Cara Mengirim Undangan Digital Lewat WA
-canonicalUrl: https://acaranya.id/artikel/cara-mengirim-undangan-digital-lewat-wa/
+canonicalUrl: /artikel/cara-mengirim-undangan-digital-lewat-wa/
 noindex: false
 ---
 Penggunaan undangan digital kini semakin populer di Indonesia, terutama untuk acara pernikahan. Banyak orang merasa acara pernikahan mereka kurang lengkap tanpa menggunakan [undangan digital](https://acaranya.id).
@@ -32,16 +32,16 @@ Dalam artikel ini, **Acaranya ID** akan membagikan tips bagaimana tata cara meng
 
 ### 1. Menggunakan Kalimat Mengundang yang Benar
 
-> Silahkan pakai tools [kata-kata undangan lewat WA](https://acaranya.id/kata-kata-undangan-pernikahan-lewat-wa/) dari kami.
+> Silahkan pakai tools [kata-kata undangan lewat WA](/kata-kata-undangan-pernikahan-lewat-wa/) dari kami.
 
 Penggunaan kalimat dalam mengundang menggunakan undangan pernikahan digital tidak bisa ditulis secara sembarangan. Ini merupakan hal penting dalam pengiriman undangan digital, karena hal ini dilakukan agar tamu merasa tetap dihargai meskipun tidak menggunakan undangan fisik dan tidak tatap muka.
 
 Terdapat beberapa poin penting dalam penulisan kalimat undangan pernikahan digital yang sopan, yaitu seperti:
 
 *   Salam pembuka.
-*   Menuliskan [nama tamu undangan](https://acaranya.id/artikel/etika-penulisan-nama-tamu-undangan/) dengan benar.
-*   Pembukaan isi undangan, sebaiknya gunakan kalimat “[tanpa mengurangi rasa hormat](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/)“.
-*   [Informasi acara](https://acaranya.id/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/), isi bagian ini secara lengkap dan jelas.
+*   Menuliskan [nama tamu undangan](/artikel/etika-penulisan-nama-tamu-undangan/) dengan benar.
+*   Pembukaan isi undangan, sebaiknya gunakan kalimat “[tanpa mengurangi rasa hormat](/artikel/kata-kata-undangan-lewat-wa/)“.
+*   [Informasi acara](/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/), isi bagian ini secara lengkap dan jelas.
 *   Ucapan maaf tidak bisa datang untuk mengundang secara langsung (tatap muka).
 *   Harapan supaya tamu undangan bisa hadir di acara pernikahan.
 *   Salam penutup.
@@ -93,7 +93,7 @@ Waktu ideal untuk mengirim undangan digital adalah:
 *   **Paling lambat:** 1-2 minggu sebelum acara.
 *   **Paling cepat:** 1-2 bulan sebelum acara.
 
-Hal ini sudah kami sampaikan pada [artikel ini](https://acaranya.id/artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/), jadi untuk informasi lebih lengkap silahkan kunjungi artikel tersebut.
+Hal ini sudah kami sampaikan pada [artikel ini](/artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/), jadi untuk informasi lebih lengkap silahkan kunjungi artikel tersebut.
 
 ### Kesimpulan
 

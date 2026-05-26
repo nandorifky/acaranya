@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Ya Allah Kenapa Aku Selalu Memikirkan Dia? Pertanda Apa?
 customBreadcrumbLabel: Ya Allah Kenapa Aku Selalu Memikirkan Dia? Pertanda Apa?
-canonicalUrl: 'https://acaranya.id/artikel/ya-allah-kenapa-aku-selalu-memikirkan-dia/'
+canonicalUrl: '/artikel/ya-allah-kenapa-aku-selalu-memikirkan-dia/'
 noindex: false
 ---
 **“Ya Allah, kenapa aku selalu memikirkan dia?”** Pikiran tentang seseorang terus muncul di benak, seolah tak bisa terlepas. Situasi ini sering kali menimbulkan kebingungan, perasaan gelisah, bahkan terkadang membuat Kamu bertanya apakah ini adalah pertanda tertentu. Pikiran tersebut mungkin terasa sangat intens, hingga mengganggu fokus dalam keseharian.
@@ -35,7 +35,7 @@ Sering kali, pikiran tentang seseorang yang terus-menerus hadir dapat dihubungka
 
 Tidak jarang juga, pikiran ini muncul sebagai respons dari kenangan bersama orang tersebut. Kenangan, baik positif maupun negatif, dapat memicu otak untuk terus mengingatnya. Ketika Kamu mempertanyakan, “Ya Allah kenapa aku selalu memikirkan dia?”, mungkin karena Kamu masih terhubung secara emosional dengan kenangan-kenangan tersebut.
 
-**_BACA JUGA:_** [_Begini Cara Mengetes Mantan Masih Sayang atau Tidak_](https://acaranya.id/artikel/cara-mengetes-mantan-masih-sayang-atau-tidak/)
+**_BACA JUGA:_** [_Begini Cara Mengetes Mantan Masih Sayang atau Tidak_](/artikel/cara-mengetes-mantan-masih-sayang-atau-tidak/)
 
 ## 2\. Apakah Ini Pertanda dari Allah?
 
@@ -55,7 +55,7 @@ Perasaan dan pikiran tentang seseorang tidak selalu permanen. Sering kali, ini a
 
 Mungkin Kamu hanya perlu memberi waktu bagi diri sendiri untuk merenung dan memahami apa yang sebenarnya Kamu rasakan. Terkadang, perasaan yang mendalam tentang seseorang adalah pelajaran bagi Kamu untuk tumbuh secara emosional dan spiritual.
 
-**_BACA JUGA:_** [_Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah_](https://acaranya.id/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)
+**_BACA JUGA:_** [_Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah_](/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)
 
 ## 5\. Cara Mengatasi Pikiran yang Terus Menghantui
 
@@ -90,4 +90,4 @@ Semoga artikel ini bisa membantu Kamu untuk memahami dan menemukan jawabannya.
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Ingin undangan yang praktis namun tetap elegan? Acaranya ID menyediakan solusi **[undangan pernikahan online](https://acaranya.id/)** dengan desain yang memukau!
+Ingin undangan yang praktis namun tetap elegan? Acaranya ID menyediakan solusi **[undangan pernikahan online](/)** dengan desain yang memukau!

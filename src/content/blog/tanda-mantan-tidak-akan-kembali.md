@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu
 customBreadcrumbLabel: Jangan Berharap! 7 Tanda Mantan Tidak Akan Kembali Padamu
-canonicalUrl: 'https://acaranya.id/artikel/tanda-mantan-tidak-akan-kembali/'
+canonicalUrl: '/artikel/tanda-mantan-tidak-akan-kembali/'
 noindex: false
 ---
 Pernah merasa bimbang, apakah **mantan tidak akan kembali** atau mungkin masih ada harapan? Setelah putus, terkadang muncul keraguan dan berbagai pertanyaan. Mungkin ada harapan untuk kembali, atau malah sebaliknya, hubungan tersebut memang sudah benar-benar berakhir.
@@ -40,7 +40,7 @@ Sebaliknya, jika **mantan tidak akan kembali**, mereka cenderung menjaga jarak d
 
 Terkadang, memutus komunikasi adalah cara terbaik bagi mantan untuk move on. Ketika seseorang benar-benar ingin melupakan masa lalu, mereka memilih untuk menjauh dan fokus pada kehidupan baru.
 
-**_BACA JUGA:_** [_Viral di Medsos, “Marriage is Scary” Apa Artinya?_](https://acaranya.id/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/)
+**_BACA JUGA:_** [_Viral di Medsos, “Marriage is Scary” Apa Artinya?_](/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/)
 
 ## 2\. Sudah Punya Pasangan Baru
 

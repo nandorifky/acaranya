@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Undangan Pernikahan Digital
 customBreadcrumbLabel: Contoh Undangan Pernikahan Digital
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-digital/'
+canonicalUrl: '/artikel/contoh-undangan-pernikahan-digital/'
 noindex: false
 ---
 Cukup banyak **contoh undangan pernikahan digital** baik itu desain atau bentuk yang kini telah menjamur. Sebelum menggunakannya, pastikan kamu mengetahui beberapa poin pada artikel di bawah ini.
@@ -110,4 +110,4 @@ Selengkapnya, kamu bisa membuka halaman catalog [**Desain Undangan Pernikahan On
 
 * * *
 
-Itulah beberapa informasi mengenai [contoh undangan pernikahan](https://acaranya.id/artikel/contoh-undangan-pernikahan/) digital yang bisa kamu jadikan sebagai referensi. Apapun undangan yang kamu gunakan, ingat Acara
+Itulah beberapa informasi mengenai [contoh undangan pernikahan](/artikel/contoh-undangan-pernikahan/) digital yang bisa kamu jadikan sebagai referensi. Apapun undangan yang kamu gunakan, ingat Acara

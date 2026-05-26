@@ -22,7 +22,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Double Date Artinya? Pengertian, Manfaat, dan Tips Melakukannya'
 customBreadcrumbLabel: 'Double Date Artinya? Pengertian, Manfaat, dan Tips Melakukannya'
-canonicalUrl: 'https://acaranya.id/artikel/double-date-artinya/'
+canonicalUrl: '/artikel/double-date-artinya/'
 noindex: false
 ---
 _Double date_ kini menjadi tren populer di kalangan Gen Z yang mencari cara baru untuk menjaga hubungan tetap menarik. Kencan ganda ini menawarkan pengalaman yang berbeda dari kencan biasa, karena melibatkan dua pasangan yang berkumpul dan bersenang-senang bersama.

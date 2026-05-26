@@ -19,7 +19,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
 customBreadcrumbLabel: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
-canonicalUrl: 'https://acaranya.id/artikel/syarat-foto-buku-nikah/'
+canonicalUrl: '/artikel/syarat-foto-buku-nikah/'
 noindex: false
 ---
 [Pernikahan](https://acaranya.id) adalah momen sakral yang penuh dengan persiapan, dan salah satu yang kadang terlupakan adalah **syarat foto buku nikah**. Ya, jangan kira urusan pas foto bisa dianggap sepele. Ternyata, ada aturan yang harus diikuti calon pengantin agar fotonya sah di mata KUA. Pertanyaannya, apa saja sih aturan mainnya?
@@ -52,7 +52,7 @@ Oke, ini juga penting. Foto buku nikah nggak boleh asal pilih baju.
 
 Meskipun nggak ada aturan ketat soal model pakaian, ada beberapa rekomendasi yang sebaiknya diikuti agar hasil fotonya terlihat formal dan sesuai standar.
 
-**BACA JUGA:** [Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?](https://acaranya.id/artikel/warna-buku-nikah/)
+**BACA JUGA:** [Warna Buku Nikah Perempuan dan Laki-Laki, Mengapa Berbeda?](/artikel/warna-buku-nikah/)
 
 ### **Memakai Baju Formal**
 
@@ -88,8 +88,8 @@ Tapi, kalau pengen acara yang lebih fleksibel di luar kantor KUA atau di luar ja
 
 * * *
 
-Sekarang, dengan semua info ini, calon pengantin bisa lebih tenang menjalani [proses persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/). Jangan sampai hal-hal kecil seperti syarat foto [buku nikah](https://acaranya.id/artikel/tag/buku-nikah/) malah jadi batu sandungan. Persiapkan semuanya dengan baik, dan semoga pernikahannya lancar jaya!
+Sekarang, dengan semua info ini, calon pengantin bisa lebih tenang menjalani [proses persiapan pernikahan](/artikel/persiapan-pernikahan/). Jangan sampai hal-hal kecil seperti syarat foto [buku nikah](/artikel/tag/buku-nikah/) malah jadi batu sandungan. Persiapkan semuanya dengan baik, dan semoga pernikahannya lancar jaya!
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Kami membuat **[undangan pernikahan online](https://acaranya.id/)** menjadi lebih praktis, elegan, dan mudah diakses oleh siapa saja. Hari spesialmu layak dirayakan dengan cara modern!
+Kami membuat **[undangan pernikahan online](/)** menjadi lebih praktis, elegan, dan mudah diakses oleh siapa saja. Hari spesialmu layak dirayakan dengan cara modern!

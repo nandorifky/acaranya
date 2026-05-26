@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Begini Cara Mengetes Mantan Masih Sayang atau Tidak
 customBreadcrumbLabel: Begini Cara Mengetes Mantan Masih Sayang atau Tidak
-canonicalUrl: 'https://acaranya.id/artikel/cara-mengetes-mantan-masih-sayang-atau-tidak/'
+canonicalUrl: '/artikel/cara-mengetes-mantan-masih-sayang-atau-tidak/'
 noindex: false
 ---
 Mantan pacar sering terlintas dalam pikiran? Banyak orang merasa penasaran apakah mantan masih memiliki perasaan setelah putus, terutama jika hubungan berakhir dengan hal yang belum tuntas. Artikel ini akan membahas cara mengetes apakah mantan masih sayang atau sudah benar-benar _move on_ dengan cara yang halus tanpa merusak perasaan.
@@ -41,7 +41,7 @@ Cara lain untuk mengetes apakah mantan masih sayang adalah dengan mencoba mengaj
 
 Namun, jika ia menolak tanpa alasan yang jelas atau terlihat enggan, mungkin perasaannya sudah berubah. Seseorang yang sudah move on cenderung tidak terlalu tertarik untuk bertemu mantan kecuali ada alasan yang mendesak.
 
-**_BACA JUGA:_** [_Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah_](https://acaranya.id/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)
+**_BACA JUGA:_** [_Inilah 8 Tanda Mantan Masih Cinta Walau Sudah Menikah_](/artikel/tanda-mantan-masih-cinta-walau-sudah-menikah/)
 
 ## 3\. Perhatikan Sikapnya Saat Bertemu
 

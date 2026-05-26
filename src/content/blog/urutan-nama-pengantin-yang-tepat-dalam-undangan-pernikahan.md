@@ -22,7 +22,7 @@ status: published
 seoTitle: Urutan Nama Pengantin yang Tepat dalam Undangan Pernikahan
 customBreadcrumbLabel: Urutan Nama Pengantin yang Tepat dalam Undangan Pernikahan
 canonicalUrl: >-
-  https://acaranya.id/artikel/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan/
+  /artikel/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan/
 noindex: false
 ---
 Undangan pernikahan adalah salah satu elemen penting dalam persiapan pernikahan. Selain sebagai sarana pemberitahuan, undangan juga mencerminkan gaya dan konsep pernikahan yang akan digelar.
@@ -53,7 +53,7 @@ Meskipun secara umum nama pengantin wanita ditulis terlebih dahulu, namun ada be
 
 *   **Latar Belakang Keluarga:** Setiap keluarga memiliki tradisi dan kebiasaan yang berbeda-beda. Ada kalanya suatu keluarga memiliki aturan tersendiri mengenai penulisan nama dalam undangan.
 *   **Konsep Undangan:** Desain dan konsep undangan juga dapat mempengaruhi tata letak dan urutan penulisan nama.
-*   **Wilayah:** Setiap daerah di Indonesia memiliki adat istiadat yang berbeda-beda. Ada beberapa daerah yang memiliki aturan khusus mengenai [penulisan nama dalam undangan](https://acaranya.id/artikel/etika-penulisan-nama-tamu-undangan/).
+*   **Wilayah:** Setiap daerah di Indonesia memiliki adat istiadat yang berbeda-beda. Ada beberapa daerah yang memiliki aturan khusus mengenai [penulisan nama dalam undangan](/artikel/etika-penulisan-nama-tamu-undangan/).
 
 ## Contoh Penulisan Nama dalam Undangan Pernikahan
 

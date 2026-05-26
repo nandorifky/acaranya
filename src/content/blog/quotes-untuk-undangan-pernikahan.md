@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 50 Inspirasi Quotes untuk Undangan Pernikahan Digital Romantis
 customBreadcrumbLabel: 50 Inspirasi Quotes untuk Undangan Pernikahan Digital Romantis
-canonicalUrl: 'https://acaranya.id/artikel/quotes-untuk-undangan-pernikahan/'
+canonicalUrl: '/artikel/quotes-untuk-undangan-pernikahan/'
 noindex: false
 ---
 Pernikahan merupakan momen sakral dan penuh makna. Menghadirkan kutipan atau **quotes pernikahan** dalam undangan bisa jadi cara yang indah untuk menyampaikan pesan cinta dan harapan. Namun, sering kali muncul pertanyaan: bagaimana cara memilih kata-kata yang pas untuk undangan pernikahan, terutama yang Islami atau bahkan dalam bahasa Inggris? Apakah harus romantis, Islami, atau formal?
@@ -31,7 +31,7 @@ Bagi yang sedang mempersiapkan undangan pernikahan, artikel ini akan membantu me
 
 ![Quotes Pernikahan Islami yang Bermakna](/images/blog/content/quotes-pernikahan-islami-1024x1024.jpg)
 
-Dalam tradisi Islam, pernikahan adalah ibadah yang penuh keberkahan. Pilihan **[quotes pernikahan Islami](https://acaranya.id/artikel/quotes-pernikahan-islami/)** biasanya berisi doa dan harapan yang mendalam. Berikut ini beberapa inspirasi yang bisa digunakan:
+Dalam tradisi Islam, pernikahan adalah ibadah yang penuh keberkahan. Pilihan **[quotes pernikahan Islami](/artikel/quotes-pernikahan-islami/)** biasanya berisi doa dan harapan yang mendalam. Berikut ini beberapa inspirasi yang bisa digunakan:
 
 ### Kutipan Islami dari Hadis
 

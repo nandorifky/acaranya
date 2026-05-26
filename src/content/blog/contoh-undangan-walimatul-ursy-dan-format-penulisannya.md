@@ -24,7 +24,7 @@ status: published
 seoTitle: Contoh Undangan Walimatul Ursy dan Format Penulisannya
 customBreadcrumbLabel: Contoh Undangan Walimatul Ursy dan Format Penulisannya
 canonicalUrl: >-
-  https://acaranya.id/artikel/contoh-undangan-walimatul-ursy-dan-format-penulisannya/
+  /artikel/contoh-undangan-walimatul-ursy-dan-format-penulisannya/
 noindex: false
 ---
 Walimatul Ursy merupakan tradisi penting dalam masyarakat yang menjadi bagian tak terpisahkan dari pernikahan. Namun, bagaimana cara menyusun **undangan walimatul ursy** yang sopan dan sesuai dengan adat? Apakah harus mengikuti format tertentu atau bisa lebih fleksibel? Pertanyaan-pertanyaan ini sering kali muncul saat sedang merencanakan pernikahan.
@@ -103,7 +103,7 @@ Berikut ini beberapa contoh undangan walimatul ursy yang dapat disesuaikan denga
 > 
 > Wassalamu’alaikum Warahmatullahi Wabarakatuh
 
-**_BACA JUGA:_** [_Cara Membuat dan Contoh Undangan Pengajian Pernikahan_](https://acaranya.id/artikel/contoh-undangan-pengajian-pernikahan/)
+**_BACA JUGA:_** [_Cara Membuat dan Contoh Undangan Pengajian Pernikahan_](/artikel/contoh-undangan-pengajian-pernikahan/)
 
 ### **Contoh Undangan Islami dengan Kutipan Al-Qur’an**
 
@@ -146,7 +146,7 @@ Undangan digital saat ini semakin populer karena lebih praktis, ramah lingkungan
 
 **Acaranya.id** menyediakan cukup banyak sekali desain undangan digital untuk berbagai acara, termasuk walimatul ursy. Teks dan kata-kata mengundang yang bisa dikustomisasi membuat undangan online ini lebih cocok untuk berbagai acara.
 
-[Pesan Undangan Digital Walimatul Ursy](https://acaranya.id/services/undangan-digital-walimatul-ursy)
+[Pesan Undangan Digital Walimatul Ursy](/services/undangan-digital-walimatul-ursy)
 
 * * *
 

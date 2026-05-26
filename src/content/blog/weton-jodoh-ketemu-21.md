@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'
 customBreadcrumbLabel: 'Ketahui Arti Weton Jodoh Ketemu 21, Apakah Cocok?'
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-21/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-21/'
 noindex: false
 ---
 Dalam budaya Jawa, weton memegang peranan penting dalam berbagai aspek kehidupan, termasuk dalam menentukan kecocokan pasangan. Weton jodoh ketemu 21, yang merupakan hasil penjumlahan neptu weton kedua pasangan, memiliki makna dan interpretasi tersendiri dalam primbon Jawa. Artikel ini akan membahas lebih lanjut tentang weton jodoh ketemu 21, mulai dari artinya hingga cara menghitungnya.
@@ -43,7 +43,7 @@ Namun, perlu diingat bahwa interpretasi ini hanyalah panduan dan tidak bersifat 
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk memudahkan dalam menemukan weton masing-masing pasangan, Anda bisa menggunakan [Kalkulator cek weton online](https://acaranya.id/cek-weton/) dari Acaranya.id. Dengan menggunakan tools ini, Anda dapat mengetahui weton masing-masing pasangan dengan mudah dan cepat.
+Untuk memudahkan dalam menemukan weton masing-masing pasangan, Anda bisa menggunakan [Kalkulator cek weton online](/cek-weton/) dari Acaranya.id. Dengan menggunakan tools ini, Anda dapat mengetahui weton masing-masing pasangan dengan mudah dan cepat.
 
 Berikut tabel yang menunjukkan nilai hari dan pasaran Jawa:
 
@@ -61,13 +61,13 @@ Contohnya, jika seorang pria lahir pada hari Senin Pahing dan seorang wanita lah
 
 *   Neptu pria: Senin (4) + Pahing (9) = 13
 *   Neptu wanita: Rabu (7) + Kliwon (8) = 15
-*   Jumlah neptu pasangan: 13 + 15 = [28](https://acaranya.id/artikel/weton-jodoh-ketemu-28/)
+*   Jumlah neptu pasangan: 13 + 15 = [28](/artikel/weton-jodoh-ketemu-28/)
 
 Contoh lainnya, jika seorang pria lahir pada hari Kamis Wage dan seorang wanita lahir pada hari Sabtu Legi, maka perhitungan weton jodohnya adalah:
 
 *   Neptu pria: Kamis (8) + Wage (4) = 12
 *   Neptu wanita: Sabtu (9) + Legi (5) = 14
-*   Jumlah neptu pasangan: 12 + 14 = [26](https://acaranya.id/artikel/weton-jodoh-ketemu-26/)
+*   Jumlah neptu pasangan: 12 + 14 = [26](/artikel/weton-jodoh-ketemu-26/)
 
 Untuk mencapai jumlah neptu weton jodoh ketemu 21, Anda perlu mencari kombinasi hari dan pasaran yang menghasilkan jumlah neptu 21. Anda bisa bereksperimen dengan berbagai kombinasi hari dan pasaran hingga menemukan kombinasi yang tepat.
 

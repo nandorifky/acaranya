@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Weton Jodoh Ketemu 25 Apa Artinya? Penjelasan Primbon Jawa
 customBreadcrumbLabel: Weton Jodoh Ketemu 25 Apa Artinya? Penjelasan Primbon Jawa
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-25/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-25/'
 noindex: false
 ---
 Dalam budaya Jawa, weton merupakan sebuah konsep yang diyakini dapat memberikan gambaran tentang karakter seseorang dan kecocokannya dengan orang lain.
@@ -61,7 +61,7 @@ Jika pasangan dengan weton jodoh ketemu 25 memutuskan untuk melanjutkan hubungan
 | Jumat | 6 |  – |  – |
 | Sabtu | 9 |  – |  – |
 
-Anda dapat menggunakan kalkulator weton dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan. Anda bisa mengunjungi halaman [kalkulator hitung weton](https://acaranya.id/cek-weton/) untuk menghitung weton jodoh Anda.
+Anda dapat menggunakan kalkulator weton dari Acaranya.id untuk memudahkan menemukan weton masing-masing pasangan. Anda bisa mengunjungi halaman [kalkulator hitung weton](/cek-weton/) untuk menghitung weton jodoh Anda.
 
 Misalnya, anda lahir pada hari Minggu Kliwon dan pasangan Anda lahir pada hari Selasa Legi. Maka perhitungan weton jodohnya adalah sebagai berikut:
 
@@ -71,7 +71,7 @@ Misalnya, anda lahir pada hari Minggu Kliwon dan pasangan Anda lahir pada hari S
 *   Hari Selasa memiliki nilai neptu 3.
 *   Pasaran Legi memiliki nilai neptu 5.
 *   Total neptu untuk hari Selasa Legi adalah 3 + 5 = 8.
-*   Total neptu jodoh adalah 13 + 8 = [21](https://acaranya.id/artikel/weton-jodoh-ketemu-21/).
+*   Total neptu jodoh adalah 13 + 8 = [21](/artikel/weton-jodoh-ketemu-21/).
 
 Contoh lain, anda lahir pada hari Rabu Wage dan pasangan Anda lahir pada hari Sabtu Pon. Maka perhitungan weton jodohnya adalah sebagai berikut:
 

@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: Inilah Arti Weton Jodoh Ketemu 32 Menurut Primbon Jawa
 customBreadcrumbLabel: Inilah Arti Weton Jodoh Ketemu 32 Menurut Primbon Jawa
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-32/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-32/'
 noindex: false
 ---
-Dalam budaya Jawa, weton merupakan hari lahir seseorang yang diyakini memiliki pengaruh besar terhadap karakter dan peruntungannya. Salah satu aspek penting yang dipertimbangkan dalam menentukan [kecocokan pasangan](https://acaranya.id/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/) adalah weton jodoh. Dalam artikel ini, kita akan membahas secara detail tentang Weton Jodoh Ketemu 32, arti, cara menghitung, dan makna hasil hitungannya berdasarkan primbon Jawa.
+Dalam budaya Jawa, weton merupakan hari lahir seseorang yang diyakini memiliki pengaruh besar terhadap karakter dan peruntungannya. Salah satu aspek penting yang dipertimbangkan dalam menentukan [kecocokan pasangan](/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/) adalah weton jodoh. Dalam artikel ini, kita akan membahas secara detail tentang Weton Jodoh Ketemu 32, arti, cara menghitung, dan makna hasil hitungannya berdasarkan primbon Jawa.
 
 Perhitungan weton jodoh dalam budaya Jawa menggabungkan hari lahir dan pasaran Jawa, kemudian menghitung total neptu (nilai) dari keduanya. Total neptu ini kemudian digunakan untuk menafsirkan kecocokan pasangan berdasarkan ramalan primbon Jawa.
 
@@ -51,7 +51,7 @@ Jika Weton Jodoh Ketemu 32 menuju ke jenjang pernikahan, diramalkan hubungan mer
 | Jumat | 6 | – | – |
 | Sabtu | 9 | – | – |
 
-Untuk memudahkan Anda dalam menghitung weton masing-masing pasangan, Anda dapat menggunakan [kalkulator weton online](https://acaranya.id/cek-weton/) dari Acaranya.id.
+Untuk memudahkan Anda dalam menghitung weton masing-masing pasangan, Anda dapat menggunakan [kalkulator weton online](/cek-weton/) dari Acaranya.id.
 
 Misalnya, seorang pria lahir pada hari Minggu Kliwon. Total neptu hari lahirnya adalah 5 + 8 = 13. Kemudian, seorang wanita lahir pada hari Rabu Wage. Total neptu hari lahirnya adalah 7 + 4 = 11. Setelah itu, jumlahkan kedua neptu, yaitu 13 + 11 = 24. Hasil perhitungan menunjukkan bahwa Weton Jodoh Ketemu 32 bisa didapatkan dengan kombinasi weton lain. Sebagai contoh, jika pria lahir pada hari Minggu Kliwon (13 neptu) dan wanita lahir pada hari Kamis Legi (8 + 5 = 13 neptu) maka total neptu jodoh adalah 13 + 13 = 26.
 

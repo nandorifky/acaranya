@@ -21,7 +21,7 @@ status: published
 seoTitle: Inilah Waktu yang Tepat untuk Mengirim Undangan Pernikahan
 customBreadcrumbLabel: Inilah Waktu yang Tepat untuk Mengirim Undangan Pernikahan
 canonicalUrl: >-
-  https://acaranya.id/artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/
+  /artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/
 noindex: false
 ---
 Pernah merasa bingung kapan sebaiknya mengirim **undangan pernikahan**? Tentu saja, salah satu momen paling penting dalam merencanakan pernikahan adalah menentukan waktu pengiriman undangan
@@ -54,7 +54,7 @@ Jika sebagian besar **tamu tinggal di kota yang sama atau di daerah yang tidak j
 
 Untuk **tamu yang tinggal di luar kota, luar pulau, atau bahkan di luar negeri**, undangan perlu dikirim **1-2 bulan sebelumnya**. Ini memberi mereka waktu yang cukup untuk mengatur perjalanan, seperti memesan tiket transportasi, mengatur akomodasi, dan bahkan mungkin mengambil cuti kerja jika diperlukan. Selain itu, tamu dari luar negeri perlu memperhitungkan hal-hal tambahan seperti visa atau paspor, sehingga pemberian waktu yang lebih panjang sangat membantu.
 
-**_BACA JUGA:_** [_5 Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar_](https://acaranya.id/artikel/etika-penulisan-nama-tamu-undangan/)
+**_BACA JUGA:_** [_5 Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar_](/artikel/etika-penulisan-nama-tamu-undangan/)
 
 ## Apa yang Harus Dicantumkan dalam Undangan Pernikahan?
 

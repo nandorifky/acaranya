@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Kata-Kata Undangan Pernikahan
 customBreadcrumbLabel: Kata-Kata Undangan Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-pernikahan/'
+canonicalUrl: '/artikel/kata-kata-undangan-pernikahan/'
 noindex: false
 ---
 Jika kamu telah memilih gaya [undangan pernikahan](https://acaranya.id) yang kamu inginkan dan membaca dengan teliti artikel kami, maka inilah saatnya untuk memutuskan kata-kata undangan pernikahan kamu.

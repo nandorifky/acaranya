@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'
 customBreadcrumbLabel: '20 Ucapan Selamat Menikah untuk Mantan, Move on YA!'
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-selamat-menikah-untuk-mantan/'
+canonicalUrl: '/artikel/ucapan-selamat-menikah-untuk-mantan/'
 noindex: false
 ---
 Ketika mendengar kabar bahwa mantan akan menempuh hidup baru, muncul berbagai pertanyaan, Haruskah mengucapkan selamat? Apa yang harus dikatakan? Meski hubungan sudah berakhir, memberikan **ucapan pernikahan untuk mantan** adalah tanda kedewasaan dan ikhlas melepas masa lalu.
@@ -45,7 +45,7 @@ Tentu saja, tak ada salahnya mengirimkan doa terbaik.
 
 Menurut sebuah studi yang dilansir dari Psychology Today, mengirimkan ucapan pernikahan untuk mantan bisa membantu meredakan perasaan dendam dan membuka pintu untuk hubungan yang lebih sehat di masa depan.
 
-**BACA JUGA:** [40 Doa Istri Ucapan Anniversary Pernikahan Islami](https://acaranya.id/artikel/doa-istri-ucapan-anniversary-pernikahan/)
+**BACA JUGA:** [40 Doa Istri Ucapan Anniversary Pernikahan Islami](/artikel/doa-istri-ucapan-anniversary-pernikahan/)
 
 ## Ucapan Penuh Pengharapan
 
@@ -83,7 +83,7 @@ Untuk mantan yang memegang teguh nilai-nilai agama, ucapan dengan nuansa Islami 
 
 Dengan menyertakan doa sakinah, mawaddah, warahmah, ucapan ini mengandung harapan akan keberkahan dan kesejahteraan dalam pernikahan mereka.
 
-**BACA JUGA:** [Kumpulan Quotes Pernikahan Islami untuk Undangan Digital](https://acaranya.id/artikel/quotes-pernikahan-islami/)
+**BACA JUGA:** [Kumpulan Quotes Pernikahan Islami untuk Undangan Digital](/artikel/quotes-pernikahan-islami/)
 
 ## Ucapan dengan Kenangan Lama
 
@@ -103,7 +103,7 @@ Bagi yang bijak, nasihat selalu bisa memberikan dampak positif.
 
 Dilansir dari situs Relationship Science, komunikasi yang baik adalah faktor kunci dalam menjaga keharmonisan rumah tangga. Jadi, kata-kata selamat menikah ini juga bisa menjadi pengingat berharga.
 
-**BACA JUGA:** [33 Contoh Ucapan Selamat Menikah Kristen](https://acaranya.id/artikel/ucapan-selamat-menikah-kristen/)
+**BACA JUGA:** [33 Contoh Ucapan Selamat Menikah Kristen](/artikel/ucapan-selamat-menikah-kristen/)
 
 ## Ucapan dari Jauh untuk Mantan Kekasih
 

@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya
 customBreadcrumbLabel: Arti Weton Jodoh Ketemu 19 dan Cara Menghitungnya
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-19/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-19/'
 noindex: false
 ---
 Weton Jodoh Ketemu 19 dalam primbon Jawa merujuk pada total neptu (nilai) dari weton dua orang yang ingin menjalin hubungan asmara atau pernikahan. Pengetahuan tentang weton jodoh ini, khususnya Weton Jodoh Ketemu 19, telah lama diyakini sebagai petunjuk yang dapat membantu seseorang dalam memahami kemungkinan kecocokan atau ketidakcocokan dengan pasangannya.
@@ -41,7 +41,7 @@ Jika pasangan dengan Weton Jodoh Ketemu 19 memutuskan untuk melangkah ke jenjang
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk menghitung Weton Jodoh Ketemu 19, Anda dapat memanfaatkan tools [Kalkulator cek weton online dari Acaranya.id](https://acaranya.id/cek-weton/), yang dapat memudahkan Anda menemukan weton masing-masing pasangan. Cukup masukkan tanggal lahir dan pasaran Jawa, maka kalkulator ini akan menghitung total neptu Anda dan pasangan. Alternatif lain, Anda bisa menghitungnya secara manual dengan menggunakan tabel di bawah ini:
+Untuk menghitung Weton Jodoh Ketemu 19, Anda dapat memanfaatkan tools [Kalkulator cek weton online dari Acaranya.id](/cek-weton/), yang dapat memudahkan Anda menemukan weton masing-masing pasangan. Cukup masukkan tanggal lahir dan pasaran Jawa, maka kalkulator ini akan menghitung total neptu Anda dan pasangan. Alternatif lain, Anda bisa menghitungnya secara manual dengan menggunakan tabel di bawah ini:
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |

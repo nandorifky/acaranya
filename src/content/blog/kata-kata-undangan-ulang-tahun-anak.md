@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak
 customBreadcrumbLabel: 5 Contoh Kata-Kata Undangan Ulang Tahun Anak
-canonicalUrl: 'https://acaranya.id/artikel/kata-kata-undangan-ulang-tahun-anak/'
+canonicalUrl: '/artikel/kata-kata-undangan-ulang-tahun-anak/'
 noindex: false
 ---
 Merayakan hari ulang tahun anak adalah momen spesial yang tak terlupakan bagi setiap orang tua. Di era digital seperti sekarang, membuat undangan ulang tahun anak menjadi lebih mudah dan praktis. Kamu bisa mengirimkan undangan digital via WhatsApp dengan desain yang menarik dan kata-kata yang berkesan.
@@ -31,7 +31,7 @@ Pemilihan kata-kata dalam undangan ulang tahun anak perlu diperhatikan agar meng
 
 ![undangan ulang tahun anak digital](/images/blog/content/undangan-ulang-tahun-anak.webp)
 
-[PESAN UNDANGAN ULANG TAHUN ANAK DIGITAL](https://wa.me/6281234807480)
+[PESAN UNDANGAN ULANG TAHUN ANAK DIGITAL](https://wa.me/62895395094329)
 
 ## 1\. Contoh Undangan Ulang Tahun Anak 1 Tahun dalam Bahasa Indonesia
 
@@ -48,7 +48,7 @@ Undangan ulang tahun dalam bahasa Indonesia adalah pilihan klasik yang paling um
 > **Tempat:** Aula Masjid Al-Ikhlas Jl. Melati No. 123, Jakarta
 > 
 > Informasi Lengkap:  
-> (link undangan ulang tahun anak digital bisa pesan di **[Acaranya.id](https://wa.me/6281234807480)**)
+> (link undangan ulang tahun anak digital bisa pesan di **[Acaranya.id](https://wa.me/62895395094329)**)
 > 
 > Kehadiran Anda adalah kebahagian bagi kami Wassalamualaikum Wr. Wb.
 
@@ -101,7 +101,7 @@ Undangan dengan nuansa islami dapat memberikan kesan sakral sekaligus menggembir
 > **Tempat:** Kediaman Kami Jl. Mawar No. 45, Jakarta
 > 
 > **Informasi Selengkapnya:**  
-> (link undangan ulang tahun anak digital bisa pesan di **[Acaranya.id](https://wa.me/6281234807480)**)
+> (link undangan ulang tahun anak digital bisa pesan di **[Acaranya.id](https://wa.me/62895395094329)**)
 > 
 > Jazakumullah khairan katsiran Wassalamualaikum Wr. Wb.
 

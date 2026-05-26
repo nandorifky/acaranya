@@ -20,14 +20,14 @@ imageCaption: ''
 status: published
 seoTitle: Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya
 customBreadcrumbLabel: Daftar Persiapan Pernikahan dalam 6 Bulan Sebelumnya
-canonicalUrl: 'https://acaranya.id/artikel/persiapan-pernikahan-dalam-6-bulan-sebelumnya/'
+canonicalUrl: '/artikel/persiapan-pernikahan-dalam-6-bulan-sebelumnya/'
 noindex: false
 ---
 Menyiapkan pernikahan memang bukan perkara sepele. Banyak pasangan sering kali merasa kewalahan karena tidak tahu harus memulai dari mana. Terlebih jika waktu yang tersedia terbatas, misalnya hanya enam bulan sebelum hari-H.
 
 Tanpa perencanaan yang matang, risiko stres, anggaran membengkak, hingga detail penting yang terlupakan bisa terjadi. Maka dari itu, memahami persiapan pernikahan dalam 6 bulan sebelumnya adalah langkah penting agar semuanya berjalan lancar.
 
-Kabar baiknya, waktu enam bulan sebenarnya cukup ideal untuk mempersiapkan hari bahagiamu, asal kamu tahu langkah-langkahnya. Dengan membuat [wedding checklist](https://acaranya.id/artikel/wedding-checklist/) yang tepat dan mulai mencicil kebutuhan dari jauh hari, kamu bisa menikmati prosesnya tanpa tekanan berlebih.
+Kabar baiknya, waktu enam bulan sebenarnya cukup ideal untuk mempersiapkan hari bahagiamu, asal kamu tahu langkah-langkahnya. Dengan membuat [wedding checklist](/artikel/wedding-checklist/) yang tepat dan mulai mencicil kebutuhan dari jauh hari, kamu bisa menikmati prosesnya tanpa tekanan berlebih.
 
 Artikel ini akan membantumu menyusun tahapan persiapan secara sistematis dari H-6 bulan hingga mendekati hari pernikahan. Yuk, baca sampai habis agar tidak ada yang terlewat!
 
@@ -53,7 +53,7 @@ Pastikan kamu sudah melakukan survei dan membaca review vendor-vendor tersebut s
 
 Masuk bulan keempat, saatnya kamu mulai mencari baju pengantin. Proses ini bisa memakan waktu karena biasanya butuh fitting beberapa kali, apalagi jika kamu memilih untuk menjahit baju baru.
 
-Selain itu, jangan lupa untuk mulai mempersiapkan undangan. Di era digital, undangan digital bisa menjadi pilihan yang praktis dan elegan. Kamu bisa menghemat waktu dan biaya tanpa mengurangi kesan sakralnya. Nah, kamu bisa coba layanan [undangan digital](https://acaranya.id/) dari Acaranya ID yang bisa disesuaikan dengan tema pernikahanmu, lengkap dengan fitur RSVP online dan galeri foto.
+Selain itu, jangan lupa untuk mulai mempersiapkan undangan. Di era digital, undangan digital bisa menjadi pilihan yang praktis dan elegan. Kamu bisa menghemat waktu dan biaya tanpa mengurangi kesan sakralnya. Nah, kamu bisa coba layanan [undangan digital](/) dari Acaranya ID yang bisa disesuaikan dengan tema pernikahanmu, lengkap dengan fitur RSVP online dan galeri foto.
 
 ## H-3 Bulan: Susun Daftar Tamu dan Mulai Tes Rasa Katering
 
@@ -61,7 +61,7 @@ Tiga bulan menjelang hari H, kamu perlu mulai membuat daftar tamu undangan secar
 
 Selain itu, kamu juga sudah bisa melakukan food testing bersama vendor katering yang kamu pilih. Ini akan membantumu memastikan kualitas rasa dan porsi makanan. Jangan lupa cek opsi menu vegetarian atau khusus untuk tamu yang memiliki pantangan makanan.
 
-**BACA JUGA:** [List Persiapan Pernikahan tanpa WO](https://acaranya.id/artikel/list-persiapan-pernikahan-tanpa-wo/)
+**BACA JUGA:** [List Persiapan Pernikahan tanpa WO](/artikel/list-persiapan-pernikahan-tanpa-wo/)
 
 ## H-2 Bulan: Uji Coba Makeup dan Gladi Bersih
 
@@ -93,6 +93,6 @@ Kamu juga bisa melakukan perawatan tubuh ringan seperti spa atau facial agar ter
 
 * * *
 
-[Persiapan pernikahan](https://acaranya.id/artikel/persiapan-pernikahan/) dalam 6 bulan sebelumnya bisa kamu jalani dengan lancar asal disusun dengan perencanaan yang rapi. Dari penentuan konsep, pemesanan vendor, hingga detail kecil menjelang hari-H, semua bisa kamu cicil pelan-pelan.
+[Persiapan pernikahan](/artikel/persiapan-pernikahan/) dalam 6 bulan sebelumnya bisa kamu jalani dengan lancar asal disusun dengan perencanaan yang rapi. Dari penentuan konsep, pemesanan vendor, hingga detail kecil menjelang hari-H, semua bisa kamu cicil pelan-pelan.
 
 Jangan ragu untuk menggunakan _tools_ modern seperti undangan digital agar prosesmu makin efisien. Semoga perjalanan menuju hari bahagiamu berjalan lancar dan penuh kenangan indah!

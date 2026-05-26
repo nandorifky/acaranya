@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'
 customBreadcrumbLabel: 'Arti Save The Date: Pengertian, Fungsi, dan Cara Membuatnya'
-canonicalUrl: 'https://acaranya.id/artikel/save-the-date/'
+canonicalUrl: '/artikel/save-the-date/'
 noindex: false
 ---
 **_Save the Date_ artinya apasih?** secara harfiah, ini adalah istilah dalam bahasa Inggris yang berarti **“simpan tanggal”** atau kita bisa menyebutnya **“pemberitahuan tanggal”**. Dalam konteks perencanaan acara, terutama pernikahan, _save the date_ berfungsi sebagai pemberitahuan awal kepada tamu undangan untuk menandai tanggal acara di kalender mereka.
@@ -111,4 +111,4 @@ _Save the date_ adalah alat yang sangat berguna dalam perencanaan acara, terutam
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID menghadirkan **[undangan pernikahan online](https://acaranya.id/)** yang praktis, penuh gaya, dan ramah lingkungan untuk membantu momen spesialmu lebih berkesan.
+Acaranya ID menghadirkan **[undangan pernikahan online](/)** yang praktis, penuh gaya, dan ramah lingkungan untuk membantu momen spesialmu lebih berkesan.

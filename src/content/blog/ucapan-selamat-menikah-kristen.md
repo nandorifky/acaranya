@@ -20,10 +20,10 @@ imageCaption: ''
 status: published
 seoTitle: 33 Contoh Ucapan Selamat Menikah Kristen
 customBreadcrumbLabel: 33 Contoh Ucapan Selamat Menikah Kristen
-canonicalUrl: 'https://acaranya.id/artikel/ucapan-selamat-menikah-kristen/'
+canonicalUrl: '/artikel/ucapan-selamat-menikah-kristen/'
 noindex: false
 ---
-[Pernikahan](https://acaranya.id/artikel/undangan-pernikahan-tulis-tangan/), terutama yang diberkati dalam agama Kristen, adalah momen yang luar biasa dalam hidup. Bagaimana cara mengungkapkan ucapan selamat menikah kepada teman atau sahabat yang baru saja mengikat janji suci? Apakah ada ayat Alkitab yang cocok sebagai bagian dari ucapan? Mungkin juga perlu versi bahasa Inggris yang simple namun bermakna.
+[Pernikahan](/artikel/undangan-pernikahan-tulis-tangan/), terutama yang diberkati dalam agama Kristen, adalah momen yang luar biasa dalam hidup. Bagaimana cara mengungkapkan ucapan selamat menikah kepada teman atau sahabat yang baru saja mengikat janji suci? Apakah ada ayat Alkitab yang cocok sebagai bagian dari ucapan? Mungkin juga perlu versi bahasa Inggris yang simple namun bermakna.
 
 Artikel ini akan memberikan **33 contoh ucapan selamat menikah Kristen** yang bisa dipilih sesuai dengan kebutuhan. Tidak perlu bingung lagi saat mencari kata-kata yang tepat, karena artikel ini sudah merangkumnya dengan gaya yang santai dan mudah dipahami.
 
@@ -69,7 +69,7 @@ Kadang-kadang, ucapan yang simple justru lebih mengena. Berikut beberapa contoh 
 2.  “Happy wedding day! Tuhan memberkati.”
 3.  “Semoga perjalanan baru ini penuh dengan kebahagiaan dan cinta. Tuhan selalu bersama kalian.”
 
-**BACA JUGA:** [30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp](https://acaranya.id/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/)
+**BACA JUGA:** [30 Contoh Ucapan Balasan Undangan Pernikahan di WhatsApp](/artikel/ucapan-balasan-undangan-pernikahan-di-whatsapp/)
 
 ## 5\. Ucapan dalam Bahasa Inggris untuk Pernikahan Kristen
 

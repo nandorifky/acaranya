@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: 5 Contoh Undangan Ngunduh Mantu dan Cara Membuatnya
 customBreadcrumbLabel: 5 Contoh Undangan Ngunduh Mantu dan Cara Membuatnya
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-ngunduh-mantu/'
+canonicalUrl: '/artikel/contoh-undangan-ngunduh-mantu/'
 noindex: false
 ---
 Ngunduh Mantu adalah tradisi yang tetap hidup dan dijalankan oleh sebagian besar masyarakat Jawa dan Sunda. Tradisi ini adalah rangkaian lanjutan setelah pesta pernikahan, di mana mempelai wanita dan keluarganya mengunjungi rumah mempelai laki-laki.
@@ -61,7 +61,7 @@ Rangkaian prosesi Ngunduh Mantu biasanya melibatkan beberapa tahapan yang sarat 
 
 Berikut beberapa contoh undangan yang dapat kamu gunakan sebagai referensi dalam menyusun undangan Ngunduh Mantu, dengan ajakan yang sopan dan menyentuh hati para tamu:
 
-**BACA JUGA:** [Contoh Undangan Pernikahan Desain Simple Hingga Mewah](https://acaranya.id/artikel/contoh-undangan-pernikahan/)
+**BACA JUGA:** [Contoh Undangan Pernikahan Desain Simple Hingga Mewah](/artikel/contoh-undangan-pernikahan/)
 
 ### **Contoh 1: Undangan Formal dan Terperinci**
 
@@ -168,7 +168,7 @@ Berikut beberapa contoh undangan yang dapat kamu gunakan sebagai referensi dalam
 > Hormat Kami,  
 > Bapak (Masukkan nama keluarga mempelai laki-laki) dan keluarga  
 
-**_BACA JUGA:_** [_6 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan_](https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-jawa/)
+**_BACA JUGA:_** [_6 Contoh Undangan Pernikahan Bahasa Jawa Halus dan Sopan_](/artikel/contoh-undangan-pernikahan-bahasa-jawa/)
 
 ### **Contoh 4: Undangan Umum untuk Acara Ngunduh Mantu**
 
@@ -236,7 +236,7 @@ Berikut beberapa contoh undangan yang dapat kamu gunakan sebagai referensi dalam
 > Hormat kami,  
 > (Nama keluarga mempelai laki-laki)
 
-**BACA JUGA:** [Contoh Undangan Pernikahan Islami](https://acaranya.id/artikel/contoh-undangan-pernikahan-islami/)
+**BACA JUGA:** [Contoh Undangan Pernikahan Islami](/artikel/contoh-undangan-pernikahan-islami/)
 
 ## Buat Undangan Ngunduh Mantu Digital dengan Acaranya.id
 
@@ -252,7 +252,7 @@ Berikut beberapa contoh undangan yang dapat kamu gunakan sebagai referensi dalam
 
 [Preview](https://inv.acaranya.id/preview/feminime-javanese)
 
-[+Desain Lengkap](https://acaranya.id/desain-undangan-digital/)
+[+Desain Lengkap](/desain-undangan-digital/)
 
 Undangan digital semakin menjadi pilihan utama karena kemudahannya dalam mengundang keluarga dan teman-teman ke acara Ngunduh Mantu.
 
@@ -268,7 +268,7 @@ Acaranya.id menjadi solusi buat kamu yang ingin memiliki undangan pernikahan dig
 
 [Selengkapnya](https://acaranya.id)
 
-[Hubungi Kami](https://wa.me/6281234807480)
+[Hubungi Kami](https://wa.me/62895395094329)
 
 ## Cara Membuat Undangan Ngunduh Mantu
 

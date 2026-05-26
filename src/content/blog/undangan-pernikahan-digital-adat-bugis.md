@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Tema Undangan Pernikahan Digital Adat Bugis
 customBreadcrumbLabel: Tema Undangan Pernikahan Digital Adat Bugis
-canonicalUrl: 'https://acaranya.id/artikel/undangan-pernikahan-digital-adat-bugis/'
+canonicalUrl: '/artikel/undangan-pernikahan-digital-adat-bugis/'
 noindex: false
 ---
 Pernikahan adalah momen sakral yang tidak akan terlupakan dalam hidup. Mempersiapkan segala sesuatunya dengan sempurna menjadi prioritas, termasuk undangan pernikahan. Kini, tren [undangan pernikahan online](https://acaranya.id) semakin populer, terutama dengan tema adat yang menggambarkan budaya dan tradisi keluarga.
@@ -58,7 +58,7 @@ Tampilan undangan ini juga dihiasi dengan aksen bunga yang memberikan kesan angg
 
 [Preview](https://inv.acaranya.id/preview/bugis-maroon)
 
-[Pesan Undangan](https://wa.me/6281234807480)
+[Pesan Undangan](https://wa.me/62895395094329)
 
 ### 2\. Tema **Bugis Culture**
 
@@ -70,7 +70,7 @@ Tema ini menyajikan desain yang penuh dengan simbol-simbol budaya Bugis, seperti
 
 [Preview](https://inv.acaranya.id/preview/bugis-culture)
 
-[Pesan Undangan](https://wa.me/6281234807480)
+[Pesan Undangan](https://wa.me/62895395094329)
 
 ### 3\. Tema **Simple Bugis**
 
@@ -82,7 +82,7 @@ Undangan ini menonjolkan kesan klasik yang anggun, sempurna bagi Kamu yang menyu
 
 [Preview](https://inv.acaranya.id/preview/simple-bugis)
 
-[Pesan Undangan](https://wa.me/6281234807480)
+[Pesan Undangan](https://wa.me/62895395094329)
 
 ### 4\. Tema **Bugis Minang**
 
@@ -94,7 +94,7 @@ Kamu bisa memilih tema ini jika pernikahanmu merupakan perpaduan dua adat dari k
 
 [Preview](https://inv.acaranya.id/preview/bugis-minang)
 
-[Pesan Undangan](https://wa.me/6281234807480)
+[Pesan Undangan](https://wa.me/62895395094329)
 
 ### 5\. Tema **Adat Bugis (Varian 1)**
 
@@ -106,7 +106,7 @@ Dengan tema ini, undangan pernikahanmu akan tampak elegan dan bersahaja.
 
 [Preview](https://inv.acaranya.id/preview/adat-bugis-flat)
 
-[Pesan Undangan](https://wa.me/6281234807480)
+[Pesan Undangan](https://wa.me/62895395094329)
 
 ### 6\. Tema **Adat Bugis (Varian 2)**
 
@@ -118,9 +118,9 @@ Sentuhan warna gold dan cokelat memberikan kesan elegan, ideal untuk acara perni
 
 [Preview](https://inv.acaranya.id/preview/adat-bugis)
 
-[Pesan Undangan](https://wa.me/6281234807480)
+[Pesan Undangan](https://wa.me/62895395094329)
 
-\*Selain adat bugis, kamu bisa cek tema undangan lainnya seperti [**tema adat jawa**](https://acaranya.id/artikel/undangan-pernikahan-digital-adat-jawa/), dan [**undangan digital tanpa foto**](https://acaranya.id/artikel/undangan-digital-tanpa-foto/).
+\*Selain adat bugis, kamu bisa cek tema undangan lainnya seperti [**tema adat jawa**](/artikel/undangan-pernikahan-digital-adat-jawa/), dan [**undangan digital tanpa foto**](/artikel/undangan-digital-tanpa-foto/).
 
 ## Tips Memilih Tema Undangan Pernikahan Digital Adat Bugis
 

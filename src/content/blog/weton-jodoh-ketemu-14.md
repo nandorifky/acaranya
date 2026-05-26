@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Weton Jodoh Ketemu 14 Apa Artinya?
 customBreadcrumbLabel: Weton Jodoh Ketemu 14 Apa Artinya?
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-14/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-14/'
 noindex: false
 ---
 Weton jodoh merupakan salah satu konsep dalam budaya Jawa yang digunakan untuk menafsirkan kecocokan pasangan berdasarkan hari lahir mereka. Perhitungan weton jodoh dilakukan dengan menjumlahkan neptu dari hari lahir dan pasaran masing-masing pasangan.
@@ -43,7 +43,7 @@ Jika pasangan memutuskan untuk melanjutkan ke jenjang pernikahan dengan Weton Jo
 
 ## Cara Menghitung Weton Jodoh
 
-Untuk menghitung weton jodoh, kamu bisa menggunakan [kalkulator weton online](https://acaranya.id/cek-weton/) yang tersedia di Acaranya.id. Atau atau bisa menghitungnya secara manual dengan menggunakan tabel di bawah ini:
+Untuk menghitung weton jodoh, kamu bisa menggunakan [kalkulator weton online](/cek-weton/) yang tersedia di Acaranya.id. Atau atau bisa menghitungnya secara manual dengan menggunakan tabel di bawah ini:
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |

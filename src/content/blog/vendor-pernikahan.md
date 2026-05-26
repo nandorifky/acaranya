@@ -20,12 +20,12 @@ imageCaption: ''
 status: published
 seoTitle: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H
 customBreadcrumbLabel: 9 Vendor Pernikahan yang Perlu Dipersiapkan Sebelum Hari H
-canonicalUrl: 'https://acaranya.id/artikel/vendor-pernikahan/'
+canonicalUrl: '/artikel/vendor-pernikahan/'
 noindex: false
 ---
 Merencanakan pernikahan memang momen yang penuh antusiasme, namun juga bisa terasa menantang jika dilakukan tanpa bantuan profesional seperti _wedding organizer_. Bagi kamu yang memutuskan untuk mengatur semuanya sendiri, penting sekali untuk mengetahui daftar vendor yang wajib dipersiapkan agar pernikahan berjalan lancar dan sesuai impian.
 
-Menyusun vendor pernikahan tak bisa sembarangan, apalagi jika dilakukan mendadak. Tanpa [persiapan pernikahan yang matang](https://acaranya.id/artikel/persiapan-pernikahan/), kamu bisa kewalahan dan hasilnya jauh dari harapan. Maka dari itu, pastikan kamu merencanakan segala sesuatunya sejak jauh-jauh hari.
+Menyusun vendor pernikahan tak bisa sembarangan, apalagi jika dilakukan mendadak. Tanpa [persiapan pernikahan yang matang](/artikel/persiapan-pernikahan/), kamu bisa kewalahan dan hasilnya jauh dari harapan. Maka dari itu, pastikan kamu merencanakan segala sesuatunya sejak jauh-jauh hari.
 
 Berikut daftar vendor yang umumnya dibutuhkan untuk pernikahan dan tips bagaimana berkomunikasi dengan mereka agar semuanya berjalan sempurna.
 
@@ -45,7 +45,7 @@ Merencanakan pernikahan sendiri memang bisa jadi pengalaman berharga, namun jika
 
 Biasanya, WO juga memiliki tim yang terjun langsung di hari H untuk memastikan semuanya berjalan sesuai rencana. Mereka berperan penting dalam mengoordinasikan vendor lain, menjaga timeline acara, hingga memastikan venue tetap kondusif.
 
-### 2\. [Venue Pernikahan](https://acaranya.id/artikel/tips-memilih-venue-pernikahan/)
+### 2\. [Venue Pernikahan](/artikel/tips-memilih-venue-pernikahan/)
 
 Pemilihan venue adalah salah satu hal pertama yang harus kamu tentukan. Venue tidak hanya berfungsi sebagai tempat acara, tapi juga memengaruhi konsep dan suasana pernikahan kamu . Pilihlah venue yang mudah diakses oleh keluarga dan tamu undangan, sesuai dengan tema pernikahan, serta kapasitas tamu yang diundang.
 

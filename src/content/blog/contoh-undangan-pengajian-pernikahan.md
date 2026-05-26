@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: Cara Membuat dan Contoh Undangan Pengajian Pernikahan
 customBreadcrumbLabel: Cara Membuat dan Contoh Undangan Pengajian Pernikahan
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pengajian-pernikahan/'
+canonicalUrl: '/artikel/contoh-undangan-pengajian-pernikahan/'
 noindex: false
 ---
 Sudah mendekati hari besar dan masih bingung bagaimana cara membuat undangan pengajian pernikahan yang benar?
@@ -84,11 +84,11 @@ Tidak sedikit yang memilih untuk membuat undangan dengan Microsoft **Word** kare
 
 Mengirim undangan **lewat WhatsApp (WA)** kini semakin populer karena lebih praktis dan hemat waktu. Tapi, agar tetap sopan dan terstruktur, berikut ini beberapa tips yang bisa diikuti:
 
-1.  **Buat Desain Digital**: Sebelum mengirim undangan, [buat desain digital](https://acaranya.id/artikel/cara-membuat-undangan-digital/) yang bisa diunduh melalui berbagai aplikasi desain sederhana seperti Canva atau bahkan Microsoft Word. Simpan dalam format gambar (JPG atau PNG).
+1.  **Buat Desain Digital**: Sebelum mengirim undangan, [buat desain digital](/artikel/cara-membuat-undangan-digital/) yang bisa diunduh melalui berbagai aplikasi desain sederhana seperti Canva atau bahkan Microsoft Word. Simpan dalam format gambar (JPG atau PNG).
 2.  **Susun Pesan WA**: Jangan asal kirim. Susun pesan dengan baik, mulai dari salam pembuka, informasi acara, hingga ucapan terima kasih. Lampirkan gambar undangan yang sudah dibuat.
 3.  **Kirim Secara Bertahap**: Jika tamu yang diundang cukup banyak, kirimkan pesan secara bertahap agar tidak dianggap spam oleh WhatsApp.
 
-**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](https://acaranya.id/artikel/kata-kata-undangan-lewat-wa/)
+**BACA JUGA:** [Kata-Kata Undangan Lewat WA Tanpa Mengurangi Rasa Hormat](/artikel/kata-kata-undangan-lewat-wa/)
 
 ## Keuntungan Menggunakan WhatsApp (WA) untuk Mengirim Undangan
 

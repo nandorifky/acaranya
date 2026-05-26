@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Weton Jodoh Ketemu 16 Apa Artinya?
 customBreadcrumbLabel: Weton Jodoh Ketemu 16 Apa Artinya?
-canonicalUrl: 'https://acaranya.id/artikel/weton-jodoh-ketemu-16/'
+canonicalUrl: '/artikel/weton-jodoh-ketemu-16/'
 noindex: false
 ---
 Dalam budaya Jawa, weton merupakan salah satu aspek penting yang diyakini dapat menggambarkan karakter, nasib, dan kecocokan seseorang, termasuk dalam hal perjodohan. Salah satu perhitungan weton yang menarik perhatian adalah weton jodoh ketemu 16. Artikel ini akan membahas makna dan perhitungan weton jodoh ketemu 16, serta memberikan pemahaman mendalam tentang konsep ini.
@@ -41,7 +41,7 @@ Ketika pasangan dengan weton jodoh ketemu 16 menuju ke jenjang pernikahan, dihar
 
 ## Cara Menghitung Weton Jodoh
 
-Kamu bisa menggunakan tools [kalkulator cek weton online](https://acaranya.id/cek-weton/) dari Acaranya.id untuk memudahkan kamu dalam menemukan weton masing-masing pasangan. Cek weton online ini akan membantu kamu dalam menghitung weton dan menemukan jumlah neptu dengan mudah dan cepat.
+Kamu bisa menggunakan tools [kalkulator cek weton online](/cek-weton/) dari Acaranya.id untuk memudahkan kamu dalam menemukan weton masing-masing pasangan. Cek weton online ini akan membantu kamu dalam menghitung weton dan menemukan jumlah neptu dengan mudah dan cepat.
 
 | Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
 | --- | --- | --- | --- |

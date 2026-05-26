@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Undangan Pernikahan Bahasa Inggris
 customBreadcrumbLabel: Contoh Undangan Pernikahan Bahasa Inggris
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-inggris/'
+canonicalUrl: '/artikel/contoh-undangan-pernikahan-bahasa-inggris/'
 noindex: false
 ---
 Sepertinya, kini banyak yang mencari **contoh undangan pernikahan bahasa inggris** untuk membuatnya lebih menarik. Untuk itu, kamu akan menemukannya dalam artikel ini.
@@ -32,7 +32,7 @@ Undangan pernikahan menjadi hal penting untuk sebuah acara resepsi. Tentu, resep
 
 Disamping itu, undangan pernikahan juga memiliki tampilan yang berbeda jika dibandingkan dengan undangan untuk acara lainnya. Yang mana, dibuat agar memiliki tampilan yang lebih menarik.
 
-Dengan menggunakan [kata-kata bahasa Inggris dalam undangan pernikahan](http://\"https://acaranya.id/artikel/contoh-undangan-pernikahan-bahasa-inggris/), kamu juga akan membuatnya lebih kekinian dan terlihat profesional.
+Dengan menggunakan [kata-kata bahasa Inggris dalam undangan pernikahan](http://\"/artikel/contoh-undangan-pernikahan-bahasa-inggris/), kamu juga akan membuatnya lebih kekinian dan terlihat profesional.
 
 ## Contoh Undangan Pernikahan Bahasa Inggris dan Artinya
 
@@ -206,4 +206,4 @@ Berikut ini Acaranya beberapa contoh kata-kata dan penggunaan undangan pernikaha
 
 * * *
 
-Itulah 5 [contoh undangan pernikahan](https://acaranya.id/artikel/contoh-undangan-pernikahan/) yang dibuat dalam bahasa Inggris lengkap beserta artinya. Apa kamu tertarik untuk menggunakan undangan dengan bahasa asing?
+Itulah 5 [contoh undangan pernikahan](/artikel/contoh-undangan-pernikahan/) yang dibuat dalam bahasa Inggris lengkap beserta artinya. Apa kamu tertarik untuk menggunakan undangan dengan bahasa asing?

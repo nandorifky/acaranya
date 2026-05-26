@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: Inilah Makna Roti Buaya dalam Budaya Pernikahan Adat Betawi
 customBreadcrumbLabel: Inilah Makna Roti Buaya dalam Budaya Pernikahan Adat Betawi
-canonicalUrl: 'https://acaranya.id/artikel/makna-roti-buaya-pernikahan-adat-betawi/'
+canonicalUrl: '/artikel/makna-roti-buaya-pernikahan-adat-betawi/'
 noindex: false
 ---
 Pernah dengar istilah roti buaya saat membahas adat pernikahan Betawi? Bagi banyak orang, terutama yang masih asing dengan budaya Betawi, roti buaya mungkin terdengar unik dan menarik perhatian.
@@ -69,7 +69,7 @@ Sirih yang diberikan biasanya sudah diatur sedemikian rupa dengan daun-daun siri
 
 Selain itu, sirih juga memiliki arti bahwa kedua mempelai harus selalu menjaga hubungan baik dengan keluarga besar masing-masing.
 
-**BACA SELENGKAPNYA:** [_Isi Seserahan Pernikahan Adat Betawi_](https://acaranya.id/artikel/seserahan-pernikahan-adat-betawi/)
+**BACA SELENGKAPNYA:** [_Isi Seserahan Pernikahan Adat Betawi_](/artikel/seserahan-pernikahan-adat-betawi/)
 
 #### 2\. Pisang Raja
 
@@ -91,7 +91,7 @@ Batik yang digunakan biasanya memiliki motif yang sarat akan makna filosofi kehi
 
 #### 5\. Perhiasan
 
-Perhiasan juga merupakan [seserahan](https://acaranya.id/artikel/seserahan-pernikahan/) yang umum ditemukan dalam pernikahan adat Betawi. Perhiasan melambangkan keindahan dan kemakmuran. Emas atau perhiasan lainnya yang diberikan kepada mempelai wanita menjadi simbol harapan agar kehidupan rumah tangga mereka selalu sejahtera dan berkecukupan.
+Perhiasan juga merupakan [seserahan](/artikel/seserahan-pernikahan/) yang umum ditemukan dalam pernikahan adat Betawi. Perhiasan melambangkan keindahan dan kemakmuran. Emas atau perhiasan lainnya yang diberikan kepada mempelai wanita menjadi simbol harapan agar kehidupan rumah tangga mereka selalu sejahtera dan berkecukupan.
 
 Biasanya, jenis perhiasan yang diberikan adalah kalung, cincin, atau gelang, yang semuanya melambangkan cinta yang abadi. Selain itu, perhiasan juga menjadi bentuk penghargaan dari mempelai pria kepada mempelai wanita, sebagai bentuk cinta dan kasih sayang.
 

@@ -23,7 +23,7 @@ imageCaption: ''
 status: published
 seoTitle: Contoh Undangan Bukber via WA
 customBreadcrumbLabel: Contoh Undangan Bukber via WA
-canonicalUrl: 'https://acaranya.id/artikel/contoh-undangan-bukber-via-wa/'
+canonicalUrl: '/artikel/contoh-undangan-bukber-via-wa/'
 noindex: false
 ---
 Pada bulan Ramadhan, buka puasa bersama atau yang sering disebut dengan bukber, menjadi salah satu kegiatan yang dinanti-nanti. Namun, persiapan acara ini terkadang memerlukan waktu dan tenaga ekstra, terutama dalam menyusun dan mengirimkan undangan. Oleh karena itu, penggunaan media sosial seperti WhatsApp (WA) menjadi pilihan yang efektif dan efisien.
@@ -58,7 +58,7 @@ Sementara untuk acara yang bersifat informal, teks biasa dengan beberapa emoji a
 
 ![Contoh Undangan Bukber via WA 4](/images/blog/content/image-54.png)
 
-Dalam membuat [**undangan bukber online**](https://acaranya.id/artikel/undangan-bukber-online/), salah satu tips yang perlu diperhatikan adalah memastikan bahwa undangan tersebut bisa diakses melalui berbagai perangkat.
+Dalam membuat [**undangan bukber online**](/artikel/undangan-bukber-online/), salah satu tips yang perlu diperhatikan adalah memastikan bahwa undangan tersebut bisa diakses melalui berbagai perangkat.
 
 Gunakan format gambar yang kompatibel dengan sebagian besar smartphone dan jangan lupa mencantumkan tautan atau QR code jika ada informasi tambahan yang ingin disampaikan.
 
@@ -66,7 +66,7 @@ Gunakan format gambar yang kompatibel dengan sebagian besar smartphone dan janga
 > 
 > Yuk hubungi kami untuk informasi lebih lengkapnya!
 > 
-> [Hubungi Kami](https://wa.me/6281234807480/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)
+> [Hubungi Kami](https://wa.me/62895395094329/?text=Halo%20Acaranya.id%2C%20saya%20ingin%20pesan%20undangan%20bukber%20online.)
 > 
 > Bebas custom dengan revisi sepuasnya!
 
@@ -122,6 +122,6 @@ Berikut adalah contoh kata-kata teks undangan bukber yang bisa digunakan untuk m
 
 * * *
 
-Demikianlah pembahasan mengenai contoh undangan bukber via WA beserta [cara membuatnya](https://acaranya.id/artikel/cara-membuat-undangan-digital/) dan manfaatnya. Semoga informasi ini dapat membantu dan memudahkan kamu dalam menyelenggarakan acara bukber yang meriah dan berkesan.
+Demikianlah pembahasan mengenai contoh undangan bukber via WA beserta [cara membuatnya](/artikel/cara-membuat-undangan-digital/) dan manfaatnya. Semoga informasi ini dapat membantu dan memudahkan kamu dalam menyelenggarakan acara bukber yang meriah dan berkesan.
 
 Selamat menyambut bulan suci Ramadhan, semoga kita selalu diberikan kesempatan untuk menjalankan ibadah puasa dengan baik dan khusyuk.

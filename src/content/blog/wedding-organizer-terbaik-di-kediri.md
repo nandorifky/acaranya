@@ -20,7 +20,7 @@ imageCaption: ''
 status: published
 seoTitle: 5 Wedding Organizer Terbaik di Kediri
 customBreadcrumbLabel: 5 Wedding Organizer Terbaik di Kediri
-canonicalUrl: 'https://acaranya.id/artikel/wedding-organizer-terbaik-di-kediri/'
+canonicalUrl: '/artikel/wedding-organizer-terbaik-di-kediri/'
 noindex: false
 ---
 Merencanakan pernikahan bukanlah hal yang mudah. Kamu perlu memperhatikan banyak detail, mulai dari dekorasi, katering, dokumentasi, hingga hal-hal kecil lainnya yang bisa membuat kepala pusing. Nah, di sinilah peran wedding organizer menjadi sangat penting untuk mewujudkan pernikahan impianmu.

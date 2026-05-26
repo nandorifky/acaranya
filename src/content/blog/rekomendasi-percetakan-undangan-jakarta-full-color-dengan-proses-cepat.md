@@ -22,7 +22,7 @@ status: published
 seoTitle: Rekomendasi Percetakan Undangan Jakarta Full Color dengan Proses Cepat
 customBreadcrumbLabel: Rekomendasi Percetakan Undangan Jakarta Full Color dengan Proses Cepat
 canonicalUrl: >-
-  https://acaranya.id/artikel/rekomendasi-percetakan-undangan-jakarta-full-color-dengan-proses-cepat/
+  /artikel/rekomendasi-percetakan-undangan-jakarta-full-color-dengan-proses-cepat/
 noindex: false
 ---
 Undangan masih menjadi bagian penting dalam sebuah acara, baik untuk pernikahan, ulang tahun, gathering perusahaan, seminar, maupun acara keluarga. Meski undangan digital semakin populer, undangan cetak tetap punya nilai tersendiri karena memberi kesan lebih personal, rapi, dan berkelas sejak pertama kali diterima tamu.
@@ -91,7 +91,7 @@ Pilihan ini cocok untuk orang yang ingin survei langsung dan membandingkan model
 
 ### Vendor Undangan Khusus
 
-Vendor undangan khusus biasanya unggul dalam desain, pilihan template, dan paket [undangan pernikahan](https://acaranya.id/artikel/motif-undangan-pernikahan/). Jenis ini cocok untuk konsumen yang ingin hasil undangan lebih personal dan tidak ingin banyak mengurus detail teknis.
+Vendor undangan khusus biasanya unggul dalam desain, pilihan template, dan paket [undangan pernikahan](/artikel/motif-undangan-pernikahan/). Jenis ini cocok untuk konsumen yang ingin hasil undangan lebih personal dan tidak ingin banyak mengurus detail teknis.
 
 Namun, untuk kebutuhan yang sangat cepat, konsumen tetap perlu memastikan jadwal produksi. Beberapa desain premium membutuhkan waktu lebih lama karena melibatkan finishing khusus, amplop, label nama, atau perakitan manual.
 
