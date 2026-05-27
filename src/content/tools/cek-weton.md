@@ -5,7 +5,7 @@ icon: ''
 toolComponent: CekWeton
 publishedAt: 2026-05-24
 status: published
-seoTitle: Cek Weton Online - Primbon Hari Lahir & Jodoh Jawa | Acaranya.id
+seoTitle: Cek Weton Online / Kalkulator Hitung Weton Primbon Jawa & Kesesuaian Jodoh
 canonicalUrl: https://acaranya.id/cek-weton/
 noindex: false
 schemaSoftwareName: 'Kalkulator Cek Weton Online Acaranya.id'
