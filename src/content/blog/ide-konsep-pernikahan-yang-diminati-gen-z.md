@@ -1,8 +1,8 @@
 ---
 title: 11 Ide Konsep Pernikahan yang Banyak Diminati Gen Z
 description: Temukan 11 ide konsep pernikahan yang banyak diminati Gen Z, lengkap dengan metode riset, alasan tren, dan peluangnya untuk wedding organizer.
-publishedAt: 2026-05-26T07:05:00
-updatedAt: 2026-05-26T07:05:00
+publishedAt: 2026-05-27T15:25:00
+updatedAt: 2026-05-27T15:25:00
 author: indira
 category: Perencanaan
 tags:
@@ -10,13 +10,13 @@ tags:
   - news
   - data
   - konsep pernikahan
-image: ''
-imageAlt: ''
-imageTitle: ''
+image: /images/blog/featured/1000125275.webp
+imageAlt: Konsep pernikahan gen Z
+imageTitle: Konsep Pernikahan Gen Z
 imageCaption: ''
 status: draft
 seoTitle: ''
-customBreadcrumbLabel: ''
+customBreadcrumbLabel: Konsep Pernikahan Gen Z
 canonicalUrl: ''
 noindex: false
 ---
@@ -87,7 +87,7 @@ Minimalis bukan berarti kosong. Bagi Gen Z, minimalis sering berarti bersih, ele
 
 Ciri konsep modern minimalist biasanya terlihat dari warna monokrom, typography tegas, dekorasi clean, meja tamu sederhana, dan elemen visual yang tidak berlebihan.
 
-Konsep ini juga cocok dipadukan dengan [desain undangan digital](https://chatgpt.com/desain/) yang simple dan elegan. Saat visual undangan, dekorasi, dan dress code saling menyatu, pengalaman acara terasa lebih premium.
+Konsep ini juga cocok dipadukan dengan [desain undangan digital](https://acaranya.id/desain-undangan-digital/) yang simple dan elegan. Saat visual undangan, dekorasi, dan dress code saling menyatu, pengalaman acara terasa lebih premium.
 
 Peluang untuk wedding organizer:
 
@@ -231,60 +231,7 @@ Contohnya:
 
 Dari sisi penawaran, undangan digital bisa masuk sebagai bonus eksklusif, add-on berbayar, atau bagian dari paket utama. Ini membuat paket WO terlihat lebih lengkap tanpa menambah beban operasional yang terlalu berat.
 
-Jika ingin menawarkan undangan digital sebagai layanan tambahan, halaman [reseller undangan digital](https://chatgpt.com/reseller-undangan-digital/) bisa menjadi pintu masuk untuk kerja sama partner. Program ini cocok untuk WO, venue, hotel, fotografer, katering, dan vendor acara yang ingin menambah nilai paket tanpa perlu membuat sistem undangan sendiri.
-
-## Rekomendasi Keyword Semantik Untuk Artikel Ini
-
-Keyword tidak perlu dipaksakan berulang. Sebarkan secara natural sesuai konteks pembahasan.
-
-Cluster keyword utama:
-
-- ide konsep pernikahan
-- konsep pernikahan Gen Z
-- tren pernikahan Gen Z
-- tema pernikahan modern
-- konsep wedding kekinian
-
-Cluster konsep acara:
-
-- intimate wedding
-- garden wedding
-- rustic wedding
-- modern minimalist wedding
-- adat modern
-- sustainable wedding
-- content-friendly wedding
-- storytelling wedding
-
-Cluster kebutuhan vendor:
-
-- wedding organizer
-- paket wedding organizer
-- vendor pernikahan
-- partner wedding
-- reseller undangan digital
-- undangan digital untuk WO
-- kerja sama undangan digital
-
-Cluster fitur digital:
-
-- undangan digital pernikahan
-- website undangan pernikahan
-- RSVP online
-- peta lokasi digital
-- custom nama tamu
-- amplop digital
-- QR check-in tamu
-
-## Internal Link yang Disarankan
-
-Gunakan internal link secara natural dan tidak berlebihan.
-
-- [Reseller undangan digital](https://chatgpt.com/reseller-undangan-digital/) untuk CTA utama ke target WO dan vendor.
-- [Desain undangan digital](https://chatgpt.com/desain/) untuk pembaca yang ingin melihat contoh visual.
-- [Harga undangan digital](https://chatgpt.com/harga/) jika artikel ingin memberi konteks paket dan opsi biaya.
-- [Fitur undangan digital](https://chatgpt.com/fitur/) untuk menjelaskan RSVP, maps, galeri, dan fitur pendukung acara.
-- [Undangan pernikahan digital adat Jawa](https://chatgpt.com/artikel/undangan-pernikahan-digital-adat-jawa/) untuk bagian adat modern.
+Jika ingin menawarkan undangan digital sebagai layanan tambahan, program [reseller undangan digital](https://acaranya.id/reseller-undangan-digital/) dari Acaranya.id bisa menjadi pintu masuk untuk kerja sama partner. Program ini cocok untuk WO, venue, hotel, fotografer, katering, dan vendor acara yang ingin menambah nilai paket tanpa perlu membuat sistem undangan sendiri.
 
 ## Rekomendasi Deskripsi Gambar dan Peletakannya
 
