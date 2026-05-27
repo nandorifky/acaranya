@@ -14,7 +14,7 @@ image: /images/blog/featured/1000125275.webp
 imageAlt: Konsep pernikahan gen Z
 imageTitle: Konsep Pernikahan Gen Z
 imageCaption: ''
-status: draft
+status: published
 seoTitle: ''
 customBreadcrumbLabel: Konsep Pernikahan Gen Z
 canonicalUrl: ''
