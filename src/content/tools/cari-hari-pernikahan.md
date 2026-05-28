@@ -1,14 +1,14 @@
 ---
 title: 'Cari Hari & Tanggal Pernikahan Terbaik: Kalkulator Hari Baik Pernikahan'
 description: Gunakan kalkulator cari hari baik pernikahan online berdasarkan weton Jawa, neptu, pasaran, bulan Jawa, dan tanggal cantik untuk menemukan rekomendasi tanggal nikah terbaik.
-icon: ''
+icon: calendar-plus
 toolComponent: CariHariPernikahan
 publishedAt: 2026-05-28
 status: published
 seoTitle: Cari Hari Baik Pernikahan & Tanggal Nikah Terbaik Berdasarkan Weton Jawa
 canonicalUrl: https://acaranya.id/cari-hari-pernikahan/
 noindex: false
-schemaSoftwareName: 'Kalkulator Cari Hari Pernikahan Acaranya.id'
+schemaSoftwareName: Kalkulator Cari Hari Pernikahan Acaranya.id
 schemaOperatingSystem: All
 schemaApplicationCategory: WebApplication
 schemaOffersPrice: '0'
@@ -19,9 +19,9 @@ schemaRatingCount: 1450
 
 Memilih hari pernikahan adalah salah satu langkah penting dalam mempersiapkan acara pernikahan. Bagi banyak pasangan di Indonesia, penentuan tanggal nikah tidak hanya mempertimbangkan kesiapan gedung, katering, dan keluarga, tetapi juga nilai budaya, adat, dan keyakinan spiritual.
 
-Dalam tradisi Jawa, salah satu cara yang masih banyak digunakan adalah menghitung **hari baik pernikahan berdasarkan weton Jawa**. Perhitungan ini biasanya melibatkan neptu hari lahir calon pengantin pria, neptu hari lahir calon pengantin wanita, pasaran Jawa, bulan baik, hingga pertimbangan tanggal cantik.
+Dalam tradisi Jawa, salah satu cara yang masih banyak digunakan adalah menghitung hari baik pernikahan berdasarkan weton Jawa. Perhitungan ini biasanya melibatkan neptu hari lahir calon pengantin pria, neptu hari lahir calon pengantin wanita, pasaran Jawa, bulan baik, hingga pertimbangan tanggal cantik.
 
-Melalui **kalkulator cari hari baik pernikahan dari Acaranya.id**, Anda dapat mencari rekomendasi tanggal nikah terbaik secara online. Sistem akan membantu menganalisis ratusan tanggal dalam satu tahun berdasarkan weton, neptu, bulan Jawa atau Hijriah, serta filter praktis seperti akhir pekan dan tanggal cantik.
+Melalui kalkulator cari hari baik pernikahan dari Acaranya.id, Anda dapat mencari rekomendasi tanggal nikah terbaik secara online. Sistem akan membantu menganalisis ratusan tanggal dalam satu tahun berdasarkan weton, neptu, bulan Jawa atau Hijriah, serta filter praktis seperti akhir pekan dan tanggal cantik.
 
 ## Kalkulator Cari Hari Nikah Online
 
@@ -40,7 +40,7 @@ Untuk mencari hari baik pernikahan secara online, ikuti langkah berikut:
 3.  Masukkan tanggal lahir calon mempelai wanita.
 4.  Pilih tahun rencana pernikahan.
 5.  Aktifkan filter sesuai kebutuhan, seperti hanya akhir pekan, menghindari bulan pantangan, atau memprioritaskan tanggal cantik.
-6.  Klik tombol **Cari Tanggal Pernikahan Terbaik**.
+6.  Klik tombol Cari Tanggal Pernikahan Terbaik.
 7.  Lihat rekomendasi tanggal yang muncul, lalu gunakan sebagai bahan pertimbangan bersama keluarga.
 
 Anda juga dapat menyalin hasil rekomendasi atau mencetaknya agar lebih mudah dibahas saat menentukan jadwal akad, resepsi, pemesanan gedung, dan kebutuhan vendor pernikahan lainnya.
@@ -59,13 +59,13 @@ Untuk menghitung neptu secara mandiri, Anda dapat menggunakan nilai hari Masehi 
 
 | Hari Masehi | Nilai Hari (Saptawara) | Pasaran Jawa | Nilai Pasaran (Pancawara) |
 | --- | --- | --- | --- |
-| Minggu | 5   | Kliwon | 8   |
-| Senin | 4   | Legi | 5   |
-| Selasa | 3   | Pahing | 9   |
-| Rabu | 7   | Pon | 7   |
-| Kamis | 8   | Wage | 4   |
-| Jumat | 6   | \-  | \-  |
-| Sabtu | 9   | \-  | \-  |
+| Minggu | 5 | Kliwon | 8 |
+| Senin | 4 | Legi | 5 |
+| Selasa | 3 | Pahing | 9 |
+| Rabu | 7 | Pon | 7 |
+| Kamis | 8 | Wage | 4 |
+| Jumat | 6 | - | - |
+| Sabtu | 9 | - | - |
 
 Contoh sederhana: jika seseorang lahir pada **Senin Legi**, maka nilai neptunya adalah 4 + 5 = **9**.
 
@@ -73,15 +73,15 @@ Contoh sederhana: jika seseorang lahir pada **Senin Legi**, maka nilai neptunya 
 
 Setelah menjumlahkan neptu calon pengantin pria, neptu calon pengantin wanita, dan neptu hari pernikahan, hasilnya dapat dibagi dengan angka 5. Sisa pembagian tersebut digunakan untuk membaca kategori Pancasuda berikut:
 
-1.  **Sri**  
+1.  **Sri**
     Melambangkan kemakmuran, kelimpahan rezeki, kecukupan sandang pangan, dan keharmonisan keluarga.
-2.  **Lungguh**  
+2.  **Lungguh**
     Melambangkan kedudukan, kehormatan, derajat sosial, serta kemudahan mendapatkan tempat yang baik di tengah masyarakat.
-3.  **Gedhong**  
+3.  **Gedhong**
     Melambangkan kemampuan mengelola harta, kelancaran usaha, kekayaan materi, dan peluang membangun kehidupan rumah tangga yang mapan.
-4.  **Lara**  
+4.  **Lara**
     Melambangkan rintangan, terutama yang berkaitan dengan kesehatan, stamina, atau cobaan fisik. Dalam adat tertentu, kategori ini biasanya lebih baik dihindari.
-5.  **Pati**  
+5.  **Pati**
     Melambangkan hilangnya keberuntungan, penurunan rezeki, atau ujian berat. Dalam perhitungan tradisional, kategori ini termasuk yang paling sering dihindari untuk hari pernikahan.
 
 Dalam kalkulator ini, kategori **Sri**, **Lungguh**, dan **Gedhong** mendapat nilai positif, sementara **Lara** dan **Pati** akan mengurangi skor kelayakan tanggal.
@@ -92,19 +92,19 @@ Selain metode modulo 5, perhitungan hari baik pernikahan Jawa juga dapat menggun
 
 Kategori dalam metode modulo 7 adalah sebagai berikut:
 
-*   **Wasesa Segara**  
+*   **Wasesa Segara**
     Melambangkan karakter agung, pemaaf, penyabar, luas hati, dan berwibawa seperti samudera.
-*   **Tunggak Semi**  
+*   **Tunggak Semi**
     Menandakan rezeki yang tumbuh kembali, peluang ekonomi yang terus berkembang, dan kemampuan bangkit setelah mengalami penurunan.
-*   **Satria Wibawa**  
+*   **Satria Wibawa**
     Melambangkan keluhuran martabat, kehormatan, kewibawaan, dan kemudahan mendapatkan kepercayaan dari lingkungan sekitar.
-*   **Sumur Sinaba**  
+*   **Sumur Sinaba**
     Melambangkan kebijaksanaan, keluasan ilmu, serta menjadi tempat bertanya atau rujukan bagi keluarga dan masyarakat.
-*   **Bumi Kapetak**  
+*   **Bumi Kapetak**
     Menggambarkan pribadi yang pekerja keras, tangguh, dan tahan menghadapi rintangan, meskipun tetap membutuhkan kesabaran ekstra.
-*   **Satria Wirang**  
+*   **Satria Wirang**
     Melambangkan ujian sosial, rasa malu, atau kesalahpahaman. Dalam banyak pertimbangan adat, kategori ini sebaiknya dihindari.
-*   **Lebu Katiup Angin**  
+*   **Lebu Katiup Angin**
     Menggambarkan rezeki atau cita-cita yang mudah berubah dan tidak stabil. Kategori ini juga termasuk yang kurang disarankan untuk hari pernikahan.
 
 ## Bulan Baik dan Bulan Pantangan untuk Pernikahan
