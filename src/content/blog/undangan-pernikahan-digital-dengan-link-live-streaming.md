@@ -25,7 +25,7 @@ canonicalUrl: >-
   /artikel/undangan-pernikahan-digital-dengan-link-live-streaming/
 noindex: false
 ---
-Di era digital saat ini, undangan pernikahan tidak lagi terbatas pada kertas yang dikirim melalui pos. Dengan kemajuan teknologi, [undangan pernikahan digital](https://acaranya.id) menjadi pilihan yang semakin populer. Salah satu fitur menarik yang bisa kamu tambahkan adalah link live streaming.
+Di era digital saat ini, undangan pernikahan tidak lagi terbatas pada kertas yang dikirim melalui pos. Dengan kemajuan teknologi, [Undangan pernikahan digital](/desain-undangan-digital/pernikahan/) menjadi pilihan yang semakin populer. Salah satu fitur menarik yang bisa kamu tambahkan adalah link live streaming.
 
 Fitur ini memungkinkan tamu yang tidak dapat hadir secara fisik untuk tetap merasakan momen bahagia tersebut secara langsung dari rumah mereka. Mari kita eksplorasi lebih dalam tentang undangan pernikahan digital dengan link live streaming dan bagaimana kamu bisa memanfaatkannya.
 
@@ -72,4 +72,4 @@ Dengan semua keunggulan ini, Acaranya ID siap membantu kamu menciptakan undangan
 
 ## Kesimpulan
 
-Undangan pernikahan digital dengan link live streaming adalah solusi modern yang memungkinkan kamu untuk berbagi momen bahagia dengan lebih banyak orang. Dengan menggunakan [Acaranya ID](https://acaranya.id), kamu bisa mendapatkan undangan yang menarik, fitur lengkap, dan harga yang terjangkau. Jadi, tunggu apa lagi? Segera buat [undangan pernikahan online](https://acaranya.id) dan nikmati momen spesialmu bersama orang-orang terkasih, baik yang hadir secara fisik maupun yang menyaksikan secara online.
+Undangan pernikahan digital dengan link live streaming adalah solusi modern yang memungkinkan kamu untuk berbagi momen bahagia dengan lebih banyak orang. Dengan menggunakan [Acaranya ID](/), kamu bisa mendapatkan undangan yang menarik, fitur lengkap, dan harga yang terjangkau. Jadi, tunggu apa lagi? Segera buat [undangan pernikahan online](/desain-undangan-digital/pernikahan) dan nikmati momen spesialmu bersama orang-orang terkasih, baik yang hadir secara fisik maupun yang menyaksikan secara online.

@@ -28,7 +28,7 @@ noindex: false
 ---
 Cukup banyak **contoh undangan pernikahan digital** baik itu desain atau bentuk yang kini telah menjamur. Sebelum menggunakannya, pastikan kamu mengetahui beberapa poin pada artikel di bawah ini.
 
-[Undangan pernikahan digital](https://acaranya.id) menjadi salah satu bukti bahwa saat ini perkembangan teknologi di Indonesia bertumbuh dengan pesatnya. Hampir seluruh calon pengantin muda menggunakan undangan jenis ini.
+[Undangan pernikahan digital](/desain-undangan-digital/pernikahan/) menjadi salah satu bukti bahwa saat ini perkembangan teknologi di Indonesia bertumbuh dengan pesatnya. Hampir seluruh calon pengantin muda menggunakan undangan jenis ini.
 
 Pada dasarnya, undangan pernikahan digital ini memiliki tiga jenis, dan setiap jenis tentu terdapat contoh desain, tampilan dan bentuk yang berbeda.
 
@@ -110,4 +110,4 @@ Selengkapnya, kamu bisa membuka halaman catalog [**Desain Undangan Pernikahan On
 
 * * *
 
-Itulah beberapa informasi mengenai [contoh undangan pernikahan](/artikel/contoh-undangan-pernikahan/) digital yang bisa kamu jadikan sebagai referensi. Apapun undangan yang kamu gunakan, ingat Acara
+Itulah beberapa informasi mengenai [contoh undangan pernikahan](/desain-undangan-digital/pernikahan/) digital yang bisa kamu jadikan sebagai referensi. Apapun undangan yang kamu gunakan, ingat Acara

@@ -67,7 +67,7 @@ Berikut adalah beberapa bentuk komunikasi non-verbal yang sering kali disampaika
 
 Setiap gerakan memiliki makna tersendiri yang dapat memperkuat hubungan emosional dan fisik antara dua orang yang sedang berciuman.
 
-> **Mau menikah? Digitalkan undaganmu dengan [Acaranya ID](https://acaranya.id)!**
+> **Mau menikah? Digitalkan undaganmu dengan [Acaranya ID](/)!**
 
 * * *
 

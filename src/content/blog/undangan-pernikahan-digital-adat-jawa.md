@@ -26,7 +26,7 @@ Pernikahan adalah momen sakral yang selalu diimpikan oleh setiap pasangan, dan d
 
 Dengan segala keragaman upacara, simbol, dan maknanya, pernikahan adat Jawa menjadi salah satu pernikahan yang tidak hanya indah secara visual, tetapi juga sarat makna filosofi.
 
-Seiring perkembangan zaman, konsep undangan pernikahan pun turut berubah. Di era digital seperti sekarang, undangan pernikahan tidak lagi hanya dalam bentuk fisik, tetapi juga telah berevolusi menjadi [undangan digital](https://acaranya.id) yang lebih praktis dan modern. Meski begitu, sentuhan tradisi tetap bisa dihadirkan dalam [undangan pernikahan digital](/jasa/undangan-pernikahan-digital/), salah satunya dengan mengusung tema adat Jawa.
+Seiring perkembangan zaman, konsep undangan pernikahan pun turut berubah. Di era digital seperti sekarang, undangan pernikahan tidak lagi hanya dalam bentuk fisik, tetapi juga telah berevolusi menjadi [undangan digital](/desain-undangan-digital/) yang lebih praktis dan modern. Meski begitu, sentuhan tradisi tetap bisa dihadirkan dalam [undangan pernikahan digital](/jasa/undangan-pernikahan-digital/), salah satunya dengan mengusung tema adat Jawa.
 
 Dalam artikel ini, kita akan membahas beberapa tema undangan pernikahan digital adat Jawa, yang memadukan unsur tradisional dan modern secara harmonis.
 
@@ -98,6 +98,6 @@ Undangan pernikahan digital bukan hanya menjadi solusi praktis di tengah perkemb
 
 Dengan mengadopsi tema adat Jawa, undangan digital Anda tidak hanya menjadi cerminan cinta yang modern, tetapi juga tetap menjaga akar budaya dan tradisi leluhur. Setiap elemen yang diambil dari adat Jawa, mulai dari motif batik hingga penggunaan aksara Jawa, bisa menambah nilai artistik dan mendalam pada undangan tersebut.
 
-Jika Anda tertarik untuk mewujudkan undangan pernikahan digital bertema adat Jawa yang penuh dengan sentuhan tradisional namun tetap modern, Anda dapat memesannya di **[Acaranya.id](https://acaranya.id)**.
+Jika Anda tertarik untuk mewujudkan undangan pernikahan digital bertema adat Jawa yang penuh dengan sentuhan tradisional namun tetap modern, Anda dapat memesannya di **[Acaranya.id](/)**.
 
 Kami menawarkan berbagai desain undangan digital yang elegan dan mudah disesuaikan dengan kebutuhan serta tema adat yang diinginkan. Dengan Acaranya.id, Anda bisa merancang undangan digital yang tidak hanya praktis, tetapi juga sarat makna budaya.

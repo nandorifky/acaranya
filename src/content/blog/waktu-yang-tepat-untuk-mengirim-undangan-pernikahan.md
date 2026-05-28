@@ -28,7 +28,7 @@ Pernah merasa bingung kapan sebaiknya mengirim **undangan pernikahan**? Tentu sa
 
 Apakah harus dikirim terlalu awal, atau justru dikhawatirkan terlambat? Rencana pernikahan yang matang membutuhkan strategi pengiriman undangan yang tepat, agar tamu-tamu bisa mempersiapkan diri dengan baik.
 
-Dalam artikel ini, akan dibahas waktu terbaik untuk mengirimkan **[undangan pernikahan](https://acaranya.id)**. Simak terus agar momen spesialmu berjalan lancar tanpa ada hambatan di sepanjang jalan menuju hari bahagia!
+Dalam artikel ini, akan dibahas waktu terbaik untuk mengirimkan **[undangan pernikahan](/desain-undangan-digital/pernikahan/)**. Simak terus agar momen spesialmu berjalan lancar tanpa ada hambatan di sepanjang jalan menuju hari bahagia!
 
 ## Mengapa Waktu Pengiriman Undangan Pernikahan Itu Penting?
 
@@ -79,4 +79,4 @@ Dengan memperhatikan hal-hal ini, pernikahan dapat berjalan lebih lancar dan par
 
 ## Digitalkan Undanganmu dengan Acaranya ID
 
-Acaranya ID adalah layanan profesional yang mempermudah kamu membuat [undangan pernikahan online digital](https://acaranya.id) berbasis website. Solusi terbaik untuk memberikan kesan modern dan memudahkan tamu undangan kamu mengakses informasi kapan saja.
+Acaranya ID adalah layanan profesional yang mempermudah kamu membuat [undangan pernikahan online](/desain-undangan-digital/pernikahan/) berbasis website. Solusi terbaik untuk memberikan kesan modern dan memudahkan tamu undangan kamu mengakses informasi kapan saja.

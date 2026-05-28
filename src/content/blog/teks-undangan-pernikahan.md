@@ -165,4 +165,4 @@ Momen pernikahan merupakan peristiwa yang sangat istimewa dan tak terlupakan. Ol
 
 Baik itu Teks Undangan Pernikahan Jawa, Islami, Bahasa Inggris, Simple, untuk Teman, atau Kristen, pastikan bahwa kata-kata tersebut mencerminkan perasaan dan harapan Anda.
 
-_\*Mau menikah? Bikin undangan pernikahan online di Acaranya.id yuk! Kamu bisa pilih desain yang menarik melalui halaman desain ([Klik Disini](https://acaranya.id))._
+_\*Mau menikah? Bikin undangan pernikahan online di Acaranya.id yuk! Kamu bisa pilih desain yang menarik melalui halaman desain ([Klik Disini](/desain-undangan-digital/))._

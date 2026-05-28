@@ -28,7 +28,7 @@ Jika kamu berniat untuk mengadakan acara malam natal di rumah, kamu bisa mengund
 
 **Undangan natal online** ini memungkinkan kamu untuk mengundang seluruh tamu melalui media sosial yang tentunya akan lebih praktis dengan fitur yang lengkap.
 
-Dalam halaman ini, kami akan mengajakmu untuk berkenalan dengan salah satu layanan dari **[Acaranya.id](https://acaranya.id)** yaitu undangan acara natal digital.
+Dalam halaman ini, kami akan mengajakmu untuk berkenalan dengan salah satu layanan dari **[Acaranya.id](/)** yaitu undangan acara natal digital.
 
 ## Apa itu Undangan Natal Online?
 

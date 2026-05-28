@@ -152,7 +152,7 @@ Jika Anda membutuhkan solusi undangan digital yang profesional untuk acara grand
 **Keuntungan menggunakan undangan digital dari kami:**
 
 *   Desain elegan dan responsif.
-*   [Fitur RSVP](/rsvp/) otomatis untuk memudahkan Anda memantau kehadiran tamu.
+*   [Fitur RSVP](/fitur/) otomatis untuk memudahkan Anda memantau kehadiran tamu.
 *   Pengiriman undangan cepat dan terjangkau.
 
 Segera hubungi kami untuk mendapatkan layanan undangan digital yang memukau, dan pastikan acara grand opening Anda berjalan sukses dengan dukungan teknologi yang tepat!

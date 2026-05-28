@@ -117,4 +117,4 @@ Semoga informasi ini bermanfaat dan membantu kamu dalam mempersiapkan pernikahan
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Dengan Acaranya ID, [undangan pernikahan](https://acaranya.id) kamu bisa dinikmati secara digital. Efisien, ramah lingkungan, dan pastinya praktis!
+Dengan Acaranya ID, [undangan pernikahan](/desain-undangan-digital/pernikahan/) kamu bisa dinikmati secara digital. Efisien, ramah lingkungan, dan pastinya praktis!

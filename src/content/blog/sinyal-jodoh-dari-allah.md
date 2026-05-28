@@ -113,4 +113,4 @@ Dengan memahami 11 tanda ini, kamu bisa lebih peka terhadap sinyal jodoh dari Al
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Kami membantu kamu membuat **[undangan pernikahan online](https://acaranya.id)** berbasis website yang praktis dan elegan. Dengan Acaranya ID, berbagi momen spesial menjadi lebih mudah dan modern.
+Kami membantu kamu membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** berbasis website yang praktis dan elegan. Dengan Acaranya ID, berbagi momen spesial menjadi lebih mudah dan modern.

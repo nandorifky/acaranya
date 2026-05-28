@@ -103,7 +103,7 @@ Setiap barang yang diberikan bukan hanya sekedar barang, tetapi sebuah wujud kon
 
 Acaranya.id menjadi solusi buat kamu yang ingin memiliki undangan pernikahan digital untuk berbagai acara. Kamu berhak terima jadi, dan revisi sepuasnya!
 
-[Selengkapnya](https://acaranya.id)
+[Selengkapnya](/)
 
 [Hubungi Kami](https://wa.me/62895395094329)
 

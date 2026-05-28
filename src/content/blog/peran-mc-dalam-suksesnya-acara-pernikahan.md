@@ -105,4 +105,4 @@ Dengan memahami peran dan tanggung jawab MC, kamu dapat lebih menghargai penting
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Kami membantu kamu membuat **[undangan pernikahan online](https://acaranya.id)** dengan desain yang cantik dan fungsional. Mudah diakses dan dibagikan, membuat tamu undangan merasa lebih dekat dengan momen spesialmu.
+Kami membantu kamu membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** dengan desain yang cantik dan fungsional. Mudah diakses dan dibagikan, membuat tamu undangan merasa lebih dekat dengan momen spesialmu.

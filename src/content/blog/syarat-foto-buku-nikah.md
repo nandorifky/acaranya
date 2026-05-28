@@ -22,7 +22,7 @@ customBreadcrumbLabel: 'Syarat Foto Buku Nikah dan Aturannya, Lengkap!'
 canonicalUrl: '/artikel/syarat-foto-buku-nikah/'
 noindex: false
 ---
-[Pernikahan](https://acaranya.id) adalah momen sakral yang penuh dengan persiapan, dan salah satu yang kadang terlupakan adalah **syarat foto buku nikah**. Ya, jangan kira urusan pas foto bisa dianggap sepele. Ternyata, ada aturan yang harus diikuti calon pengantin agar fotonya sah di mata KUA. Pertanyaannya, apa saja sih aturan mainnya?
+[Pernikahan](/desain-undangan-digital/pernikahan/) adalah momen sakral yang penuh dengan persiapan, dan salah satu yang kadang terlupakan adalah **syarat foto buku nikah**. Ya, jangan kira urusan pas foto bisa dianggap sepele. Ternyata, ada aturan yang harus diikuti calon pengantin agar fotonya sah di mata KUA. Pertanyaannya, apa saja sih aturan mainnya?
 
 Dari ukuran, jumlah, hingga warna background foto, semuanya sudah diatur dengan jelas. Nah, biar nggak salah langkah, simak penjelasan berikut ini.
 

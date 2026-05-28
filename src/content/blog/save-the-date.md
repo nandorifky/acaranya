@@ -33,7 +33,7 @@ Selain itu, _save the date_ juga berfungsi sebagai pengingat yang efektif, terut
 
 ![save the date artinya apa?](/images/blog/content/contoh-save-the-date-1024x1024.webp)
 
-“_Save The Date_” adalah sebuah pemberitahuan awal yang dikirimkan oleh penyelenggara acara, biasanya beberapa bulan sebelum acara berlangsung. Bentuknya bisa berupa kartu fisik, [undangan digital](https://acaranya.id), atau bahkan postingan di media sosial.
+“_Save The Date_” adalah sebuah pemberitahuan awal yang dikirimkan oleh penyelenggara acara, biasanya beberapa bulan sebelum acara berlangsung. Bentuknya bisa berupa kartu fisik, [undangan digital](/desain-undangan-digital/), atau bahkan postingan di media sosial.
 
 Tujuan utama dari “_Save The Date_” adalah untuk memberi tahu calon tamu tentang tanggal acara yang akan datang, sehingga mereka bisa menandai tanggal tersebut di kalender mereka.
 

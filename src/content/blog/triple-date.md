@@ -98,4 +98,4 @@ Jadi, jika Kamu ingin mencoba sesuatu yang baru dalam hubungan Kamu, jangan ragu
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Buat undangan pernikahanmu lebih praktis dan mudah dengan Acaranya ID. Kami menyediakan platform untuk membuat **[undangan pernikahan online](https://acaranya.id)** yang bisa diakses kapan saja dan di mana saja.
+Buat undangan pernikahanmu lebih praktis dan mudah dengan Acaranya ID. Kami menyediakan platform untuk membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang bisa diakses kapan saja dan di mana saja.

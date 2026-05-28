@@ -24,7 +24,7 @@ canonicalUrl: >-
   /artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/
 noindex: false
 ---
-Perkembangan teknologi membawa banyak kemudahan, salah satunya dalam hal merencanakan pernikahan. Sekarang, [undangan pernikahan digital](https://acaranya.id) menjadi tren yang semakin diminati oleh pasangan modern.
+Perkembangan teknologi membawa banyak kemudahan, salah satunya dalam hal merencanakan pernikahan. Sekarang, [Undangan pernikahan digital](/desain-undangan-digital/pernikahan/) menjadi tren yang semakin diminati oleh pasangan modern.
 
 Selain praktis, undangan digital memberikan fleksibilitas dalam desain dan penyebaran, serta ramah lingkungan. Namun, dengan banyaknya pilihan yang tersedia, memilih desain yang tepat bisa jadi membingungkan.
 
@@ -82,7 +82,7 @@ Pastikan juga tipografi yang Kamu pilih mudah dibaca, terutama untuk informasi p
 
 Ada berbagai platform yang bisa Kamu gunakan untuk mengirim undangan pernikahan digital, mulai dari media sosial hingga email. Namun, pastikan Kamu memilih platform yang memudahkan tamu untuk mengakses undangan dengan cepat dan mudah.
 
-Untuk undangan interaktif, Kamu bisa memilih platform yang memungkinkan tamu merespons langsung, seperti [RSVP digital](/rsvp/). Ini akan mempermudah dalam pengelolaan jumlah tamu yang akan hadir.
+Untuk undangan interaktif, Kamu bisa memilih platform yang memungkinkan tamu merespons langsung, seperti [RSVP digital](/fitur/). Ini akan mempermudah dalam pengelolaan jumlah tamu yang akan hadir.
 
 ## 9\. Manfaatkan Fitur RSVP Online
 
@@ -102,7 +102,7 @@ Sentuhan personal ini akan membuat undangan pernikahan digitalmu lebih berkesan 
 
 Undangan Pernikahan Digital by Acaranya ID
 
-**[Acaranya ID](https://acaranya.id)** menjadi salah satu [jasa undangan digital](/services/) terkemuka yang memiliki fitur lengkap dan banyak variasi desain. Kamu bisa memilih desain undangan digital sesuai seleramu!
+**[Acaranya ID](/)** menjadi salah satu [jasa undangan digital](/services/) terkemuka yang memiliki fitur lengkap dan banyak variasi desain. Kamu bisa memilih desain undangan digital sesuai seleramu!
 
 [Cek Desain Undangan Digital](/desain-undangan-digital/)
 
@@ -112,4 +112,4 @@ Dengan menerapkan tips-tips di atas, Kamu bisa memilih desain undangan pernikaha
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Buat **[undangan pernikahan online](https://acaranya.id)** dengan tampilan profesional dan mudah dibagikan ke semua orang. Acaranya ID, solusi undangan pernikahan masa kini.
+Buat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** dengan tampilan profesional dan mudah dibagikan ke semua orang. Acaranya ID, solusi undangan pernikahan masa kini.

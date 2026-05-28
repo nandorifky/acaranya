@@ -132,7 +132,7 @@ Kamu juga bisa berkonsultasi kepada penghulu atau tokoh agama yang akan memimpin
 
 Jika kamu sudah siap secara lahir dan batin untuk akad nikah, jangan lupa untuk mempersiapkan undangan pernikahan yang praktis dan elegan.
 
-Gunakan [jasa undangan digital](/jasa/undangan-pernikahan-digital/) dari **Acaranya ID**, yang dirancang khusus untuk menyesuaikan tema pernikahanmu, lengkap dengan fitur RSVP, galeri foto, lokasi maps, dan masih banyak lagi! Praktis, kekinian, dan tetap berkesan.
+Gunakan [jasa undangan digital](/desain-undangan-digital/pernikahan/) dari **Acaranya ID**, yang dirancang khusus untuk menyesuaikan tema pernikahanmu, lengkap dengan fitur RSVP, galeri foto, lokasi maps, dan masih banyak lagi! Praktis, kekinian, dan tetap berkesan.
 
 ## Kesimpulan
 

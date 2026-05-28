@@ -91,4 +91,4 @@ Dengan berbagai pilihan venue pernikahan outdoor di Jogja, kamu bisa memilih tem
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID adalah layanan untuk membuat **[undangan pernikahan online](https://acaranya.id)** yang praktis, elegan, dan mudah dibagikan. Undanganmu kini bisa diakses kapan saja, di mana saja.
+Acaranya ID adalah layanan untuk membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang praktis, elegan, dan mudah dibagikan. Undanganmu kini bisa diakses kapan saja, di mana saja.

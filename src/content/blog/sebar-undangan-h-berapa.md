@@ -38,7 +38,7 @@ Berikut tahapan proses yang harus kamu ketahui:
 3.  **Color Proofing (Opsional)** Jika ingin memastikan warna undangan sesuai harapan, vendor biasanya menyediakan layanan color proofing, yang membutuhkan tambahan 3 hari kerja.
 4.  **Produksi dan Cetak** Setelah desain akhir disetujui, proses pencetakan dan finishing bisa memakan waktu hingga 37 hari. Jika ingin lebih cepat, beberapa vendor menawarkan layanan express yang memotong waktu produksi hingga 15 hari, namun dengan biaya tambahan.
 
-_Beda cerita kalau [bikin undangan digital di Acaranya ID](https://acaranya.id), sehari bisa jadi!_
+_Beda cerita kalau [bikin undangan digital di Acaranya ID](/), sehari bisa jadi!_
 
 Dengan mempertimbangkan proses yang cukup panjang ini, tidak heran jika sangat disarankan untuk memesan undangan jauh sebelum acara pernikahan, setidaknya 6 bulan sebelum hari H.
 

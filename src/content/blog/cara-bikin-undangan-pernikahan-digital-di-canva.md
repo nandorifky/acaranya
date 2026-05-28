@@ -96,7 +96,7 @@ Berikut cara membuat undangan digital website di Canva:
 
 > ## Dapatkan Undangan Pernikahan Digital Sehari Jadi dari Acaranya ID
 > 
-> Jika kamu sedang mencari **[website undangan pernikahan online](https://acaranya.id)** yang elegan dan cepat, **Acaranya.id** adalah solusinya. Dengan layanan pembuatan undangan website yang bisa diselesaikan dalam waktu **sehari saja**, Acaranya.id menawarkan pengalaman yang cepat, praktis, dan sesuai dengan kebutuhanmu.
+> Jika kamu sedang mencari **[website undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang elegan dan cepat, **Acaranya.id** adalah solusinya. Dengan layanan pembuatan undangan website yang bisa diselesaikan dalam waktu **sehari saja**, Acaranya.id menawarkan pengalaman yang cepat, praktis, dan sesuai dengan kebutuhanmu.
 > 
 > Acaranya.id menyediakan berbagai pilihan **tema undangan website** yang bisa disesuaikan dengan konsep pernikahanmu. Mulai dari tema minimalis, rustic, hingga tema mewah yang menonjolkan keindahan visual, semua bisa dipersonalisasi sesuai selera. Setiap halaman undangan dapat disesuaikan dengan informasi penting seperti tanggal, waktu, lokasi, galeri foto, hingga video prewedding untuk memberikan kesan lebih personal dan istimewa.
 > 

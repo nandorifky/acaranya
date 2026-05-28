@@ -25,7 +25,7 @@ noindex: false
 ---
 Pernikahan adalah momen yang paling ditunggu-tunggu dalam hidup banyak orang. Oleh karena itu, persiapan pernikahan harus dilakukan dengan baik, termasuk dalam hal undangan pernikahan.
 
-[Undangan pernikahan](https://acaranya.id) haruslah terlihat menarik dan elegan, karena undangan inilah yang akan memberikan kesan pertama kepada tamu undangan. Salah satu cara untuk membuat undangan pernikahan menjadi lebih menarik dan elegan adalah dengan menggunakan _frame_ atau bingkai undangan pernikahan.
+[Undangan pernikahan](/desain-undangan-digital/pernikahan/) haruslah terlihat menarik dan elegan, karena undangan inilah yang akan memberikan kesan pertama kepada tamu undangan. Salah satu cara untuk membuat undangan pernikahan menjadi lebih menarik dan elegan adalah dengan menggunakan _frame_ atau bingkai undangan pernikahan.
 
 Artikel ini akan membahas tentang kumpulan bingkai undangan pernikahan, keuntungan, cara memilih, dan cara menggunakannya.
 

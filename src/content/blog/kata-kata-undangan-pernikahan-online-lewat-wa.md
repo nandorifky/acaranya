@@ -33,7 +33,7 @@ Zaman sekarang, teknologi komunikasi sudah berkembang pesat, dan WhatsApp adalah
 
 Mengirim undangan lewat WA menjadi solusi ideal, terutama jika jarak antara pengirim dan penerima cukup jauh atau ketika waktu terasa semakin sempit menjelang hari H.
 
-Namun, meski terkesan lebih santai dan informal, undangan yang dikirim lewat WA tetap harus memperhatikan kesantunan dan etika. Penggunaan bahasa yang tepat dan informasi yang jelas menjadi kunci agar [undangan digital](https://acaranya.id) ini tetap berkesan dan profesional.
+Namun, meski terkesan lebih santai dan informal, undangan yang dikirim lewat WA tetap harus memperhatikan kesantunan dan etika. Penggunaan bahasa yang tepat dan informasi yang jelas menjadi kunci agar [undangan digital](/desain-undangan-digital/) ini tetap berkesan dan profesional.
 
 ## Tata Cara Menulis Undangan Pernikahan Online Lewat WA
 

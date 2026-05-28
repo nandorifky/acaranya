@@ -76,6 +76,6 @@ Prosesi sinduran adalah bagian yang penuh makna dalam pernikahan adat Jawa. Di s
 
 Kasih sayang orang tua yang menyertai langkah anak-anak mereka ini adalah salah satu bentuk keindahan dalam tradisi Jawa, yang menjadikan pernikahan lebih dari sekadar upacara, tetapi sebuah peristiwa yang penuh makna dan pengharapan.
 
-Di era digital saat ini, pernikahan adat yang kaya akan makna seperti sinduran ini bisa tetap tersampaikan kepada para tamu dengan menggunakan [undangan pernikahan online](https://acaranya.id). Undangan digital memungkinkan pasangan untuk berbagi kisah dan makna dari prosesi adat yang akan dilangsungkan, sehingga tamu undangan bisa memahami dan merasakan nilai-nilai budaya dalam setiap ritualnya, meskipun mungkin tidak semua tamu hadir secara langsung.
+Di era digital saat ini, pernikahan adat yang kaya akan makna seperti sinduran ini bisa tetap tersampaikan kepada para tamu dengan menggunakan [undangan pernikahan online](/desain-undangan-digital/pernikahan/). Undangan digital memungkinkan pasangan untuk berbagi kisah dan makna dari prosesi adat yang akan dilangsungkan, sehingga tamu undangan bisa memahami dan merasakan nilai-nilai budaya dalam setiap ritualnya, meskipun mungkin tidak semua tamu hadir secara langsung.
 
 Pesan undangan digital di Acaranya ID sekarang!

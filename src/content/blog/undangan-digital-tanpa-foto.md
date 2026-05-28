@@ -187,7 +187,7 @@ Undangan digital dengan nama **“Kamboja”** ini memiliki desain yang elegan d
 
 [Pesan Sekarang](https://wa.me/62895395094329)
 
-[Undangan pernikahan online tanpa foto](https://acaranya.id) dengan tema wayang Jawa ini menghadirkan nuansa klasik dan elegan yang khas.
+[Undangan pernikahan online tanpa foto]/desain-undangan-digital/pernikahan/) dengan tema wayang Jawa ini menghadirkan nuansa klasik dan elegan yang khas.
 
 Desainnya didominasi oleh warna-warna hangat seperti cokelat dan krem, serta ornamen-ornamen khas wayang yang memberikan kesan tradisional.
 

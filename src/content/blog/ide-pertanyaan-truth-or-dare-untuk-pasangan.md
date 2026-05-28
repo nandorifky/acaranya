@@ -199,4 +199,4 @@ Selalu ingat untuk menjaga kenyamanan dan menghormati batasan satu sama lain sel
 
 ## Digitalkan Undanganmu dengan Acaranya ID
 
-Kami adalah solusi untuk kamu yang ingin menggunakan [undangan pernikahan online](https://acaranya.id). Dengan fitur website, undangan digital kami memberikan kemudahan berbagi dan kesan profesional.
+Kami adalah solusi untuk kamu yang ingin menggunakan [undangan pernikahan online](/desain-undangan-digital/pernikahan/). Dengan fitur website, undangan digital kami memberikan kemudahan berbagi dan kesan profesional.

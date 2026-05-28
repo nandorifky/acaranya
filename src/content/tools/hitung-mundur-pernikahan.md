@@ -38,7 +38,7 @@ Fase ini berfokus pada administrasi dan booking vendor:
 ### 3. Sisa Waktu 1 - 3 Bulan (Fase Administrasi & Undangan)
 Fase ini berfokus pada legalitas dan publikasi:
 * Daftarkan seluruh berkas pernikahan ke Kantor Urusan Agama (KUA) atau Catatan Sipil setempat.
-* Buat **Undangan Digital Premium** di [Acaranya.id](https://acaranya.id) agar penyebaran undangan lebih mudah, cepat, dan murah.
+* Buat **Undangan Digital Premium** di [Acaranya.id](/) agar penyebaran undangan lebih mudah, cepat, dan murah.
 * Lakukan sesi foto Prewedding jika menginginkannya.
 
 ### 4. Sisa Waktu 1 Minggu Terakhir (Fase Rileks & Sinkronisasi)

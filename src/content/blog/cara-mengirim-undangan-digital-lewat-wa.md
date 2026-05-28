@@ -20,7 +20,7 @@ customBreadcrumbLabel: Cara Mengirim Undangan Digital Lewat WA
 canonicalUrl: /artikel/cara-mengirim-undangan-digital-lewat-wa/
 noindex: false
 ---
-Penggunaan undangan digital kini semakin populer di Indonesia, terutama untuk acara pernikahan. Banyak orang merasa acara pernikahan mereka kurang lengkap tanpa menggunakan [undangan digital](https://acaranya.id).
+Penggunaan undangan digital kini semakin populer di Indonesia, terutama untuk acara pernikahan. Banyak orang merasa acara pernikahan mereka kurang lengkap tanpa menggunakan [undangan digital](/desain-undangan-digital/).
 
 Namun, meskipun praktis, ada etika yang harus diperhatikan saat mengirim undangan digital, terutama dalam hal penyampaian dan tata cara.
 

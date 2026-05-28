@@ -140,7 +140,7 @@ Namun, yang paling penting adalah memastikan bahwa undangan tersebut tetap mence
 
 ### **Pertimbangkan Menggunakan Undangan Digital untuk Walimatul Ursy!**
 
-Selain memilih tema, ada baiknya juga mempertimbangkan penggunaan [undangan digital](https://acaranya.id) untuk **walimatul ursy**.
+Selain memilih tema, ada baiknya juga mempertimbangkan penggunaan [undangan digital](/desain-undangan-digital/) untuk **walimatul ursy**.
 
 Undangan digital saat ini semakin populer karena lebih praktis, ramah lingkungan, dan hemat biaya. Selain itu, undangan digital juga memungkinkan pengiriman yang lebih cepat dan mudah kepada tamu di berbagai tempat tanpa batasan jarak.
 

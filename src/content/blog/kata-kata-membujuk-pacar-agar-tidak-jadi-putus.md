@@ -33,7 +33,7 @@ Artikel ini akan memberikan **10 kata-kata membujuk pacar agar tidak jadi putus*
 
 ## 1\. “Aku tahu kita sedang ada masalah, tapi aku percaya kita bisa melewatinya bersama.”
 
-> _Jangan putus ya kak. Nanti siapa yang order [undangan digital](https://acaranya.id) kami? 🙁_
+> _Jangan putus ya kak. Nanti siapa yang order [undangan digital](/desain-undangan-digital/) kami? 🙁_
 
 Dalam hubungan, pasti ada saat di mana masalah datang silih berganti. Namun, meyakinkan pasangan bahwa **masalah bisa diselesaikan bersama** adalah kunci. Menunjukkan optimisme terhadap masa depan hubungan akan membantu meredakan keinginan pasangan untuk berpisah.
 

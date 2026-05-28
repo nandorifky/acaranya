@@ -73,7 +73,7 @@ Untuk lebih memahami jenis-jenis undangan pernikahan dan tingkat formalitasnya, 
     Menggunakan bahasa formal dengan tata cara adat yang terperinci, terutama dalam pernikahan adat Jawa, Batak, atau Bali. Jenis undangan ini sangat memperhatikan detail karena mewakili nilai-nilai budaya dan adat.
 2.  **Undangan Pernikahan Modern**  
     Lebih fleksibel dalam gaya bahasa, sering kali informal, dan menggunakan desain yang lebih minimalis. Meskipun demikian, bisa saja tetap terkesan resmi tergantung pada gaya penyampaian dan desain yang digunakan.
-3.  **[Undangan Pernikahan Digital](https://acaranya.id)**  
+3.  **[Undangan Pernikahan Digital](/desain-undangan-digital/pernikahan/)**  
     Tren undangan digital semakin populer. Meskipun tidak memiliki bentuk fisik, undangan ini dapat didesain dengan sangat formal dan tetap memberikan kesan eksklusif.
 
 ## Faktor yang Membuat Undangan Pernikahan Resmi

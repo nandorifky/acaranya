@@ -9,48 +9,9 @@
     <!-- Sveltia CMS Script -->
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
     <script>
-      // Wait for Sveltia CMS to initialize and hook CMS global
+      // Sveltia CMS initialization hook
       window.addEventListener('DOMContentLoaded', () => {
-        if (window.CMS) {
-          window.CMS.registerEditorComponent({
-            id: "design_showcase",
-            label: "Rekomendasi Desain",
-            fields: [
-              {
-                name: "templates",
-                label: "Pilih Desain",
-                widget: "relation",
-                collection: "designs",
-                value_field: "{{slug}}",
-                search_fields: ["title"],
-                display_fields: ["title"],
-                multiple: true
-              }
-            ],
-            // Match both {% design_showcase templates=[...] /%} and {% design_showcase templates=[...] %}
-            pattern: /^{% design_showcase templates=\[(.*?)\] \/?%}$/,
-            fromBlock: function(match) {
-              const raw = match[1] || '';
-              const templates = raw.split(',').map(s => s.replace(/['"]/g, '').trim()).filter(Boolean);
-              return {
-                templates: templates
-              };
-            },
-            toBlock: function(data) {
-              const list = Array.isArray(data.templates)
-                ? data.templates
-                : (data.templates || '').split(',').map(s => s.replace(/['"]/g, '').trim()).filter(Boolean);
-              // Markdoc self-closing tags MUST end with /%}
-              return `{% design_showcase templates=[${list.map(s => `"${s}"`).join(', ')}] /%}`;
-            },
-            toPreview: function(data) {
-              const list = Array.isArray(data.templates)
-                ? data.templates
-                : (data.templates || '').split(',').map(s => s.replace(/['"]/g, '').trim()).filter(Boolean);
-              return `[Rekomendasi Desain: ${list.join(', ')}]`;
-            }
-          });
-        }
+        // Custom editor components can be registered here if needed in the future
       });
     </script>
   </head>

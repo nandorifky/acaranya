@@ -24,13 +24,13 @@ noindex: false
 ---
 Terpikir untuk mengadakan buka bersama (bukber) secara online dengan keluarga, teman, atau rekan kerja tanpa harus repot-repot mencetak undangan? Kini, semuanya bisa dilakukan dengan mudah dan cepat melalui **undangan bukber online** yang dapat dikirim via WhatsApp!
 
-Di era digital saat ini, kegiatan berbuka puasa bersama pun bisa lebih praktis dan efisien. Selain itu, penggunaan [undangan digital](https://acaranya.id) ini juga ramah lingkungan, mengurangi konsumsi kertas, dan dapat menghemat biaya.
+Di era digital saat ini, kegiatan berbuka puasa bersama pun bisa lebih praktis dan efisien. Selain itu, penggunaan [undangan digital](/desain-undangan-digital/) ini juga ramah lingkungan, mengurangi konsumsi kertas, dan dapat menghemat biaya.
 
 Memilih undangan online untuk buka bersama sangatlah menguntungkan, terutama bagi mereka yang memiliki jadwal yang padat dan ingin menghemat waktu dalam persiapan acara buka puasa bersama.
 
 Dengan undangan digital ini, tidak perlu lagi mencetak undangan, mencari amplop, dan mengirimkannya melalui jasa pengiriman yang memakan waktu dan biaya. Undangan buka bersama digital dapat diakses melalui berbagai perangkat, seperti laptop, tablet, dan smartphone, sehingga lebih praktis dan mudah untuk dibagikan.
 
-[**Acaranya.id**](https://acaranya.id) hadir sebagai solusi terbaik dalam menyediakan undangan bukber online yang menarik dengan berbagai desain pilihan. Dengan harga yang sangat terjangkau, hanya **Rp75.000** rupiah saja, undangan buka bersama ini siap untuk dikirimkan via WhatsApp (WA).
+[**Acaranya.id**](/) hadir sebagai solusi terbaik dalam menyediakan undangan bukber online yang menarik dengan berbagai desain pilihan. Dengan harga yang sangat terjangkau, hanya **Rp75.000** rupiah saja, undangan buka bersama ini siap untuk dikirimkan via WhatsApp (WA).
 
 ## Desain Islami yang Menarik untuk Undangan Bukber Online
 

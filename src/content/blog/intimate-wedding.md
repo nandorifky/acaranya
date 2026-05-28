@@ -88,4 +88,4 @@ Jika kamu sedang merencanakan pernikahan, pertimbangkan untuk memilih konsep int
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Buat **[undangan pernikahan online](https://acaranya.id)** yang sesuai dengan gayamu dan praktis dibagikan ke semua tamu. Dengan Acaranya ID, pernikahanmu akan semakin istimewa.
+Buat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang sesuai dengan gayamu dan praktis dibagikan ke semua tamu. Dengan Acaranya ID, pernikahanmu akan semakin istimewa.

@@ -143,4 +143,4 @@ Jadi, sudah siap mengajukan cuti menikah? Pastikan semua persyaratan sudah lengk
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Kami menyediakan platform untuk membuat **[undangan pernikahan online](https://acaranya.id)** yang bisa kamu sesuaikan dengan tema dan gaya pernikahanmu.
+Kami menyediakan platform untuk membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang bisa kamu sesuaikan dengan tema dan gaya pernikahanmu.

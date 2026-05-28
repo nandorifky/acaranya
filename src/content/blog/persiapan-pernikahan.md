@@ -111,13 +111,13 @@ Lakukan riset mendalam, baca review, dan jika perlu, lakukan pertemuan terlebih 
 
 ![Pesan Undangan Digital Hanya di Acaranya.id](/images/blog/content/Jagonya-Bikin-Undangan-Digital-1-1024x256.png)
 
-Dalam era digital, undangan pernikahan bukan hanya soal kartu fisik, tapi juga [undangan digital](https://acaranya.id) yang bisa dikirim via _email_ atau _WhatsApp_.
+Dalam era digital, undangan pernikahan bukan hanya soal kartu fisik, tapi juga [undangan digital](/desain-undangan-digital/) yang bisa dikirim via _email_ atau _WhatsApp_.
 
 Banyak pasangan yang memilih undangan digital karena lebih praktis dan ramah lingkungan. Tapi, kalau tetap ingin yang tradisional, jangan lupa memastikan desain undangan yang sesuai dengan tema pernikahan.
 
 Ingat, undangan adalah salah satu elemen yang pertama kali dilihat oleh tamu, jadi buatlah kesan yang baik.
 
-[**Pesan Undangan Digital**](https://acaranya.id)
+[**Pesan Undangan Digital**](/)
 
 ## 11\. Hiburan Pernikahan
 

@@ -95,7 +95,7 @@ Pernikahan adalah ibadah panjang, maka doa yang baik sangatlah penting. Berikut 
 
 ## 4\. Kata-Kata Islami yang Menyentuh Hati untuk Undangan
 
-Kata-kata Islami yang menyentuh hati sering kali digunakan dalam [undangan pernikahan](https://acaranya.id) untuk menghadirkan suasana yang lebih intim dan penuh makna.
+Kata-kata Islami yang menyentuh hati sering kali digunakan dalam [undangan pernikahan](/desain-undangan-digital/pernikahan/) untuk menghadirkan suasana yang lebih intim dan penuh makna.
 
 Kalimat-kalimat ini mengandung pesan mendalam tentang cinta, komitmen, dan keberkahan dalam pernikahan. Berikut beberapa inspirasi yang dapat digunakan:
 

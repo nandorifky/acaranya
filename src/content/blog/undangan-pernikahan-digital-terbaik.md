@@ -31,7 +31,7 @@ Nah, disini mimin akan bagiin platform undangan digital terbaik yang bisa kamu p
 
 ## 1\. Acaranya.id
 
-Ya, kamu tidak salah dengar. Acaranya.id menjadi salah satu layanan [undangan pernikahan digital terbaik](https://acaranya.id) yang dipercaya ratusan pengantin baru setiap bulannya.
+Ya, kamu tidak salah dengar. Acaranya.id menjadi salah satu layanan [undangan pernikahan digital terbaik](/desain-undangan-digital/pernikahan/) yang dipercaya ratusan pengantin baru setiap bulannya.
 
 Mengkliam diri sendiri menjadi yang terbaik, bukan tanpa sebab!
 

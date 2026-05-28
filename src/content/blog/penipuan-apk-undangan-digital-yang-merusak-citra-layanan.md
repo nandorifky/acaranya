@@ -25,7 +25,7 @@ canonicalUrl: >-
   /artikel/penipuan-apk-undangan-digital-yang-merusak-citra-layanan/
 noindex: false
 ---
-Layanan [undangan pernikahan digital](https://acaranya.id) telah menjadi tren baru dalam beberapa tahun terakhir. Selain praktis, undangan digital memberikan sentuhan modern dan lebih ramah lingkungan dibandingkan dengan undangan fisik.
+Layanan [undangan pernikahan digital](/desain-undangan-digital/pernikahan/) telah menjadi tren baru dalam beberapa tahun terakhir. Selain praktis, undangan digital memberikan sentuhan modern dan lebih ramah lingkungan dibandingkan dengan undangan fisik.
 
 Sayangnya, perkembangan teknologi ini juga diiringi dengan tantangan baru, yaitu maraknya kasus penipuan yang memanfaatkan APK malware yang menyamar sebagai undangan digital.
 

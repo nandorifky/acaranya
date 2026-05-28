@@ -71,4 +71,4 @@ PRIDE Organizer dikenal dengan profesionalitasnya dalam menghadirkan konsep pern
 
 Memilih wedding organizer yang tepat adalah langkah penting dalam mewujudkan pernikahan impianmu. Pastikan untuk melakukan konsultasi mendalam dan membandingkan beberapa penawaran sebelum membuat keputusan. Yang terpenting, pilih WO yang memahami visimu dan mampu mewujudkannya dalam budget yang sesuai.
 
-Ngomong-ngomong soal pernikahan, jangan lupa untuk mempersiapkan undangan digital yang kekinian dan praktis. Acaranya.id hadir sebagai solusi [undangan pernikahan digital](https://acaranya.id) dengan desain eksklusif dan fitur lengkap. Dengan harga yang murah, kamu bisa mendapatkan undangan digital yang elegan dan mudah disebarkan. Kunjungi Acaranya.id untuk informasi lebih lanjut!
+Ngomong-ngomong soal pernikahan, jangan lupa untuk mempersiapkan undangan digital yang kekinian dan praktis. Acaranya.id hadir sebagai solusi [Undangan pernikahan digital](/desain-undangan-digital/pernikahan/) dengan desain eksklusif dan fitur lengkap. Dengan harga yang murah, kamu bisa mendapatkan undangan digital yang elegan dan mudah disebarkan. Kunjungi Acaranya.id untuk informasi lebih lanjut!

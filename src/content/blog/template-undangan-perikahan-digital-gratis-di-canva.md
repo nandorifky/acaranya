@@ -143,4 +143,4 @@ Jika kamu belum tahu bagaimana cara menggunakan Canva, alangkah baiknya kamu bac
 
 Kumpulan desain terbaik diatas bisa kamu gunakan secara gratis. Sekarang, kamu tidak perlu bingung lagi untuk memilih template undangan pernikahan digital di Canva yang bisa diedit secara gratis.
 
-Bagi kamu yang membutuhkan [website undangan pernikahan online](https://acaranya.id), Acaranya ID menjadi layanan profesional terdepan dalam hal itu. Dengan fitur lengkap dan banyak variasi desain, kami menjamin kepuasan pelanggan, revisi gratis!
+Bagi kamu yang membutuhkan [website undangan pernikahan online](/desain-undangan-digital/pernikahan/), Acaranya ID menjadi layanan profesional terdepan dalam hal itu. Dengan fitur lengkap dan banyak variasi desain, kami menjamin kepuasan pelanggan, revisi gratis!

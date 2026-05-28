@@ -23,7 +23,7 @@ customBreadcrumbLabel: Kata-Kata Undangan Pernikahan Online
 canonicalUrl: '/artikel/kata-kata-undangan-pernikahan-online/'
 noindex: false
 ---
-Rangkaian kata dalam [undangan pernikahan online](https://acaranya.id) tentu perlu diperhatikan oleh penyelenggara acara. Tentunya, ini menjadi salah satu faktor penting karena terkandung sopan santun dan etika di dalamnya.
+Rangkaian kata dalam [undangan pernikahan online](/desain-undangan-digital/pernikahan/) tentu perlu diperhatikan oleh penyelenggara acara. Tentunya, ini menjadi salah satu faktor penting karena terkandung sopan santun dan etika di dalamnya.
 
 Undangan pernikahan digital, saat ini menjadi salah satu bukti perkembangan dunia teknologi yang sedang trending di beberapa media sosial. Kini, berbagai kalangan muda hingga tua menggunakan undangan jenis ini.
 

@@ -32,7 +32,7 @@ Berikut ini, Acaranya ID akan sajikan beberapa alasan kenapa menggunakan undanga
 
 ## 1\. Hanya Butuh Satu Undangan untuk Seluruh Tamu Acara
 
-Dengan menggunakan [undangan pernikahan online](https://acaranya.id), kamu hanya memerlukan satu undangan saja untuk mengundah seluruh tamu acara.
+Dengan menggunakan [undangan pernikahan online](/desain-undangan-digital/pernikahan/), kamu hanya memerlukan satu undangan saja untuk mengundah seluruh tamu acara.
 
 Artinya, nama tamu dalam undangan jenis ini bisa diubah tanpa batas sesuai jumlah tamu yang ingin diundang.
 
@@ -67,7 +67,7 @@ Fitur-fitur undangan digital ini mencakup:
 *   Halaman Live Streaming
 *   Turut Mengundang
 *   Guest Book
-*   Ucapan & [RSVP](/rsvp/)
+*   Ucapan & [RSVP](/fitur/)
 *   DLL, Cek selengkapnya **[DISINI](/fitur/)**
 
 ## 5\. Biaya Lebih Murah

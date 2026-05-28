@@ -30,7 +30,7 @@ Untuk merayakan momen ini, keluarga dan teman-teman diundang untuk menghadiri ac
 
 Surat undangan pernikahan tidak hanya berfungsi sebagai pengumuman acara, tetapi juga merupakan bentuk penghargaan kepada para tamu yang diundang.
 
-Oleh karena itu, sangat penting untuk memastikan bahwa informasi yang tercantum dalam [undangan pernikahan](https://acaranya.id) lengkap, jelas, dan mudah dipahami. Hal ini akan memudahkan para tamu untuk mengetahui detail acara pernikahan dan mempersiapkan diri mereka.
+Oleh karena itu, sangat penting untuk memastikan bahwa informasi yang tercantum dalam [undangan pernikahan](/desain-undangan-digital/pernikahan/) lengkap, jelas, dan mudah dipahami. Hal ini akan memudahkan para tamu untuk mengetahui detail acara pernikahan dan mempersiapkan diri mereka.
 
 ## Daftar Informasi yang Tercantum dalam Undangan Pernikahan
 

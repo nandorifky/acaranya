@@ -86,4 +86,4 @@ Dengan memahami perbedaan ini, Kamu akan lebih mudah dalam merencanakan pernikah
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID membuat pembuatan **[undangan pernikahan online](https://acaranya.id)** jadi lebih mudah, dengan berbagai tema yang bisa kamu pilih sesuai keinginan.
+Acaranya ID membuat pembuatan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** jadi lebih mudah, dengan berbagai tema yang bisa kamu pilih sesuai keinginan.

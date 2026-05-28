@@ -123,7 +123,7 @@ Dilansir dari WeddingWire, beberapa tren undangan pernikahan yang akan populer d
 2.  **Desain Minimalis**
 3.  **Sentuhan Personal**
 
-**[Undangan Digital](https://acaranya.id)**: Dengan kemajuan teknologi, undangan digital semakin populer. Ini tidak hanya ramah lingkungan tetapi juga lebih praktis dan hemat biaya.
+**[Undangan Digital](/desain-undangan-digital/)**: Dengan kemajuan teknologi, undangan digital semakin populer. Ini tidak hanya ramah lingkungan tetapi juga lebih praktis dan hemat biaya.
 
 **Desain Minimalis**: Desain yang sederhana dan elegan menjadi favorit banyak pasangan. Desain minimalis memberikan kesan yang modern dan timeless.
 

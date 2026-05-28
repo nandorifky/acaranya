@@ -82,4 +82,4 @@ Menikah dengan pasangan dari suku berbeda, seperti antara orang Jawa dan Sunda, 
 
 Pernikahan antara orang Jawa dan Sunda tidak dilarang secara hukum maupun agama. Mitos yang berkembang sebaiknya tidak dijadikan penghalang untuk membangun rumah tangga yang bahagia. Dengan saling pengertian, komunikasi yang baik, dan menghormati perbedaan, pernikahan antar suku dapat berjalan harmonis dan sukses.
 
-Jika kamu sedang merencanakan pernikahan, pertimbangkan untuk menggunakan [jasa undangan pernikahan digital](/jasa/undangan-pernikahan-digital/) dari Acaranya.id untuk memudahkan proses undangan dan memberikan kesan modern pada pernikahan kamu.
+Jika kamu sedang merencanakan pernikahan, pertimbangkan untuk menggunakan [jasa undangan pernikahan digital](/desain-undangan-digital/pernikahan/) dari Acaranya.id untuk memudahkan proses undangan dan memberikan kesan modern pada pernikahan kamu.

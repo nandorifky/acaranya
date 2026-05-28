@@ -29,7 +29,7 @@ Ketika membicarakan pernikahan, salah satu dokumen yang sering kali muncul adala
 
 Pertanyaan-pertanyaan ini sering kali mengemuka, terutama bagi yang hendak melangsungkan pernikahan.
 
-Bagi yang penasaran dengan detail buku nikah, artikel ini siap mengupas tuntas. Di sini [Acaranya.id](https://acaranya.id) akan dibahas secara menyeluruh tentang isi dari buku nikah, perbedaan antara buku nikah suami dan istri, serta bagaimana aturan ini diterapkan dalam perspektif agama Islam.
+Bagi yang penasaran dengan detail buku nikah, artikel ini siap mengupas tuntas. Di sini [Acaranya.id](/) akan dibahas secara menyeluruh tentang isi dari buku nikah, perbedaan antara buku nikah suami dan istri, serta bagaimana aturan ini diterapkan dalam perspektif agama Islam.
 
 Jangan lewatkan informasi penting yang mungkin belum diketahui banyak orang, apalagi jika ada rencana menikah dalam waktu dekat!
 

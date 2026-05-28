@@ -28,7 +28,7 @@ Artikel ini akan membahas berbagai aplikasi yang dapat digunakan untuk membuat u
 
 ## Mengapa Memilih Undangan Digital?
 
-Undangan digital menjadi pilihan populer karena beberapa alasan. Pertama, mereka sangat praktis dan efisien. Tidak perlu lagi mencetak ratusan undangan dan menghabiskan waktu untuk mengirimkannya satu per satu. Selain itu, **[undangan digital](https://acaranya.id)** memungkinkan untuk menghemat biaya yang biasanya dikeluarkan untuk percetakan.
+Undangan digital menjadi pilihan populer karena beberapa alasan. Pertama, mereka sangat praktis dan efisien. Tidak perlu lagi mencetak ratusan undangan dan menghabiskan waktu untuk mengirimkannya satu per satu. Selain itu, **[undangan digital](/desain-undangan-digital/)** memungkinkan untuk menghemat biaya yang biasanya dikeluarkan untuk percetakan.
 
 Kedua, undangan digital memberikan kemudahan dalam desain. Banyak aplikasi yang menawarkan berbagai template menarik yang bisa disesuaikan dengan tema acara. Dengan beberapa klik saja, undangan bisa terlihat profesional dan menarik perhatian. Dalam dunia yang serba cepat ini, fleksibilitas menjadi nilai tambah yang tidak bisa diabaikan.
 

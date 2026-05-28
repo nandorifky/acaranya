@@ -105,4 +105,4 @@ Pernikahan dalam Islam memiliki tujuan spiritual yang lebih tinggi, yaitu meraih
 
 * * *
 
-Untuk yang sedang mempersiapkan momen spesial seperti pernikahan atau anniversary, undangan digital bisa menjadi pilihan praktis dan elegan. Dengan Acaranya.id, buat [undangan digital modern](https://acaranya.id), mudah dibagikan, dan tetap sesuai syariat. Rayakan hari bahagia dengan cara yang lebih simpel dan tak terlupakan!
+Untuk yang sedang mempersiapkan momen spesial seperti pernikahan atau anniversary, undangan digital bisa menjadi pilihan praktis dan elegan. Dengan Acaranya.id, buat [undangan digital modern](/desain-undangan-digital/), mudah dibagikan, dan tetap sesuai syariat. Rayakan hari bahagia dengan cara yang lebih simpel dan tak terlupakan!

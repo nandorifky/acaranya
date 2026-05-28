@@ -148,8 +148,8 @@ Karena itu, berikut ini Acaranya.id berikan beberapa inspirasi **quotes untuk un
 
 Pernikahan adalah sebuah perjalanan yang dimulai dengan komitmen dan dilengkapi dengan cinta yang tulus. _Quotes_ yang telah dibagikan di atas memberikan berbagai perspektif tentang keindahan dan kekuatan cinta dalam hubungan pernikahan. Dari kata-kata Islami yang penuh makna hingga kutipan romantis dalam bahasa Inggris yang menyentuh hati, semua ini menegaskan bahwa cinta sejati tidak hanya ditemukan tetapi juga dibangun dan dipelihara.
 
-Mau quotes pernikahanmu terlihat menarik? Gunakan [undangan pernikahan online](https://acaranya.id) digital dari acaranya.id dan buat momen spesialmu semakin berkesan dengan desain yang unik dan profesional!
+Mau quotes pernikahanmu terlihat menarik? Gunakan [undangan pernikahan online](/desain-undangan-digital/pernikahan/) digital dari acaranya.id dan buat momen spesialmu semakin berkesan dengan desain yang unik dan profesional!
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Ciptakan **[undangan pernikahan online](https://acaranya.id)** yang indah dan personal dengan Acaranya ID. Kami menyediakan solusi praktis yang bisa kamu bagikan ke tamu undangan dalam hitungan detik.
+Ciptakan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang indah dan personal dengan Acaranya ID. Kami menyediakan solusi praktis yang bisa kamu bagikan ke tamu undangan dalam hitungan detik.

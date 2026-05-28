@@ -58,7 +58,7 @@ _Let’s dive into some inspiring_ contoh kata-kata love story yang bisa bikin u
 
 > **Buat Undangan Pernikahan Online Sehari Jadi dengan Acaranya ID**
 > 
-> Jika kamu butuh undangan pernikahan yang cepat, **Acaranya.id** menawarkan layanan **[undangan pernikahan online](https://acaranya.id)** yang bisa selesai dalam **sehari saja**. Kamu cukup pilih tema, tambahkan detail acara seperti tanggal, lokasi, dan informasi RSVP. Semua undangan bisa langsung dikirim ke tamu secara praktis.
+> Jika kamu butuh undangan pernikahan yang cepat, **Acaranya.id** menawarkan layanan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang bisa selesai dalam **sehari saja**. Kamu cukup pilih tema, tambahkan detail acara seperti tanggal, lokasi, dan informasi RSVP. Semua undangan bisa langsung dikirim ke tamu secara praktis.
 > 
 > Acaranya.id punya berbagai pilihan tema yang sesuai dengan konsep pernikahanmu. [Harganya juga terjangkau](/harga/), jadi kamu nggak perlu khawatir soal budget!
 > 
@@ -114,6 +114,6 @@ Ngomong-ngomong soal undangan digital, kalau kamu lagi cari platform yang bisa b
 
 Nggak cuma desain, fitur-fiturnya juga lengkap dan harganya terjangkau banget. Dan yang paling penting, kamu bisa bikin undangan dari rumah dengan mudah dan cepat. Praktis banget, kan?
 
-Jadi, tunggu apa lagi? Yuk, buat undangan digital kamu lebih spesial dengan love story yang mengharukan dan desain undangan dari **[Acaranya.id](https://acaranya.id)**. Jangan lupa untuk selalu berkreasi dan membuat momen-momen spesial dalam hidupmu jadi lebih berkesan!
+Jadi, tunggu apa lagi? Yuk, buat undangan digital kamu lebih spesial dengan love story yang mengharukan dan desain undangan dari **[Acaranya.id](/)**. Jangan lupa untuk selalu berkreasi dan membuat momen-momen spesial dalam hidupmu jadi lebih berkesan!
 
 Semoga artikel ini membantu dan menginspirasi kamu untuk menulis love story undangan digital yang memukau. Selamat menulis dan semoga acara kamu berjalan lancar!

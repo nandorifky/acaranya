@@ -107,4 +107,4 @@ Jika Kamu mencari MUA, pastikan untuk mempertimbangkan faktor-faktor seperti por
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Mudah, cepat, dan elegan! Buat [**undangan pernikahan online**](https://acaranya.id) dengan Acaranya ID dan bagikan dalam sekejap ke semua tamu.
+Mudah, cepat, dan elegan! Buat [**undangan pernikahan online**](/desain-undangan-digital/pernikahan/) dengan Acaranya ID dan bagikan dalam sekejap ke semua tamu.

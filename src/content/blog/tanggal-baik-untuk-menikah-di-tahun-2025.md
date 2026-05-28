@@ -96,4 +96,4 @@ Memilih tanggal baik untuk menikah adalah langkah penting yang dapat mempengaruh
 
 Dengan memahami berbagai perspektif ini, pasangan dapat membuat keputusan yang lebih bijak dan sesuai dengan keyakinan mereka.
 
-**Acaranya ID** merupakan jasa bikin [undangan pernikahan online](https://acaranya.id) yang siap turut serta memeriahkan acara pernikahanmu, pesan sekarang!
+**Acaranya ID** merupakan jasa bikin [undangan pernikahan online](/desain-undangan-digital/pernikahan/) yang siap turut serta memeriahkan acara pernikahanmu, pesan sekarang!

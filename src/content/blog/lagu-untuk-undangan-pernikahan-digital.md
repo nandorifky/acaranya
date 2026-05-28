@@ -23,7 +23,7 @@ customBreadcrumbLabel: 60 Rekomendasi Lagu untuk Undangan Pernikahan Digital Ter
 canonicalUrl: '/artikel/lagu-untuk-undangan-pernikahan-digital/'
 noindex: false
 ---
-Apakah pernah terpikir oleh seseorang bahwa musik bisa menjadi _soulmate_ untuk undangan digital? Di era serba online ini, [undangan pernikahan digital](https://acaranya.id) tidak hanya sekedar mengumumkan hari bahagia, tapi juga bisa mengekspresikan kisah cinta melalui melodi.
+Apakah pernah terpikir oleh seseorang bahwa musik bisa menjadi _soulmate_ untuk undangan digital? Di era serba online ini, [Undangan pernikahan digital](/desain-undangan-digital/pernikahan/) tidak hanya sekedar mengumumkan hari bahagia, tapi juga bisa mengekspresikan kisah cinta melalui melodi.
 
 Bayangkan, setiap tamu mendapat salam hangat melalui harmoni lagu romantis yang memainkan latar saat mereka membuka undangan online!
 

@@ -156,4 +156,4 @@ Jangan lupa untuk memilih kebaya yang nyaman dan sesuai dengan tema acara, agar 
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID memberikan solusi terbaik untuk kamu yang ingin membuat **[undangan pernikahan online](https://acaranya.id)** yang bisa langsung dibagikan via WhatsApp atau email.
+Acaranya ID memberikan solusi terbaik untuk kamu yang ingin membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang bisa langsung dibagikan via WhatsApp atau email.

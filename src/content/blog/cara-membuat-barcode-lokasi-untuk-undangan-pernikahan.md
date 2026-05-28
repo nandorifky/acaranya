@@ -90,4 +90,4 @@ Masukkan gambar **kode QR** ke dalam desain undangan pernikahan. Pastikan posisi
 
 Cara membuat barcode lokasi acara di undangan pernikahan sangat sederhana dan bisa dilakukan dengan mudah menggunakan aplikasi atau situs web pembuat kode QR. Dengan adanya barcode atau kode QR ini, tamu undangan akan lebih dimudahkan dalam menemukan lokasi acara hanya dengan sekali pindai, tanpa perlu khawatir tersesat.
 
-Jika ingin membuat [undangan pernikahan digital](https://acaranya.id) yang modern dan praktis, kami, Acaranya.id siap membantu. Undanganmu bisa dikustomisasi dengan fitur-fitur canggih, termasuk peta lokasi yang langsung terhubung dengan Google Maps, sehingga memudahkan tamu menemukan tempat acara secara cepat dan mudah.
+Jika ingin membuat [Undangan pernikahan digital](/desain-undangan-digital/pernikahan/) yang modern dan praktis, kami, Acaranya.id siap membantu. Undanganmu bisa dikustomisasi dengan fitur-fitur canggih, termasuk peta lokasi yang langsung terhubung dengan Google Maps, sehingga memudahkan tamu menemukan tempat acara secara cepat dan mudah.

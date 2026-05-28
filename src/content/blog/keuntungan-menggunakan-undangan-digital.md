@@ -23,7 +23,7 @@ customBreadcrumbLabel: 8 Keuntungan Menggunakan Undangan Digital
 canonicalUrl: '/artikel/keuntungan-menggunakan-undangan-digital/'
 noindex: false
 ---
-Apakah sudah saatnya berpindah dari **undangan kertas** yang seringkali memakan biaya dan waktu, menuju **[undangan digital](https://acaranya.id)** yang lebih praktis dan efisien? Bagaimana jika undangan dapat disebar secara luas hanya dengan satu klik tanpa harus mencetaknya? Inilah saat yang tepat untuk mengeksplorasi berbagai keuntungan dari undangan digital.
+Apakah sudah saatnya berpindah dari **undangan kertas** yang seringkali memakan biaya dan waktu, menuju **[undangan digital](/desain-undangan-digital/)** yang lebih praktis dan efisien? Bagaimana jika undangan dapat disebar secara luas hanya dengan satu klik tanpa harus mencetaknya? Inilah saat yang tepat untuk mengeksplorasi berbagai keuntungan dari undangan digital.
 
 Bagi yang penasaran, artikel ini akan membahas secara mendalam berbagai manfaat dan keuntungan dari **undangan digital**.
 

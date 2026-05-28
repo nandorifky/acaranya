@@ -133,4 +133,4 @@ Pernikahan adalah ibadah seumur hidup yang akan mempengaruhi banyak aspek kehidu
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Mau [undangan pernikahan online](https://acaranya.id) yang elegan dan praktis? Acaranya ID memberikan solusi terbaik untuk kamu. Desain modern dan kemudahan berbagi hanya dengan satu klik.
+Mau [undangan pernikahan online](/) yang elegan dan praktis? Acaranya ID memberikan solusi terbaik untuk kamu. Desain modern dan kemudahan berbagi hanya dengan satu klik.

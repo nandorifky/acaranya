@@ -146,11 +146,11 @@ Musik gamelan yang mengiringi tarian ini menambah nuansa tradisional yang kuat, 
 
 ![undangan pernikahan digital tanpa foto](/images/blog/content/undangan-pernikahan-digital-tanpa-foto.jpg)
 
-Untuk memudahkan proses penyebaran undangan, saat ini banyak keluarga menggunakan undangan digital. Salah satu jasa terpercaya untuk membuat undangan digital ngunduh mantu adalah [**Acaranya ID**](https://acaranya.id).
+Untuk memudahkan proses penyebaran undangan, saat ini banyak keluarga menggunakan undangan digital. Salah satu jasa terpercaya untuk membuat undangan digital ngunduh mantu adalah [**Acaranya ID**](/).
 
 Di sini, undangan digital bisa dirancang sesuai dengan tema dan preferensi acara, memberikan kemudahan untuk mengundang tamu secara praktis melalui platform online.
 
-Dengan **Acaranya.id**, [undangan digital](https://acaranya.id) dapat didesain dengan berbagai fitur menarik seperti [RSVP online](/rsvp/), peta lokasi acara, dan video presentasi yang membuat acara ngunduh mantu lebih modern tanpa menghilangkan nilai tradisionalnya.
+Dengan **Acaranya.id**, [undangan digital](/desain-undangan-digital/) dapat didesain dengan berbagai fitur menarik seperti [RSVP online](/rsvp/), peta lokasi acara, dan video presentasi yang membuat acara ngunduh mantu lebih modern tanpa menghilangkan nilai tradisionalnya.
 
 * * *
 

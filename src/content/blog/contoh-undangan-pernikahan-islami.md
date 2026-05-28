@@ -76,7 +76,7 @@ Pada dasarnya, saat ini sudah banyak platform yang memfasilitasi penggunanya unt
 
 Ini menjadi salah satu jenis undangan digital yang cukup populer saat ini. Ya, undangan website yang mana tidak semua orang mengerti tentang website. Itulah mengapa undangan jenis ini banyak digadang-gadang oleh calon pengantin.
 
-Undangan ini memiliki banyak sekali pilihan desain yang cukup menarik dan elegan. Seperti beberapa gambar diatas, yang merupakan [undangan pernikahan online](https://acaranya.id) dengan desain islami yang ditawarkan oleh **Acaranya.id** dengan fitur yang lengkap.
+Undangan ini memiliki banyak sekali pilihan desain yang cukup menarik dan elegan. Seperti beberapa gambar diatas, yang merupakan [undangan pernikahan online](/) dengan desain islami yang ditawarkan oleh **Acaranya.id** dengan fitur yang lengkap.
 
 Beberapa fitur undangan website yang kami tawarkan yaitu seperti:
 
@@ -92,7 +92,7 @@ Beberapa fitur undangan website yang kami tawarkan yaitu seperti:
 10.  Ganti musik
 11.  Dll.
 
-Menariknya, kamu bisa mendapatkan semua fitur lengkap tersebut dengan harga yang cukup murah! Untuk melihat pilihan tema lain, kamu bisa membuka halaman [**desain undangan pernikahan**](/desain-undangan-digital/).
+Menariknya, kamu bisa mendapatkan semua fitur lengkap tersebut dengan harga yang cukup murah! Untuk melihat pilihan tema lain, kamu bisa membuka halaman [**desain undangan pernikahan**](/desain-undangan-digital/pernikahan/).
 
 ## Contoh Desain Undangan Pernikahan Islami Sederhana
 

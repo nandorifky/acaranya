@@ -94,4 +94,4 @@ Pastikan Anda mempersiapkan segalanya dengan baik agar hari bahagia Anda berjala
 
 ## Digitalkan Undanganmu dengan Acaranya ID
 
-Kami menyediakan layanan profesional untuk membuat **[undangan pernikahan online](https://acaranya.id)** berbasis website yang mudah digunakan, elegan, dan praktis. Acaranya ID hadir untuk membantu Anda menyampaikan undangan dengan cara yang modern dan hemat biaya.
+Kami menyediakan layanan profesional untuk membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** berbasis website yang mudah digunakan, elegan, dan praktis. Acaranya ID hadir untuk membantu Anda menyampaikan undangan dengan cara yang modern dan hemat biaya.

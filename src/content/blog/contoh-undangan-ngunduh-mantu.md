@@ -266,7 +266,7 @@ Dengan layanan kami, kamu bisa fokus menikmati hari istimewa tanpa harus khawati
 
 Acaranya.id menjadi solusi buat kamu yang ingin memiliki undangan pernikahan digital untuk berbagai acara. Kamu berhak terima jadi, dan revisi sepuasnya!
 
-[Selengkapnya](https://acaranya.id)
+[Selengkapnya](/)
 
 [Hubungi Kami](https://wa.me/62895395094329)
 
@@ -276,7 +276,7 @@ Jika kamu ingin membuat undangan sendiri, ada beberapa cara yang bisa dipilih:
 
 *   **Desain Mandiri**: Gunakan aplikasi seperti Adobe Illustrator atau Photoshop untuk membuat desain undangan sesuai selera.
 *   **Platform Undangan**: Manfaatkan platform seperti Canva yang menyediakan berbagai template undangan digital yang mudah disesuaikan.
-*   **Jasa Undangan Digital Profesional**: Jika ingin mendapatkan undangan digital terima jadi dengan desain sesuai selera, kamu bisa mempertimbangkan untuk menggunakan layanan [Acaranya.id](https://acaranya.id).
+*   **Jasa Undangan Digital Profesional**: Jika ingin mendapatkan undangan digital terima jadi dengan desain sesuai selera, kamu bisa mempertimbangkan untuk menggunakan layanan [Acaranya.id](/).
 
 * * *
 

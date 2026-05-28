@@ -88,4 +88,4 @@ Dengan memahami siapa prioritas suami setelah menikah dan mengikuti panduan yang
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Dengan Acaranya ID, buat **[undangan pernikahan online](https://acaranya.id)** yang lebih personal dan mudah diakses oleh semua tamu. Tidak ada lagi ribetnya undangan cetak!
+Dengan Acaranya ID, buat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang lebih personal dan mudah diakses oleh semua tamu. Tidak ada lagi ribetnya undangan cetak!

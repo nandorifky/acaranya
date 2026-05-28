@@ -22,11 +22,11 @@ customBreadcrumbLabel: 7 Tren Desain Undangan Pernikahan Digital 2025
 canonicalUrl: '/artikel/7-tren-desain-undangan-pernikahan-digital-2025/'
 noindex: false
 ---
-Halo calon pengantin dan para pejuang acara! Kalau kamu lagi cari inspirasi buat undangan pernikahan yang kekinian, pas banget! Di sini kita bakal bahas tren [desain undangan digita](/desain-undangan-digital/)l yang sedang hits di tahun ini!
+Halo calon pengantin dan para pejuang acara! Kalau kamu lagi cari inspirasi buat undangan pernikahan yang kekinian, pas banget! Di sini kita bakal bahas tren [desain undangan digital](/desain-undangan-digital/) yang sedang hits di tahun ini!
 
 Kenapa sih harus update sama tren? Selain biar undangannya nggak ketinggalan zaman, desain yang fresh juga bikin tamu-tamu kamu makin antusias buat datang ke hari spesialmu. Apalagi sekarang semua serba digital, undangan pun jadi ajang pamer kreativitas!
 
-Yuk langsung aja kita intip apa saja sih tren desain [undangan pernikahan pernikahan](/jasa/undangan-pernikahan-digital/) di tahun 2025:
+Yuk langsung aja kita intip apa saja sih tren desain [undangan pernikahan pernikahan](/desain-undangan-digital/pernikahan/) di tahun 2025:
 
 ## 1\. NIKAHFIX
 

@@ -78,4 +78,4 @@ Bagi kamu yang berniat untuk menikah, pahami terlebih dahulu tujuan-tujuan mulia
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID adalah layanan untuk membuat **[undangan pernikahan online](https://acaranya.id)** dengan desain menarik dan mudah dibagikan. Buat pernikahanmu lebih praktis dan efisien sekarang juga!
+Acaranya ID adalah layanan untuk membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan)** dengan desain menarik dan mudah dibagikan. Buat pernikahanmu lebih praktis dan efisien sekarang juga!

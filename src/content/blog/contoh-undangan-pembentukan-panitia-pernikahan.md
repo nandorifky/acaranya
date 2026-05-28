@@ -32,7 +32,7 @@ Undangan rapat dapat kamu kirimkan untuk meminta kehadiran orang lain dalam berk
 
 Biasanya, H-7 atau seminggu sebelum resepsi pernikahan berlangsung, calon pengantin mengadakan rapat pembentukan panitia. Hal ini bertujuan untuk meminta tolong teman ataupun orang lain untuk membantu melancarkan acara pernikahan tersebut.
 
-Dalam artikel ini, [Acaranya.id](https://acaranya.id) akan memberikan beberapa **contoh undangan rapat panitia pernikahan** yang bisa kamu jadikan sebagai referensi.
+Dalam artikel ini, [Acaranya.id](/) akan memberikan beberapa **contoh undangan rapat panitia pernikahan** yang bisa kamu jadikan sebagai referensi.
 
 ## Contoh Undangan Pembentukan Panitia Pernikahan
 

@@ -59,7 +59,7 @@ Undangan adalah elemen penting dalam persiapan pernikahan karena ini adalah cara
 
 Saat memilih vendor undangan, pastikan mereka mampu menyediakan desain yang sesuai dengan tema pernikahan kamu, baik dalam bentuk undangan fisik maupun digital.
 
-Saat ini, [undangan pernikahan digital](https://acaranya.id) semakin populer karena lebih praktis dan ramah lingkungan. Undangan digital memungkinkan kamu untuk mengirimkan undangan melalui email, media sosial, atau pesan instan.
+Saat ini, [Undangan pernikahan digital](/desain-undangan-digital/pernikahan/) semakin populer karena lebih praktis dan ramah lingkungan. Undangan digital memungkinkan kamu untuk mengirimkan undangan melalui email, media sosial, atau pesan instan.
 
 Selain itu, undangan digital juga mempermudah tamu untuk RSVP secara online dan memberikan informasi tambahan seperti link lokasi via peta digital, jadwal acara, dan dress code.
 
@@ -72,7 +72,7 @@ Beberapa keuntungan menggunakan undangan digital adalah:
 
 Namun, kamu tetap bisa menggabungkan undangan fisik untuk tamu-tamu tertentu, seperti keluarga besar atau tamu istimewa yang mungkin tidak terbiasa dengan teknologi digital.
 
-[Pesan Undangan Digital](https://acaranya.id)
+[Pesan Undangan Digital](/order-undangan/)
 
 ### 4\. Dekorasi
 
@@ -127,4 +127,4 @@ Dengan memilih vendor pernikahan yang tepat dan menjalin komunikasi yang baik, k
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Kini, kamu bisa membuat **[undangan pernikahan online](https://acaranya.id)** yang elegan dan mudah dibagikan kepada tamu. Acaranya ID memberikan solusi terbaik untuk momen spesialmu.
+Kini, kamu bisa membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang elegan dan mudah dibagikan kepada tamu. Acaranya ID memberikan solusi terbaik untuk momen spesialmu.

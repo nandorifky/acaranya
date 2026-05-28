@@ -49,7 +49,7 @@ Kunjungi beberapa lokasi untuk membandingkan harga, fasilitas, dan kapasitasnya.
 
 Menentukan siapa saja yang diundang bisa jadi salah satu tugas yang membutuhkan diskusi panjang antara kalian berdua.
 
-Setelah daftar selesai, mulailah memikirkan desain undangan. Jika ingin lebih hemat, banyak platform online yang menawarkan [pembuatan undangan digital seperti Acaranya ID](https://acaranya.id), sehingga kalian bisa mengurangi biaya cetak.
+Setelah daftar selesai, mulailah memikirkan desain undangan. Jika ingin lebih hemat, banyak platform online yang menawarkan [pembuatan undangan digital seperti Acaranya ID](/), sehingga kalian bisa mengurangi biaya cetak.
 
 ## 4\. Pilih Vendor dengan Teliti
 

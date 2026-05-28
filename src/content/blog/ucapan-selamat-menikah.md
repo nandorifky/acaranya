@@ -162,6 +162,6 @@ Konsep **samawa** sering kali menjadi panduan bagi pasangan yang menginginkan ke
 
 * * *
 
-Itulah kumpulan ucapan selamat menikah yang bisa dijadikan referensi. Ucapan pernikahan tentu tidak bisa dipilih secara sembarangan, sama seperti saat memilih [**undangan digital**](https://acaranya.id) yang harus dirancang dengan baik agar sesuai dengan tema dan kepribadian pengantin!
+Itulah kumpulan ucapan selamat menikah yang bisa dijadikan referensi. Ucapan pernikahan tentu tidak bisa dipilih secara sembarangan, sama seperti saat memilih [**undangan digital**](/desain-undangan-digital/) yang harus dirancang dengan baik agar sesuai dengan tema dan kepribadian pengantin!
 
-Jika sedang mencari solusi praktis untuk undangan, **[Acaranya ID](https://acaranya.id)** menawarkan berbagai pilihan undangan digital yang modern, mudah diakses, dan dapat disesuaikan dengan keinginan. Dengan undangan digital, acara pernikahan bisa disebarkan lebih cepat dan tampil lebih elegan!
+Jika sedang mencari solusi praktis untuk undangan, **[Acaranya ID](/)** menawarkan berbagai pilihan undangan digital yang modern, mudah diakses, dan dapat disesuaikan dengan keinginan. Dengan undangan digital, acara pernikahan bisa disebarkan lebih cepat dan tampil lebih elegan!

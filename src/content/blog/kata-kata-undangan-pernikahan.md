@@ -23,7 +23,7 @@ customBreadcrumbLabel: Kata-Kata Undangan Pernikahan
 canonicalUrl: '/artikel/kata-kata-undangan-pernikahan/'
 noindex: false
 ---
-Jika kamu telah memilih gaya [undangan pernikahan](https://acaranya.id) yang kamu inginkan dan membaca dengan teliti artikel kami, maka inilah saatnya untuk memutuskan kata-kata undangan pernikahan kamu.
+Jika kamu telah memilih gaya [undangan pernikahan](/desain-undangan-digital/pernikahan/) yang kamu inginkan dan membaca dengan teliti artikel kami, maka inilah saatnya untuk memutuskan kata-kata undangan pernikahan kamu.
 
 Kami telah menyusun panduan yang sempurna untuk membantu kamu meminimalkan stres dan memilih kata-kata yang akan mengatur nada yang sempurna untuk hari pernikahan kamu.
 

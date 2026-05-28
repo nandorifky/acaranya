@@ -9,7 +9,10 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "check-links": "node scripts/check-links.cjs",
+    "check-links:internal": "node scripts/check-links.cjs --internal-only",
+    "check-homepage-links": "node scripts/check-homepage-links.cjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^13.5.4",
