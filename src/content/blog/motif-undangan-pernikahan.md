@@ -2,7 +2,7 @@
 title: Ragam Motif Undangan Pernikahan yang Elegan dan Berkesan
 description: Temukan ragam motif undangan pernikahan yang cantik, elegan, dan sesuai tema acara. Ada motif simple, floral, batik, mewah, hingga digital.
 publishedAt: 2026-04-08T17:51:00
-updatedAt: 2026-05-25T04:30:00+07:00
+updatedAt: 2026-05-28T21:58:00
 author: indira
 category: Inspirasi
 tags:
