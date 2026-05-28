@@ -64,5 +64,3 @@ Agar penyebaran undangan digital Anda berjalan lancar dan berkesan positif bagi 
 * **Gunakan Nama Tamu Secara Personal:** Hindari mengirimkan pesan *broadcast massal* tanpa menyebutkan nama. Ketik nama mereka satu per satu pada salam pembuka (contoh: *Yth. Bapak Ahmad*).
 * **Kirimkan Jauh-Jauh Hari:** Waktu terbaik menyebarkan link undangan digital lewat WA adalah **2 minggu sampai 1 bulan sebelum hari H**. Ini memberi waktu yang cukup bagi tamu untuk mengatur jadwal kesibukan mereka.
 * **Manfaatkan Fitur RSVP Acaranya.id:** Selalu ingatkan tamu untuk mengklik tombol RSVP di undangan digital Anda agar Anda bisa mendapat kepastian jumlah porsi katering secara real-time.
-
-{% design_showcase templates=["wedding-elegant-gold", "wedding-modern-minimalist"] /%}
