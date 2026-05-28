@@ -132,11 +132,13 @@ Untuk contoh format dan desain yang lebih spesifik, kamu bisa melihat [contoh un
 
 ### 10. Motif Undangan Digital Website
 
+{% design_showcase templates=["minimalist-cream", "chestnut-art", "novianty", "salsa"] /%}
+
 Motif undangan digital website memberi ruang desain yang lebih fleksibel. Kamu bisa memakai tema simple, floral, adat, mewah, rustic, atau tanpa foto, lalu menambahkan fitur yang membuat undangan lebih interaktif.
 
 Biasanya undangan website bisa memuat detail acara, galeri foto, peta lokasi, RSVP, amplop digital, musik latar, countdown, sampai buku tamu digital. Dengan format ini, undangan tidak hanya menjadi media informasi, tetapi juga bagian dari pengalaman tamu sebelum menghadiri acara.
 
-Kalau kamu ingin melihat bentuknya, baca juga [contoh undangan pernikahan digital](/artikel/contoh-undangan-pernikahan-digital/) atau langsung lihat pilihan tema di halaman [desain undangan digital Acaranya.id](/desain/).
+Kalau kamu ingin melihat bentuknya, baca juga [contoh undangan pernikahan digital](/desain-undangan-digital/pernikahan/) atau langsung lihat pilihan tema di halaman [desain undangan digital Acaranya.id](/desain/).
 
 ## Rekomendasi Motif Berdasarkan Tema Pernikahan
 
