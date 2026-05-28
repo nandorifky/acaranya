@@ -37,7 +37,7 @@ Punya teman dekat yang akan menikah? Pastinya ingin memberikan **ucapan** yang b
 2.  “Hei, akhirnya resmi juga ya! Semoga kebahagiaan dan cinta kasih selalu mengalir dalam rumah tangga kalian.”
 3.  “Dari kita yang sudah lama kenal, akhirnya sampai juga di titik ini. Semoga Tuhan selalu memberkati perjalanan hidup kalian bersama.”
 
-Menurut data yang dilansir dari [Research Journal](https://example.com), memberikan ucapan yang personal dan tulus mampu mempererat hubungan pertemanan.
+Menurut data yang dilansir dari Research Journal, memberikan ucapan yang personal dan tulus mampu mempererat hubungan pertemanan.
 
 ## 2\. Ucapan untuk Sahabat Terbaik
 
@@ -87,7 +87,7 @@ Bagi teman atau sahabat yang jauh, ucapan ini bisa jadi cara untuk menunjukkan b
 2.  “Jarak tidak mengurangi kebahagiaan yang dirasakan untukmu. Selamat menempuh hidup baru!”
 3.  “Selamat menikah! Semoga kalian selalu diberikan kebahagiaan meski jarak memisahkan kita.”
 
-Menurut penelitian yang dilansir dari [National Institute of Marriage](https://example.com), komunikasi yang tulus, termasuk melalui **ucapan**, memainkan peran penting dalam menjaga hubungan meskipun berjauhan.
+Menurut penelitian yang dilansir dari National Institute of Marriage, komunikasi yang tulus, termasuk melalui **ucapan**, memainkan peran penting dalam menjaga hubungan meskipun berjauhan.
 
 ## 7\. Ucapan Kreatif untuk Pasangan yang Unik
 

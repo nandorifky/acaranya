@@ -271,4 +271,4 @@ Gen Z membawa arah baru dalam dunia pernikahan. Mereka menyukai konsep yang lebi
 
 Dari intimate wedding sampai storytelling wedding, setiap konsep punya ruang untuk diperkuat dengan undangan digital. Mulai dari RSVP, maps, galeri foto, custom nama tamu, hingga informasi rundown, semuanya membantu acara terasa lebih rapi sejak tamu menerima undangan.
 
-Jika bisnis wedding ingin menambah layanan bernilai tinggi tanpa membangun sistem sendiri, kerja sama [reseller undangan digital](https://chatgpt.com/reseller-undangan-digital/) bisa menjadi langkah yang praktis. Paket wedding terasa lebih lengkap, klien mendapat pengalaman digital yang modern, dan vendor punya peluang margin tambahan dari layanan yang memang sedang dibutuhkan pasar.
+Jika bisnis wedding ingin menambah layanan bernilai tinggi tanpa membangun sistem sendiri, kerja sama [reseller undangan digital](/reseller-undangan-digital/) bisa menjadi langkah yang praktis. Paket wedding terasa lebih lengkap, klien mendapat pengalaman digital yang modern, dan vendor punya peluang margin tambahan dari layanan yang memang sedang dibutuhkan pasar.

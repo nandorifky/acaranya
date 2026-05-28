@@ -83,7 +83,7 @@ Berikut ini deretan template undangan pernikahan terbaik di Canva yang bisa kamu
 *   Konsep Desain: Minimalis, Aesthetic, Modern
 *   Warna: Red Maroon
 
-[Edit Desain](https://www.canva.com/design?create&type=TABQqqo4v1s&template=EAFn2IlKNpw&category=tAEwhV3GgCA&analyticsCorrelationId=73876756-eafa-4d75-9e25-af937ab0fb12)
+[Edit Desain](https://www.canva.com/design/DAHK_HDuIIg/nVZuQcgp3Se92g4THzbbtA/edit)
 
 ### 6\. Pink Gold Islamic Elegant Watercolor Wedding Invitation
 

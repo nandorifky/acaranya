@@ -32,7 +32,7 @@ Undangan pernikahan menjadi hal penting untuk sebuah acara resepsi. Tentu, resep
 
 Disamping itu, undangan pernikahan juga memiliki tampilan yang berbeda jika dibandingkan dengan undangan untuk acara lainnya. Yang mana, dibuat agar memiliki tampilan yang lebih menarik.
 
-Dengan menggunakan [kata-kata bahasa Inggris dalam undangan pernikahan](http://\"/artikel/contoh-undangan-pernikahan-bahasa-inggris/), kamu juga akan membuatnya lebih kekinian dan terlihat profesional.
+Dengan menggunakan [kata-kata bahasa Inggris dalam undangan pernikahan](/artikel/contoh-undangan-pernikahan-bahasa-inggris/), kamu juga akan membuatnya lebih kekinian dan terlihat profesional.
 
 ## Contoh Undangan Pernikahan Bahasa Inggris dan Artinya
 

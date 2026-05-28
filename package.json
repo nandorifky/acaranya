@@ -12,7 +12,10 @@
     "astro": "astro",
     "check-links": "node scripts/check-links.cjs",
     "check-links:internal": "node scripts/check-links.cjs --internal-only",
-    "check-homepage-links": "node scripts/check-homepage-links.cjs"
+    "check-homepage-links": "node scripts/check-homepage-links.cjs",
+    "check-obl": "node scripts/check-outbound-links.cjs",
+    "check-images": "node scripts/check-images.cjs",
+    "check-seo": "node scripts/check-seo.cjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^13.5.4",

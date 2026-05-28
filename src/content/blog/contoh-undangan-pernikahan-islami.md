@@ -188,9 +188,9 @@ Untuk kamu yang tidak ingin ribet membuat desain undangan sendiri dengan tema is
 
 Template ini memiliki beberapa format, yang mana bisa kamu sesuaikan dengan software yang digunakan.
 
-*   CDR (CorelDraw): [Download](https://www.freepik.com/free-vector/floral-wedding-invitation-template_3866051.htm)
-*   DOC (Microsoft Word): [Download](https://www.temploola.com/wedding-invitations/item/geometric-winter-template/)
-*   Vector/EPS (Adobe Ilustrator): [Download](https://www.freepik.com/free-vector/wedding-invitation-menu-template-with-beautiful-leaves_5575672.htm#page=1&query=invite&position=25)
+*   CDR (CorelDraw): [Download](#)
+*   DOC (Microsoft Word): [Download](https://www.temploola.com/wedding-invitations/item/geometric-winter-template/){:rel="nofollow"}
+*   Vector/EPS (Adobe Ilustrator): [Download](#){:rel="nofollow"}
 
 * * *
 

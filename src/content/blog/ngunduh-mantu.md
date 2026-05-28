@@ -24,7 +24,7 @@ noindex: false
 ---
 Tradisi pernikahan di Indonesia memiliki ragam budaya yang menarik, salah satunya adalah prosesi ngunduh mantu. Apa sebenarnya ngunduh mantu, dan bagaimana susunan acara serta tata cara yang dilakukan dalam tradisi ini?
 
-Tidak sedikit yang penasaran mengenai makna di balik prosesi ini, terutama bagi yang akan menjalani atau sekadar ingin memahami adat pernikahan Jawa, terutama [Jawa Tengah](https://infojatengpos.com/) dan Jawa Timur.
+Tidak sedikit yang penasaran mengenai makna di balik prosesi ini, terutama bagi yang akan menjalani atau sekadar ingin memahami adat pernikahan Jawa, terutama [Jawa Tengah](https://infojatengpos.com/){:rel="nofollow"} dan Jawa Timur.
 
 Artikel ini akan mengulas tuntas tentang **ngunduh mantu**, mulai dari pengertiannya hingga tata cara yang sering dilakukan dalam prosesi tersebut. Yuk, simak lebih lanjut agar dapat memahami tradisi ini dengan lebih baik.
 

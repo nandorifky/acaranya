@@ -127,7 +127,7 @@ Berikut adalah beberapa contoh ucapan untuk sahabat yang menikah:
 
 ### 6\. Ucapan Pernikahan yang Sederhana Tapi Penuh Makna
 
-Kata-kata sederhana terkadang lebih kuat dan menyentuh. Ucapan yang simpel namun [langsung ke intinya](https://www.farisyudza.com/komunikasi-konteks-rendah-langsung-dan-eksplisit/) bisa membuat kartu ucapanmu terasa lebih tulus dan mengesankan.
+Kata-kata sederhana terkadang lebih kuat dan menyentuh. Ucapan yang simpel namun langsung ke intinya bisa membuat kartu ucapanmu terasa lebih tulus dan mengesankan.
 
 Contoh ucapan sederhana namun berkesan:
 

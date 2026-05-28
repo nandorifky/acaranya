@@ -163,7 +163,7 @@ dilanjutkan dengan resepsi di
 \_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_  _\[kota / kota tempat resepsi pernikahan akan berlangsung \]_  
 RSVP  _\[tanggal RSVP dibutuhkan oleh / cara RSVP\]_ 
 
-**BACA JUGA: [Contoh Undangan Perniakahan](https://acaranyaid.local/artikel/contoh-undangan-pernikahan/)**
+**BACA JUGA: [Contoh Undangan Perniakahan](/desain-undangan-digital/pernikahan/)**
 
 ### 4\. Kata-Kata Undangan Pernikahan dan Nama Para Tamu
 
