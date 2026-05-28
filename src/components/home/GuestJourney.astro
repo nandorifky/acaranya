@@ -3,126 +3,234 @@ import Container from "../base/Container.astro";
 import Icon from "../ui/Icon.astro";
 ---
 
-<section class="py-24 bg-[#FAF9F6] border-y border-[#B59A73]/20 relative overflow-hidden" id="guest-journey">
+<section
+  class="py-24 bg-[#FAF9F6] border-y border-[#B59A73]/20 relative overflow-hidden"
+  id="guest-journey"
+>
   <!-- Decorative Background Glow -->
-  <div class="absolute left-[-10%] bottom-0 w-[450px] h-[450px] rounded-full bg-brand-200/10 blur-[100px] pointer-events-none"></div>
+  <div
+    class="absolute left-[-10%] bottom-0 w-[450px] h-[450px] rounded-full bg-brand-200/10 blur-[100px] pointer-events-none"
+  >
+  </div>
 
   <Container>
-    <div class="text-center max-w-[680px] mx-auto space-y-4 mb-20 animate-fade-in">
-      <div class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md">
+    <div
+      class="text-center max-w-[680px] mx-auto space-y-4 mb-20 animate-fade-in"
+    >
+      <div
+        class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md"
+      >
         <span class="w-1.5 h-1.5 rounded-full bg-soft-gold"></span>
-        <span class="text-[9px] uppercase tracking-[0.2em] font-bold text-brand-700">Akses Undangan Digital Mudah</span>
+        <span
+          class="text-[9px] uppercase tracking-[0.2em] font-bold text-brand-700"
+          >Akses Undangan Digital Mudah</span
+        >
       </div>
-      
+
       <h2 class="font-serif text-4xl sm:text-5xl text-brand-950 leading-tight">
-        Pengalaman Tamu Membuka <span class="italic font-normal text-soft-gold">Undangan Pernikahan</span> yang Sempurna.
+        Pengalaman Tamu Membuka <span class="italic font-normal text-soft-gold"
+          >Undangan Pernikahan</span
+        > yang Sempurna.
       </h2>
-      
-      <p class="text-text-secondary text-sm sm:text-base leading-relaxed font-sans">
-        Kami merancang ekosistem undangan pernikahan online yang ramah bagi segala usia—mulai dari kemudahan membuka pesan hingga pendaftaran kehadiran yang lancar di hari resepsi.
+
+      <p
+        class="text-text-secondary text-sm sm:text-base leading-relaxed font-sans"
+      >
+        Kami merancang ekosistem undangan pernikahan online yang ramah bagi
+        segala usia—mulai dari kemudahan membuka pesan hingga pendaftaran
+        kehadiran yang lancar di hari resepsi.
       </p>
     </div>
 
     <!-- Timeline Grid Layout -->
-    <div class="relative grid grid-cols-1 md:grid-cols-4 gap-8 lg:gap-12 items-start z-10">
-      
+    <div
+      class="relative grid grid-cols-1 md:grid-cols-4 gap-8 lg:gap-12 items-start z-10"
+    >
       <!-- Connective Line (Desktop only) -->
-      <div class="absolute top-[52px] left-[12%] right-[12%] h-[1.5px] border-t border-dashed border-[#B59A73]/30 hidden md:block z-0"></div>
+      <div
+        class="absolute top-[32px] left-[12.5%] right-[12.5%] h-[1.5px] border-t border-dashed border-[#B59A73]/30 hidden md:block z-0"
+      >
+      </div>
 
-      <!-- Step 1 -->
-      <div class="relative z-10 group text-center space-y-5 animate-fade-in" style="animation-delay: 0.1s;">
+      <!-- Step 1: Dapat Pesan WhatsApp -->
+      <div
+        class="relative z-10 group text-center space-y-5 animate-fade-in"
+        style="animation-delay: 0.1s;"
+      >
         <!-- Timeline Icon Marker -->
-        <div class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300">
+        <div
+          class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300"
+        >
           <Icon name="whatsapp" size={24} />
         </div>
-        
+
         <div class="space-y-2 max-w-[240px] mx-auto">
-          <span class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans">Langkah 01</span>
-          <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">WhatsApp Blast Personal</h4>
-          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Tamu menerima pesan WhatsApp dengan nama mereka tertulis secara personal dan mewah tanpa kesan massal (spam).</p>
+          <span
+            class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans"
+            >Langkah 01</span
+          >
+          <h4
+            class="text-xs font-black uppercase tracking-wider text-brand-950"
+          >
+            Dapat Pesan WhatsApp
+          </h4>
+          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">
+            Tamu menerima pesan WhatsApp dengan nama mereka tertulis secara
+            personal dan mewah tanpa kesan massal (spam).
+          </p>
         </div>
 
         <!-- Simulated WhatsApp Mini-Bubble -->
-        <div class="bg-white/80 border border-brand-200/30 p-3 rounded-xl shadow-xs text-left max-w-[200px] mx-auto text-[8.5px] leading-relaxed font-sans text-brand-900">
+        <div
+          class="bg-white/80 border border-brand-200/30 p-3 rounded-xl shadow-xs text-left max-w-[200px] mx-auto text-[8.5px] leading-relaxed font-sans text-brand-900"
+        >
           <div class="flex items-center gap-1.5 mb-1.5">
             <span class="w-1.5 h-1.5 rounded-full bg-success"></span>
-            <span class="font-extrabold uppercase text-text-muted text-[7px]">WhatsApp Blast</span>
+            <span class="font-extrabold uppercase text-text-muted text-[7px]"
+              >WhatsApp Blast</span
+            >
           </div>
           Dear <b>Bpk. Hendra & Partner</b>, kami mengundang Anda...
         </div>
       </div>
 
-      <!-- Step 2 -->
-      <div class="relative z-10 group text-center space-y-5 animate-fade-in" style="animation-delay: 0.2s;">
+      <!-- Step 2: Visual yang Cantik -->
+      <div
+        class="relative z-10 group text-center space-y-5 animate-fade-in"
+        style="animation-delay: 0.2s;"
+      >
         <!-- Timeline Icon Marker -->
-        <div class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300">
-          <Icon name="mail" size={24} />
-        </div>
-        
-        <div class="space-y-2 max-w-[240px] mx-auto">
-          <span class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans">Langkah 02</span>
-          <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">Pembukaan yang Anggun</h4>
-          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Undangan terbuka dengan animasi amplop virtual mewah. Alunan musik latar langsung mengalun merdu tanpa tersendat.</p>
+        <div
+          class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300"
+        >
+          <Icon name="sparkles" size={24} />
         </div>
 
-        <!-- Simulated Visual Indicator -->
-        <div class="relative w-[120px] h-[75px] rounded-xl overflow-hidden shadow-xs border border-brand-200/30 mx-auto bg-brand-950 flex items-center justify-center">
-          <img 
-            src="https://images.unsplash.com/photo-1469371670807-013ccf25f16a?q=80&w=300"
-            alt="Membuka amplop undangan digital"
-            class="absolute inset-0 w-full h-full object-cover opacity-50 filter sepia-[20%]"
-            loading="lazy"
-          />
-          <span class="relative text-[7.5px] uppercase tracking-widest text-cream font-bold border border-cream/30 px-2.5 py-1 rounded-full backdrop-blur-xs">Buka Amplop</span>
+        <div class="space-y-2 max-w-[240px] mx-auto">
+          <span
+            class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans"
+            >Langkah 02</span
+          >
+          <h4
+            class="text-xs font-black uppercase tracking-wider text-brand-950"
+          >
+            Visual yang Cantik
+          </h4>
+          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">
+            Undangan terbuka dengan visual yang cantik sesuai preferensi
+            pengundang. Serta <i>background music</i> akan terputar otomatis saat
+            dibuka.
+          </p>
+        </div>
+
+        <!-- Simulated Button Cover -->
+        <div
+          class="w-[140px] py-3.5 px-4 rounded-xl border border-brand-200/30 bg-white shadow-xs mx-auto flex items-center justify-center group-hover:border-soft-gold/60 transition-all duration-300"
+        >
+          <span
+            class="text-[8px] uppercase tracking-[0.2em] text-brand-950 font-black flex items-center gap-1.5 font-sans"
+          >
+            <span class="w-1.5 h-1.5 rounded-full bg-soft-gold animate-pulse"
+            ></span>
+            Buka Undangan
+          </span>
         </div>
       </div>
 
-      <!-- Step 3 -->
-      <div class="relative z-10 group text-center space-y-5 animate-fade-in" style="animation-delay: 0.3s;">
+      <!-- Step 3: Membaca Informasi Acara -->
+      <div
+        class="relative z-10 group text-center space-y-5 animate-fade-in"
+        style="animation-delay: 0.3s;"
+      >
         <!-- Timeline Icon Marker -->
-        <div class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300">
+        <div
+          class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300"
+        >
+          <Icon name="calendar" size={24} />
+        </div>
+
+        <div class="space-y-2 max-w-[240px] mx-auto">
+          <span
+            class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans"
+            >Langkah 03</span
+          >
+          <h4
+            class="text-xs font-black uppercase tracking-wider text-brand-950"
+          >
+            Membaca Informasi Acara
+          </h4>
+          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">
+            Tamu dengan mudah membaca informasi lengkap tentang hari H, akad,
+            resepsi, countdown, serta galeri momen indah.
+          </p>
+        </div>
+
+        <!-- Simulated Event Details Card -->
+        <div
+          class="bg-white/80 border border-brand-200/30 p-2.5 rounded-xl shadow-xs text-center max-w-[170px] mx-auto text-[8.5px] font-bold text-brand-950 flex flex-col items-center justify-center gap-0.5"
+        >
+          <span class="text-[7.5px] uppercase tracking-wider text-soft-gold"
+            >Hari Pernikahan</span
+          >
+          <span class="text-[9px] font-extrabold">Sabtu, 20 Juni 2026</span>
+          <span class="text-[7.5px] font-semibold text-text-muted"
+            >10:00 - Selesai</span
+          >
+        </div>
+      </div>
+
+      <!-- Step 4: Navigasi Peta Akurat -->
+      <div
+        class="relative z-10 group text-center space-y-5 animate-fade-in"
+        style="animation-delay: 0.4s;"
+      >
+        <!-- Timeline Icon Marker -->
+        <div
+          class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300"
+        >
           <Icon name="map-pin" size={24} />
         </div>
-        
+
         <div class="space-y-2 max-w-[240px] mx-auto">
-          <span class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans">Langkah 03</span>
-          <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">Navigasi Peta Akurat</h4>
-          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Tamu mendapatkan rute langsung dengan sekali ketukan, terhubung ke Google Maps/Waze demi mencegah salah jalan.</p>
+          <span
+            class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans"
+            >Langkah 04</span
+          >
+          <h4
+            class="text-xs font-black uppercase tracking-wider text-brand-950"
+          >
+            Navigasi Peta Akurat
+          </h4>
+          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">
+            Tamu mendapatkan rute langsung dengan sekali ketukan, terhubung ke
+            Google Maps/Waze demi mencegah salah jalan.
+          </p>
         </div>
 
         <!-- Simulated Map Badge -->
-        <div class="bg-white/80 border border-brand-200/30 p-2.5 rounded-xl shadow-xs text-center max-w-[160px] mx-auto text-[8.5px] font-bold text-brand-950 flex items-center justify-center gap-1.5">
-          <div class="w-4 h-4 rounded-full bg-soft-gold/20 flex items-center justify-center text-soft-gold">
-            <svg class="w-2.5 h-2.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+        <div
+          class="bg-white/80 border border-brand-200/30 p-2.5 rounded-xl shadow-xs text-center max-w-[160px] mx-auto text-[8.5px] font-bold text-brand-950 flex items-center justify-center gap-1.5"
+        >
+          <div
+            class="w-4 h-4 rounded-full bg-soft-gold/20 flex items-center justify-center text-soft-gold"
+          >
+            <svg
+              class="w-2.5 h-2.5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+              ></path>
             </svg>
           </div>
           <span>Buka Peta Lokasi</span>
         </div>
       </div>
-
-      <!-- Step 4 -->
-      <div class="relative z-10 group text-center space-y-5 animate-fade-in" style="animation-delay: 0.4s;">
-        <!-- Timeline Icon Marker -->
-        <div class="w-16 h-16 rounded-2xl bg-white border border-[#B59A73]/30 shadow-elevated flex items-center justify-center text-soft-gold mx-auto group-hover:scale-105 group-hover:border-[#B59A73]/70 group-hover:bg-brand-950 group-hover:text-cream transition-all duration-300">
-          <Icon name="check-circle" size={24} />
-        </div>
-        
-        <div class="space-y-2 max-w-[240px] mx-auto">
-          <span class="text-[9px] uppercase tracking-widest text-[#B59A73] font-bold font-sans">Langkah 04</span>
-          <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">Konfirmasi RSVP Cepat</h4>
-          <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Pengisian daftar kehadiran (RSVP) serta ucapan selamat terintegrasi secara instan tanpa perlu mendaftar akun baru.</p>
-        </div>
-
-        <!-- Simulated RSVP Confirmation Panel -->
-        <div class="bg-success/5 border border-success/15 p-2 rounded-xl text-center max-w-[170px] mx-auto text-[8.5px] font-bold text-success flex items-center justify-center gap-1">
-          <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-          </svg>
-          <span>Kehadiran Terkonfirmasi</span>
-        </div>
-      </div>
-
     </div>
   </Container>
 </section>

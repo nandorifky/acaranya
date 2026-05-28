@@ -109,42 +109,88 @@ import { Image } from "astro:assets";
         style="animation-delay: 0.2s;"
       >
         <!-- Floating Widget 1: Audio Player (Left Top) -->
-        <div class="absolute -left-6 lg:-left-12 top-[12%] hidden sm:flex items-center gap-3 bg-white/90 backdrop-blur-md border border-brand-200/30 p-3 rounded-2xl shadow-elevated z-20 animate-float-slow w-48 transition-all hover:shadow-lg">
-          <div class="relative w-9 h-9 shrink-0 rounded-full bg-brand-950 flex items-center justify-center overflow-hidden shadow-inner">
+        <div
+          class="absolute -left-6 lg:-left-12 top-[12%] hidden sm:flex items-center gap-3 bg-white/90 backdrop-blur-md border border-brand-200/30 p-3 rounded-2xl shadow-elevated z-20 animate-float-slow w-48 transition-all hover:shadow-lg"
+        >
+          <div
+            class="relative w-9 h-9 shrink-0 rounded-full bg-brand-950 flex items-center justify-center overflow-hidden shadow-inner"
+          >
             <!-- Spinning Vinyl Disc -->
-            <div class="absolute inset-1 rounded-full border border-soft-gold/40 border-dashed animate-[spin_6s_linear_infinite]"></div>
+            <div
+              class="absolute inset-1 rounded-full border border-soft-gold/40 border-dashed animate-[spin_6s_linear_infinite]"
+            >
+            </div>
             <div class="w-2.5 h-2.5 rounded-full bg-cream z-10"></div>
           </div>
           <div class="flex-1 min-w-0">
-            <span class="block text-[8px] uppercase tracking-widest text-[#B59A73] font-bold font-sans">Musik Latar</span>
-            <h4 class="text-[10px] font-extrabold text-brand-950 truncate">Beautiful in White</h4>
+            <span
+              class="block text-[8px] uppercase tracking-widest text-[#B59A73] font-bold font-sans"
+              >Musik Latar</span
+            >
+            <h4 class="text-[10px] font-extrabold text-brand-950 truncate">
+              Beautiful in White
+            </h4>
           </div>
         </div>
 
         <!-- Main Smartphone Mockup Container -->
-        <div class="relative w-[285px] h-[570px] bg-brand-950 rounded-[44px] p-2.5 shadow-2xl border-[3.5px] border-brand-900/60 flex flex-col z-10 hover:scale-[1.015] hover:rotate-[0.5deg] active:scale-[0.99] transition-all duration-500 ease-out cursor-pointer group">
+        <div
+          class="relative w-[285px] h-[570px] bg-brand-950 rounded-[44px] p-2.5 shadow-2xl border-[3.5px] border-brand-900/60 flex flex-col z-10 hover:scale-[1.015] hover:rotate-[0.5deg] active:scale-[0.99] transition-all duration-500 ease-out group"
+        >
           <!-- Dynamic Island / Notch -->
-          <div class="absolute top-4 left-1/2 -translate-x-1/2 w-24 h-4 bg-brand-950 rounded-full z-30 shadow-inner"></div>
-          
+          <div
+            class="absolute top-4 left-1/2 -translate-x-1/2 w-24 h-4 bg-brand-950 rounded-full z-30 shadow-inner"
+          >
+          </div>
+
           <!-- Smartphone Inner Screen -->
-          <div class="relative w-full h-full rounded-[36px] overflow-hidden bg-cream-warm flex flex-col justify-between p-6 border border-brand-900/10 select-none">
+          <!-- PERUBAHAN DI SINI: Mengganti bg-cream-warm dengan background image dan overlay -->
+          <div
+            class="relative w-full h-full rounded-[36px] overflow-hidden flex flex-col justify-between p-6 border border-brand-900/10 select-none bg-cover bg-center bg-no-repeat"
+            style="background-image: url('https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=600');"
+          >
+            <!-- Overlay Putih Transparan (Agar teks tetap terbaca di atas gambar bunga) -->
+            <div
+              class="absolute inset-0 bg-white/70 backdrop-blur-[2px] pointer-events-none"
+            >
+            </div>
+
             <!-- Decorative Subtle Golden Glow Arch inside Screen -->
-            <div class="absolute inset-x-0 top-0 h-32 bg-gradient-to-b from-[#B59A73]/15 to-transparent pointer-events-none"></div>
-            <div class="absolute inset-0 border-[8px] border-[#B59A73]/5 rounded-[28px] pointer-events-none"></div>
+            <div
+              class="absolute inset-x-0 top-0 h-32 bg-gradient-to-b from-[#B59A73]/15 to-transparent pointer-events-none z-0"
+            >
+            </div>
+            <div
+              class="absolute inset-0 border-[8px] border-[#B59A73]/5 rounded-[28px] pointer-events-none z-0"
+            >
+            </div>
 
             <!-- Header Branding inside screen -->
-            <div class="text-center pt-3 z-10">
-              <span class="text-[7px] uppercase tracking-[0.3em] text-[#B59A73] font-bold font-sans block mb-1">Acaranya.id Premium</span>
+            <div class="text-center pt-3 z-10 relative">
+              <span
+                class="text-[7px] uppercase tracking-[0.3em] text-[#B59A73] font-bold font-sans block mb-1"
+                >Acaranya.id Premium</span
+              >
               <div class="w-6 h-[0.5px] bg-[#B59A73]/40 mx-auto"></div>
             </div>
 
             <!-- Invitation Screen Core Content -->
-            <div class="text-center space-y-4 my-auto pt-2 z-10">
-              <span class="text-[8px] uppercase tracking-[0.25em] text-[#B59A73] font-bold font-sans block">Save the Date</span>
-              
+            <div class="text-center space-y-4 my-auto pt-2 z-10 relative">
+              <span
+                class="text-[8px] uppercase tracking-[0.25em] text-[#B59A73] font-bold font-sans block"
+                >Save the Date</span
+              >
+
               <div class="space-y-1.5">
-                <h2 class="font-serif text-3xl sm:text-4xl text-brand-950 font-normal italic leading-none tracking-tight group-hover:text-soft-gold transition-colors duration-300">Sarah & Rian</h2>
-                <div class="flex items-center justify-center gap-1.5 text-[8px] text-[#B59A73] uppercase tracking-widest font-extrabold">
+                <!-- Teks nama diubah sedikit lebih gelap jika perlu, tapi brand-950 seharusnya oke dengan overlay -->
+                <h2
+                  class="font-serif text-3xl sm:text-4xl text-brand-950 font-normal italic leading-none tracking-tight group-hover:text-[#B59A73] transition-colors duration-300"
+                >
+                  Sarah & Rian
+                </h2>
+                <div
+                  class="flex items-center justify-center gap-1.5 text-[8px] text-[#B59A73] uppercase tracking-widest font-extrabold"
+                >
                   <span>Sabtu</span>
                   <span class="w-1 h-1 rounded-full bg-[#B59A73]"></span>
                   <span>12 . 12 . 2026</span>
@@ -154,60 +200,138 @@ import { Image } from "astro:assets";
               <div class="w-8 h-[1px] bg-[#B59A73]/30 mx-auto"></div>
 
               <!-- Mini Live Countdown Widget inside Screen -->
-              <div class="grid grid-cols-4 gap-1 max-w-[210px] mx-auto py-1 text-center">
-                <div class="bg-white/90 backdrop-blur-xs p-1.5 rounded-lg border border-brand-200/20 shadow-xs">
-                  <span class="block text-xs font-black text-brand-950 leading-none">198</span>
-                  <span class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans">Hari</span>
+              <div
+                class="grid grid-cols-4 gap-1 max-w-[210px] mx-auto py-1 text-center"
+              >
+                <div
+                  class="bg-white/80 backdrop-blur-sm p-1.5 rounded-lg border border-brand-200/20 shadow-xs"
+                >
+                  <span
+                    class="block text-xs font-black text-brand-950 leading-none"
+                    >198</span
+                  >
+                  <span
+                    class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans"
+                    >Hari</span
+                  >
                 </div>
-                <div class="bg-white/90 backdrop-blur-xs p-1.5 rounded-lg border border-brand-200/20 shadow-xs">
-                  <span class="block text-xs font-black text-brand-950 leading-none">12</span>
-                  <span class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans">Jam</span>
+                <div
+                  class="bg-white/80 backdrop-blur-sm p-1.5 rounded-lg border border-brand-200/20 shadow-xs"
+                >
+                  <span
+                    class="block text-xs font-black text-brand-950 leading-none"
+                    >12</span
+                  >
+                  <span
+                    class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans"
+                    >Jam</span
+                  >
                 </div>
-                <div class="bg-white/90 backdrop-blur-xs p-1.5 rounded-lg border border-brand-200/20 shadow-xs">
-                  <span class="block text-xs font-black text-brand-950 leading-none">42</span>
-                  <span class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans">Menit</span>
+                <div
+                  class="bg-white/80 backdrop-blur-sm p-1.5 rounded-lg border border-brand-200/20 shadow-xs"
+                >
+                  <span
+                    class="block text-xs font-black text-brand-950 leading-none"
+                    >42</span
+                  >
+                  <span
+                    class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans"
+                    >Menit</span
+                  >
                 </div>
-                <div class="bg-white/90 backdrop-blur-xs p-1.5 rounded-lg border border-brand-200/20 shadow-xs">
-                  <span class="block text-xs font-black text-brand-950 leading-none">05</span>
-                  <span class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans">Detik</span>
+                <div
+                  class="bg-white/80 backdrop-blur-sm p-1.5 rounded-lg border border-brand-200/20 shadow-xs"
+                >
+                  <span
+                    class="block text-xs font-black text-brand-950 leading-none"
+                    >05</span
+                  >
+                  <span
+                    class="text-[6px] uppercase text-text-muted font-bold block mt-0.5 font-sans"
+                    >Detik</span
+                  >
                 </div>
               </div>
 
               <!-- Premium Shimmering Button -->
               <div class="pt-2">
-                <div class="relative overflow-hidden inline-block px-7 py-2.5 bg-brand-900 text-cream rounded-full text-[9px] font-extrabold uppercase tracking-widest shadow-sm group-hover:bg-brand-950 transition-colors">
-                  <span class="relative z-10">Buka Undangan</span>
-                  <span class="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full animate-[shimmer_2s_infinite]"></span>
+                <div
+                  class="relative overflow-hidden inline-block px-7 py-2.5 bg-brand-900 text-cream rounded-full text-[9px] font-extrabold uppercase tracking-widest shadow-sm group-hover:bg-brand-950 transition-colors"
+                >
+                  <span class="relative z-10"
+                    ><a
+                      href="/desain-undangan-digital/pernikahan/"
+                      target="_blank"
+                      rel="noopener noreferrer">Buka Undangan</a
+                    ></span
+                  >
+                  <span
+                    class="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full animate-[shimmer_2s_infinite]"
+                  ></span>
                 </div>
               </div>
             </div>
 
             <!-- Footer indicator inside screen -->
-            <div class="text-center pb-2 z-10">
-              <span class="text-[7px] uppercase tracking-widest text-text-muted font-sans">Swipe Up to RSVP</span>
+            <div class="text-center pb-2 z-10 relative">
+              <span
+                class="text-[7px] uppercase tracking-widest text-text-muted font-sans"
+                >Swipe Up to RSVP</span
+              >
             </div>
           </div>
         </div>
 
         <!-- Floating Widget 2: RSVP Notification (Right Middle) -->
-        <div class="absolute -right-6 lg:-right-12 top-[46%] hidden sm:flex flex-col gap-1.5 bg-[#FAF9F6]/95 backdrop-blur-md border border-[#B59A73]/20 p-4 rounded-2xl shadow-elevated z-20 animate-float-reverse w-48 transition-all hover:shadow-lg">
+        <div
+          class="absolute -right-6 lg:-right-12 top-[46%] hidden sm:flex flex-col gap-1.5 bg-[#FAF9F6]/95 backdrop-blur-md border border-[#B59A73]/20 p-4 rounded-2xl shadow-elevated z-20 animate-float-reverse w-48 transition-all hover:shadow-lg"
+        >
           <div class="flex items-center gap-2">
-            <span class="flex w-1.5 h-1.5 rounded-full bg-success animate-pulse"></span>
-            <span class="text-[8px] uppercase tracking-widest text-[#B59A73] font-bold font-sans">Konfirmasi RSVP</span>
+            <span class="flex w-1.5 h-1.5 rounded-full bg-success animate-pulse"
+            ></span>
+            <span
+              class="text-[8px] uppercase tracking-widest text-[#B59A73] font-bold font-sans"
+              >Konfirmasi RSVP</span
+            >
           </div>
-          <p class="text-[10px] font-extrabold text-brand-950 leading-tight">Sarah & Partner menyatakan hadir</p>
-          <span class="text-[8px] text-text-muted font-sans font-semibold">Jumlah Tamu: 2 Orang</span>
+          <p class="text-[10px] font-extrabold text-brand-950 leading-tight">
+            Sarah & Partner menyatakan hadir
+          </p>
+          <span class="text-[8px] text-text-muted font-sans font-semibold"
+            >Jumlah Tamu: 2 Orang</span
+          >
         </div>
 
         <!-- Floating Widget 3: Location Badge (Left Bottom) -->
-        <div class="absolute -left-4 lg:-left-10 bottom-[12%] hidden sm:flex items-center gap-2.5 bg-brand-950 text-cream p-2.5 rounded-full shadow-lg z-20 animate-pulse-slow border border-brand-800/50 hover:bg-brand-900 transition-colors cursor-pointer">
-          <div class="w-6 h-6 rounded-full bg-soft-gold/20 flex items-center justify-center text-soft-gold shrink-0">
-            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+        <div
+          class="absolute -left-4 lg:-left-10 bottom-[12%] hidden sm:flex items-center gap-2.5 bg-brand-950 text-cream p-2.5 rounded-full shadow-lg z-20 animate-pulse-slow border border-brand-800/50 hover:bg-brand-900 transition-colors cursor-pointer"
+        >
+          <div
+            class="w-6 h-6 rounded-full bg-soft-gold/20 flex items-center justify-center text-soft-gold shrink-0"
+          >
+            <svg
+              class="w-3.5 h-3.5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
+              ></path>
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
             </svg>
           </div>
-          <span class="text-[8.5px] font-extrabold uppercase tracking-wider pr-2.5 font-sans">Navigasi Peta</span>
+          <span
+            class="text-[8.5px] font-extrabold uppercase tracking-wider pr-2.5 font-sans"
+            >Navigasi Peta</span
+          >
         </div>
       </div>
     </div>

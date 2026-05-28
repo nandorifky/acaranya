@@ -17,15 +17,15 @@ import EcoImpact from "../components/home/EcoImpact.astro";
 import Partners from "../components/home/Partners.astro";
 import FinalCTA from "../components/home/FinalCTA.astro";
 import { siteConfig } from "../data/site";
-import { getCollection } from 'astro:content';
+import { getCollection } from "astro:content";
 import { pricingPlans } from "../data/pricing-static";
 
-const allTestimonials = await getCollection('testimonials');
+const allTestimonials = await getCollection("testimonials");
 const publishedTestimonials = allTestimonials
-  .filter(t => t.data.status === 'published')
+  .filter((t) => t.data.status === "published")
   .slice(0, 5); // Take up to 5 for schema
 
-const prices = pricingPlans.map(p => p.price);
+const prices = pricingPlans.map((p) => p.price);
 const lowPrice = Math.min(...prices);
 const highPrice = Math.max(...prices);
 
@@ -33,82 +33,82 @@ const jsonLd = [
   {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": siteConfig.name,
-    "image": `${siteConfig.url}${siteConfig.branding.logo}`,
+    name: siteConfig.name,
+    image: `${siteConfig.url}${siteConfig.branding.logo}`,
     "@id": `${siteConfig.url}/#localbusiness`,
-    "url": siteConfig.url,
-    "telephone": `+${siteConfig.contact.whatsapp}`,
-    "priceRange": siteConfig.seo.priceRange,
-    "address": {
+    url: siteConfig.url,
+    telephone: `+${siteConfig.contact.whatsapp}`,
+    priceRange: siteConfig.seo.priceRange,
+    address: {
       "@type": "PostalAddress",
-      "addressLocality": siteConfig.business.schemaLocality,
-      "addressRegion": siteConfig.business.schemaRegion,
-      "addressCountry": siteConfig.business.schemaCountry
+      addressLocality: siteConfig.business.schemaLocality,
+      addressRegion: siteConfig.business.schemaRegion,
+      addressCountry: siteConfig.business.schemaCountry,
     },
-    "geo": {
+    geo: {
       "@type": "GeoCoordinates",
-      "latitude": siteConfig.business.latitude,
-      "longitude": siteConfig.business.longitude
+      latitude: siteConfig.business.latitude,
+      longitude: siteConfig.business.longitude,
     },
-    "aggregateRating": {
+    aggregateRating: {
       "@type": "AggregateRating",
-      "ratingValue": siteConfig.seo.ratingValue,
-      "reviewCount": siteConfig.seo.reviewCount,
-      "bestRating": "5",
-      "worstRating": "1"
+      ratingValue: siteConfig.seo.ratingValue,
+      reviewCount: siteConfig.seo.reviewCount,
+      bestRating: "5",
+      worstRating: "1",
     },
-    "review": publishedTestimonials.map(t => ({
+    review: publishedTestimonials.map((t) => ({
       "@type": "Review",
-      "author": {
+      author: {
         "@type": "Person",
-        "name": t.data.name
+        name: t.data.name,
       },
-      "reviewBody": t.data.message,
-      "reviewRating": {
+      reviewBody: t.data.message,
+      reviewRating: {
         "@type": "Rating",
-        "ratingValue": t.data.rating,
-        "bestRating": "5",
-        "worstRating": "1"
-      }
-    }))
+        ratingValue: t.data.rating,
+        bestRating: "5",
+        worstRating: "1",
+      },
+    })),
   },
   {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": siteConfig.name,
-    "url": siteConfig.url,
-    "logo": `${siteConfig.url}${siteConfig.branding.logo}`,
-    "sameAs": [
+    name: siteConfig.name,
+    url: siteConfig.url,
+    logo: `${siteConfig.url}${siteConfig.branding.logo}`,
+    sameAs: [
       siteConfig.social.instagram.url,
       siteConfig.social.facebook.url,
-      siteConfig.social.tiktok.url
-    ].filter(url => url)
+      siteConfig.social.tiktok.url,
+    ].filter((url) => url),
   },
   {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "@id": `${siteConfig.url}/#webapp`,
-    "name": siteConfig.name,
-    "url": siteConfig.url,
-    "operatingSystem": "All",
-    "applicationCategory": "DesignApplication",
-    "browserRequirements": "Requires HTML5, CSS3, JavaScript",
-    "publisher": {
+    name: siteConfig.name,
+    url: siteConfig.url,
+    operatingSystem: "All",
+    applicationCategory: "DesignApplication",
+    browserRequirements: "Requires HTML5, CSS3, JavaScript",
+    publisher: {
       "@type": "LocalBusiness",
-      "@id": `${siteConfig.url}/#localbusiness`
+      "@id": `${siteConfig.url}/#localbusiness`,
     },
-    "offers": {
+    offers: {
       "@type": "AggregateOffer",
-      "priceCurrency": "IDR",
-      "lowPrice": lowPrice.toString(),
-      "highPrice": highPrice.toString(),
-      "priceRange": siteConfig.seo.priceRange,
-      "areaServed": {
+      priceCurrency: "IDR",
+      lowPrice: lowPrice.toString(),
+      highPrice: highPrice.toString(),
+      priceRange: siteConfig.seo.priceRange,
+      areaServed: {
         "@type": "Country",
-        "name": "ID"
-      }
-    }
-  }
+        name: "ID",
+      },
+    },
+  },
 ];
 ---
 
