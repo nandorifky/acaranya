@@ -183,7 +183,7 @@ Humor segar yang tetap mengandung dukungan.
 **40\. “Sarjana udah, jodoh kapan?”**  
 Ucapan bercanda yang sering jadi pembuka obrolan wisuda.
 
-> Rayakan acara wisudamu dengan [undangan graduation digital](/jasa/undangan-wisuda-digital/) dari Acaranya ID!
+> Rayakan acara wisudamu dengan [undangan graduation digital](/desain-undangan-digital/wisuda/) dari Acaranya ID!
 
 * * *
 

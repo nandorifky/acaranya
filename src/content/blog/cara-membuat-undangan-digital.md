@@ -87,7 +87,7 @@ Flexclip memungkinkan kamu untuk membuat undangan video digital melalui editor o
 
 Untuk membuat undangan digital website, kamu perlu memahami hosting, domain, dan wordpress. Selain itu juga, ini membutuhkan banyak biaya jika kamu membuat website sendiri.
 
-Karena itulah **Acaranya.id** hadir untuk meringkankan kamu yang ingin menggunakan undangan digital berbasis website untuk berbagai acara, baik itu pernikahan, [walimatul ursy](/services/undangan-digital-walimatul-ursy/), ulang tahun, hingga [khitan](/services/undangan-khitan-digital/) dan aqiqah.
+Karena itulah **Acaranya.id** hadir untuk meringkankan kamu yang ingin menggunakan undangan digital berbasis website untuk berbagai acara, baik itu pernikahan, [walimatul ursy](/desain-undangan-digital/), ulang tahun, hingga [khitan](/desain-undangan-digital/khitan/) dan aqiqah.
 
 Kami akan memberikan fasilitas revisi sepuasnya untuk kamu yang ingin memiliki undangan website.
 

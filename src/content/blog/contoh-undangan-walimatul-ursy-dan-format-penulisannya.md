@@ -146,7 +146,7 @@ Undangan digital saat ini semakin populer karena lebih praktis, ramah lingkungan
 
 **Acaranya.id** menyediakan cukup banyak sekali desain undangan digital untuk berbagai acara, termasuk walimatul ursy. Teks dan kata-kata mengundang yang bisa dikustomisasi membuat undangan online ini lebih cocok untuk berbagai acara.
 
-[Pesan Undangan Digital Walimatul Ursy](/services/undangan-digital-walimatul-ursy)
+[Pesan Undangan Digital Walimatul Ursy](/order-undangan/)
 
 * * *
 

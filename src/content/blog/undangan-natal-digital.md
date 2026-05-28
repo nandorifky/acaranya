@@ -79,7 +79,7 @@ Langkah-langkah berikut mungkin akan membantu kamu sebelum order undangan natal 
 1.  Pilih undangan natal sesuai selera [disini](https://inv.acaranya.id/tema/natal).
 2.  Jika sudah, klik pesan dan kamu akan langsung diarahkan ke WhatsApp kami.
 3.  Setelah itu, informasikan seluruh detail acara dalam chat WhatsApp.
-4.  Lakukan pembayaran sesuai metode yang sudah kami sediakan ([Baca disini](/pembayaran/)).
+4.  Lakukan pembayaran sesuai metode yang sudah kami sediakan ([Baca disini](/order-undangan/)).
 5.  Kami akan langsung memproses undangan natalmu, dan kamu berhak terima jadi.
 6.  Jika perlu, kami juga akan memberikan benefit revisi sepuasnya!
 

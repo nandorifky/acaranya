@@ -120,4 +120,4 @@ Dengan menyimpan dalam bentuk PDF, teks sungkeman bisa lebih mudah diakses dan d
 
 Menyusun teks sungkeman yang tulus dan bermakna sangat penting dalam prosesi pernikahan. Tidak ada aturan baku dalam menyusun teks sungkeman; yang utama adalah kejujuran dan ketulusan dari hati.
 
-Jika kamu memerlukan bantuan dalam merencanakan dan menyusun undangan pernikahan, pertimbangkan untuk menggunakan [jasa undangan digital](/services/) dari kami. Dengan layanan undangan digital terbaik, Acaranya.id membantumu menciptakan undangan yang unik dan memudahkan proses [persiapan pernikahanmu](/artikel/persiapan-pernikahan/)!
+Jika kamu memerlukan bantuan dalam merencanakan dan menyusun undangan pernikahan, pertimbangkan untuk menggunakan [jasa undangan digital](/) dari kami. Dengan layanan undangan digital terbaik, Acaranya.id membantumu menciptakan undangan yang unik dan memudahkan proses [persiapan pernikahanmu](/artikel/persiapan-pernikahan/)!

@@ -35,7 +35,7 @@ Undangan paspor adalah konsep undangan pernikahan yang dirancang menyerupai pasp
 
 Undangan pernikahan desain paspor ini tidak hanya sekedar estetika, tapi juga membawa simbolisme mendalam, melambangkan awal perjalanan baru bersama sebagai pasangan suami istri.
 
-[Desain undangan](/artikel/desain-undangan-pernikahan-aesthetic/) seperti ini bisa diadaptasi dalam berbagai bentuk, termasuk [undangan digital](/services/undangan-pernikahan-digital/). Dengan semakin berkembangnya teknologi, banyak pasangan yang memilih undangan digital untuk kemudahan distribusi, hemat biaya, dan tentu saja ramah lingkungan.
+[Desain undangan](/artikel/desain-undangan-pernikahan-aesthetic/) seperti ini bisa diadaptasi dalam berbagai bentuk, termasuk [undangan digital](/). Dengan semakin berkembangnya teknologi, banyak pasangan yang memilih undangan digital untuk kemudahan distribusi, hemat biaya, dan tentu saja ramah lingkungan.
 
 ## Mengapa Memilih Desain Undangan Paspor?
 

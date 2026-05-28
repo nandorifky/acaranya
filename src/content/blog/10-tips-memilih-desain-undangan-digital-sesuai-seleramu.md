@@ -102,7 +102,7 @@ Sentuhan personal ini akan membuat undangan pernikahan digitalmu lebih berkesan 
 
 Undangan Pernikahan Digital by Acaranya ID
 
-**[Acaranya ID](/)** menjadi salah satu [jasa undangan digital](/services/) terkemuka yang memiliki fitur lengkap dan banyak variasi desain. Kamu bisa memilih desain undangan digital sesuai seleramu!
+**[Acaranya ID](/)** menjadi salah satu [jasa undangan digital](/) terkemuka yang memiliki fitur lengkap dan banyak variasi desain. Kamu bisa memilih desain undangan digital sesuai seleramu!
 
 [Cek Desain Undangan Digital](/desain-undangan-digital/)
 

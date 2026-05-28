@@ -26,7 +26,7 @@ Pernikahan adalah momen sakral yang selalu diimpikan oleh setiap pasangan, dan d
 
 Dengan segala keragaman upacara, simbol, dan maknanya, pernikahan adat Jawa menjadi salah satu pernikahan yang tidak hanya indah secara visual, tetapi juga sarat makna filosofi.
 
-Seiring perkembangan zaman, konsep undangan pernikahan pun turut berubah. Di era digital seperti sekarang, undangan pernikahan tidak lagi hanya dalam bentuk fisik, tetapi juga telah berevolusi menjadi [undangan digital](/desain-undangan-digital/) yang lebih praktis dan modern. Meski begitu, sentuhan tradisi tetap bisa dihadirkan dalam [undangan pernikahan digital](/jasa/undangan-pernikahan-digital/), salah satunya dengan mengusung tema adat Jawa.
+Seiring perkembangan zaman, konsep undangan pernikahan pun turut berubah. Di era digital seperti sekarang, undangan pernikahan tidak lagi hanya dalam bentuk fisik, tetapi juga telah berevolusi menjadi [undangan digital](/desain-undangan-digital/) yang lebih praktis dan modern. Meski begitu, sentuhan tradisi tetap bisa dihadirkan dalam [undangan pernikahan digital](/desain-undangan-digital/pernikahan/), salah satunya dengan mengusung tema adat Jawa.
 
 Dalam artikel ini, kita akan membahas beberapa tema undangan pernikahan digital adat Jawa, yang memadukan unsur tradisional dan modern secara harmonis.
 

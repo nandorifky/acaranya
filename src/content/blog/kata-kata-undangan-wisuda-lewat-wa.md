@@ -23,7 +23,7 @@ customBreadcrumbLabel: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 canonicalUrl: '/artikel/kata-kata-undangan-wisuda-lewat-wa/'
 noindex: false
 ---
-Mengundang orang-orang terdekat untuk hadir di acara wisuda merupakan bagian penting dalam perjalanan akademis. Di era digital seperti sekarang, penggunaan **[undangan wisuda digital](/jasa/undangan-wisuda-digital/)** melalui WhatsApp menjadi pilihan praktis dan efisien. Meski begitu, kita tetap perlu memperhatikan tata krama dan format undangan yang berlaku di Indonesia.
+Mengundang orang-orang terdekat untuk hadir di acara wisuda merupakan bagian penting dalam perjalanan akademis. Di era digital seperti sekarang, penggunaan **[undangan wisuda digital](/desain-undangan-digital/wisuda/)** melalui WhatsApp menjadi pilihan praktis dan efisien. Meski begitu, kita tetap perlu memperhatikan tata krama dan format undangan yang berlaku di Indonesia.
 
 Membuat undangan wisuda lewat WA memang lebih simple, namun tetap harus memperhatikan struktur dan etika dalam penulisannya. Pemilihan kata-kata undangan wisuda yang tepat dapat mencerminkan kesopanan dan penghormatan kepada para tamu undangan. Mari simak beberapa contoh yang bisa kamu gunakan.
 

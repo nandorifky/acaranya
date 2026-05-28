@@ -31,7 +31,7 @@ Dari lagu barat yang romantis hingga lagu Indonesia yang menyentuh hati, daftar 
 
 ## Mengapa Memilih Lagu Romantis?
 
-Sebuah [undangan digital](/services/) adalah pintu gerbang pertama yang akan diintip oleh tamu. Memilih lagu romantis sebagai latar musiknya tidak hanya tentang estetika, tapi juga membangun sebuah pengalaman emosional yang mengikat tamu dengan narasi cinta yang akan dirayakan.
+Sebuah [undangan digital](/) adalah pintu gerbang pertama yang akan diintip oleh tamu. Memilih lagu romantis sebagai latar musiknya tidak hanya tentang estetika, tapi juga membangun sebuah pengalaman emosional yang mengikat tamu dengan narasi cinta yang akan dirayakan.
 
 Lagu luar atau dalam negeri, pilihannya tak terbatas, tetapi setiap pilihan harus bisa menggambarkan jalinan perasaan yang ingin dibagi.
 

@@ -142,7 +142,7 @@ Acaranya.id memudahkan proses pembuatan website undangan digital untuk Open Hous
 1.  Pilih desain undangan Open House Lebaran yang diinginkan pada **[Catalog Desain](https://inv.acaranya.id/tema "Catalog Desain")** kami.
 2.  Tekan tombol **“PESAN”** yang ada di halaman, yang akan mengarahkan langsung ke chat WhatsApp Acaranya.id.
 3.  Berikan detail lengkap acara Open House Lebaran melalui chat tersebut.
-4.  Lakukan pembayaran dengan metode yang telah disediakan (detail lebih lanjut dapat [dibaca di situs kami](/pembayaran/ "dibaca di situs kami")).
+4.  Lakukan pembayaran dengan metode yang telah disediakan (detail lebih lanjut dapat [dibaca di situs kami](/order-undangan/ "dibaca di situs kami")).
 5.  Setelah pembayaran diterima, Acaranya.id akan segera memproses undangan digital Anda.
 6.  Nikmati fasilitas revisi tanpa batas untuk memastikan undangan sesuai keinginan.
 
@@ -211,4 +211,4 @@ Idul Fitri adalah momen istimewa yang ditandai dengan kebersamaan, silaturahmi, 
 
 * * *
 
-Itulah beberapa contoh desain undangan Open House idul fitri yang bisa kamu jadikan sebagai referensi. Kamu langsung [hubungi Acaranya.id](/artikel/kontak/) untuk pemesanan undangan digital berbagai acara.
+Itulah beberapa contoh desain undangan Open House idul fitri yang bisa kamu jadikan sebagai referensi. Kamu langsung [hubungi Acaranya.id](/kontak/) untuk pemesanan undangan digital berbagai acara.

@@ -49,7 +49,7 @@ Acaranya.id merupakan salah satu platform terbaik untuk membuat undangan grand o
 3.  **Integrasi dengan Media Sosial:** Kamu dapat dengan mudah membagikan undangan grand opening melalui media sosial seperti Facebook, Instagram, dan Twitter.
 4.  **Fitur RSVP:** Acaranya.id juga dilengkapi dengan fitur RSVP yang memudahkan kamu dalam mengatur tamu undangan dan mengetahui jumlah tamu yang akan hadir.
 5.  **Statistik Undangan:** Kamu dapat melihat statistik mengenai undangan yang telah dikirim, dibaca, dan direspon oleh para tamu undangan.
-6.  Dan masih banyak lagi! Kami menawarkan undangan digital dengan fitur lengkap, selengkapnya [**cek disini**](/fitur "cek disini").
+6.  Dan masih banyak lagi! Kami menawarkan undangan digital dengan fitur lengkap, selengkapnya [**cek disini**](/fitur/).
 
 ## Acaranya.id: Solusi Undangan Grand Opening Digital Murah dan Menarik
 

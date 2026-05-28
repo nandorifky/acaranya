@@ -7,6 +7,9 @@ dist/
 # dependencies
 node_modules/
 
+#ignore
+scripts/
+
 # logs
 npm-debug.log*
 yarn-debug.log*

@@ -213,7 +213,7 @@ Elemen yang paling menonjol adalah gambar rumah joglo yang ikonik, menjadi simbo
 
 [Pesan Sekarang](https://wa.me/62895395094329)
 
-[Undangan digital](/services/undangan-pernikahan-digital/) dengan nama **“Beautiful Flower”** ini menghadirkan nuansa romantis dan elegan. Latar belakang undangan didominasi oleh warna putih bersih yang memberikan kesan yang segar dan minimalis.
+[Undangan digital](/) dengan nama **“Beautiful Flower”** ini menghadirkan nuansa romantis dan elegan. Latar belakang undangan didominasi oleh warna putih bersih yang memberikan kesan yang segar dan minimalis.
 
 Terdapat ilustrasi bunga-bunga berwarna cerah seperti merah muda, biru, dan hijau yang tersusun secara simetris di bagian atas dan bawah undangan, menciptakan bingkai yang indah.
 
