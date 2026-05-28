@@ -2,7 +2,7 @@
 title: Samawa Till Jannah Artinya Apa dan Cara Mewujudkannya
 description: Samawa till jannah artinya harapan agar pernikahan penuh sakinah, mawaddah, warahmah hingga surga. Pahami makna, tulisan Arab, dan cara mewujudkannya.
 publishedAt: 2026-04-08T17:51:00
-updatedAt: 2026-05-28T21:03:00
+updatedAt: 2026-05-28T22:00:00
 author: indira
 category: Wajib Tahu
 tags:
@@ -20,14 +20,6 @@ customBreadcrumbLabel: 'Samawa Till Jannah: Pengertian dan Cara Mewujudkannya'
 canonicalUrl: /artikel/samawa-till-jannah/
 noindex: false
 ---
-
-* SEO Title: Samawa Till Jannah Artinya Apa dan Cara Mewujudkannya
-* Slug: /artikel/samawa-till-jannah/
-* Meta Description: Samawa till jannah artinya harapan agar pernikahan penuh sakinah, mawaddah, warahmah hingga surga. Pahami makna, tulisan Arab, dan cara mewujudkannya.
-* Focus Keyword: samawa till jannah
-* Secondary Keyword: arti samawa till jannah, samawa adalah, tulisan arab samawa till jannah, sakinah mawaddah warahmah
-
-# Samawa Till Jannah Artinya Apa dan Cara Mewujudkannya
 
 Samawa till jannah artinya harapan agar sebuah pernikahan dipenuhi ketenteraman, cinta, kasih sayang, dan keberkahan hingga surga. Ungkapan ini sering dipakai sebagai doa untuk pasangan pengantin, baik saat memberi ucapan selamat menikah maupun saat menulis kata-kata indah di undangan pernikahan.
 
