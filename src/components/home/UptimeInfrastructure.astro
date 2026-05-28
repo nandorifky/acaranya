@@ -1,0 +1,156 @@
+---
+import Container from "../base/Container.astro";
+import Icon from "../ui/Icon.astro";
+---
+
+<section
+  class="py-24 bg-cream relative overflow-hidden"
+  id="uptime-infrastructure"
+>
+  <!-- Dynamic glow circles -->
+  <div
+    class="absolute left-1/3 top-[-10%] w-[600px] h-[600px] rounded-full bg-brand-200/10 blur-[130px] pointer-events-none"
+  >
+  </div>
+
+  <Container>
+    <div
+      class="bg-surface-muted border border-brand-200/40 rounded-[32px] p-8 lg:p-16 relative overflow-hidden z-10 shadow-elevated"
+    >
+      <!-- Grid Background Pattern -->
+      <div
+        class="absolute inset-0 opacity-[0.03] pointer-events-none bg-[radial-gradient(#303738_1px,transparent_1px)] [background-size:16px_16px]"
+      >
+      </div>
+
+      <div
+        class="relative grid grid-cols-1 lg:grid-cols-12 gap-12 items-center z-10"
+      >
+        <!-- Left Side: Editorial Introduction -->
+        <div class="lg:col-span-4 space-y-6">
+          <div
+            class="inline-flex items-center gap-2.5 px-3 py-1 rounded-full border border-brand-300/40 bg-white/70 backdrop-blur-xs"
+          >
+            <span class="w-1.5 h-1.5 rounded-full bg-soft-gold"></span>
+            <span
+              class="text-[8px] uppercase tracking-[0.25em] font-bold text-brand-850"
+              >Jaminan Keandalan</span
+            >
+          </div>
+
+          <h2
+            class="font-serif text-3xl sm:text-4xl text-brand-950 leading-tight"
+          >
+            Pembuat Undangan Pernikahan dengan <span
+              class="italic font-normal text-soft-gold"
+              >Infrastruktur Terbaik.</span
+            >
+          </h2>
+
+          <p
+            class="text-text-secondary text-xs sm:text-sm leading-relaxed font-sans font-medium"
+          >
+            Hari terindah Anda tidak boleh terganggu oleh kendila teknis. Kami
+            mengoperasikan infrastruktur cloud kelas industri untuk memastikan
+            undangan online Anda selalu aktif dan dapat diakses dengan cepat
+            oleh siapa saja, kapan saja.
+          </p>
+
+          <!-- Verified Badges Group -->
+          <div class="flex flex-wrap items-center gap-3 pt-2">
+            <div
+              class="flex items-center gap-1.5 px-2.5 py-1 bg-white border border-brand-200/40 rounded-full text-[8.5px] text-text-secondary font-bold font-sans"
+            >
+              <Icon name="shield-check" size={10} class="text-success" />
+              <span>SSL Secured Connection</span>
+            </div>
+            <div
+              class="flex items-center gap-1.5 px-2.5 py-1 bg-white border border-brand-200/40 rounded-full text-[8.5px] text-text-secondary font-bold font-sans"
+            >
+              <Icon name="zap" size={10} class="text-[#B59A73]" />
+              <span>AWS Cloud Infrastructure</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Side: 3 Infographic Modular Cards -->
+        <div class="lg:col-span-8 grid grid-cols-1 sm:grid-cols-3 gap-6">
+          <!-- Panel 1 -->
+          <div
+            class="bg-white border border-brand-200/25 p-6 rounded-2xl shadow-xs space-y-4 hover:shadow-md transition-shadow duration-300"
+          >
+            <div
+              class="w-10 h-10 rounded-xl bg-cream text-cream flex items-center justify-center"
+            >
+              <Icon name="zap" size={18} class="text-soft-gold" />
+            </div>
+            <div class="space-y-1.5">
+              <h4
+                class="text-xs font-black uppercase tracking-wider text-brand-950"
+              >
+                Akses Instan & Kilat
+              </h4>
+              <p
+                class="text-[10px] text-text-muted leading-relaxed font-semibold"
+              >
+                Memanfaatkan jaringan Global CDN Edge Servers. Optimasi loading
+                undangan dibuat dalam waktu kurang dari 1.5 detik secara global,
+                mencegah buffering layar kosong saat dibuka tamu.
+              </p>
+            </div>
+          </div>
+
+          <!-- Panel 2 -->
+          <div
+            class="bg-white border border-brand-200/25 p-6 rounded-2xl shadow-xs space-y-4 hover:shadow-md transition-shadow duration-300"
+          >
+            <div
+              class="w-10 h-10 rounded-xl bg-cream text-cream flex items-center justify-center"
+            >
+              <Icon name="gem" size={18} class="text-soft-gold" />
+            </div>
+            <div class="space-y-1.5">
+              <h4
+                class="text-xs font-black uppercase tracking-wider text-brand-950"
+              >
+                Garansi Uptime 99.99%
+              </h4>
+              <p
+                class="text-[10px] text-text-muted leading-relaxed font-semibold"
+              >
+                Didukung oleh server redundan Amazon Web Services (AWS). Tetap
+                kokoh dan stabil tanpa melambat meskipun diakses oleh ribuan
+                tamu undangan secara bersamaan.
+              </p>
+            </div>
+          </div>
+
+          <!-- Panel 3 -->
+          <div
+            class="bg-white border border-brand-200/25 p-6 rounded-2xl shadow-xs space-y-4 hover:shadow-md transition-shadow duration-300"
+          >
+            <div
+              class="w-10 h-10 rounded-xl bg-cream text-cream flex items-center justify-center"
+            >
+              <Icon name="shield-check" size={18} class="text-soft-gold" />
+            </div>
+            <div class="space-y-1.5">
+              <h4
+                class="text-xs font-black uppercase tracking-wider text-brand-950"
+              >
+                Keamanan Data Amplop
+              </h4>
+              <p
+                class="text-[10px] text-text-muted leading-relaxed font-semibold"
+              >
+                Sistem keamanan data amplop digital bersertifikat enkripsi SSL
+                SSL/TLS. Melindungi privasi data finansial hadiah pernikahan
+                Anda secara absolut.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </Container>
+</section>
