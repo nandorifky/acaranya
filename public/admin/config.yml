@@ -86,6 +86,11 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
+    sortable_fields:
+      default:
+        field: "publishedAt"
+        direction: "desc"
+      fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Artikel", name: "title", widget: "string" }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
@@ -165,6 +170,11 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
+    sortable_fields:
+      default:
+        field: "publishedAt"
+        direction: "desc"
+      fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Halaman Tool", name: "title", widget: "string" }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
@@ -197,6 +207,11 @@ collections:
     create: true
     slug: "{{slug}}"
     format: "frontmatter"
+    sortable_fields:
+      default:
+        field: "eventDate"
+        direction: "desc"
+      fields: ["title", "eventDate", "status"]
     fields:
       - { label: "Judul Portofolio", name: "title", widget: "string", description: "Contoh: Undangan Pernikahan Mewah Sarah & Rian" }
       - { label: "Nama Klien / Pasangan", name: "clientName", widget: "string", description: "Contoh: Sarah & Rian" }
@@ -222,6 +237,11 @@ collections:
     format: "frontmatter"
     create: true
     slug: "{{slug}}"
+    sortable_fields:
+      default:
+        field: "publishedAt"
+        direction: "desc"
+      fields: ["title", "publishedAt", "status"]
     media_folder: "/public/images/area"
     public_folder: "/images/area"
     fields:
