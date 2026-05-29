@@ -5,96 +5,180 @@ import Icon from "../ui/Icon.astro";
 
 <section class="py-24 bg-cream relative overflow-hidden" id="qrcode-guestbook">
   <!-- Soft background element -->
-  <div class="absolute left-0 top-1/4 w-[400px] h-[400px] rounded-full bg-brand-200/10 blur-[100px] pointer-events-none"></div>
+  <div
+    class="absolute left-0 top-1/4 w-[400px] h-[400px] rounded-full bg-brand-200/10 blur-[100px] pointer-events-none"
+  >
+  </div>
 
   <Container>
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-16 items-center">
-      
       <!-- Left Column: Premium Visual Backdrop (4:3) -->
       <div class="lg:col-span-6 relative animate-fade-in">
-        <div class="relative rounded-[32px] overflow-hidden shadow-elevated border border-brand-200/40 bg-brand-950 aspect-[4/3] group">
+        <div
+          class="relative rounded-[32px] overflow-hidden shadow-elevated border border-brand-200/40 bg-brand-950 aspect-[4/3] group"
+        >
           <!-- Dark Elegant overlay -->
-          <div class="absolute inset-0 bg-gradient-to-t from-brand-950/60 via-transparent to-brand-950/20 z-10"></div>
-          
-          <img 
-            src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=800" 
-            alt="Meja Penerima Tamu Resepsi dengan Buku Tamu Digital" 
+          <div
+            class="absolute inset-0 bg-gradient-to-t from-brand-950/60 via-transparent to-brand-950/20 z-10"
+          >
+          </div>
+
+          <img
+            src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=800"
+            alt="Meja Penerima Tamu Resepsi dengan Buku Tamu Digital"
             class="w-full h-full object-cover filter sepia-[15%] group-hover:scale-105 transition-transform duration-700 ease-out z-0"
             loading="lazy"
           />
 
           <!-- Float Badge: Real-time Indicator -->
-          <div class="absolute bottom-6 left-6 z-20 flex items-center gap-3 bg-white/95 backdrop-blur-md px-4 py-2.5 rounded-2xl border border-champagne/30 shadow-md">
-            <span class="flex w-2 h-2 rounded-full bg-success animate-ping"></span>
-            <span class="text-[9px] uppercase tracking-widest font-black text-brand-950 font-sans">Sistem Resepsi Hari-H Aktif</span>
+          <div
+            class="absolute bottom-6 left-6 z-20 flex items-center gap-3 bg-white/95 backdrop-blur-md px-4 py-2.5 rounded-2xl border border-champagne/30 shadow-md"
+          >
+            <span class="flex w-2 h-2 rounded-full bg-success animate-ping"
+            ></span>
+            <span
+              class="text-[9px] uppercase tracking-widest font-black text-brand-950 font-sans"
+              >Sistem Resepsi Hari-H Aktif</span
+            >
           </div>
         </div>
 
         <!-- Decorative Card Floating next to it -->
-        <div class="absolute -right-6 -bottom-6 hidden sm:flex items-center gap-3 bg-brand-950 text-cream p-4 rounded-2xl shadow-elevated border border-brand-850 z-20 animate-float-slow max-w-[220px]">
-          <div class="w-10 h-10 rounded-xl bg-white/10 flex items-center justify-center text-soft-gold shrink-0">
+        <div
+          class="absolute -right-6 -bottom-6 hidden sm:flex items-center gap-3 bg-brand-950 text-cream p-4 rounded-2xl shadow-elevated border border-brand-850 z-20 animate-float-slow max-w-[220px]"
+        >
+          <div
+            class="w-10 h-10 rounded-xl bg-white/10 flex items-center justify-center text-soft-gold shrink-0"
+          >
             <Icon name="qr-code" size={20} />
           </div>
           <div>
-            <h5 class="text-[9px] uppercase tracking-widest text-soft-gold font-bold">Teknologi Hari-H</h5>
-            <p class="text-[10px] font-bold text-cream/90 leading-tight mt-0.5">Scan QR Tamu Langsung di Meja Penerima</p>
+            <h4
+              class="text-[9px] uppercase tracking-widest text-soft-gold font-bold"
+            >
+              Teknologi Hari-H
+            </h4>
+            <p class="text-[10px] font-bold text-cream/90 leading-tight mt-0.5">
+              Scan QR Tamu Langsung di Meja Penerima
+            </p>
           </div>
         </div>
       </div>
 
       <!-- Right Column: Strategic Copy -->
-      <div class="lg:col-span-6 space-y-8 animate-fade-in" style="animation-delay: 0.2s;">
-        <div class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md">
+      <div
+        class="lg:col-span-6 space-y-8 animate-fade-in"
+        style="animation-delay: 0.2s;"
+      >
+        <div
+          class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md"
+        >
           <span class="w-1.5 h-1.5 rounded-full bg-soft-gold"></span>
-          <span class="text-[9px] uppercase tracking-[0.2em] font-bold text-brand-700">Digital Check-In Suite</span>
+          <span
+            class="text-[9px] uppercase tracking-[0.2em] font-bold text-brand-700"
+            >Digital Check-In Suite</span
+          >
         </div>
 
-        <h2 class="font-serif text-4xl sm:text-5xl text-brand-950 leading-[1.1] tracking-tight">
-          Aplikasi Buku Tamu Digital & <span class="italic font-normal text-soft-gold">Scan QR Code</span> Tamu Resepsi.
+        <h2
+          class="font-serif text-4xl sm:text-5xl text-brand-950 leading-[1.1] tracking-tight"
+        >
+          Aplikasi Buku Tamu Digital & <span
+            class="italic font-normal text-soft-gold">Scan QR Code</span
+          > Tamu Resepsi.
         </h2>
 
-        <p class="text-text-secondary text-base sm:text-lg leading-relaxed font-sans max-w-[500px]">
-          Hilangkan antrean panjang di meja resepsi. Undangan pernikahan dengan QR Code otomatis terintegrasi dengan sistem manajemen kehadiran tamu undangan terpusat untuk kelancaran hari pernikahan Anda.
+        <p
+          class="text-text-secondary text-base sm:text-lg leading-relaxed font-sans max-w-[500px]"
+        >
+          Hilangkan antrean panjang di meja resepsi. Undangan pernikahan dengan
+          QR Code otomatis terintegrasi dengan sistem manajemen kehadiran tamu
+          undangan terpusat untuk kelancaran hari pernikahan Anda.
         </p>
 
         <!-- Dynamic Grid of Benefits -->
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-2">
-          
           <div class="space-y-2.5">
-            <div class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold">
+            <div
+              class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold"
+            >
               <Icon name="zap" size={14} />
             </div>
-            <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">Scan Instan 0.5 Detik</h4>
-            <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Tamu cukup menunjukkan kode QR unik di layar ponsel mereka untuk dipindai oleh petugas WO menggunakan perangkat tablet/smartphone apa pun secara praktis.</p>
+            <h3
+              class="text-xs font-black uppercase tracking-wider text-brand-950"
+            >
+              Scan Instan 0.5 Detik
+            </h3>
+            <p
+              class="text-[11px] text-text-muted leading-relaxed font-semibold"
+            >
+              Tamu cukup menunjukkan kode QR unik di layar ponsel mereka untuk
+              dipindai oleh petugas WO menggunakan perangkat tablet/smartphone
+              apa pun secara praktis.
+            </p>
           </div>
 
           <div class="space-y-2.5">
-            <div class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold">
+            <div
+              class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold"
+            >
               <Icon name="shield-check" size={14} />
             </div>
-            <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">Proteksi Tamu Gelap</h4>
-            <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Sistem otomatis mencocokkan kode QR dengan basis data tamu Anda, mendeteksi tamu tidak sah secara presisi untuk menjaga keamanan resepsi.</p>
+            <h3
+              class="text-xs font-black uppercase tracking-wider text-brand-950"
+            >
+              Proteksi Tamu Gelap
+            </h3>
+            <p
+              class="text-[11px] text-text-muted leading-relaxed font-semibold"
+            >
+              Sistem otomatis mencocokkan kode QR dengan basis data tamu Anda,
+              mendeteksi tamu tidak sah secara presisi untuk menjaga keamanan
+              resepsi.
+            </p>
           </div>
 
           <div class="space-y-2.5">
-            <div class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold">
+            <div
+              class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold"
+            >
               <Icon name="clipboard-list" size={14} />
             </div>
-            <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">Buku Tamu Real-time</h4>
-            <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Daftar tamu yang telah hadir langsung tercatat secara rapi di database digital. Anda dapat memantau kuota kehadiran katering secara langsung.</p>
+            <h3
+              class="text-xs font-black uppercase tracking-wider text-brand-950"
+            >
+              Buku Tamu Real-time
+            </h3>
+            <p
+              class="text-[11px] text-text-muted leading-relaxed font-semibold"
+            >
+              Daftar tamu yang telah hadir langsung tercatat secara rapi di
+              database digital. Anda dapat memantau kuota kehadiran katering
+              secara langsung.
+            </p>
           </div>
 
           <div class="space-y-2.5">
-            <div class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold">
+            <div
+              class="w-8 h-8 rounded-full bg-[#B59A73]/15 flex items-center justify-center text-soft-gold"
+            >
               <Icon name="copy" size={14} />
             </div>
-            <h4 class="text-xs font-black uppercase tracking-wider text-brand-950">Ekspor Data Sekali Klik</h4>
-            <p class="text-[11px] text-text-muted leading-relaxed font-semibold">Setelah acara selesai, ekspor buku tamu digital Anda ke format Microsoft Excel / CSV hanya dengan sekali ketuk dari dashboard admin.</p>
+            <h3
+              class="text-xs font-black uppercase tracking-wider text-brand-950"
+            >
+              Ekspor Data Sekali Klik
+            </h3>
+            <p
+              class="text-[11px] text-text-muted leading-relaxed font-semibold"
+            >
+              Setelah acara selesai, ekspor buku tamu digital Anda ke format
+              Microsoft Excel / CSV hanya dengan sekali ketuk dari dashboard
+              admin.
+            </p>
           </div>
-
         </div>
       </div>
-
     </div>
   </Container>
 </section>

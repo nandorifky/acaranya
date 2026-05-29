@@ -179,6 +179,28 @@ const jsonLd = [
             {post.data.description}
           </p>
 
+          <!-- Contextual Inline CTA (Dofollow) -->
+          {
+            post.data.ctaText && post.data.ctaUrl && (
+              <div class="mb-6 pl-4 border-l-2 border-[#B59A73]/80 group">
+                <span class="block text-[10px] font-bold uppercase tracking-[0.2em] text-[#B59A73] mb-1.5 select-none">
+                  Rekomendasi:
+                </span>
+                <a
+                  href={post.data.ctaUrl}
+                  class="font-serif text-[15px] font-extrabold text-brand-950 hover:text-[#B59A73] transition-colors inline-flex items-center gap-1.5 leading-relaxed"
+                >
+                  {post.data.ctaText}
+                  <Icon
+                    name="arrow-right"
+                    size={14}
+                    class="text-[#B59A73] transform group-hover:translate-x-1 transition-transform"
+                  />
+                </a>
+              </div>
+            )
+          }
+
           <!-- Author + Updated -->
           <div
             class="flex items-center justify-between flex-wrap gap-3 pb-5 border-b border-border-soft/60"
@@ -237,6 +259,8 @@ const jsonLd = [
         <div class="max-w-2xl">
           <!-- Table of Contents -->
           <TableOfContents headings={headings} />
+
+
 
           <!-- Content -->
           <div class="prose max-w-none">

@@ -66,6 +66,9 @@ const blog = defineCollection({
     customBreadcrumbLabel: z.string().optional(),
     canonicalUrl: z.string().optional(),
     noindex: z.boolean().default(false),
+    // Inline CTA Fields
+    ctaText: z.string().optional(),
+    ctaUrl: z.string().optional(),
   }),
 });
 

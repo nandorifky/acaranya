@@ -113,6 +113,8 @@ collections:
       - { label: "Custom Breadcrumb Label (Optional)", name: "customBreadcrumbLabel", widget: "string", required: false }
       - { label: "Canonical URL (Optional)", name: "canonicalUrl", widget: "string", required: false }
       - { label: "Noindex Tag? (Sembunyikan dari Google)", name: "noindex", widget: "boolean", default: false }
+      - { label: "Inline CTA Tombol Teks (Optional)", name: "ctaText", widget: "string", required: false, description: "Teks rekomendasi di atas artikel (contoh: Lihat Desain Undangan Pernikahan Digital Cantik)" }
+      - { label: "Inline CTA Tombol Link (Optional)", name: "ctaUrl", widget: "string", required: false, description: "Link tujuan dofollow (contoh: /desain-undangan-digital/pernikahan/)" }
       - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
 
 
