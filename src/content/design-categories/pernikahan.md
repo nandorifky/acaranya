@@ -3,11 +3,11 @@ title: Pernikahan
 labelShort: Pernikahan
 icon: gem
 description: Koleksi template undangan digital pernikahan mewah, elegan, dan estetik untuk hari spesial Anda.
-metaTitle: Undangan Pernikahan Digital Premium & Murah
+metaTitle: Bikin Undangan Pernikahan Digital Premium, Banyak Pilihan Desain!
 metaDescription: Jasa pembuatan undangan pernikahan digital premium dengan harga murah & proses 1 hari jadi. Desain estetik, RSVP otomatis, peta lokasi, & revisi sepuasnya!
 sortOrder: 1
 status: published
-heroTitle: Bikin Undangan Pernikahan Digital Premium, Banyak Pilihan Desain!
+heroTitle: Undangan Pernikahan Digital Premium & Elegan
 heroSubtitle: Bikin website undangan pernikahan online mewah dan elegan dengan fitur lengkap RSVP, Maps, Lagu, & Galeri Foto. Mulai sebar undangan nikah digital instan hari ini!
 whyChooseUs:
   title: Mengapa Memilih Website Undangan Pernikahan di Acaranya.id?
