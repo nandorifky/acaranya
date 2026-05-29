@@ -1,8 +1,7 @@
 ---
 title: Esther
 category: pernikahan
-categories:
-  - syukuran
+categories: []
 thumbnail: https://inv.acaranya.id/themes/esther/esther.webp
 previewUrl: https://inv.acaranya.id/preview/esther
 isFeatured: true
