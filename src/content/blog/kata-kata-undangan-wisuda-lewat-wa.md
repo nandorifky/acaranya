@@ -2,7 +2,7 @@
 title: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 description: Bagikan kabar bahagia kelulusanmu! Cek 5 contoh kata-kata undangan wisuda lewat WA yang sopan & sesuai format Indonesia untuk mengundang orang-orang terdekat.
 publishedAt: 2026-04-08T17:51:00
-updatedAt: 2026-05-29T14:24:00
+updatedAt: 2026-05-29T14:37:00
 author: indira
 category: Inspirasi
 tags:
@@ -19,7 +19,7 @@ seoTitle: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 customBreadcrumbLabel: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 canonicalUrl: /artikel/kata-kata-undangan-wisuda-lewat-wa/
 noindex: false
-ctaText: Pesan Undangan Wisuda Digital
+ctaText: Undangan Wisuda Digital
 ctaUrl: /desain-undangan-digital/wisuda/
 ---
 
