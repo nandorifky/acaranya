@@ -7,20 +7,19 @@ author: indira
 category: Inspirasi
 tags:
   - contoh-love-story-undangan-digital
-  - love-story
   - undangan-digital
   - pernikahan
-image: /images/blog/featured/contoh-love-story-undangan-digital-teman-kerja.webp
+image: /images/blog/featured/contoh-love-story-undangan-digital-teman-kerja-optimized.webp
 imageAlt: Contoh Love Story Undangan Pernikahan Digital Teman Kerja
 imageTitle: Contoh Love Story Undangan Pernikahan Digital Teman Kerja
 imageCaption: ''
 status: published
 seoTitle: 10 Contoh Love Story Undangan Pernikahan Digital Teman Kerja
 customBreadcrumbLabel: Contoh Love Story Teman Kerja
-canonicalUrl: '/artikel/10-contoh-love-story-undangan-pernikahan-digital-teman-kerja/'
+canonicalUrl: /artikel/10-contoh-love-story-undangan-pernikahan-digital-teman-kerja/
 noindex: false
-ctaText: ''
-ctaUrl: ''
+ctaText: Undangan Digital
+ctaUrl: /desain-undangan-digital/
 ---
 
 Bertemu jodoh di tempat kerja punya cerita yang terasa dekat dengan kehidupan sehari-hari. Awalnya mungkin hanya saling menyapa di ruang meeting, mengerjakan proyek bersama, atau bertukar kabar soal deadline. Pelan-pelan, kedekatan itu tumbuh menjadi rasa nyaman yang akhirnya membawa kalian ke momen istimewa.
