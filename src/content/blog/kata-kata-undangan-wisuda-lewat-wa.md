@@ -19,7 +19,7 @@ seoTitle: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 customBreadcrumbLabel: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 canonicalUrl: /artikel/kata-kata-undangan-wisuda-lewat-wa/
 noindex: false
-ctaText: Pesan Undangan Wisuda
+ctaText: Pesan Undangan Wisuda Digital
 ctaUrl: /desain-undangan-digital/wisuda/
 ---
 
