@@ -1,11 +1,8 @@
 ---
 title: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
-description: >-
-  Bagikan kabar bahagia kelulusanmu! Cek 5 contoh kata-kata undangan wisuda
-  lewat WA yang sopan & sesuai format Indonesia untuk mengundang orang-orang
-  terdekat.
-publishedAt: '2026-04-08T17:51:04'
-updatedAt: '2026-05-25T04:30:00+07:00'
+description: Bagikan kabar bahagia kelulusanmu! Cek 5 contoh kata-kata undangan wisuda lewat WA yang sopan & sesuai format Indonesia untuk mengundang orang-orang terdekat.
+publishedAt: 2026-04-08T17:51:00
+updatedAt: 2026-05-25T04:30:00+07:00
 author: indira
 category: Inspirasi
 tags:
@@ -20,10 +17,13 @@ imageCaption: ''
 status: published
 seoTitle: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
 customBreadcrumbLabel: 5 Contoh Kata-Kata Undangan Wisuda Lewat WA
-canonicalUrl: '/artikel/kata-kata-undangan-wisuda-lewat-wa/'
+canonicalUrl: /artikel/kata-kata-undangan-wisuda-lewat-wa/
 noindex: false
+ctaText: Pesan Undangan Wisuda
+ctaUrl: /desain-undangan-digital/wisuda/
 ---
-Mengundang orang-orang terdekat untuk hadir di acara wisuda merupakan bagian penting dalam perjalanan akademis. Di era digital seperti sekarang, penggunaan **[undangan wisuda digital](/desain-undangan-digital/wisuda/)** melalui WhatsApp menjadi pilihan praktis dan efisien. Meski begitu, kita tetap perlu memperhatikan tata krama dan format undangan yang berlaku di Indonesia.
+
+Mengundang orang-orang terdekat untuk hadir di acara wisuda merupakan bagian penting dalam perjalanan akademis. Di era digital seperti sekarang, penggunaan [**undangan wisuda digital**](/desain-undangan-digital/wisuda/) melalui WhatsApp menjadi pilihan praktis dan efisien. Meski begitu, kita tetap perlu memperhatikan tata krama dan format undangan yang berlaku di Indonesia.
 
 Membuat undangan wisuda lewat WA memang lebih simple, namun tetap harus memperhatikan struktur dan etika dalam penulisannya. Pemilihan kata-kata undangan wisuda yang tepat dapat mencerminkan kesopanan dan penghormatan kepada para tamu undangan. Mari simak beberapa contoh yang bisa kamu gunakan.
 
@@ -35,7 +35,7 @@ Format ini tetap relevan meski diterapkan dalam undangan wisuda digital. Penggun
 
 ## 5 Contoh Kata-Kata Undangan Wisuda Sesuai Format Indonesia
 
-### 1\. Format Lengkap Islami
+### 1. Format Lengkap Islami
 
 > Bismillahirrahmanirrahim
 > 
@@ -60,7 +60,7 @@ Format ini tetap relevan meski diterapkan dalam undangan wisuda digital. Penggun
 > 
 > Hormat saya, (Nama Lengkap)
 
-### 2\. Format Umum Non-Muslim
+### 2. Format Umum Non-Muslim
 
 > Salam sejahtera,
 > 
@@ -79,7 +79,7 @@ Format ini tetap relevan meski diterapkan dalam undangan wisuda digital. Penggun
 > 
 > Hormat saya, (Nama Lengkap)
 
-### 3\. Singkat Namun Formal
+### 3. Singkat Namun Formal
 
 > Assalamu’alaikum Wr. Wb.
 > 
@@ -97,7 +97,7 @@ Format ini tetap relevan meski diterapkan dalam undangan wisuda digital. Penggun
 
 **_BACA JUGA:_** [_Kata-Kata Undangan Pernikahan Online_](/artikel/kata-kata-undangan-pernikahan-online/)
 
-### 4\. Format dengan Dress Code dan Informasi Tambahan
+### 4. Format dengan Dress Code dan Informasi Tambahan
 
 > Bismillahirrahmanirrahim Assalamu’alaikum Wr. Wb.
 > 
@@ -115,7 +115,7 @@ Format ini tetap relevan meski diterapkan dalam undangan wisuda digital. Penggun
 > 
 > Wassalam, (Nama)
 
-### 5\. Format dengan Link Undangan Digital
+### 5. Format dengan Link Undangan Digital
 
 > Assalamu’alaikum Wr. Wb.
 > 
