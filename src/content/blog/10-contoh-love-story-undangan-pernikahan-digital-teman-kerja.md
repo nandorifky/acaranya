@@ -9,7 +9,7 @@ tags:
   - contoh-love-story-undangan-digital
   - undangan-digital
   - pernikahan
-image: /images/blog/featured/contoh-love-story-undangan-digital-teman-kerja-optimized.webp
+image: /images/blog/featured/contoh-love-story-undangan-digital-teman-kerja.webp
 imageAlt: Contoh Love Story Undangan Pernikahan Digital Teman Kerja
 imageTitle: Contoh Love Story Undangan Pernikahan Digital Teman Kerja
 imageCaption: ''
