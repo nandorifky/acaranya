@@ -45,7 +45,7 @@ Kami sangat mengerti dan memperhatikan hal tersebut. Karena itu, kami berikan pe
 
 Fitur? Jangan tanya lagi!
 
-Kami sediakan fitur lengkap mulai dari tamu tanpa batas, galery foto dan video, amplop digital, [love story](/artikel/contoh-love-story/), hingga RSVP semua ada!
+Kami sediakan fitur lengkap mulai dari tamu tanpa batas, galery foto dan video, amplop digital, [love story](/artikel/tag/contoh-love-story-undangan-digital/), hingga RSVP semua ada!
 
 Untuk informasi lebih lanjut, kamu bisa berselancar di situs kami ini.
 

@@ -34,10 +34,14 @@ const designCategories = defineCollection({
     // Page Content Overrides
     heroTitle: z.string().optional(),
     heroSubtitle: z.string().optional(),
+    featuredImage: z.string().optional(),
+    featuredImageAlt: z.string().optional(),
     whyChooseUs: z.object({
       title: z.string().optional(),
       subtitle: z.string().optional(),
       image: z.string().optional(),
+      imageAlt: z.string().optional(),
+      imageTitle: z.string().optional(),
       features: z.array(z.object({
         title: z.string(),
         description: z.string(),

@@ -53,6 +53,8 @@ const baseUrl = `/desain-undangan-digital/${categorySlug}/`;
 const canonicalUrl = isFirstPage 
   ? `${siteConfig.url}${baseUrl}`
   : `${siteConfig.url}${baseUrl}`; // SEO: Subsequent pages also canonical to page 1
+const ogImage = category.data.featuredImage || category.data.whyChooseUs?.image || siteConfig.branding.ogImage;
+const ogImageAlt = category.data.featuredImageAlt || category.data.whyChooseUs?.imageAlt || category.data.metaTitle || category.data.title;
 
 // SEO: Noindex for pages > 1 to avoid thin content issues, or just follow. 
 // Standard SEO practice is to keep them indexable but canonical to page 1.
@@ -61,6 +63,8 @@ const canonicalUrl = isFirstPage
 <MarketingLayout
   title={isFirstPage ? category.data.metaTitle : `${category.data.title} - Halaman ${page.currentPage} | ${siteConfig.name}`}
   description={category.data.metaDescription}
+  ogImage={ogImage}
+  ogImageAlt={ogImageAlt}
   canonical={canonicalUrl}
 >
   <!-- Category Header -->

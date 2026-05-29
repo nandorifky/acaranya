@@ -12,7 +12,7 @@ import Icon from "../ui/Icon.astro";
 
   <Container>
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-16 items-center">
-      <!-- Left Column: Premium Visual Backdrop (4:3) -->
+      <!-- Left Column: Premium Visual Backdrop (4:3). Illustration size: 1600x1200px. -->
       <div class="lg:col-span-6 relative animate-fade-in">
         <div
           class="relative rounded-[32px] overflow-hidden shadow-elevated border border-brand-200/40 bg-brand-950 aspect-[4/3] group"
@@ -26,7 +26,9 @@ import Icon from "../ui/Icon.astro";
           <img
             src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=800"
             alt="Meja Penerima Tamu Resepsi dengan Buku Tamu Digital"
-            class="w-full h-full object-cover filter sepia-[15%] group-hover:scale-105 transition-transform duration-700 ease-out z-0"
+            width="1600"
+            height="1200"
+            class="w-full h-full object-contain filter sepia-[15%] group-hover:scale-105 transition-transform duration-700 ease-out z-0"
             loading="lazy"
           />
 

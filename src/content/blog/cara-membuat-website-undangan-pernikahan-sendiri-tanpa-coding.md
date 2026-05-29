@@ -37,7 +37,7 @@ Kabar baiknya, semua itu tidak sepenuhnya benar. Kamu bisa membuat website undan
 
 Sebelum kita masuk ke langkah teknis, mari kita pahami mengapa website undangan menjadi pilihan populer.
 
-Berbeda dari [undangan digital](/) statis (seperti gambar JPEG), website undangan menawarkan interaktivitas. Tamu bisa melakukan konfirmasi kehadiran (RSVP) secara langsung, melihat galeri foto _pre-wedding_ kamu, membaca [love story](/artikel/contoh-love-story/) kalian, hingga mendapatkan petunjuk arah Google Maps ke lokasi acara.
+Berbeda dari [undangan digital](/) statis (seperti gambar JPEG), website undangan menawarkan interaktivitas. Tamu bisa melakukan konfirmasi kehadiran (RSVP) secara langsung, melihat galeri foto _pre-wedding_ kamu, membaca [love story](/artikel/tag/contoh-love-story-undangan-digital/) kalian, hingga mendapatkan petunjuk arah Google Maps ke lokasi acara.
 
 Website undangan juga mempermudah proses pembaruan. Jika ada perubahan jadwal atau lokasi, kamu cukup memperbaruinya di satu tempat.
 

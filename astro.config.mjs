@@ -33,6 +33,11 @@ const toolUrls = new Set([
 ]);
 
 const isRecentNewsUrl = (url) => recentNewsUrls.has(url);
+const isPaginationUrl = (url) => {
+  const pathname = new URL(url).pathname;
+  return /^\/(artikel|area|penulis|desain-undangan-digital)(\/[^/]+)?\/[2-9]\d*\/$/.test(pathname)
+    || /^\/artikel\/tag\/[^/]+\/[2-9]\d*\/$/.test(pathname);
+};
 
 // https://astro.build/config
 // Triggering fresh build
@@ -96,6 +101,7 @@ export default defineConfig({
         }
       },
       serialize(item) {
+        if (isPaginationUrl(item.url)) return undefined;
         if (isRecentNewsUrl(item.url)) return undefined;
 
         item.changefreq ??= ChangeFreqEnum.WEEKLY;

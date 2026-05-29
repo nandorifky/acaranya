@@ -115,6 +115,12 @@ const title = isCategory
 
 const description = isCategory ? category.data.metaDescription : "Pilih template undangan digital mewah untuk berbagai acara spesial Anda. Desain estetik, modern, dan profesional.";
 const canonicalUrl = `${siteConfig.url}${page.url.current}`;
+const ogImage = isCategory
+  ? (category.data.featuredImage || category.data.whyChooseUs?.image || siteConfig.branding.ogImage)
+  : siteConfig.branding.ogImage;
+const ogImageAlt = isCategory
+  ? (category.data.featuredImageAlt || category.data.whyChooseUs?.imageAlt || category.data.metaTitle || category.data.title)
+  : title;
 
 // Use the price from the 'simple' plan as the base price for templates
 const basePrice = pricingPlans.find(p => p.slug === 'simple')?.price || 75000;
@@ -160,6 +166,8 @@ const jsonLd = [
 <MarketingLayout
   title={title}
   description={description}
+  ogImage={ogImage}
+  ogImageAlt={ogImageAlt}
   canonical={canonicalUrl}
   jsonLd={jsonLd}
 >

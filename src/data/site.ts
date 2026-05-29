@@ -81,13 +81,13 @@ export const siteConfig = {
   stats: {
     totalInvitations: '2000+',
     totalGuests: '150k+',
-    totalDesigns: '200+',
-    since: 'Sejak 2022',
+    totalDesigns: '500+',
+    since: '2022',
   },
 
   seo: {
     titleTemplate: '%s | Acaranya.id',
-    defaultTitle: 'Undangan Digital Cantik untuk Berbagai Acara | Acaranya.id',
+    defaultTitle: 'Buat Undangan Digital Website Terima Jadi Tanpa Antre! | Acaranya.id',
     defaultDescription: 'Buat undangan digital modern dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
     keywords: 'undangan digital, undangan online, undangan website, wedding invitation, e-invitation',
 
