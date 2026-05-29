@@ -69,6 +69,7 @@ collections:
     fields:
       - { label: "Nama Template Desain", name: "title", widget: "string" }
       - { label: "Kategori", name: "category", widget: "relation", collection: "design-categories", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"] }
+      - { label: "Kategori Tambahan", name: "categories", widget: "relation", collection: "design-categories", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"], multiple: true, required: false, default: [] }
       - { label: "Gambar Thumbnail", name: "thumbnail", widget: "image", required: false }
       - { label: "Tautan Live Preview", name: "previewUrl", widget: "string", description: "Contoh: https://inv.acaranya.id/nama-desain" }
       - { label: "Tampilkan di Unggulan?", name: "isFeatured", widget: "boolean", default: false }
@@ -186,6 +187,7 @@ collections:
         widget: "select"
         options:
           - { label: "Kalkulator Weton Online (CekWeton)", value: "CekWeton" }
+          - { label: "Cari Hari Pernikahan (CariHariPernikahan)", value: "CariHariPernikahan" }
           - { label: "Hitung Mundur Pernikahan (WeddingCountdown)", value: "WeddingCountdown" }
           - { label: "Generator Teks Undangan WA (GeneratorTeksUndangan)", value: "GeneratorTeksUndangan" }
       - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", required: false }

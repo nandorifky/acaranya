@@ -705,7 +705,7 @@
     },
   ];
 
-  const EPOCH_DATE = new Date("1970-01-01");
+  const EPOCH_UTC = Date.UTC(1970, 0, 1); // 1970-01-01 = Kamis Wage.
 
   // Safer helpers
   function escapeHTML(value: string) {
@@ -762,8 +762,8 @@
     const dayIdx = date.getDay();
     const h = HARI[dayIdx];
 
-    const diffTime = date.getTime() - EPOCH_DATE.getTime();
-    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    const dateUtc = Date.UTC(date.getFullYear(), date.getMonth(), date.getDate());
+    const diffDays = Math.floor((dateUtc - EPOCH_UTC) / (1000 * 60 * 60 * 24));
 
     let pasaranIdx = diffDays % 5;
     if (pasaranIdx < 0) {

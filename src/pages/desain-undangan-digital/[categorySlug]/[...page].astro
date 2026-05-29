@@ -15,10 +15,12 @@ export async function getStaticPaths({ paginate }) {
   
   const allDesigns = await getCollection('designs');
   const publishedDesigns = allDesigns.filter(d => d.data.status === 'published');
+  const belongsToCategory = (design, categoryId) =>
+    design.data.category === categoryId || design.data.categories.includes(categoryId);
 
   return publishedCategories.flatMap((category) => {
     const categoryDesigns = publishedDesigns
-      .filter(d => d.data.category === category.id)
+      .filter(d => belongsToCategory(d, category.id))
       .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
     
     return paginate(categoryDesigns, {

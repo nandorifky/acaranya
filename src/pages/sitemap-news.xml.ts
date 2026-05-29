@@ -4,10 +4,14 @@ import { siteConfig } from '../data/site';
 
 export const GET: APIRoute = async () => {
   const posts = await getCollection('blog');
+  const twoDaysAgo = Date.now() - 2 * 24 * 60 * 60 * 1000;
   
-  // Filter for published posts with the 'news' tag
   const newsPosts = posts
-    .filter(post => post.data.status === 'published' && post.data.tags?.includes('news'))
+    .filter(post =>
+      post.data.status === 'published'
+      && post.data.tags?.includes('news')
+      && post.data.publishedAt.getTime() >= twoDaysAgo
+    )
     .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
   const urls = newsPosts.map(post => {

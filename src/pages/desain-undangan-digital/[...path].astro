@@ -19,6 +19,8 @@ export async function getStaticPaths() {
 
   const pageSize = 6; // Set to 6 to ensure pagination appears for Pernikahan (14 items)
   const paths = [];
+  const belongsToCategory = (design, categoryId) =>
+    design.data.category === categoryId || design.data.categories.includes(categoryId);
 
   // Helper to build the pagination object expected by the UI
   const buildPageObj = (data, page, total, baseUrl) => {
@@ -55,7 +57,7 @@ export async function getStaticPaths() {
 
   // 2. CATEGORY PATHS
   for (const cat of categories) {
-    const catDesigns = publishedDesigns.filter(d => d.data.category === cat.id);
+    const catDesigns = publishedDesigns.filter(d => belongsToCategory(d, cat.id));
     const totalCat = catDesigns.length;
     const catLastPage = Math.ceil(totalCat / pageSize) || 1;
 

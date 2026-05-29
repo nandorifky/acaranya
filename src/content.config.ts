@@ -6,6 +6,7 @@ const designs = defineCollection({
   schema: z.object({
     title: z.string(),
     category: z.string(), // Referring to the slug of designCategories
+    categories: z.array(z.string()).default([]),
     thumbnail: z.string().optional(),
     previewUrl: z.string(),
     isFeatured: z.boolean().default(false),

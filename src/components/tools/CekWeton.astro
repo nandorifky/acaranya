@@ -195,15 +195,20 @@
     0: { nama: 'Pati (Ujian Mental)', ket: 'Sering menghadapi fase ujian hidup yang menuntut keteguhan mental. Disarankan giat bersedekah dan berikhtiar sebagai benteng spiritual.' }
   };
 
-  const EPOCH_DATE = new Date('1970-01-01');
+  const EPOCH_UTC = Date.UTC(1970, 0, 1); // 1970-01-01 = Kamis Wage.
+
+  function parseInputDate(dateStr: string) {
+    const [year, month, day] = dateStr.split('-').map(Number);
+    return new Date(year, month - 1, day);
+  }
 
   function getWeton(dateStr: string) {
-    const targetDate = new Date(dateStr);
+    const targetDate = parseInputDate(dateStr);
     const dayIdx = targetDate.getDay();
     const hariObj = HARI[dayIdx];
 
-    const diffTime = targetDate.getTime() - EPOCH_DATE.getTime();
-    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    const targetUtc = Date.UTC(targetDate.getFullYear(), targetDate.getMonth(), targetDate.getDate());
+    const diffDays = Math.floor((targetUtc - EPOCH_UTC) / (1000 * 60 * 60 * 24));
     
     let pasaranIdx = diffDays % 5;
     if (pasaranIdx < 0) {
