@@ -6,16 +6,24 @@ import Icon from '../../components/ui/Icon.astro';
 import { getCollection } from 'astro:content';
 import { siteConfig } from '../../data/site';
 
+function bySortOrder(a, b) {
+  return (
+    (a.data.sortOrder || Number.MAX_SAFE_INTEGER) - (b.data.sortOrder || Number.MAX_SAFE_INTEGER) ||
+    (b.data.publishedAt?.getTime() || 0) - (a.data.publishedAt?.getTime() || 0) ||
+    a.id.localeCompare(b.id)
+  );
+}
+
 // Fetch portfolios and categories
 const allPortfolios = await getCollection('portfolio');
 const publishedPortfolios = allPortfolios
   .filter(p => p.data.status === 'published')
-  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+  .sort(bySortOrder);
 
 const allCategories = await getCollection('designCategories');
 const publishedCategories = allCategories
   .filter(c => c.data.status === 'published')
-  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+  .sort(bySortOrder);
 
 const canonicalUrl = `${siteConfig.url}/portfolio/`;
 const metaTitle = "Portofolio Undangan Digital Premium Klien Nyata";

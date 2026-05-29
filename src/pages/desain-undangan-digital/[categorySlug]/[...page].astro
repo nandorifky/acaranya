@@ -9,6 +9,10 @@ import Pagination from '../../../components/ui/Pagination.astro';
 import { getCollection, render } from 'astro:content';
 import { siteConfig } from '../../../data/site';
 
+function bySortOrder(a, b) {
+  return a.data.sortOrder - b.data.sortOrder || a.id.localeCompare(b.id);
+}
+
 export async function getStaticPaths({ paginate }) {
   const categories = await getCollection('designCategories');
   const publishedCategories = categories.filter(c => c.data.status === 'published');
@@ -21,12 +25,16 @@ export async function getStaticPaths({ paginate }) {
   return publishedCategories.flatMap((category) => {
     const categoryDesigns = publishedDesigns
       .filter(d => belongsToCategory(d, category.id))
-      .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+      .sort((a, b) => (
+        (a.data.catalogSortOrder || Number.MAX_SAFE_INTEGER) - (b.data.catalogSortOrder || Number.MAX_SAFE_INTEGER) ||
+        (b.data.publishedAt?.getTime() || 0) - (a.data.publishedAt?.getTime() || 0) ||
+        a.id.localeCompare(b.id)
+      ));
     
     return paginate(categoryDesigns, {
       params: { categorySlug: category.id },
       props: { category },
-      pageSize: 12,
+      pageSize: 36,
     });
   });
 }
@@ -38,7 +46,7 @@ const { Content } = await render(category);
 const allCategories = await getCollection('designCategories');
 const publishedCategories = allCategories
   .filter(c => c.data.status === 'published')
-  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+  .sort(bySortOrder);
 
 const isFirstPage = page.currentPage === 1;
 const baseUrl = `/desain-undangan-digital/${categorySlug}/`;

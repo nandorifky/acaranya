@@ -7,13 +7,17 @@ import { getCollection } from "astro:content";
 import { pricingPlans } from "../../data/pricing-static";
 import { siteConfig } from "../../data/site";
 
+function bySortOrder(a, b) {
+  return a.data.sortOrder - b.data.sortOrder || a.id.localeCompare(b.id);
+}
+
 // Fetch all wedding designs from content collection
 const allDesigns = await getCollection("designs");
 const weddingDesigns = allDesigns
   .filter(
     (d) => d.data.status === "published" && d.data.category === "pernikahan",
   )
-  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+  .sort(bySortOrder);
 ---
 
 <MarketingLayout

@@ -10,14 +10,30 @@ import { getCollection, render } from 'astro:content';
 import { siteConfig } from '../../data/site';
 import { pricingPlans } from '../../data/pricing-static';
 
+function bySortOrder(a, b) {
+  return a.data.sortOrder - b.data.sortOrder || a.id.localeCompare(b.id);
+}
+
+function byCatalogOrder(a, b) {
+  return (
+    (a.data.catalogSortOrder || Number.MAX_SAFE_INTEGER) - (b.data.catalogSortOrder || Number.MAX_SAFE_INTEGER) ||
+    (b.data.publishedAt?.getTime() || 0) - (a.data.publishedAt?.getTime() || 0) ||
+    a.id.localeCompare(b.id)
+  );
+}
+
 export async function getStaticPaths() {
   const categories = await getCollection('designCategories');
   const allDesigns = await getCollection('designs');
   const publishedDesigns = allDesigns
     .filter(d => d.data.status === 'published')
-    .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+    .sort((a, b) => (
+      (a.data.catalogSortOrder || Number.MAX_SAFE_INTEGER) - (b.data.catalogSortOrder || Number.MAX_SAFE_INTEGER) ||
+      (b.data.publishedAt?.getTime() || 0) - (a.data.publishedAt?.getTime() || 0) ||
+      a.id.localeCompare(b.id)
+    ));
 
-  const pageSize = 6; // Set to 6 to ensure pagination appears for Pernikahan (14 items)
+  const pageSize = 36;
   const paths = [];
   const belongsToCategory = (design, categoryId) =>
     design.data.category === categoryId || design.data.categories.includes(categoryId);
@@ -87,7 +103,7 @@ const Content = isCategory ? (await render(category)).Content : null;
 const allCategories = await getCollection('designCategories');
 const publishedCategories = allCategories
   .filter(c => c.data.status === 'published')
-  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+  .sort(bySortOrder);
 
 const isFirstPage = page.currentPage === 1;
 const siteName = siteConfig.name;

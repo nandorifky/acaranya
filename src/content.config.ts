@@ -14,6 +14,8 @@ const designs = defineCollection({
     tags: z.array(z.string()).default([]),
     package: z.enum(['simple', 'mengundang', 'meriah']).optional(),
     sortOrder: z.number().default(0),
+    catalogSortOrder: z.number().default(0),
+    publishedAt: z.coerce.date().optional(),
     status: z.enum(['draft', 'published']).default('published'),
   }),
 });
@@ -152,6 +154,7 @@ const portfolio = defineCollection({
     featuresUsed: z.array(z.string()).default([]),
     clientTestimonial: z.string().optional(),
     sortOrder: z.number().default(0),
+    publishedAt: z.coerce.date().optional(),
     status: z.enum(['draft', 'published']).default('published'),
     seoTitle: z.string().optional(),
     seoDescription: z.string().optional(),

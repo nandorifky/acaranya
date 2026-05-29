@@ -7,7 +7,18 @@ import { getCollection } from 'astro:content';
 import { siteConfig } from '../../data/site';
 
 const allTestimonials = await getCollection('testimonials');
-const published = allTestimonials.filter(t => t.data.status === 'published').slice(0, 3);
+const shuffle = <T,>(items: T[]) => {
+  const shuffled = [...items];
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+
+  return shuffled;
+};
+
+const published = shuffle(allTestimonials.filter(t => t.data.status === 'published')).slice(0, 3);
 ---
 
 <Section bg="white" id="testimonials">

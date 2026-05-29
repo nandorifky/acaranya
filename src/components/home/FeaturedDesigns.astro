@@ -6,10 +6,14 @@ import DesignCard from "../designs/DesignCard.astro";
 import Icon from "../ui/Icon.astro";
 import { getCollection } from "astro:content";
 
+function bySortOrder(a, b) {
+  return a.data.sortOrder - b.data.sortOrder || a.id.localeCompare(b.id);
+}
+
 const allDesigns = await getCollection("designs");
 const featuredDesigns = allDesigns
   .filter((d) => d.data.status === "published" && d.data.isFeatured)
-  .sort((a, b) => a.data.sortOrder - b.data.sortOrder)
+  .sort(bySortOrder)
   .slice(0, 4);
 ---
 

@@ -78,6 +78,29 @@ body {
   color: var(--color-brand-950);
 }
 
+@media (hover: none), (pointer: coarse) {
+  .touch-hover {
+    transform: translateY(-1px) scale(0.995);
+  }
+
+  .touch-hover:is(a, button, summary, label),
+  .touch-hover:is(.filter-btn, .portfolio-card),
+  .touch-hover:is(article[id^="design-card-"]) {
+    border-color: rgba(181, 154, 115, 0.5);
+    box-shadow: var(--shadow-card-hover);
+  }
+
+  .touch-hover:is(a, button, summary, label) {
+    filter: brightness(0.98);
+  }
+
+  .touch-hover.group img,
+  .touch-hover:is(.portfolio-card) img,
+  .touch-hover:is(article[id^="design-card-"]) img {
+    transform: scale(1.03);
+  }
+}
+
 /* ──────────────────────────────────────────────
    Typography Overrides
    ────────────────────────────────────────────── */

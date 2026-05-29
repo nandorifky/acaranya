@@ -21,9 +21,18 @@ import { getCollection } from "astro:content";
 import { pricingPlans } from "../data/pricing-static";
 
 const allTestimonials = await getCollection("testimonials");
-const publishedTestimonials = allTestimonials
-  .filter((t) => t.data.status === "published")
-  .slice(0, 5); // Take up to 5 for schema
+const shuffle = <T,>(items: T[]) => {
+  const shuffled = [...items];
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+
+  return shuffled;
+};
+
+const publishedTestimonials = shuffle(allTestimonials.filter((t) => t.data.status === "published")).slice(0, 5);
 
 const prices = pricingPlans.map((p) => p.price);
 const lowPrice = Math.min(...prices);

@@ -5,10 +5,14 @@ import SectionHeader from "../base/SectionHeader.astro";
 import Icon from "../ui/Icon.astro";
 import { getCollection } from "astro:content";
 
+function bySortOrder(a, b) {
+  return a.data.sortOrder - b.data.sortOrder || a.id.localeCompare(b.id);
+}
+
 const allFaqs = await getCollection("faqs");
 const homeFaqs = allFaqs
   .filter((f) => f.data.status === "published" && f.data.category === "umum")
-  .sort((a, b) => a.data.sortOrder - b.data.sortOrder)
+  .sort(bySortOrder)
   .slice(0, 15);
 
 const faqSchema = {
