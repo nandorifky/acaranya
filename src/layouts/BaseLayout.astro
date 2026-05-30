@@ -44,6 +44,7 @@ const defaultJsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'Organization',
+    '@id': `${siteConfig.url}/#organization`,
     name: siteConfig.name,
     url: siteConfig.url,
     logo: new URL(siteConfig.branding.logo, siteConfig.url).toString(),
@@ -62,8 +63,12 @@ const defaultJsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
+    '@id': `${siteConfig.url}/#website`,
     name: siteConfig.name,
     url: siteConfig.url,
+    publisher: {
+      '@id': `${siteConfig.url}/#organization`,
+    },
   },
 ];
 

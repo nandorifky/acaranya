@@ -17,7 +17,10 @@ export async function getStaticPaths({ paginate }: any) {
     post.data.tags.forEach(tag => tagSet.add(tag));
   });
 
-  const tags = Array.from(tagSet);
+  const tags = Array.from(tagSet).filter(tag => {
+    const usageCount = published.filter(post => post.data.tags.includes(tag)).length;
+    return usageCount > 1 && /^[a-z0-9-]+$/.test(tag);
+  });
 
   return tags.flatMap(tag => {
     const filteredPosts = published
@@ -26,7 +29,7 @@ export async function getStaticPaths({ paginate }: any) {
 
     return paginate(filteredPosts, {
       params: { tag },
-      pageSize: 6,
+      pageSize: 999,
     });
   });
 }

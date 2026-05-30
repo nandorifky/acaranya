@@ -36,48 +36,14 @@ const jsonLd = [
     name: area.data.title,
     description: area.data.description,
     provider: {
-      '@type': 'LocalBusiness',
-      name: siteConfig.name,
-      url: siteConfig.url,
-      image: `${siteConfig.url}${siteConfig.branding.logo}`,
-      address: {
-        '@type': 'PostalAddress',
-        addressLocality: area.data.cityName,
-        addressRegion: area.data.province,
-        addressCountry: 'ID',
-      },
-      priceRange: 'Rp 50.000 - Rp 300.000',
-      telephone: `+${siteConfig.contact.whatsapp}`
+      '@id': `${siteConfig.url}/#organization`,
     },
     areaServed: {
       '@type': 'City',
       name: area.data.cityName,
     },
     category: 'Jasa Pembuatan Undangan Digital',
-  },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      {
-        '@type': 'ListItem',
-        position: 1,
-        name: 'Beranda',
-        item: siteConfig.url,
-      },
-      {
-        '@type': 'ListItem',
-        position: 2,
-        name: 'Area Layanan',
-        item: `${siteConfig.url}/area/`,
-      },
-      {
-        '@type': 'ListItem',
-        position: 3,
-        name: area.data.cityName,
-        item: canonicalUrl,
-      },
-    ],
+    url: canonicalUrl,
   },
 ];
 

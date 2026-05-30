@@ -1,6 +1,5 @@
 ---
-import Icon from '../ui/Icon.astro';
-import { Image } from 'astro:assets';
+import Icon from "../ui/Icon.astro";
 
 interface Props {
   data: {
@@ -27,71 +26,165 @@ if (!data || !data.features || data.features.length === 0) {
 <div class="py-20 lg:py-28 overflow-hidden bg-cream/30">
   <div class="max-w-6xl mx-auto px-6">
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
-      
       <!-- Left: Content & Features -->
       <div class="lg:col-span-7 space-y-12">
         <div class="space-y-4">
-          <span class="text-[10px] uppercase tracking-[0.25em] text-soft-gold font-bold block">Exclusive Benefits</span>
-          <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight">
-            {data.title || 'Kenapa Memilih Acaranya.id?'}
+          <span
+            class="text-[10px] uppercase tracking-[0.25em] text-soft-gold font-bold block"
+            >Exclusive Benefits</span
+          >
+          <h2
+            class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight"
+          >
+            {data.title || "Kenapa Memilih Acaranya.id?"}
           </h2>
-          {data.subtitle && (
-            <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
-              {data.subtitle}
-            </p>
-          )}
+          {
+            data.subtitle && (
+              <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
+                {data.subtitle}
+              </p>
+            )
+          }
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-10">
-          {data.features.map((feature) => (
-            <div class="group">
-              <div class="flex items-center gap-3 mb-3">
-                <div class="w-10 h-10 rounded-full bg-white border border-brand-100 flex items-center justify-center text-brand-700 shadow-sm group-hover:border-soft-gold/50 group-hover:bg-brand-50 transition-all duration-300">
-                  <Icon name={feature.icon} size={16} />
+          {
+            data.features.map((feature) => (
+              <div class="group">
+                <div class="flex items-center gap-3 mb-3">
+                  <div class="w-10 h-10 rounded-full bg-cream-light border border-brand-100 flex items-center justify-center text-brand-700 shadow-sm group-hover:border-soft-gold/50 group-hover:bg-brand-50 transition-all duration-300">
+                    <Icon name={feature.icon} size={16} />
+                  </div>
+                  <h3 class="font-serif text-[17px] font-semibold text-brand-950">
+                    {feature.title}
+                  </h3>
                 </div>
-                <h3 class="font-serif text-[17px] font-semibold text-brand-950">{feature.title}</h3>
+                <p class="text-text-muted text-[13px] leading-relaxed pl-[3.25rem]">
+                  {feature.description}
+                </p>
               </div>
-              <p class="text-text-muted text-[13px] leading-relaxed pl-[3.25rem]">
-                {feature.description}
-              </p>
-            </div>
-          ))}
+            ))
+          }
         </div>
       </div>
 
       <!-- Right: Aesthetic Image -->
-      <div class="lg:col-span-5 relative">
-        <div class="relative z-10 rounded-[2.5rem] overflow-hidden shadow-elevated border-8 border-white/50 aspect-[3/4]">
-          {data.image ? (
-            <img 
-              src={data.image} 
-              alt={data.imageAlt || data.title || 'Kenapa Memilih Acaranya.id'} 
-              title={data.imageTitle || data.title || 'Kenapa Memilih Acaranya.id'}
-              width="1200" 
-              height="1600" 
-              class="w-full h-full object-contain"
-              loading="lazy"
-            />
-          ) : (
-            <div class="w-full h-full bg-gradient-to-br from-brand-100 to-cream flex items-center justify-center p-12 text-center">
-              <div class="space-y-4">
-                <Icon name="gem" size={40} class="mx-auto text-soft-gold/40" />
-                <p class="font-serif text-xl italic text-brand-900 opacity-40">Luxury Aesthetic</p>
+      <div class="lg:col-span-5 relative lg:pl-2">
+        <!-- Radial golden glow light background -->
+        <div
+          class="absolute -inset-10 rounded-[3rem] bg-[radial-gradient(circle_at_30%_20%,rgba(181,154,115,0.22),transparent_38%),radial-gradient(circle_at_70%_70%,rgba(43,70,58,0.12),transparent_38%)] blur-xl pointer-events-none"
+        >
+        </div>
+
+        <!-- Double Frame / Offset Gold Outline behind the main card -->
+        <div
+          class="absolute -right-4 -bottom-4 w-full h-full rounded-[2rem] border border-[#B59A73]/20 pointer-events-none hidden lg:block"
+        >
+        </div>
+
+        <div class="relative z-10 mx-auto max-w-[420px] group">
+          <!-- Floating Badge 1 (Top Left) -->
+          <div
+            class="absolute -left-10 top-12 z-20 hidden md:flex items-center gap-2.5 bg-white border border-[#B59A73]/20 px-4 py-3 rounded-2xl shadow-card backdrop-blur-sm animate-float"
+          >
+            <div
+              class="w-7 h-7 rounded-full bg-[#B59A73]/10 flex items-center justify-center text-soft-gold shrink-0"
+            >
+              <Icon name="sparkles" size={12} />
+            </div>
+            <div class="text-left">
+              <p
+                class="text-[8px] font-bold uppercase tracking-widest text-[#B59A73] leading-none"
+              >
+                Premium Layout
+              </p>
+              <p class="text-[10px] font-bold text-brand-950 mt-1 leading-none">
+                Mobile Ready
+              </p>
+            </div>
+          </div>
+
+          <!-- Main Gallery Art Card -->
+          <div
+            class="relative overflow-hidden rounded-[2rem] border border-[#B59A73]/20 bg-white p-3 shadow-elevated transition-all duration-500 sm:rounded-[2.5rem] sm:p-4"
+          >
+            <!-- Top Hairline Gold Highlight -->
+            <div
+              class="absolute inset-x-10 top-0 h-px bg-gradient-to-r from-transparent via-soft-gold/60 to-transparent"
+            >
+            </div>
+
+            <!-- Aspect 3:4 Screen Box -->
+            <div
+              class="relative aspect-[3/4] overflow-hidden rounded-[1.5rem] bg-cream sm:rounded-[2rem]"
+            >
+              {
+                data.image ? (
+                  <img
+                    src={data.image}
+                    alt={
+                      data.imageAlt ||
+                      data.title ||
+                      "Kenapa Memilih Acaranya.id"
+                    }
+                    title={
+                      data.imageTitle ||
+                      data.title ||
+                      "Kenapa Memilih Acaranya.id"
+                    }
+                    width="1200"
+                    height="1600"
+                    class="w-full h-full object-cover filter sepia-[8%] group-hover:scale-[1.03] transition-transform duration-700 ease-out"
+                    loading="lazy"
+                  />
+                ) : (
+                  <div class="w-full h-full bg-gradient-to-br from-brand-100 to-cream flex items-center justify-center p-12 text-center">
+                    <div class="space-y-4">
+                      <Icon
+                        name="gem"
+                        size={40}
+                        class="mx-auto text-soft-gold/40"
+                      />
+                      <p class="font-serif text-xl italic text-brand-900 opacity-40">
+                        Luxury Aesthetic
+                      </p>
+                    </div>
+                  </div>
+                )
+              }
+
+              <!-- Subtle Designer Overlay Label (Minimalist, doesn't block the invitation mockup) -->
+              <div
+                class="absolute top-4 right-4 z-20 px-3 py-1 bg-brand-950/90 text-[#c9b77d] text-[8px] font-black uppercase tracking-widest rounded-full backdrop-blur-sm border border-[#B59A73]/30 flex items-center gap-1.5"
+              >
+                <Icon name="sparkles" size={8} class="text-[#c9b77d]" />
+                Acaranya.id
               </div>
             </div>
-          )}
-          
-          <!-- Decorative accent -->
-          <div class="absolute bottom-6 right-6 w-20 h-20 border-r border-b border-white/40 rounded-br-2xl"></div>
-        </div>
+          </div>
 
-        <!-- Floating Badge -->
-        <div class="absolute -bottom-6 -left-6 z-20 bg-brand-950 text-cream p-6 rounded-2xl shadow-card max-w-[180px] hidden sm:block">
-          <Icon name="check-circle" size={24} class="text-soft-gold mb-3" />
-          <p class="text-[11px] font-bold uppercase tracking-widest leading-tight">Terpercaya & Berpengalaman</p>
+          <!-- Floating Badge 2 (Bottom Right) -->
+          <div
+            class="absolute -right-6 -bottom-5 z-20 hidden sm:flex items-center gap-3 bg-brand-950 px-4 py-3.5 rounded-2xl shadow-elevated border border-brand-850 animate-float-reverse max-w-[210px]"
+          >
+            <div
+              class="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-soft-gold shrink-0"
+            >
+              <Icon name="check-circle" size={16} />
+            </div>
+            <div class="text-left">
+              <p
+                class="text-[8px] font-bold uppercase tracking-widest text-[#c9b77d]/80 leading-none"
+              >
+                Trustworthy
+              </p>
+              <p class="text-[10px] font-bold text-cream mt-1 leading-tight">
+                Terpercaya & Berpengalaman
+              </p>
+            </div>
+          </div>
         </div>
       </div>
-
     </div>
   </div>
 </div>

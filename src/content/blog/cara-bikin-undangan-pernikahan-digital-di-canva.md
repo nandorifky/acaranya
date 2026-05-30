@@ -78,7 +78,7 @@ Berikut cara membuat undangan digital video di Canva:
 
 ![cara membuat undangan pernikahan digital website di Canva](/images/blog/content/undangan-digital-website-canva-1024x619.webp)
 
-Kamu juga bisa memanfaatkan platform Canva untuk membuat undangan pernikahan website digital. Dengan undangan berbentuk website, tamu bisa dengan mudah melihat detail acara, [RSVP online](/rsvp/), bahkan menemukan lokasi acara melalui Google Maps.
+Kamu juga bisa memanfaatkan platform Canva untuk membuat undangan pernikahan website digital. Dengan undangan berbentuk website, tamu bisa dengan mudah melihat detail acara, [RSVP online](/fitur/), bahkan menemukan lokasi acara melalui Google Maps.
 
 Berikut cara membuat undangan digital website di Canva:
 

@@ -42,7 +42,7 @@ Penelitian ini mencatat bahwa 78% responden memilih undangan digital untuk acara
 
 Selain undangan pernikahan, undangan digital juga digunakan dalam acara bisnis seperti grand opening. Dalam laporan dari Forbes (2023), perusahaan yang mengadopsi undangan grand opening berbasis digital mengalami peningkatan kehadiran tamu hingga 25%, karena undangan yang dikirimkan melalui email atau media sosial memungkinkan informasi acara tersebar lebih luas dan cepat.
 
-Format digital juga memungkinkan penambahan fitur interaktif seperti [RSVP online](/rsvp/), peta digital, dan pengingat otomatis yang meningkatkan pengalaman tamu secara keseluruhan.
+Format digital juga memungkinkan penambahan fitur interaktif seperti [RSVP online](/fitur/), peta digital, dan pengingat otomatis yang meningkatkan pengalaman tamu secara keseluruhan.
 
 ## Manfaat Utama Undangan Digital Berdasarkan Studi
 

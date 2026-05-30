@@ -150,7 +150,7 @@ Untuk memudahkan proses penyebaran undangan, saat ini banyak keluarga menggunaka
 
 Di sini, undangan digital bisa dirancang sesuai dengan tema dan preferensi acara, memberikan kemudahan untuk mengundang tamu secara praktis melalui platform online.
 
-Dengan **Acaranya.id**, [undangan digital](/desain-undangan-digital/) dapat didesain dengan berbagai fitur menarik seperti [RSVP online](/rsvp/), peta lokasi acara, dan video presentasi yang membuat acara ngunduh mantu lebih modern tanpa menghilangkan nilai tradisionalnya.
+Dengan **Acaranya.id**, [undangan digital](/desain-undangan-digital/) dapat didesain dengan berbagai fitur menarik seperti [RSVP online](/fitur/), peta lokasi acara, dan video presentasi yang membuat acara ngunduh mantu lebih modern tanpa menghilangkan nilai tradisionalnya.
 
 * * *
 

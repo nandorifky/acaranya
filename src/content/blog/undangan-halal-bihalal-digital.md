@@ -141,7 +141,7 @@ Fitur ini tidak hanya mempermudah proses registrasi tamu di lokasi acara tetapi 
 
 ## Acaranya.id: Solusi Undangan Halal Bihalal Digital Keren Kirim Link Via WhatsApp
 
-Memanfaatkan layanan Acaranya.id untuk membuat **[undangan Halal Bihalal online](/desain-undangan-digital/halal-bihalal/) digital** memberikan sejumlah keuntungan signifikan. Salah satu kelebihannya adalah tersedianya berbagai desain yang estetik dan cocok untuk berbagai tema acara. Ditambah lagi, kami menawarkan harga yang sangat kompetitif, hanya **Rp75.000** per website, yang dapat diakses oleh tamu tanpa batasan jumlah.
+Memanfaatkan layanan Acaranya.id untuk membuat **[undangan Halal Bihalal online](/desain-undangan-digital/) digital** memberikan sejumlah keuntungan signifikan. Salah satu kelebihannya adalah tersedianya berbagai desain yang estetik dan cocok untuk berbagai tema acara. Ditambah lagi, kami menawarkan harga yang sangat kompetitif, hanya **Rp75.000** per website, yang dapat diakses oleh tamu tanpa batasan jumlah.
 
 Dengan memilih undangan digital dari Acaranya.id, pengguna dapat mengurangi biaya yang biasanya dihabiskan untuk pencetakan dan pengiriman undangan fisik.
 

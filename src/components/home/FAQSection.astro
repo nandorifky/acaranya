@@ -1,11 +1,11 @@
 ---
+import type { CollectionEntry } from "astro:content";
 import Container from "../base/Container.astro";
 import Section from "../base/Section.astro";
-import SectionHeader from "../base/SectionHeader.astro";
 import Icon from "../ui/Icon.astro";
 import { getCollection } from "astro:content";
 
-function bySortOrder(a, b) {
+function bySortOrder(a: CollectionEntry<"faqs">, b: CollectionEntry<"faqs">) {
   return a.data.sortOrder - b.data.sortOrder || a.id.localeCompare(b.id);
 }
 
@@ -26,7 +26,7 @@ const faqSchema = {
 };
 ---
 
-<Section bg="cream" id="faq">
+<Section bg="white" id="faq">
   <Container>
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
 
@@ -58,7 +58,7 @@ const faqSchema = {
               class="group border-b border-[#B59A73]/20 py-1 transition-all duration-300"
               id={`faq-item-${index}`}
             >
-              <summary 
+              <summary
                 class="flex items-center justify-between py-6 cursor-pointer list-none text-[15px] sm:text-base font-serif font-semibold text-brand-950 hover:text-soft-gold transition-colors duration-200 select-none"
                 aria-controls={`faq-answer-${index}`}
               >
@@ -66,7 +66,12 @@ const faqSchema = {
                   <span class="text-[10px] sm:text-xs font-bold uppercase tracking-widest text-soft-gold shrink-0">
                     {padIndex}
                   </span>
-                  <h3 id={`faq-question-${index}`} class="text-[15px] sm:text-base font-serif font-semibold text-brand-950 inline">{faq.data.question}</h3>
+                  <h3
+                    id={`faq-question-${index}`}
+                    class="text-[15px] sm:text-base font-serif font-semibold text-brand-950 inline"
+                  >
+                    {faq.data.question}
+                  </h3>
                 </div>
                 <div class="w-6 h-6 rounded-full bg-brand-50 flex items-center justify-center shrink-0 ml-4 group-hover:bg-[#B59A73]/15 transition-colors">
                   <Icon
@@ -76,7 +81,7 @@ const faqSchema = {
                   />
                 </div>
               </summary>
-              <div 
+              <div
                 id={`faq-answer-${index}`}
                 class="pl-8 sm:pl-10 pb-6 text-sm text-text-secondary leading-relaxed font-sans tracking-wide"
                 role="region"

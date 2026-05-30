@@ -21,18 +21,10 @@ import { getCollection } from "astro:content";
 import { pricingPlans } from "../data/pricing-static";
 
 const allTestimonials = await getCollection("testimonials");
-const shuffle = <T,>(items: T[]) => {
-  const shuffled = [...items];
-
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
-
-  return shuffled;
-};
-
-const publishedTestimonials = shuffle(allTestimonials.filter((t) => t.data.status === "published")).slice(0, 5);
+const publishedTestimonials = allTestimonials
+  .filter((t) => t.data.status === "published")
+  .sort((a, b) => a.id.localeCompare(b.id))
+  .slice(0, 5);
 
 const prices = pricingPlans.map((p) => p.price);
 const lowPrice = Math.min(...prices);
@@ -41,23 +33,33 @@ const highPrice = Math.max(...prices);
 const jsonLd = [
   {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    name: siteConfig.name,
-    image: `${siteConfig.url}${siteConfig.branding.logo}`,
-    "@id": `${siteConfig.url}/#localbusiness`,
+    "@type": "Service",
+    "@id": `${siteConfig.url}/#service`,
+    name: "Jasa Undangan Digital Online Seluruh Indonesia",
+    serviceType: "Jasa Undangan Digital",
+    description: siteConfig.description,
     url: siteConfig.url,
-    telephone: `+${siteConfig.contact.whatsapp}`,
-    priceRange: siteConfig.seo.priceRange,
-    address: {
-      "@type": "PostalAddress",
-      addressLocality: siteConfig.business.schemaLocality,
-      addressRegion: siteConfig.business.schemaRegion,
-      addressCountry: siteConfig.business.schemaCountry,
+    provider: {
+      "@id": `${siteConfig.url}/#organization`,
     },
-    geo: {
-      "@type": "GeoCoordinates",
-      latitude: siteConfig.business.latitude,
-      longitude: siteConfig.business.longitude,
+    areaServed: {
+      "@type": "Country",
+      name: "Indonesia",
+    },
+    availableChannel: {
+      "@type": "ServiceChannel",
+      serviceUrl: siteConfig.url,
+      servicePhone: `+${siteConfig.contact.whatsapp}`,
+      availableLanguage: "id-ID",
+    },
+    offers: {
+      "@type": "AggregateOffer",
+      priceCurrency: "IDR",
+      lowPrice: lowPrice.toString(),
+      highPrice: highPrice.toString(),
+      priceRange: siteConfig.seo.priceRange,
+      availability: "https://schema.org/InStock",
+      url: `${siteConfig.url}/harga/`,
     },
     aggregateRating: {
       "@type": "AggregateRating",
@@ -81,43 +83,6 @@ const jsonLd = [
       },
     })),
   },
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    name: siteConfig.name,
-    url: siteConfig.url,
-    logo: `${siteConfig.url}${siteConfig.branding.logo}`,
-    sameAs: [
-      siteConfig.social.instagram.url,
-      siteConfig.social.facebook.url,
-      siteConfig.social.tiktok.url,
-    ].filter((url) => url),
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "@id": `${siteConfig.url}/#webapp`,
-    name: siteConfig.name,
-    url: siteConfig.url,
-    operatingSystem: "All",
-    applicationCategory: "DesignApplication",
-    browserRequirements: "Requires HTML5, CSS3, JavaScript",
-    publisher: {
-      "@type": "LocalBusiness",
-      "@id": `${siteConfig.url}/#localbusiness`,
-    },
-    offers: {
-      "@type": "AggregateOffer",
-      priceCurrency: "IDR",
-      lowPrice: lowPrice.toString(),
-      highPrice: highPrice.toString(),
-      priceRange: siteConfig.seo.priceRange,
-      areaServed: {
-        "@type": "Country",
-        name: "ID",
-      },
-    },
-  },
 ];
 ---
 
@@ -126,12 +91,12 @@ const jsonLd = [
   <TrustStats />
   <Partners />
   <FeaturedDesigns />
+  <PricingPreview />
   <CulturalLayouts />
   <FeatureHighlights />
   <GuestJourney />
   <HowItWorks />
   <QRCodeGuestbook />
-  <PricingPreview />
   <Testimonials />
   <UptimeInfrastructure />
   <EcoImpact />

@@ -20,7 +20,7 @@ export async function getStaticPaths({ paginate }: any) {
     return paginate(authorPosts, {
       params: { slug: author.id },
       props: { author },
-      pageSize: 6,
+      pageSize: 999,
     });
   });
 }

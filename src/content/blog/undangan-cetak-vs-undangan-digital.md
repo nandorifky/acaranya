@@ -117,7 +117,7 @@ Terkadang, desain yang sederhana justru memberikan kesan lebih elegan dan modern
 
 ## Integrasi RSVP Online dan Google Maps dalam Undangan Modern
 
-Fitur **[RSVP online](/rsvp/)** pada undangan digital memberikan efisiensi luar biasa bagi panitia pernikahan dalam mengelola jumlah katering dan kapasitas ruangan secara akurat.
+Fitur **[RSVP online](/fitur/)** pada undangan digital memberikan efisiensi luar biasa bagi panitia pernikahan dalam mengelola jumlah katering dan kapasitas ruangan secara akurat.
 
 Tamu cukup menekan tombol konfirmasi kehadiran, dan data tersebut akan langsung masuk ke dashboard pengelolaan tamu Anda.
 

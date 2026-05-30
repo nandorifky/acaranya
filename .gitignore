@@ -9,6 +9,7 @@ node_modules/
 
 #ignore
 scripts/
+.env/
 
 # logs
 npm-debug.log*

@@ -56,8 +56,8 @@ const modifiedDisplay = post.data.updatedAt
 
 const canonicalUrl =
   post.data.canonicalUrl || `${siteConfig.url}/artikel/${post.id}/`;
-const pageTitle = post.data.customTitle || post.data.title;
-const robots = post.data.noIndex ? "noindex,nofollow" : "index,follow";
+const pageTitle = post.data.seoTitle || post.data.title;
+const robots = post.data.noindex ? "noindex,nofollow" : "index,follow";
 
 const shareTitle = encodeURIComponent(post.data.title);
 const shareUrl = encodeURIComponent(canonicalUrl);
@@ -83,13 +83,7 @@ const jsonLd = [
         : undefined,
     },
     publisher: {
-      "@type": "Organization",
-      name: siteConfig.name,
-      url: siteConfig.url,
-      logo: {
-        "@type": "ImageObject",
-        url: new URL(siteConfig.branding.logo, siteConfig.url).toString(),
-      },
+      "@id": `${siteConfig.url}/#organization`,
     },
     mainEntityOfPage: {
       "@type": "WebPage",
@@ -115,6 +109,11 @@ const jsonLd = [
   modifiedTime={modifiedDate}
   authorName={authorName}
   section={post.data.category}
+  breadcrumbs={[
+    { label: 'Home', href: '/' },
+    { label: 'Artikel', href: '/artikel/' },
+    { label: post.data.customBreadcrumbLabel || post.data.title },
+  ]}
 >
   <article>
     <!-- Featured Image -->

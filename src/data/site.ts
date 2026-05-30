@@ -68,14 +68,14 @@ export const siteConfig = {
   business: {
     operatingHours: 'Senin - Sabtu, 09:00 - 21:00 WIB',
     location: 'Indonesia',
-    address: 'Perumahan Wilis Indah II Blok H3 No. 12, Kediri, Jawa Timur',
-    googleMapsUrl: 'https://maps.app.goo.gl/xxxx', // Tambahkan link maps jika ada
+    address: 'Kota Kediri, Jawa Timur, Indonesia',
+    googleMapsUrl: 'https://maps.app.goo.gl/2NAJVDngChz91mdt8', // Tambahkan link maps jika ada
     foundedYear: 2022,
     schemaLocality: 'Kediri',
     schemaRegion: 'Jawa Timur',
     schemaCountry: 'ID',
-    latitude: -7.8480,
-    longitude: 112.0178,
+    latitude: -8.039795549091139,
+    longitude: 111.99647128908323,
   },
 
   stats: {
@@ -97,7 +97,7 @@ export const siteConfig = {
     pinterestSiteVerification: 'be35e8def7fb11e5602fe348ff1dd05a',
     yandexSiteVerification: '',
     googleAnalyticsId: 'G-SME66PTLRE',
-    googleTagManagerId: 'G-SME66PTLRE',
+    googleTagManagerId: '',
     metaPixelId: '',
     ratingValue: '4.9',
     reviewCount: '384',

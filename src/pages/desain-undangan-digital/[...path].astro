@@ -33,7 +33,7 @@ export async function getStaticPaths() {
       a.id.localeCompare(b.id)
     ));
 
-  const pageSize = 36;
+  const pageSize = 72;
   const paths = [];
   const belongsToCategory = (design, categoryId) =>
     design.data.category === categoryId || design.data.categories.includes(categoryId);
@@ -111,16 +111,26 @@ const siteName = siteConfig.name;
 // SEO logic
 const title = isCategory 
   ? (isFirstPage ? category.data.metaTitle : `${category.data.title} - Halaman ${page.currentPage} | ${siteName}`)
-  : (isFirstPage ? "Katalog Desain Undangan Digital Premium | Acaranya.id" : `Semua Desain - Halaman ${page.currentPage} | ${siteName}`);
+  : (isFirstPage ? "Desain Undangan Digital Online, Template Website & Tema Undangan | Acaranya.id" : `Semua Desain - Halaman ${page.currentPage} | ${siteName}`);
 
-const description = isCategory ? category.data.metaDescription : "Pilih template undangan digital mewah untuk berbagai acara spesial Anda. Desain estetik, modern, dan profesional.";
+const description = isCategory ? category.data.metaDescription : "Pilih desain undangan digital online untuk pernikahan, ulang tahun, wisuda, aqiqah, corporate, dan acara lainnya. Template website elegan, praktis, siap dibagikan.";
 const canonicalUrl = `${siteConfig.url}${page.url.current}`;
 const ogImage = isCategory
   ? (category.data.featuredImage || category.data.whyChooseUs?.image || siteConfig.branding.ogImage)
-  : siteConfig.branding.ogImage;
+  : '/images/desain-undangan-digital.webp';
 const ogImageAlt = isCategory
   ? (category.data.featuredImageAlt || category.data.whyChooseUs?.imageAlt || category.data.metaTitle || category.data.title)
   : title;
+const breadcrumbs = isCategory
+  ? [
+      { label: 'Home', href: '/' },
+      { label: 'Desain Undangan Digital', href: '/desain-undangan-digital/' },
+      { label: category.data.title },
+    ]
+  : [
+      { label: 'Home', href: '/' },
+      { label: 'Desain Undangan Digital' },
+    ];
 
 // Use the price from the 'simple' plan as the base price for templates
 const basePrice = pricingPlans.find(p => p.slug === 'simple')?.price || 75000;
@@ -145,6 +155,7 @@ const jsonLd = [
         '@type': 'Product',
         name: `Template Undangan Digital - ${design.data.title}`,
         description: `Desain undangan digital ${design.data.category} tema ${design.data.title}.`,
+        url: design.data.previewUrl.startsWith('http') ? design.data.previewUrl : `${siteConfig.url}${design.data.previewUrl}`,
         image: `${siteConfig.url}${design.data.thumbnail}`,
         brand: {
           '@type': 'Brand',
@@ -161,6 +172,66 @@ const jsonLd = [
     }))
   }
 ];
+
+if (isCategory && isFirstPage) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    '@id': `${canonicalUrl}#service`,
+    name: category.data.metaTitle || `Jasa Undangan Digital ${category.data.title}`,
+    description,
+    serviceType: `Jasa Undangan Digital ${category.data.title}`,
+    provider: {
+      '@id': `${siteConfig.url}/#organization`,
+    },
+    areaServed: {
+      '@type': 'Country',
+      name: 'Indonesia',
+    },
+    url: canonicalUrl,
+    offers: {
+      '@type': 'Offer',
+      price: basePrice,
+      priceCurrency: 'IDR',
+      availability: 'https://schema.org/InStock',
+      url: `${siteConfig.url}/harga/`,
+    },
+  });
+}
+
+if (!isCategory && isFirstPage) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: 'Apa itu desain undangan digital?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Desain undangan digital adalah tampilan undangan berbasis website atau link online yang bisa dibagikan lewat WhatsApp, media sosial, dan chat pribadi. Di Acaranya.id, desain dibuat responsif, elegan, dan siap digunakan untuk berbagai acara.'
+        }
+      },
+      {
+        '@type': 'Question',
+        name: 'Apakah template undangan digital bisa dipakai untuk ulang tahun dan acara lain?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Bisa. Acaranya.id menyediakan tema undangan digital untuk pernikahan, ulang tahun, wisuda, aqiqah, khitan, natal, grand opening, corporate, syukuran, dan acara lainnya.'
+        }
+      },
+      {
+        '@type': 'Question',
+        name: 'Apakah undangan digital Acaranya.id berbentuk website?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Ya. Undangan dibuat dalam bentuk website online dengan link khusus, sehingga tamu dapat membuka detail acara, galeri, RSVP, peta lokasi, dan informasi penting lain dari ponsel.'
+        }
+      }
+    ]
+  });
+}
+
 ---
 
 <MarketingLayout
@@ -169,6 +240,7 @@ const jsonLd = [
   ogImage={ogImage}
   ogImageAlt={ogImageAlt}
   canonical={canonicalUrl}
+  breadcrumbs={breadcrumbs}
   jsonLd={jsonLd}
 >
   <!-- Unified Hero Section -->
@@ -199,13 +271,13 @@ const jsonLd = [
                 </>
               )) : (
                 <>
-                  Koleksi desain dengan <br class="hidden sm:block" />
-                  <span class="italic font-normal text-soft-gold">estetika butik mewah</span>
+                  Desain Undangan Digital <br class="hidden sm:block" />
+                  <span class="italic font-normal text-soft-gold">Profesional & Elegan</span>
                 </>
               )}
             </h1>
             <p class="text-text-secondary text-sm md:text-base max-w-lg font-sans tracking-wide leading-relaxed">
-              {isCategory ? (category.data.heroSubtitle || category.data.description) : "Setiap template dirancang secara personal dengan detail hairline border, tipografi serif eksklusif, dan komposisi visual kelas tinggi."}
+              {isCategory ? (category.data.heroSubtitle || category.data.description) : "Pilih template website undangan untuk pernikahan, ulang tahun, wisuda, aqiqah, corporate, dan momen istimewa lainnya. Setiap tema dibuat elegan, ringan, responsif, dan praktis untuk hari bahagia Anda."}
             </p>
           </>
         ) : (
@@ -294,7 +366,10 @@ const jsonLd = [
       <section id="why-choose-us">
         <CategoryWhyChooseUs data={isCategory ? (category.data.whyChooseUs || {}) : {
           title: "Kenapa Memilih Acaranya.id?",
-          subtitle: "Kami menghadirkan standar estetika butik ke dalam genggaman ponsel cerdas Anda.",
+          subtitle: "Kami menghadirkan desain undangan digital online yang elegan, praktis, dan siap dibagikan untuk berbagai momen istimewa.",
+          image: "/images/desain-undangan-digital.webp",
+          imageAlt: "Desain undangan digital online Acaranya.id untuk pernikahan ulang tahun dan acara lainnya",
+          imageTitle: "Desain Undangan Digital Online Acaranya.id",
           features: [
             { title: "Desain Estetik", description: "Koleksi template mewah dengan tipografi dan layout profesional.", icon: "sparkles" },
             { title: "Fitur Lengkap", description: "Navigasi Maps, RSVP otomatis, hingga galeri foto interaktif.", icon: "zap" },
@@ -315,8 +390,68 @@ const jsonLd = [
                 </div>
               ) : (
                 <div class="prose max-w-none prose-brand mx-auto">
-                  <h2>Menghadirkan Pesona Artistik ke dalam Undangan Digital Anda</h2>
-                  <p>Acaranya.id berkomitmen penuh menyediakan template undangan digital premium yang tidak hanya praktis tetapi juga menakjubkan secara visual. Kami menjamin setiap template dirancang secara teliti, responsif di semua browser, serta sangat ringan untuk diakses.</p>
+                  <h2>Desain Undangan Digital Premium dan Loading Cepat</h2>
+                  <p>Memilih desain undangan digital bukan sekadar memilih tampilan yang cantik. Untuk banyak calon pengantin dan keluarga, undangan adalah kesan pertama sebelum tamu hadir di momen istimewa. Dari sana, tamu mulai merasakan suasana acara, memahami detail waktu dan lokasi, lalu menyimpan harapan kecil tentang hari bahagia Anda. Karena itu, Acaranya.id merancang koleksi template undangan digital online yang hangat, elegan, praktis, dan siap dibagikan tanpa ribet.</p>
+
+                  <p>Halaman ini dibuat sebagai katalog utama untuk Anda yang sedang mencari desain undangan, tema undangan, template website undangan, atau contoh undangan online untuk berbagai acara. Fokusnya sederhana. Anda bisa menemukan gaya visual yang paling sesuai, memahami fitur yang dibutuhkan, lalu memilih undangan impian dengan lebih tenang.</p>
+
+                  <h2>Desain Undangan Digital untuk Berbagai Momen Istimewa</h2>
+                  <p>Setiap acara punya karakter yang berbeda. Undangan pernikahan biasanya membutuhkan nuansa romantis, rapi, dan personal. Undangan ulang tahun lebih bebas bermain warna, ilustrasi, dan tone yang meriah. Undangan wisuda perlu terasa bangga namun tetap hangat. Undangan corporate, grand opening, atau acara bisnis membutuhkan desain yang bersih, profesional, dan mudah dipercaya.</p>
+
+                  <p>Di Acaranya.id, koleksi desain undangan digital disusun agar Anda tidak harus memulai dari halaman kosong. Anda bisa memilih tema yang sudah siap, lalu menyesuaikan detail nama, tanggal, tempat, foto, cerita, dan informasi acara. Alurnya lebih hemat waktu karena bagian teknis sudah disiapkan, sementara Anda tetap punya ruang untuk membuat undangan terasa personal.</p>
+
+                  <h3>Undangan Pernikahan Online yang Elegan dan Romantis</h3>
+                  <p>Untuk pernikahan, desain yang baik harus mampu menyeimbangkan estetika dan informasi. Nama pengantin, susunan acara, lokasi, galeri, love story, dan RSVP perlu tampil jelas tanpa mengurangi kesan romantis. Template undangan pernikahan Acaranya.id dibuat agar detail penting mudah ditemukan tamu, sementara visualnya tetap terasa lembut dan premium.</p>
+
+                  <p>Anda dapat memilih tema klasik, modern, adat, minimalis, floral, islami, atau gaya editorial yang lebih mewah. Setiap desain dirancang responsif agar nyaman dibuka dari ponsel, karena sebagian besar tamu akan menerima undangan lewat WhatsApp atau media sosial.</p>
+
+                  <h3>Undangan Ulang Tahun, Wisuda, Aqiqah, dan Acara Lainnya</h3>
+                  <p>Tidak semua undangan digital harus bernuansa pernikahan. Banyak keluarga dan penyelenggara acara juga membutuhkan undangan online untuk ulang tahun anak, sweet seventeen, wisuda, aqiqah, khitanan, syukuran, natal, buka bersama, hingga gathering perusahaan. Kebutuhannya bisa berbeda, tetapi prinsipnya sama. Undangan harus cantik, informatif, mudah dibuka, dan siap dibagikan.</p>
+
+                  <p>Untuk acara keluarga, desain yang hangat membantu tamu merasa dekat sejak menerima link undangan. Untuk acara formal, tampilan yang rapi membantu membangun kepercayaan. Untuk acara anak, warna dan ilustrasi bisa dibuat lebih ceria tanpa mengorbankan keterbacaan.</p>
+
+                  <h2>Kenapa Template Website Undangan Lebih Praktis</h2>
+                  <p>Undangan digital berbasis website memberi pengalaman yang lebih lengkap dibanding gambar undangan biasa. Tamu tidak hanya melihat poster acara, tetapi bisa membuka halaman khusus yang berisi informasi lengkap. Link undangan dapat dikirim lewat WhatsApp, dicantumkan di bio, dibagikan ke grup keluarga, atau dikirim satu per satu kepada tamu penting.</p>
+
+                  <p>Dalam satu halaman, Anda bisa menampilkan peta lokasi, tombol navigasi, RSVP, galeri foto, countdown, cerita singkat, musik, detail dress code, hingga amplop digital bila diperlukan. Semua informasi itu tersusun dalam alur yang nyaman dibaca, sehingga tamu tidak perlu bertanya ulang tentang jam acara, alamat, atau tautan lokasi.</p>
+
+                  <p>Untuk Anda yang ingin proses terima beres, template website undangan juga menghemat banyak waktu. Tidak perlu memikirkan struktur halaman dari awal. Tidak perlu mendesain manual satu per satu. Anda cukup memilih desain, mengirim data acara, lalu tim membantu menyiapkan undangan online agar siap digunakan.</p>
+
+                  <h2>Cara Memilih Tema Undangan yang Tepat</h2>
+                  <p>Desain yang paling bagus bukan selalu desain yang paling ramai. Desain yang tepat adalah desain yang sesuai dengan suasana acara, mudah dipahami tamu, dan membuat Anda merasa yakin saat membagikannya. Jika acara Anda formal, pilih warna yang tenang, tipografi bersih, dan komposisi yang rapi. Jika acaranya intimate, tema minimalis, floral lembut, atau nuansa earth tone bisa memberi kesan hangat.</p>
+
+                  <p>Untuk pernikahan adat, pilih desain yang memberi ruang untuk ornamen budaya tanpa membuat informasi utama tenggelam. Untuk ulang tahun anak, pilih ilustrasi dan warna cerah, tetapi tetap pastikan teks tanggal, jam, dan lokasi mudah dibaca. Untuk undangan corporate atau grand opening, pilih layout yang modern, profesional, dan tidak terlalu dekoratif.</p>
+
+                  <h3>Pertimbangkan Foto dan Warna Acara</h3>
+                  <p>Jika Anda sudah punya foto prewedding, foto keluarga, atau dokumentasi acara, pilih template yang dapat menonjolkan foto tersebut dengan elegan. Warna desain juga sebaiknya selaras dengan konsep dekorasi, busana, atau mood acara. Keselarasan kecil seperti ini membuat undangan terasa lebih utuh dan personal.</p>
+
+                  <h3>Utamakan Kenyamanan Tamu</h3>
+                  <p>Undangan digital yang baik harus cepat dibuka dan mudah dipahami. Tamu dari berbagai usia perlu bisa menemukan informasi utama tanpa kebingungan. Karena itu, Acaranya.id menjaga struktur undangan tetap jelas, tombol penting mudah terlihat, dan tampilan tetap nyaman di layar ponsel.</p>
+
+                  <h2>Fitur Lengkap untuk Undangan Online yang Siap Dibagikan</h2>
+                  <p>Selain desain cantik, fitur menjadi alasan utama banyak orang memilih undangan digital. Fitur RSVP membantu Anda memperkirakan kehadiran tamu. Galeri foto membuat undangan terasa lebih personal. Peta lokasi memudahkan tamu datang tepat waktu. Countdown memberi sentuhan antusias menjelang hari acara. Tombol share membantu undangan lebih mudah dibagikan.</p>
+
+                  <p>Untuk acara pernikahan, fitur cerita pasangan, susunan acara, informasi keluarga, dan ucapan tamu bisa membuat halaman terasa lebih hidup. Untuk acara bisnis, fitur detail agenda, lokasi, kontak, dan tombol konfirmasi hadir membantu komunikasi terlihat profesional. Semua fitur ini disusun agar tetap praktis, bukan sekadar ramai.</p>
+
+                  <h2>Desain Cantik Saja Tidak Cukup</h2>
+                  <p>Banyak orang mencari template undangan digital karena ingin hasil yang cepat dan cantik. Namun pengalaman tamu juga sangat penting. Jika halaman lambat, tombol sulit ditemukan, teks terlalu kecil, atau desain tidak rapi di mobile, undangan bisa terasa kurang nyaman walaupun visualnya menarik. Di Acaranya.id, desain, performa, dan keterbacaan dipikirkan bersama.</p>
+
+                  <p>Kami memilih pendekatan semi premium yang tidak berlebihan. Visual dibuat elegan, konten disusun jelas, dan elemen penting ditempatkan secara natural. Hasilnya adalah undangan online yang terasa indah saat dilihat, tetapi tetap membantu tamu memahami acara dengan cepat.</p>
+
+                  <h2>Pertanyaan yang Sering Muncul</h2>
+                  <h3>Apa Perbedaan Undangan Digital dan Website Undangan?</h3>
+                  <p>Undangan digital adalah istilah umum untuk undangan yang dibagikan secara online. Website undangan adalah salah satu bentuknya, berupa halaman khusus yang dapat dibuka melalui link. Acaranya.id menggunakan format website undangan karena lebih fleksibel, lebih lengkap, dan lebih nyaman untuk berbagai kebutuhan acara.</p>
+
+                  <h3>Apakah Template Bisa Disesuaikan?</h3>
+                  <p>Bisa. Nama, tanggal, lokasi, foto, susunan acara, narasi, dan detail lain dapat disesuaikan dengan kebutuhan. Anda tetap memilih dari desain yang sudah siap, tetapi isi undangan dibuat mengikuti acara Anda.</p>
+
+                  <h3>Apakah Cocok untuk Acara Selain Pernikahan?</h3>
+                  <p>Sangat cocok. Koleksi Acaranya.id mencakup tema undangan untuk ulang tahun, wisuda, aqiqah, khitan, natal, syukuran, buka bersama, grand opening, corporate, dan acara lainnya. Anda tinggal memilih kategori yang paling dekat dengan kebutuhan acara.</p>
+
+                  <h2>Mulai dari Desain yang Membuat Anda Yakin</h2>
+                  <p>Undangan adalah bagian kecil yang membawa rasa besar. Ia menyampaikan kabar bahagia, menghubungkan keluarga dan sahabat, lalu menjadi pembuka menuju momen yang akan dikenang. Dengan desain undangan digital online dari Acaranya.id, Anda bisa menyiapkan undangan yang elegan, praktis, dan siap dibagikan tanpa proses yang melelahkan.</p>
+
+                  <p>Silakan jelajahi katalog desain di halaman ini. Pilih template yang paling sesuai dengan suasana acara Anda, lalu biarkan Acaranya.id membantu menyiapkan undangan impian yang rapi, hangat, dan terima beres.</p>
                 </div>
               )}
 
