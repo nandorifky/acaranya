@@ -107,6 +107,7 @@ const publishedCategories = allCategories
 
 const isFirstPage = page.currentPage === 1;
 const siteName = siteConfig.name;
+const toAbsoluteUrl = (url) => url?.startsWith('http') ? url : `${siteConfig.url}${url}`;
 
 // SEO logic
 const title = isCategory 
@@ -155,8 +156,8 @@ const jsonLd = [
         '@type': 'Product',
         name: `Template Undangan Digital - ${design.data.title}`,
         description: `Desain undangan digital ${design.data.category} tema ${design.data.title}.`,
-        url: design.data.previewUrl.startsWith('http') ? design.data.previewUrl : `${siteConfig.url}${design.data.previewUrl}`,
-        image: `${siteConfig.url}${design.data.thumbnail}`,
+        url: toAbsoluteUrl(design.data.previewUrl),
+        image: toAbsoluteUrl(design.data.thumbnail),
         brand: {
           '@type': 'Brand',
           name: siteConfig.name,

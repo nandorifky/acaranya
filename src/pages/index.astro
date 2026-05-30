@@ -17,14 +17,7 @@ import EcoImpact from "../components/home/EcoImpact.astro";
 import Partners from "../components/home/Partners.astro";
 import FinalCTA from "../components/home/FinalCTA.astro";
 import { siteConfig } from "../data/site";
-import { getCollection } from "astro:content";
 import { pricingPlans } from "../data/pricing-static";
-
-const allTestimonials = await getCollection("testimonials");
-const publishedTestimonials = allTestimonials
-  .filter((t) => t.data.status === "published")
-  .sort((a, b) => a.id.localeCompare(b.id))
-  .slice(0, 5);
 
 const prices = pricingPlans.map((p) => p.price);
 const lowPrice = Math.min(...prices);
@@ -61,27 +54,6 @@ const jsonLd = [
       availability: "https://schema.org/InStock",
       url: `${siteConfig.url}/harga/`,
     },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: siteConfig.seo.ratingValue,
-      reviewCount: siteConfig.seo.reviewCount,
-      bestRating: "5",
-      worstRating: "1",
-    },
-    review: publishedTestimonials.map((t) => ({
-      "@type": "Review",
-      author: {
-        "@type": "Person",
-        name: t.data.name,
-      },
-      reviewBody: t.data.message,
-      reviewRating: {
-        "@type": "Rating",
-        ratingValue: t.data.rating,
-        bestRating: "5",
-        worstRating: "1",
-      },
-    })),
   },
 ];
 ---
