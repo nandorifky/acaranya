@@ -2,7 +2,7 @@
 title: Biaya Akad Nikah di KUA Terbaru dan Syaratnya
 description: Cek biaya akad nikah di KUA terbaru, kapan gratis, kapan bayar Rp600.000, syarat dokumen, cara daftar online dan offline, serta tips agar tidak mepet.
 publishedAt: 2026-04-08T17:49:00
-updatedAt: 2026-05-25T04:30:00+07:00
+updatedAt: 2026-06-01T02:23:00
 author: indira
 category: Anggaran
 tags:
