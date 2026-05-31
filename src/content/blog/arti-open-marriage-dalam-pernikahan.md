@@ -1,10 +1,8 @@
 ---
 title: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
-description: >-
-  Mengenal apa itu Open Marriage, risiko, serta pandangan hukum dan agama
-  terkait konsep hubungan ini. Simak penjelasan lengkapnya untuk wawasan baru.
-publishedAt: '2026-04-08T17:49:21'
-updatedAt: '2026-05-25T04:30:00+07:00'
+description: Pahami arti open marriage, bedanya dengan selingkuh dan poligami, alasan pasangan membahasnya, risiko, serta pandangannya dalam pernikahan di Indonesia.
+publishedAt: 2026-04-08T17:49:00
+updatedAt: 2026-05-25T04:30:00+07:00
 author: indira
 category: Pernikahan
 tags:
@@ -17,75 +15,137 @@ imageAlt: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
 imageTitle: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
 imageCaption: ''
 status: published
-seoTitle: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
+seoTitle: Arti Open Marriage dalam Pernikahan dan Pandangan di Indonesia
 customBreadcrumbLabel: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
-canonicalUrl: '/artikel/arti-open-marriage-dalam-pernikahan/'
+canonicalUrl: /artikel/arti-open-marriage-dalam-pernikahan/
 noindex: false
+ctaText: ''
+ctaUrl: ''
 ---
-Pernahkah bertanya-tanya apa sebenarnya yang dimaksud dengan _open marriage_ atau pernikahan terbuka? Meskipun konsep ini mungkin terdengar tidak biasa bagi sebagian orang, nyatanya semakin banyak pasangan yang memilih menjalani hubungan dengan konsep _open marriage_ ini.
 
-Artikel ini akan menjelaskan secara lengkap tentang _open marriage_, mulai dari pengertiannya, alasan pasangan memilih jalan ini, hingga fakta-fakta menarik yang mungkin belum banyak diketahui. Yuk, simak selengkapnya untuk lebih memahami konsep unik dalam dunia pernikahan ini!
+Istilah open marriage belakangan sering muncul dalam obrolan tentang hubungan modern. Sebagian orang penasaran karena terdengar berbeda dari konsep pernikahan yang umum dipahami, sementara sebagian lain merasa bingung apakah hubungan seperti ini bisa dianggap sama dengan komitmen pernikahan biasa.
 
-### Apa Itu “_Open Marriage_“?
+Secara sederhana, open marriage adalah bentuk pernikahan ketika pasangan sepakat memberi ruang bagi hubungan romantis atau seksual dengan orang lain di luar hubungan utama mereka. Kesepakatan menjadi kata kunci, karena konsep ini berbeda dari perselingkuhan yang terjadi tanpa keterbukaan dan tanpa persetujuan pasangan.
 
-**_Open marriage_ adalah sebuah bentuk pernikahan di mana kedua pasangan memberikan izin satu sama lain untuk terlibat dalam hubungan seksual atau romantis dengan orang lain** di luar pernikahan mereka.
+Namun, dalam konteks Indonesia, open marriage bukan sekadar pilihan gaya hubungan. Ada norma agama, budaya keluarga, nilai sosial, dan aturan hukum perkawinan yang perlu dipahami dengan hati-hati. Artikel ini membahas arti open marriage secara jernih agar kamu bisa memahami topiknya tanpa terbawa sensasi.
 
-Berbeda dengan pernikahan tradisional yang menekankan pada monogami, _open marriage_ memungkinkan adanya keterbukaan dan kebebasan dalam menjalani hubungan dengan orang ketiga, asalkan terdapat kesepakatan dan komunikasi yang jelas antara kedua belah pihak.
+## Open Marriage Adalah Pernikahan Terbuka yang Disepakati Pasangan
 
-Banyak yang bertanya-tanya, apa sebenarnya arti _open marriage_ dalam konteks hubungan pernikahan? Secara sederhana, konsep ini menekankan pada fleksibilitas dan kebebasan dalam menjalani hubungan, tanpa mengabaikan komitmen yang sudah terjalin.
+Open marriage sering disebut sebagai pernikahan terbuka. Dalam hubungan ini, pasangan tetap memiliki ikatan pernikahan utama, tetapi mereka membuat kesepakatan bahwa salah satu atau kedua pihak boleh menjalin kedekatan dengan orang lain di luar pernikahan.
 
-Namun, penting untuk diingat bahwa _open marriage_ tidak cocok untuk semua pasangan, dan harus didasari oleh rasa saling percaya serta komunikasi yang baik.
+Kesepakatan dalam open marriage biasanya membahas banyak hal, mulai dari batasan hubungan, keterbukaan informasi, keamanan seksual, waktu bersama pasangan utama, sampai hal yang boleh dan tidak boleh dilakukan. Karena itu, hubungan ini tidak hanya bicara tentang kebebasan, tetapi juga tentang konsekuensi emosional dan tanggung jawab yang cukup besar.
 
-**BACA JUGA:** [Viral di Medsos, “Marriage is Scary” Apa Artinya?](/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/)
+Di luar negeri, open marriage sering masuk dalam payung besar consensual non monogamy. Istilah ini merujuk pada bentuk hubungan non monogami yang dilakukan dengan pengetahuan dan persetujuan pihak yang terlibat.
 
-### 5 Fakta Menarik tentang Open Marriage
+Meski begitu, tidak semua hubungan non monogami memiliki bentuk yang sama. Ada open relationship, polyamory, swinging, dan bentuk lain yang punya aturan berbeda. Dalam open marriage, status pernikahan tetap menjadi hubungan utama, sedangkan hubungan di luar pernikahan terjadi berdasarkan kesepakatan yang dibuat pasangan.
 
-1.  **Tidak Semua Pasangan Bisa Menjalani**: _Open marriage_ bukanlah untuk semua orang. Butuh tingkat kepercayaan dan keterbukaan yang sangat tinggi untuk bisa menjalaninya. Menurut sebuah studi yang diterbitkan di _Journal of Sex & Marital Therapy_, hanya sekitar 4% dari populasi yang mencoba _open marriage_.
-2.  **Kunci Utama, Komunikasi dan Aturan yang Jelas**: Dalam _open marriage_, komunikasi adalah segalanya. Pasangan harus menetapkan batasan dan aturan yang jelas sejak awal. Dilansir dari _Psychology Today_, pasangan yang sukses dalam _open marriage_ adalah mereka yang mampu berbicara secara terbuka tentang perasaan mereka dan menetapkan pedoman yang jelas.
-3.  **Popularitasnya Meningkat**: Meski terdengar kontroversial, semakin banyak pasangan yang mulai tertarik dengan konsep _open marriage_. Dalam beberapa tahun terakhir, terutama di era digital ini, informasi tentang _open marriage_ menjadi lebih mudah diakses, yang menyebabkan peningkatan minat terhadap konsep ini.
-4.  **Stigma Sosial Masih Ada**: Di Indonesia, konsep _open marriage_ masih menghadapi stigma sosial yang kuat. Banyak orang masih menganggap **pernikahan seharusnya monogami, dan mereka yang memilih jalan _open marriage_ sering dianggap “menyimpang” dari norma**.
-5.  **Butuh Kesiapan Emosional yang Tinggi_:_** _Open marriage_ bukan hanya soal kebebasan, tetapi juga kesiapan emosional yang tinggi. Pasangan yang menjalani _open marriage_ harus siap menghadapi rasa cemburu, dan konflik yang mungkin muncul. Dilansir dari _Relationship Science_, 70% dari pasangan yang menjalani _open marriage_ mengalami konflik terkait dengan rasa cemburu.
+![arti open marriage dalam pernikahan di Indonesia](/images/blog/content/open-marriage-adalah.webp "arti open marriage dalam pernikahan di Indonesia")
 
-### Mengapa Pasangan Memilih Open Marriage?
+## Bedanya Open Marriage dengan Selingkuh dan Poligami
 
-Keputusan untuk menjalani _open marriage_ sering kali datang dari kebutuhan untuk menemukan keseimbangan antara kebebasan individu dan komitmen terhadap pasangan.
+Banyak orang menyamakan open marriage dengan selingkuh, padahal konsepnya berbeda. Selingkuh biasanya terjadi diam-diam, melibatkan kebohongan, dan melanggar komitmen yang sudah disepakati. Open marriage mengklaim dirinya berjalan dengan persetujuan, komunikasi, dan aturan yang diketahui pasangan.
 
-Beberapa pasangan merasa bahwa monogami terlalu membatasi, terutama dalam hal kebutuhan seksual atau emosional yang tidak sepenuhnya terpenuhi dalam hubungan mereka.
+Perbedaan utamanya bisa dilihat dari tiga hal berikut.
 
-Ada juga pasangan yang merasa bahwa _open marriage_ dapat memperkuat hubungan mereka, karena memungkinkan adanya eksplorasi lebih lanjut terhadap diri sendiri dan orang lain tanpa harus mengorbankan hubungan utama.
+* **Open marriage:** Ada persetujuan dan aturan yang dibuat pasangan.
+* **Selingkuh:** Tidak ada persetujuan pasangan dan biasanya melibatkan kebohongan.
+* **Poligami:** Dalam konteks hukum Indonesia, poligami memiliki aturan khusus dan mekanisme izin pengadilan bagi suami dengan syarat tertentu.
 
-Dilansir dari _The Guardian_, banyak pasangan yang mengklaim bahwa _open marriage_ telah membantu mereka menemukan kembali semangat dalam hubungan yang sudah berjalan lama.
+Open marriage juga tidak bisa disamakan begitu saja dengan poligami. Poligami dalam hukum Indonesia berkaitan dengan perkawinan lebih dari satu istri dalam syarat tertentu. Open marriage justru merujuk pada hubungan terbuka di luar pernikahan utama dan tidak selalu bertujuan membentuk ikatan perkawinan baru.
 
-### Open Marriage di Indonesia, Mungkinkah?
+Di sinilah pembahasannya menjadi sensitif. Sesuatu yang dianggap sebagai kesepakatan pribadi oleh pasangan belum tentu sesuai dengan norma sosial, agama, atau ketentuan hukum yang berlaku di Indonesia.
 
-![Open Marriage di Indonesia](/images/blog/content/open-marriage-adalah.webp)
+## Mengapa Ada Pasangan yang Membahas Open Marriage
 
-Dalam konteks budaya Indonesia, **_open marriage_** masih tergolong tabu dan jarang dibicarakan secara terbuka. Norma sosial dan nilai-nilai agama yang kuat membuat konsep ini sulit diterima secara luas.
+Tidak semua orang yang mencari arti open marriage ingin menjalaninya. Banyak yang hanya penasaran karena melihat istilah ini di media sosial, film, podcast, atau cerita publik figur. Namun, ada juga pasangan yang membahasnya karena sedang mengalami pergulatan dalam hubungan.
 
-Namun, dengan semakin berkembangnya informasi dan perubahan pandangan generasi muda, bukan tidak mungkin _open marriage_ menjadi lebih dikenal dan dipahami di masa depan.
+Beberapa alasan yang sering muncul antara lain sebagai berikut.
 
-Menurut sebuah survei yang dilakukan oleh _Sociology Research_, meskipun hanya sedikit pasangan di Indonesia yang mengaku menjalani _open marriage_, ada peningkatan minat terhadap topik ini di kalangan masyarakat perkotaan, terutama di dearah besar seperti Jakarta dan Bali.
+* Rasa penasaran terhadap konsep hubungan modern.
+* Keinginan mempertahankan hubungan yang mulai terasa hambar.
+* Perbedaan kebutuhan emosional atau seksual dalam pernikahan.
+* Pengaruh lingkungan yang lebih terbuka terhadap relasi non monogami.
+* Harapan agar hubungan tetap jujur tanpa harus berpisah.
 
-### Tantangan dalam Open Marriage
+Meski terdengar seperti jalan tengah, open marriage bukan solusi instan untuk pernikahan yang sedang bermasalah. Jika hubungan utama sedang dipenuhi luka, ketidakpercayaan, komunikasi buruk, atau rasa tidak aman, membuka hubungan kepada pihak ketiga justru bisa memperbesar konflik.
 
-Menjalani _open marriage_ bukan tanpa tantangan. Salah satu tantangan terbesar adalah menjaga keseimbangan antara kebebasan pribadi dan komitmen terhadap pasangan. Selain itu, perasaan cemburu, tidak aman, dan kurangnya komunikasi yang efektif sering kali menjadi sumber konflik.
+Kalau kamu sedang merasa takut atau ragu terhadap komitmen pernikahan, kamu juga bisa membaca pembahasan Acaranya.id tentang [rasa takut menikah atau marriage is scary](/artikel/viral-di-medsos-marriage-is-scary-apa-artinya/). Topik itu lebih dekat dengan kecemasan menjelang pernikahan dan bisa membantu kamu memahami akar perasaan sebelum mengambil keputusan besar.
 
-Banyak pasangan yang menjalani _open marriage_ melaporkan bahwa mereka harus berjuang keras untuk mempertahankan kepercayaan dan komunikasi yang sehat. Tanpa dua elemen ini, _open marriage_ bisa dengan cepat berubah menjadi bumerang yang merusak hubungan.
+## Open Marriage di Indonesia Menurut Hukum dan Norma Sosial
 
-### Apakah Open Marriage Bisa Bertahan Lama?
+Dalam hukum perkawinan Indonesia, perkawinan dipahami sebagai ikatan lahir batin antara seorang pria dan seorang wanita sebagai suami istri dengan tujuan membentuk keluarga yang bahagia dan kekal. Aturan perkawinan di Indonesia juga mengenal asas monogami, walau ada pengecualian poligami dengan syarat dan izin pengadilan.
 
-Pertanyaan besar yang sering muncul adalah apakah _open marriage_ bisa bertahan dalam jangka panjang? Jawabannya bervariasi, tergantung pada dinamika dan kesiapan pasangan tersebut.
+Karena itu, open marriage tidak memiliki posisi yang sama dengan bentuk perkawinan yang diatur secara resmi. Praktik hubungan terbuka di luar pernikahan juga dapat bertabrakan dengan nilai agama, adat keluarga, dan norma sosial yang masih kuat di Indonesia.
 
-Beberapa pasangan menemukan bahwa _open marriage_ memberikan mereka kebebasan dan keterbukaan yang dibutuhkan untuk menjaga hubungan tetap hidup dan menarik.
+Secara budaya, pernikahan di Indonesia bukan hanya menyatukan dua orang. Pernikahan juga melibatkan keluarga besar, lingkungan sosial, adat, keyakinan, dan harapan tentang rumah tangga yang stabil. Maka wajar jika open marriage masih dianggap tabu dan sulit diterima oleh banyak orang.
 
-Namun, bagi yang lain, _open marriage_ bisa menjadi terlalu rumit dan membebani, terutama jika tidak ada kesepakatan yang jelas atau jika salah satu pihak merasa tidak nyaman. Keberhasilan _open marriage_ sangat bergantung pada bagaimana pasangan tersebut mengelola dinamika emosional dan bagaimana mereka menetapkan batasan yang sehat.
+Penting juga untuk membedakan antara memahami istilah dan menyetujui praktiknya. Kamu bisa memahami arti open marriage sebagai pengetahuan sosial, tetapi tetap memilih pernikahan monogami yang lebih sesuai dengan nilai pribadi, agama, dan keluarga.
 
-* * *
+## Risiko Emosional yang Sering Muncul dalam Open Marriage
 
-Kesimpulannya? **“JANGAN YA DEK YA”**
+Open marriage membutuhkan kesiapan yang tidak sederhana. Bahkan ketika pasangan merasa sudah sepakat, emosi manusia bisa berubah setelah praktiknya berjalan. Rasa cemburu, takut kehilangan, membandingkan diri, dan merasa tidak cukup bisa muncul kapan saja.
 
-_Open marriage_ adalah konsep pernikahan yang unik dan tidak biasa, tetapi semakin banyak pasangan yang tertarik untuk mencobanya.
+Beberapa risiko yang perlu dipikirkan dengan matang antara lain sebagai berikut.
 
-Seperti halnya bentuk hubungan lainnya, keberhasilan _open marriage_ sangat bergantung pada komunikasi, kepercayaan, dan kesiapan emosional dari kedua belah pihak.
+* Rasa cemburu yang sulit dikendalikan.
+* Pasangan merasa setuju karena takut ditinggalkan.
+* Batasan yang awalnya jelas berubah menjadi kabur.
+* Konflik karena salah satu pihak lebih menikmati kesepakatan.
+* Tekanan sosial dari keluarga dan lingkungan.
+* Risiko kesehatan seksual bila tidak ada tanggung jawab penuh.
+* Dampak psikologis bila hubungan utama kehilangan rasa aman.
 
-Di Indonesia, hal ini mungkin masih dianggap tabu, tetapi dengan perubahan zaman dan semakin terbukanya pikiran generasi muda, konsep ini bisa jadi akan lebih diterima di masa depan. Namun, sebelum memutuskan untuk menjalaninya , penting untuk benar-benar memahami arti _open marriage_ dan siap menghadapi semua konsekuensinya.
+Satu hal yang perlu digarisbawahi, persetujuan yang sehat tidak lahir dari tekanan. Jika seseorang menyetujui open marriage hanya karena takut pasangannya pergi, relasi tersebut sudah tidak berjalan setara sejak awal.
+
+Dalam hubungan yang sehat, pasangan tidak hanya bertanya apakah sesuatu boleh dilakukan. Mereka juga bertanya apakah keputusan itu membuat kedua pihak merasa aman, dihargai, dan tetap utuh sebagai manusia.
+
+## Apakah Open Marriage Bisa Membuat Pernikahan Bertahan
+
+Jawabannya sangat bergantung pada pasangan, nilai yang mereka pegang, dan konteks sosial tempat mereka hidup. Beberapa penelitian di negara Barat membahas bahwa hubungan non monogami konsensual bisa berjalan bagi sebagian orang jika ada komunikasi matang, batasan jelas, dan persetujuan yang benar-benar sadar.
+
+Namun, konteks Indonesia berbeda. Pernikahan di Indonesia sangat dipengaruhi oleh nilai agama, keluarga, dan norma masyarakat. Sesuatu yang mungkin dianggap sebagai pilihan personal di budaya tertentu bisa menjadi sumber konflik besar di lingkungan lain.
+
+Bagi banyak pasangan di Indonesia, pernikahan yang stabil tetap lebih dekat dengan komitmen eksklusif, keterbukaan, kesetiaan, dan kemampuan menyelesaikan masalah bersama. Jika ada masalah dalam hubungan, langkah yang lebih aman biasanya adalah memperbaiki komunikasi, konseling pranikah atau pernikahan, berdiskusi dengan tokoh agama yang dipercaya, atau meminta bantuan profesional.
+
+Open marriage sebaiknya tidak dijadikan pelarian dari masalah rumah tangga. Jika akar persoalannya adalah luka, kecewa, bosan, atau hilangnya rasa percaya, membuka hubungan kepada orang lain tidak otomatis menyembuhkan semuanya.
+
+## Pertanyaan yang Perlu Dipikirkan Sebelum Menilai Open Marriage
+
+Sebelum seseorang menilai atau mempertimbangkan open marriage, ada beberapa pertanyaan penting yang layak direnungkan. Pertanyaan ini bukan untuk mendorongmu menjalani konsep tersebut, tetapi untuk memahami betapa besar konsekuensi di baliknya.
+
+* Nilai utama apa yang kamu harapkan dari pernikahan?
+* Apakah kamu dan pasangan memiliki pandangan yang sama tentang kesetiaan?
+* Apakah keputusan ini lahir dari kesadaran atau rasa takut kehilangan?
+* Apakah keluarga, agama, dan lingkungan sosial akan terdampak?
+* Apakah hubungan utama sudah cukup sehat sebelum membahas pihak ketiga?
+* Apakah kamu siap dengan kemungkinan cemburu, konflik, dan luka emosional?
+* Apakah keputusan ini sesuai dengan hukum, keyakinan, dan martabat kedua pihak?
+
+Bagi calon pengantin, pertanyaan seperti ini sebaiknya dibahas sebelum hari bahagia. Bukan karena semuanya harus terasa berat, tetapi karena pernikahan yang matang membutuhkan kejujuran sejak awal.
+
+Kalau kamu sedang menyusun rencana menuju hari H, panduan [persiapan pernikahan](/artikel/persiapan-pernikahan/) bisa membantu agar hal teknis dan emosional lebih tertata. Pernikahan yang indah bukan hanya soal dekorasi, busana, dan undangan impian, tetapi juga kesiapan dua hati untuk berjalan bersama.
+
+## Memahami Istilahnya Tanpa Harus Mengikutinya
+
+Memahami arti open marriage tidak berarti kamu harus menerima atau menjalaninya. Ada banyak istilah hubungan modern yang penting diketahui agar kita tidak salah paham, termasuk [lavender marriage](/artikel/lavender-marriage/) yang juga pernah dibahas di Acaranya.id.
+
+Untuk konteks Indonesia, sikap paling bijak adalah memahami topiknya dengan tenang, lalu menimbangnya berdasarkan nilai pribadi, agama, hukum, dan kesiapan emosional. Setiap pasangan memang punya dinamika masing-masing, tetapi pernikahan tetap membutuhkan rasa aman, tanggung jawab, dan penghormatan terhadap janji yang dibuat.
+
+Jika kamu sedang mempersiapkan momen istimewa bersama pasangan, jadikan masa persiapan sebagai ruang untuk saling mengenal lebih dalam. Bicarakan ekspektasi tentang kesetiaan, keuangan, keluarga, anak, ibadah, karier, dan cara menyelesaikan konflik.
+
+Setelah hal besar itu mulai jelas, urusan teknis hari bahagia bisa dibuat lebih praktis. Kamu bisa melihat inspirasi [desain undangan digital](/desain-undangan-digital/) yang elegan dan siap dibagikan tanpa ribet, atau mengecek [fitur undangan digital](/fitur/) Acaranya.id untuk membantu tamu mendapatkan informasi acara dengan lebih mudah.
+
+## Kesimpulan
+
+Open marriage adalah konsep pernikahan terbuka ketika pasangan membuat kesepakatan untuk memperbolehkan hubungan romantis atau seksual dengan orang lain di luar pernikahan utama. Konsep ini berbeda dari selingkuh karena menekankan persetujuan, tetapi tetap memiliki risiko emosional, sosial, kesehatan, dan nilai yang tidak kecil.
+
+Di Indonesia, open marriage sulit dilepaskan dari konteks hukum perkawinan, agama, adat, dan pandangan keluarga. Karena itu, konsep ini lebih tepat dipahami sebagai pengetahuan tentang dinamika hubungan modern, bukan sebagai saran untuk dijalani.
+
+Pada akhirnya, pernikahan yang sehat bukan hanya tentang bebas memilih bentuk hubungan. Pernikahan juga tentang rasa aman, saling menghormati, kesetiaan yang disepakati, dan kemampuan menjaga momen istimewa tetap bermakna bagi kedua pihak.
+
+**Sumber Bacaan:**
+
+* [UU Nomor 1 Tahun 1974 tentang Perkawinan, JDIH BPK](https://peraturan.bpk.go.id/Download/36382/UU%20Nomor%201%20Tahun%201974.pdf{:rel="nofollow"})
+* [PP Nomor 9 Tahun 1975 tentang Pelaksanaan UU Perkawinan, JDIH BPK](https://peraturan.bpk.go.id/Details/67678/pp-no-9-tahun-1975)
+* [Consensual Non-monogamy from a Developmental Perspective, Springer](https://link.springer.com/chapter/10.1007/978-3-030-84273-4_21)
+* [What do we know about consensual non-monogamy?, ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352250X22001890)
