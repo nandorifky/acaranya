@@ -1,11 +1,8 @@
 ---
 title: 10 Informasi yang Tercantum dalam Undangan Pernikahan
-description: >-
-  Pastikan undangan pernikahanmu lengkap! Simak 10 informasi penting yang wajib
-  dicantumkan, mulai dari nama pengantin hingga detail lokasi, agar tamu tidak
-  bingung.
-publishedAt: '2026-04-08T17:50:30'
-updatedAt: '2026-05-25T04:30:00+07:00'
+description: Bingung apa saja isi undangan pernikahan yang perlu dicantumkan? Simak 10 informasi penting dari nama mempelai sampai RSVP agar undangan siap dibagikan.
+publishedAt: 2026-04-08T17:50:00
+updatedAt: 2026-06-01T01:07:00
 author: indira
 category: Inspirasi
 tags:
@@ -18,96 +15,224 @@ imageAlt: 10 Informasi yang Tercantum dalam Undangan Pernikahan
 imageTitle: 10 Informasi yang Tercantum dalam Undangan Pernikahan
 imageCaption: ''
 status: published
-seoTitle: 10 Informasi yang Tercantum dalam Undangan Pernikahan
-customBreadcrumbLabel: 10 Informasi yang Tercantum dalam Undangan Pernikahan
-canonicalUrl: >-
-  /artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/
+seoTitle: Isi Undangan Pernikahan yang Lengkap dan Informatif
+customBreadcrumbLabel: Isi Undangan Pernikahan
+canonicalUrl: /artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/
 noindex: false
+ctaText: ''
+ctaUrl: ''
 ---
-Pernikahan adalah salah satu momen penting dan sakral dalam kehidupan seseorang. Dalam pernikahan, kedua mempelai akan diikat oleh janji suci untuk bersama-sama membangun rumah tangga yang harmonis.
 
-Untuk merayakan momen ini, keluarga dan teman-teman diundang untuk menghadiri acara pernikahan tersebut. Salah satu cara untuk menyampaikan undangan adalah melalui surat undangan pernikahan yang dirancang dengan baik dan informatif.
+Isi undangan pernikahan bukan sekadar rangkaian nama, tanggal, dan lokasi. Di dalamnya ada pesan hangat untuk mengajak keluarga, sahabat, dan orang terdekat hadir di hari bahagia kamu.
 
-Surat undangan pernikahan tidak hanya berfungsi sebagai pengumuman acara, tetapi juga merupakan bentuk penghargaan kepada para tamu yang diundang.
+Undangan yang rapi membantu tamu memahami acara tanpa perlu bertanya berkali-kali. Mereka tahu siapa yang menikah, kapan harus hadir, di mana lokasinya, bagaimana cara konfirmasi, sampai apa yang perlu dipersiapkan.
 
-Oleh karena itu, sangat penting untuk memastikan bahwa informasi yang tercantum dalam [undangan pernikahan](/desain-undangan-digital/pernikahan/) lengkap, jelas, dan mudah dipahami. Hal ini akan memudahkan para tamu untuk mengetahui detail acara pernikahan dan mempersiapkan diri mereka.
+Untuk Acays yang sedang menyiapkan undangan impian, berikut panduan isi undangan pernikahan yang lengkap, elegan, dan praktis untuk undangan cetak maupun [undangan digital](/desain-undangan-digital/).
 
-## Daftar Informasi yang Tercantum dalam Undangan Pernikahan
+## Ringkasan Isi Undangan Pernikahan
 
-Jika disebutkan, informasi yang tercantum dalam undangan pernikahan cukup kompleks, diantaranya yaitu:
+Sebelum masuk ke detail, ini informasi utama yang sebaiknya ada.
 
-## 1\. Nama Pasangan Mempelai
+- Nama kedua mempelai
+- Nama orang tua atau keluarga
+- Kalimat pembuka
+- Tanggal dan waktu akad nikah
+- Tanggal dan waktu resepsi
+- Lokasi acara dan tautan maps
+- Dress code bila ada
+- Informasi RSVP
+- Kontak penanggung jawab
+- Informasi tambahan untuk tamu
 
-Mempelai merupakan aktor utama dalam acara pernikahan. Oleh karena itu, nama lengkap mempelai pria dan wanita harus dicantumkan dengan jelas dalam undangan pernikahan.
+## 1. Nama Pasangan Mempelai
 
-Hal ini penting untuk menghindari kebingungan di kalangan tamu mengenai siapa yang akan menikah.
+Bagian pertama yang wajib diperhatikan adalah nama pasangan mempelai. Nama ini menjadi pusat informasi undangan, jadi pastikan penulisannya benar sejak awal.
 
-## 2\. Nama Orang Tua Mempelai
+Kamu bisa menuliskan nama lengkap, nama panggilan, atau kombinasi keduanya sesuai konsep undangan. Untuk undangan formal, nama lengkap biasanya terasa lebih sopan. Untuk undangan digital modern, nama panggilan tetap bisa digunakan selama identitas pasangan tetap jelas.
 
-Selain nama mempelai, nama orang tua mempelai juga perlu dicantumkan dalam undangan pernikahan.
+Agar tidak ada kesalahan kecil yang mengganggu, cek kembali ejaan, gelar, dan urutan nama sebelum undangan dipublikasikan. Kesalahan pada bagian ini cukup sensitif karena menyangkut identitas utama dalam momen istimewa.
 
-Hal ini menunjukkan rasa hormat dan penghargaan kepada kedua keluarga yang akan bersatu.
+Jika masih bingung menata urutannya, kamu bisa membaca panduan [urutan nama pengantin dalam undangan pernikahan](/artikel/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan/).
 
-Selain itu, ini juga memberi informasi tentang kedua keluarga yang akan menjadi satu keluarga besar nantinya.
+## 2. Nama Orang Tua atau Keluarga
 
-## 3\. Tanggal, Waktu, dan Lokasi Akad Nikah
+Dalam banyak undangan pernikahan di Indonesia, nama orang tua kedua mempelai ikut dicantumkan sebagai bentuk penghormatan. Bagian ini juga membantu tamu mengenali keluarga yang mengadakan acara.
 
-Informasi mengenai tanggal, waktu, dan lokasi akad nikah harus dijelaskan secara rinci dalam undangan pernikahan.
+Format yang umum digunakan adalah menuliskan nama mempelai lalu keterangan putra atau putri dari kedua orang tua. Untuk beberapa keluarga, nama wali, almarhum, atau gelar adat juga bisa dicantumkan sesuai kebutuhan.
 
-Ini akan memudahkan para tamu untuk mengatur jadwal mereka dan memastikan mereka dapat hadir tepat waktu.
+Pastikan penulisan nama orang tua sudah disetujui oleh keluarga. Detail seperti gelar, sapaan, dan penulisan almarhum atau almarhumah sebaiknya dicek dengan hati-hati agar tetap sopan.
 
-## 4\. Tanggal, Waktu, dan Lokasi Resepsi Pernikahan
+## 3. Kalimat Pembuka yang Sopan dan Hangat
 
-Sama seperti akad nikah, informasi mengenai tanggal, waktu, dan lokasi resepsi pernikahan juga harus dicantumkan dengan jelas dalam undangan.
+Kalimat pembuka memberi nuansa pertama pada undangan. Bagian ini tidak harus panjang, tetapi perlu terasa sopan, hangat, dan sesuai dengan karakter acara.
 
-Ini memungkinkan para tamu untuk menghadiri kedua acara tersebut tanpa kesulitan.
+Untuk undangan bernuansa formal, kamu bisa memakai kalimat yang lebih klasik dan penuh rasa hormat. Untuk undangan modern, pembuka bisa dibuat lebih singkat, lembut, dan tetap elegan.
 
-Selain itu, jika ada perbedaan lokasi antara akad nikah dan resepsi pernikahan, jangan lupa untuk mencantumkan petunjuk arah atau peta agar tamu tidak kesulitan menemukan lokasi.
+### Contoh Kalimat Pembuka
 
-## 5\. Dress Code
+- Dengan penuh rasa syukur, kami mengundang Bapak/Ibu/Saudara/i untuk hadir dan memberikan doa restu pada hari bahagia kami.
+- Dengan memohon rahmat dan ridha Tuhan Yang Maha Esa, kami bermaksud menyelenggarakan pernikahan putra putri kami.
+- Merupakan kebahagiaan bagi kami apabila kamu berkenan hadir dan menjadi bagian dari momen istimewa ini.
 
-Mencantumkan dress code atau aturan berpakaian dalam undangan pernikahan akan memudahkan para tamu untuk menyiapkan pakaian yang sesuai dengan tema atau nuansa pernikahan.
+Jika ingin mencari inspirasi kalimat yang lebih siap pakai, kamu bisa melihat kumpulan [kata-kata undangan pernikahan online](/artikel/kata-kata-undangan-pernikahan-online/).
 
-Hal ini juga akan membuat acara pernikahan terlihat lebih serasi dan harmonis
+## 4. Tanggal, Waktu, dan Lokasi Akad Nikah
 
-## 6\. Etiket Acara
+Akad nikah adalah inti dari prosesi pernikahan. Karena itu, informasi akad sebaiknya ditulis jelas dan mudah dipindai.
 
-Menambahkan etiket acara dalam undangan pernikahan dapat membantu para tamu memahami aturan dan tata cara yang diharapkan dalam acara tersebut.
+Cantumkan hari, tanggal, jam, nama tempat, dan alamat lengkap. Jika akad berlangsung di masjid, gereja, rumah, gedung, atau venue khusus, tuliskan nama lokasinya dengan ejaan yang tepat.
 
-Misalnya, mencantumkan apakah acara tersebut mengharapkan kehadiran anak-anak atau hanya untuk tamu dewasa.
+### Format Akad Nikah
 
-Selain itu, bisa juga mencantumkan informasi terkait protokol kesehatan yang harus diperhatikan, seperti penggunaan masker dan mencuci tangan sebelum memasuki lokasi acara.
+- Hari dan tanggal: Sabtu, 12 Oktober 2026
+- Waktu: 08.00 WIB sampai selesai
+- Tempat: Masjid Al Ikhlas
+- Alamat: Jalan Melati Nomor 10, Kota Kediri
 
-## 7\. Nomor Kontak Penanggung Jawab
+Untuk undangan digital, bagian ini akan lebih praktis jika dilengkapi tombol menuju Google Maps. Tamu bisa langsung membuka rute tanpa harus menyalin alamat secara manual.
 
-Mencantumkan nomor kontak yang dapat dihubungi oleh para tamu sangat penting, terutama jika mereka memiliki pertanyaan seputar acara pernikahan.
+## 5. Tanggal, Waktu, dan Lokasi Resepsi
 
-Nomor kontak ini biasanya atas nama penanggung jawab atau panitia pernikahan yang dapat memberikan informasi lebih lanjut jika diperlukan.
+Resepsi sering memiliki waktu dan lokasi yang berbeda dari akad. Inilah alasan detail resepsi perlu dibuat sebagai bagian terpisah agar tamu tidak salah datang.
 
-## 8\. Konfirmasi Kehadiran (RSVP)
+Tuliskan jam mulai dan jam selesai jika ada batas waktu. Jika menggunakan konsep sesi, misalnya sesi keluarga, sesi teman, atau sesi kolega, tuliskan dengan rapi agar tamu hadir sesuai waktu yang ditentukan.
 
-Konfirmasi kehadiran (RSVP) adalah bagian penting dalam undangan pernikahan, karena akan membantu mempelai dan panitia dalam menyiapkan jumlah kursi, makanan, dan kebutuhan acara lainnya.
+Kamu juga bisa menambahkan catatan singkat bila lokasi resepsi memiliki area parkir khusus, pintu masuk tertentu, atau akses yang perlu diketahui tamu. Informasi kecil seperti ini sering membantu tamu merasa lebih nyaman sejak tiba di lokasi.
 
-Oleh karena itu, jangan lupa untuk mencantumkan cara konfirmasi kehadiran, seperti melalui telepon, SMS, atau aplikasi tertentu.
+Untuk memahami perbedaan kebutuhan informasi akad dan resepsi, kamu bisa membaca artikel [perbedaan akad dan resepsi pernikahan](/artikel/pahami-perbedaan-akad-dan-resepsi-pernikahan/).
 
-## 9\. Akomodasi (Opsional)
+## 6. Alamat Lengkap dan Petunjuk Lokasi
 
-Jika pernikahan diadakan di lokasi yang jauh dari tempat tinggal para tamu atau di luar kota, menyediakan informasi mengenai akomodasi yang tersedia di sekitar lokasi acara akan sangat membantu.
+Alamat adalah bagian yang tidak boleh ditulis setengah-setengah. Jangan hanya menulis nama gedung jika tempatnya memiliki banyak cabang atau berada di area yang cukup luas.
 
-Dalam hal ini, dapat dicantumkan informasi mengenai hotel, penginapan, atau tempat menginap lainnya yang dapat digunakan oleh tamu.
+Isi undangan pernikahan yang baik sebaiknya mencantumkan nama venue, jalan, kecamatan atau kota, dan patokan bila diperlukan. Pada undangan digital, tautan maps menjadi nilai tambah karena tamu bisa langsung mengikuti navigasi.
 
-## 10\. Pernikahan Virtual
+Agar lebih aman, cek ulang titik lokasi sebelum undangan siap dibagikan. Pastikan titik maps mengarah ke pintu masuk yang benar, bukan hanya ke area sekitar gedung.
 
-Di era teknologi saat ini, pernikahan virtual menjadi pilihan bagi banyak pasangan. Jika mempelai memutuskan untuk mengadakan pernikahan virtual, pastikan mencantumkan informasi lengkap mengenai cara mengakses acara tersebut.
+Di Acaranya.id, fitur Google Maps interaktif membantu tamu membuka rute dengan sekali klik. Ini membuat undangan terasa lebih praktis, terutama untuk tamu dari luar kota.
 
-Hal ini dapat mencakup platform yang digunakan, tautan untuk mengakses, dan petunjuk penggunaan platform tersebut.
+## 7. Dress Code dan Tema Acara
 
-_“Sudah tahu informasi yang wajib harus tercantum dalam undangan pernikahan? Sekarang, waktunya kamu mengetahui [**Contoh Undangan Pernikahan**](/artikel/contoh-undangan-pernikahan/).”_
+Dress code tidak selalu wajib, tetapi sangat membantu jika kamu ingin tampilan acara terlihat serasi. Informasi ini juga membuat tamu lebih mudah memilih pakaian yang nyaman dan sesuai suasana.
 
-* * *
+Kamu bisa menuliskan warna, gaya busana, atau catatan singkat sesuai konsep acara. Misalnya nuansa pastel, formal attire, garden party, atau adat tertentu.
 
-Menciptakan undangan pernikahan yang informatif dan rapi merupakan langkah penting dalam mempersiapkan pernikahan yang sukses.
+Tuliskan dress code dengan lembut supaya tidak terasa memaksa. Fokusnya adalah membantu tamu menyesuaikan penampilan, bukan membatasi mereka secara berlebihan.
 
-Dengan mencantumkan informasi yang tercantum dalam undangan pernikahan, mempelai akan memastikan bahwa para tamu mendapatkan semua informasi yang mereka butuhkan untuk merayakan hari besar tersebut.
+### Contoh Penulisan Dress Code
 
-Selain itu, undangan yang lengkap dan jelas akan menunjukkan rasa hormat dan penghargaan kepada para tamu yang diundang, sehingga mereka merasa lebih dihargai dan diperhatikan dalam acara pernikahan yang sakral dan berkesan ini.
+- Dress code: nuansa krem, sage, atau earth tone
+- Tema acara: intimate garden wedding
+- Catatan busana: mohon menggunakan pakaian sopan dan nyaman
+
+## 8. RSVP dan Konfirmasi Kehadiran
+
+RSVP membantu kamu memperkirakan jumlah tamu yang akan hadir. Informasi ini penting untuk pengaturan kursi, katering, souvenir, dan alur penerimaan tamu.
+
+Pada undangan cetak, RSVP biasanya dicantumkan dalam bentuk nomor kontak. Pada undangan digital, RSVP bisa dibuat lebih praktis dengan formulir konfirmasi kehadiran yang langsung tercatat.
+
+Agar tamu tidak bingung, jelaskan cara konfirmasi dengan singkat. Kamu juga bisa menambahkan batas waktu konfirmasi jika acara membutuhkan perhitungan jumlah tamu yang lebih presisi.
+
+### Contoh Penulisan RSVP
+
+- Mohon konfirmasi kehadiran melalui tombol RSVP sebelum 1 Oktober 2026
+- Silakan isi jumlah tamu yang hadir agar kami dapat menyiapkan tempat terbaik
+- Untuk perubahan kehadiran, kamu dapat menghubungi narahubung yang tertera
+
+Acaranya.id menyediakan fitur konfirmasi RSVP otomatis yang membantu data kehadiran tersusun lebih rapi. Fitur ini cocok untuk calon pengantin yang ingin menghemat waktu tanpa ribet.
+
+## 9. Nomor Kontak Penanggung Jawab
+
+Nomor kontak penanggung jawab menjadi tempat tamu bertanya jika ada hal yang belum jelas. Bagian ini sangat berguna untuk pertanyaan seputar lokasi, waktu, parkir, penginapan, atau perubahan jadwal.
+
+Gunakan nomor yang benar-benar aktif dan dikelola oleh orang yang memahami detail acara. Bisa dari keluarga, wedding organizer, panitia, atau admin khusus.
+
+Agar terlihat rapi, cantumkan nama narahubung beserta perannya. Misalnya keluarga mempelai, panitia acara, atau informasi tamu.
+
+### Contoh Narahubung
+
+- Informasi tamu: Rara
+- Keluarga mempelai: Bapak Andi
+- Wedding organizer: Tim Acara Bahagia
+
+## 10. Informasi Tambahan untuk Undangan Digital
+
+Undangan digital memberi ruang lebih luas untuk informasi yang tidak selalu bisa dimasukkan ke undangan cetak. Kamu bisa menambahkan fitur yang membuat pengalaman tamu lebih lengkap dan menyenangkan.
+
+Beberapa informasi tambahan yang bisa dicantumkan.
+
+- Galeri foto prewedding
+- Love story atau perjalanan cinta
+- Rundown acara
+- Live streaming untuk tamu yang belum bisa hadir
+- Amplop digital
+- QR Code check-in
+- Kolom ucapan dan doa
+- Buku tamu digital
+
+Tidak semua fitur harus dipakai. Pilih yang paling sesuai dengan kebutuhan acara dan kenyamanan tamu.
+
+Jika kamu ingin undangan digital yang siap dibagikan, kamu bisa melihat [fitur undangan digital Acaranya.id](/fitur/) atau memilih [desain undangan digital](/desain-undangan-digital/) yang paling sesuai dengan konsep hari bahagia kamu.
+
+## Contoh Susunan Isi Undangan Pernikahan
+
+Berikut contoh susunan sederhana yang bisa kamu jadikan acuan.
+
+### Pembuka
+
+Dengan penuh rasa syukur, kami mengundang Bapak/Ibu/Saudara/i untuk hadir dan memberikan doa restu pada momen istimewa kami.
+
+### Nama Mempelai
+
+Nama Mempelai Wanita
+Putri dari Bapak Nama Ayah dan Ibu Nama Ibu
+
+dengan
+
+Nama Mempelai Pria
+Putra dari Bapak Nama Ayah dan Ibu Nama Ibu
+
+### Akad Nikah
+
+- Hari dan tanggal: Sabtu, 12 Oktober 2026
+- Waktu: 08.00 WIB sampai selesai
+- Tempat: Masjid Al Ikhlas
+- Alamat: Jalan Melati Nomor 10, Kota Kediri
+
+### Resepsi
+
+- Hari dan tanggal: Sabtu, 12 Oktober 2026
+- Waktu: 11.00 sampai 14.00 WIB
+- Tempat: Gedung Harmoni
+- Alamat: Jalan Anggrek Nomor 20, Kota Kediri
+
+### Konfirmasi Kehadiran
+
+Mohon konfirmasi kehadiran melalui tombol RSVP yang tersedia pada undangan digital.
+
+### Penutup
+
+Merupakan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu.
+
+## Kesalahan yang Sebaiknya Dihindari
+
+Isi undangan pernikahan yang lengkap tetap perlu dirapikan agar tidak terasa penuh. Beberapa hal berikut sebaiknya dicek sebelum undangan dikirim.
+
+- Nama mempelai atau orang tua salah ejaan
+- Tanggal dan hari tidak sesuai kalender
+- Jam akad atau resepsi tertukar
+- Alamat kurang lengkap
+- Titik maps mengarah ke lokasi yang salah
+- RSVP tidak memiliki instruksi yang jelas
+- Terlalu banyak informasi yang tidak dibutuhkan tamu
+- Desain terlalu ramai sampai teks sulit dibaca
+
+Sebelum undangan siap dibagikan, mintalah satu atau dua orang keluarga untuk membaca ulang. Cara sederhana ini sering membantu menemukan detail kecil yang terlewat.
+
+## Penutup
+
+Isi undangan pernikahan yang baik adalah isi yang jelas, rapi, dan membantu tamu memahami hari bahagia kamu tanpa kebingungan. Mulai dari nama mempelai, detail akad, resepsi, lokasi, RSVP, sampai informasi tambahan untuk undangan digital, semuanya perlu ditulis dengan teliti.
+
+Dengan susunan yang tepat, undangan bukan hanya menjadi pengumuman acara. Undangan juga menjadi kesan pertama yang hangat, elegan, dan penuh perhatian untuk orang-orang yang kamu sayangi.
+
+Kalau kamu ingin undangan impian yang praktis, desain cantik, dan siap dibagikan tanpa ribet, Acaranya.id siap membantu dari pemilihan template sampai undangan digitalmu tampil rapi. Kamu bisa mulai dari melihat [contoh undangan pernikahan](/artikel/contoh-undangan-pernikahan/) atau cek [paket harga undangan digital](/harga/) sesuai kebutuhan acara.
