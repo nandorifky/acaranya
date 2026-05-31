@@ -2,7 +2,7 @@
 title: Pahami Arti Open Marriage dalam Pernikahan di Indonesia
 description: Pahami arti open marriage, bedanya dengan selingkuh dan poligami, alasan pasangan membahasnya, risiko, serta pandangannya dalam pernikahan di Indonesia.
 publishedAt: 2026-04-08T17:49:00
-updatedAt: 2026-05-25T04:30:00+07:00
+updatedAt: 2026-06-01T01:29:00
 author: indira
 category: Pernikahan
 tags:
