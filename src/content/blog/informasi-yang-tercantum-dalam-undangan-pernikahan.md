@@ -19,8 +19,8 @@ seoTitle: Isi Undangan Pernikahan yang Lengkap dan Informatif
 customBreadcrumbLabel: Isi Undangan Pernikahan
 canonicalUrl: /artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/
 noindex: false
-ctaText: ''
-ctaUrl: ''
+ctaText: Pesan Undangan Nikah Digital
+ctaUrl: /order-undangan/pernikahan/
 ---
 
 Isi undangan pernikahan bukan sekadar rangkaian nama, tanggal, dan lokasi. Di dalamnya ada pesan hangat untuk mengajak keluarga, sahabat, dan orang terdekat hadir di hari bahagia kamu.
