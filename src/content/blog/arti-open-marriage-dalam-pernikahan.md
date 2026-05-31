@@ -145,7 +145,7 @@ Pada akhirnya, pernikahan yang sehat bukan hanya tentang bebas memilih bentuk hu
 
 **Sumber Bacaan:**
 
-* [UU Nomor 1 Tahun 1974 tentang Perkawinan, JDIH BPK](https://peraturan.bpk.go.id/Download/36382/UU%20Nomor%201%20Tahun%201974.pdf{:rel="nofollow"})
+* [UU Nomor 1 Tahun 1974 tentang Perkawinan, JDIH BPK](https://peraturan.bpk.go.id/Download/36382/UU%20Nomor%201%20Tahun%201974.pdf)
 * [PP Nomor 9 Tahun 1975 tentang Pelaksanaan UU Perkawinan, JDIH BPK](https://peraturan.bpk.go.id/Details/67678/pp-no-9-tahun-1975)
 * [Consensual Non-monogamy from a Developmental Perspective, Springer](https://link.springer.com/chapter/10.1007/978-3-030-84273-4_21)
 * [What do we know about consensual non-monogamy?, ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352250X22001890)
