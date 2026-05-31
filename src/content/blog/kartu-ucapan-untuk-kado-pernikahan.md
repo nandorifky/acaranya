@@ -160,4 +160,4 @@ Jangan ragu untuk menambahkan sentuhan personal agar ucapanmu semakin berkesan d
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Dengan **[undangan pernikahan online](/)** dari Acaranya ID, kamu bisa merayakan momen spesial dengan cara yang lebih modern dan praktis.
+Dengan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** dari Acaranya ID, kamu bisa merayakan momen spesial dengan cara yang lebih modern dan praktis.

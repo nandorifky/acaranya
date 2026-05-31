@@ -85,4 +85,4 @@ Dengan pemilihan warna dan material yang tepat, kamu akan terlihat anggun dan el
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Kami membantu kamu menciptakan **[undangan pernikahan online](/)** yang unik dan mudah diakses, tanpa perlu mencetaknya.
+Kami membantu kamu menciptakan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang unik dan mudah diakses, tanpa perlu mencetaknya.

@@ -113,7 +113,7 @@ Namun jika kamu memilih untuk membuat sendiri, silahkan ikuti langkah-langkah di
 
 ![cara membuat undangan pernikahan online](/images/blog/content/image-50.png)
 
-Acaranya.id hadir sebagai solusi untuk kamu yang ingin membuat [undangan pernikahan online](/) tanpa ribet.
+Acaranya.id hadir sebagai solusi untuk kamu yang ingin membuat [undangan pernikahan online](/desain-undangan-digital/pernikahan/) tanpa ribet.
 
 Dengan bebagai fitur lengkap dan pelayanan yang kami tawarkan, membuat 300+ calon pengantin menggunakan layanan undangan nikah online dari Acaranya.id.
 

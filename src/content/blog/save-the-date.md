@@ -111,4 +111,4 @@ _Save the date_ adalah alat yang sangat berguna dalam perencanaan acara, terutam
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID menghadirkan **[undangan pernikahan online](/)** yang praktis, penuh gaya, dan ramah lingkungan untuk membantu momen spesialmu lebih berkesan.
+Acaranya ID menghadirkan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang praktis, penuh gaya, dan ramah lingkungan untuk membantu momen spesialmu lebih berkesan.

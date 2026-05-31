@@ -36,7 +36,7 @@ Nah, disini kami akan membagikan beberapa **contoh undangan pernikahan** yang bi
 
 ![Contoh Undangan Pernikahan Simple](/images/blog/content/image-2.png)
 
-[Undangan pernikahan](/) simple biasanya hanya terdiri dari satu lembar saja. Yang mana, ini hanya berisi pokok informasi acara pernikahan, seperti nama pengantin, tanggal, pukul, dan lokasi.
+[Undangan pernikahan](/desain-undangan-digital/pernikahan/) simple biasanya hanya terdiri dari satu lembar saja. Yang mana, ini hanya berisi pokok informasi acara pernikahan, seperti nama pengantin, tanggal, pukul, dan lokasi.
 
 Namun, kamu masih bisa custom desain undangan sesuai selera agar terlihat lebih cantik dan menarik.
 

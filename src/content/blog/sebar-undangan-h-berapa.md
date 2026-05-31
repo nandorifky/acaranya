@@ -60,4 +60,4 @@ Sebar undangan H- berapa? Ini bukan sekadar soal waktu, tapi berkaitan langsung 
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Pernikahanmu akan semakin berkesan dengan **[undangan pernikahan online](/)** yang tidak hanya indah, tapi juga mudah dibagikan ke tamu.
+Pernikahanmu akan semakin berkesan dengan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang tidak hanya indah, tapi juga mudah dibagikan ke tamu.

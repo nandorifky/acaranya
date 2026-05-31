@@ -337,4 +337,4 @@ Klik link di bawah ini untuk Download file Undangan Pernikahan Bahasa Jawa Word 
 
 Menggunakan undangan pernikahan bahasa Jawa yang halus dan sopan memberikan sentuhan tradisional yang mendalam pada acara pernikahan. Bahasa yang dipilih, baik kromo inggil untuk kerabat yang lebih tua, kromo madya untuk teman sebaya, hingga bahasa Jawa santai untuk teman akrab, mampu mencerminkan penghormatan dan kesopanan.
 
-Acaranya ID memiliki [desain undangan digital tema jawa](/desain-undangan-digital/) yang bisa kamu gunakan untuk keperluan pernikahanmu. Dengan fitur lengkap, menggunakan [undangan online](/) juga akan memangkas biaya pernikahanmu lho! Yuk, digitalkan undanganmu sekarang!
+Acaranya ID memiliki [desain undangan digital tema jawa](/desain-undangan-digital/) yang bisa kamu gunakan untuk keperluan pernikahanmu. Dengan fitur lengkap, menggunakan [undangan online](/desain-undangan-digital/pernikahan/) juga akan memangkas biaya pernikahanmu lho! Yuk, digitalkan undanganmu sekarang!

@@ -103,4 +103,4 @@ Menciptakan foto prewedding yang bagus memang membutuhkan persiapan, tetapi deng
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Buat pernikahanmu lebih modern dengan **[undangan pernikahan online](/)** yang bisa diakses oleh tamu kapan saja dan di mana saja.
+Buat pernikahanmu lebih modern dengan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang bisa diakses oleh tamu kapan saja dan di mana saja.

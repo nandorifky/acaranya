@@ -31,8 +31,6 @@ Dalam artikel ini, kami akan memberikan 10 rekomendasi lagu Jawa yang cocok untu
 
 Lagu-lagu ini tidak hanya menyentuh, tetapi juga akan memberikan nuansa tradisional yang kental. Dengan memilih lagu yang tepat, kamu bisa membuat undanganmu semakin berkesan dan penuh makna.
 
-[![Pesan Undangan Digital Hanya di Acaranya.id](/images/blog/content/Jagonya-Bikin-Undangan-Digital-1-1024x256.png)](https://acaranya.id)
-
 ## 1\. Cundamani – Denny Caknan
 
 Lagu “Cundamani” yang diciptakan oleh Denny Caknan adalah pilihan yang tepat untuk menggambarkan cinta yang tulus. Dengan melodi yang lembut dan lirik yang menyentuh, lagu ini dapat memberikan nuansa romantis pada undangan pernikahan digitalmu dan juga cocok untuk dinyanyikan di acara pernikahan.

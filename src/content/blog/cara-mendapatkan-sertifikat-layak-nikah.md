@@ -91,4 +91,4 @@ Jangan lupa untuk mempersiapkan semua dokumen dan mengikuti prosedur dengan baik
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Pilih Acaranya ID untuk membuat **[undangan pernikahan online](/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!
+Pilih Acaranya ID untuk membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!

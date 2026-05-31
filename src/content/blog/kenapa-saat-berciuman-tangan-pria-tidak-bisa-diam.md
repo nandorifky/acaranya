@@ -77,4 +77,4 @@ Jika kamu mendapati pasanganmu sering melakukan ini, sekarang kamu tahu bahwa ge
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID membuat undangan digital untuk pernikahan lebih mudah dan elegan. Bagikan undanganmu tanpa batas dengan **[undangan pernikahan online](/)** yang berkelas.
+Acaranya ID membuat undangan digital untuk pernikahan lebih mudah dan elegan. Bagikan undanganmu tanpa batas dengan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang berkelas.

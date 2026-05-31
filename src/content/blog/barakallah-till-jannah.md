@@ -36,8 +36,6 @@ Ungkapan ini sering digunakan sebagai doa dalam berbagai kesempatan, baik ketika
 
 **Barakallah Till Jannah** bukan hanya doa yang penuh makna, tetapi juga memberikan harapan besar bahwa berkah yang diberikan oleh Allah akan terus mengalir hingga akhirat.
 
-[![Acaranya.id Bali](/images/blog/content/Acaranya.id-Bali-1024x256.png)](https://acaranya.id)
-
 ## Penggunaan Ucapan Barakallah Till Jannah dalam Kehidupan Sehari-hari
 
 Ungkapan **“Barakallah Till Jannah”** tidak hanya memiliki arti yang mendalam, tetapi juga bisa diterapkan dalam berbagai kesempatan di kehidupan sehari-hari. Frasa ini sering digunakan dalam momen-momen penting yang melibatkan doa dan harapan, namun sebenarnya bisa lebih fleksibel. Berikut adalah beberapa contoh penggunaan ungkapan ini dalam kehidupan sehari-hari:

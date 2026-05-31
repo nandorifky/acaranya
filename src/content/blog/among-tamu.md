@@ -100,4 +100,4 @@ Dengan memahami peran dan tanggung jawab among tamu, kamu dapat lebih mengapresi
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Acaranya ID memberi solusi bagi kamu yang ingin [undangan pernikahan online](/) yang stylish dan mudah dibagikan lewat berbagai platform digital.
+Acaranya ID memberi solusi bagi kamu yang ingin [undangan pernikahan online](/desain-undangan-digital/pernikahan/) yang stylish dan mudah dibagikan lewat berbagai platform digital.

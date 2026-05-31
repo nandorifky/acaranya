@@ -90,4 +90,4 @@ Semoga artikel ini bisa membantu Kamu untuk memahami dan menemukan jawabannya.
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Ingin undangan yang praktis namun tetap elegan? Acaranya ID menyediakan solusi **[undangan pernikahan online](/)** dengan desain yang memukau!
+Ingin undangan yang praktis namun tetap elegan? Acaranya ID menyediakan solusi **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** dengan desain yang memukau!

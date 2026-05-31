@@ -129,4 +129,4 @@ Dengan berbagai pilihan seperti motif bunga, elegan, atau _aesthetic_, kamu bisa
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Bergaya modern dengan **[undangan pernikahan online](/)** yang simple namun tetap berkesan. Acaranya ID menawarkan desain sesuai kebutuhanmu.
+Bergaya modern dengan **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang simple namun tetap berkesan. Acaranya ID menawarkan desain sesuai kebutuhanmu.

@@ -110,8 +110,8 @@ const jsonLd = [
   authorName={authorName}
   section={post.data.category}
   breadcrumbs={[
-    { label: 'Home', href: '/' },
-    { label: 'Artikel', href: '/artikel/' },
+    { label: "Home", href: "/" },
+    { label: "Artikel", href: "/artikel/" },
     { label: post.data.customBreadcrumbLabel || post.data.title },
   ]}
 >
@@ -178,28 +178,6 @@ const jsonLd = [
             {post.data.description}
           </p>
 
-          <!-- Contextual Inline CTA (Dofollow) -->
-          {
-            post.data.ctaText && post.data.ctaUrl && (
-              <div class="mb-6 pl-4 border-l-2 border-[#B59A73]/80 group">
-                <span class="block text-[10px] font-bold uppercase tracking-[0.2em] text-[#B59A73] mb-1.5 select-none">
-                  Pesan:
-                </span>
-                <a
-                  href={post.data.ctaUrl}
-                  class="font-serif text-[15px] font-extrabold text-brand-950 hover:text-[#B59A73] transition-colors inline-flex items-center gap-1.5 leading-relaxed"
-                >
-                  {post.data.ctaText}
-                  <Icon
-                    name="arrow-right"
-                    size={14}
-                    class="text-[#B59A73] transform group-hover:translate-x-1 transition-transform"
-                  />
-                </a>
-              </div>
-            )
-          }
-
           <!-- Author + Updated -->
           <div
             class="flex items-center justify-between flex-wrap gap-3 pb-5 border-b border-border-soft/60"
@@ -258,6 +236,30 @@ const jsonLd = [
         <div class="max-w-2xl">
           <!-- Table of Contents -->
           <TableOfContents headings={headings} />
+
+          <!-- Contextual Inline CTA (Dofollow) -->
+          {
+            post.data.ctaText && post.data.ctaUrl && (
+              <div class="my-6 p-4 sm:p-5 bg-surface-muted/60 border-l-2 border-[#B59A73] rounded-r-md transition-all duration-300 hover:bg-surface-muted/90 group">
+                <span class="block text-[10px] font-bold uppercase tracking-[0.2em] text-[#B59A73] mb-1 select-none">
+                  Rekomendasi Editor:
+                </span>
+                <a
+                  href={post.data.ctaUrl}
+                  class="font-serif text-[15px] sm:text-[16px] font-bold text-brand-950 hover:text-soft-gold transition-colors inline-flex items-center gap-1.5 leading-relaxed"
+                >
+                  <span class="underline decoration-border-strong group-hover:decoration-champagne transition-colors underline-offset-4 decoration-1">
+                    {post.data.ctaText}
+                  </span>
+                  <Icon
+                    name="arrow-up-right"
+                    size={14}
+                    class="text-[#B59A73] transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300 shrink-0"
+                  />
+                </a>
+              </div>
+            )
+          }
 
           <!-- Content -->
           <div class="prose max-w-none">

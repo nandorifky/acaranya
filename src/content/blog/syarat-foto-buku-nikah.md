@@ -92,4 +92,4 @@ Sekarang, dengan semua info ini, calon pengantin bisa lebih tenang menjalani [pr
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Kami membuat **[undangan pernikahan online](/)** menjadi lebih praktis, elegan, dan mudah diakses oleh siapa saja. Hari spesialmu layak dirayakan dengan cara modern!
+Kami membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** menjadi lebih praktis, elegan, dan mudah diakses oleh siapa saja. Hari spesialmu layak dirayakan dengan cara modern!

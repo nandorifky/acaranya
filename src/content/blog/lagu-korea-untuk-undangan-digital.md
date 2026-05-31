@@ -109,7 +109,7 @@ Selain itu, musik juga berfungsi sebagai elemen personalisasi. Setiap pasangan m
 
 [![](/images/blog/content/auntumn-1024x1024.webp)](https://inv.acaranya.id/preview/auntumn)
 
-Acaranya ID selaku layanan undangan digital, memiliki cukup banyak pilihan desain [undangan pernikahan online](/) yang bisa kamu pilih sesuai keinginan, tidak terkecuali tema Korea.
+Acaranya ID selaku layanan undangan digital, memiliki cukup banyak pilihan desain [undangan pernikahan online](/desain-undangan-digital/pernikahan/) yang bisa kamu pilih sesuai keinginan, tidak terkecuali tema Korea.
 
 Dengan fitur lengkap dan harga yang sangat terjangkau, kamu bisa mendapatkan undangan digital elegan yang cantik. Selain itu, kami juga menjamin kepuasan pelanggan dengan menyediakan garansi revisi sepuasnya dan dukungan penuh hingga hari H.
 
@@ -123,4 +123,4 @@ Jadi, jangan ragu untuk menambahkan lagu Korea romantis ke dalam undangan digita
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
-Pilih Acaranya ID untuk membuat **[undangan pernikahan online](/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!
+Pilih Acaranya ID untuk membuat **[undangan pernikahan online](/desain-undangan-digital/pernikahan/)** yang stylish, efisien, dan mudah diakses oleh tamu undangan di seluruh dunia!
