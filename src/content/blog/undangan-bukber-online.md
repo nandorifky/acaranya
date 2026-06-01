@@ -40,11 +40,7 @@ _**NB:** Text, Background, Music, dan sebagainya bisa di custom sesuai selera!_
 
 ![desain undangan bukber online 1](/images/blog/content/image-40-155x300.png)
 
-![desain undangan bukber online 2](/images/blog/content/image-41-156x300.png)
-
 ![desain undangan bukber online 3](/images/blog/content/image-42-156x300.png)
-
-![desain undangan bukber online 4](/images/blog/content/image-43-155x300.png)
 
 Temukan desain lebih lengkap, Klik **[DISINI](https://inv.acaranya.id/tema/islami)**.
 

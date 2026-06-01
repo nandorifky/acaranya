@@ -72,14 +72,11 @@ Berikut ini contoh undangan rapat yang bisa kamu jadikan referensi:
 
 ## Download Undangan Rapat Panitia Pernikahan yang Bisa Diedit
 
-Jika tidak ingin ambil pusing, disini kamu juga bisa langsung download [contoh undangan](/artikel/contoh-undangan-pernikahan/) yang telah kami berikan di bawah ini:
-
-**PDF:** [Download Contoh Undangan Rapat Pernikahan](/images/blog/content/contoh-surat-undangan-rapat-panitia-pernikahan_acaranya.id_.pdf)  
-**DOC/Word**: [Download Contoh Undangan Pembentukan Panitia Pernikahan](/images/blog/content/pdf-contoh-surat-undangan-rapat-panitia-pernikahan-acaranya.id_.docx)
+Jika tidak ingin ambil pusing, kamu bisa memakai [contoh undangan](/artikel/contoh-undangan-pernikahan/) sebagai referensi lalu menyesuaikan nama keluarga, waktu, lokasi, dan susunan panitia.
 
 * * *
 
-Itulah contoh undangan pembentukan panitia pernikahan yang bisa kamu contoh untuk referensi. Selain itu, kami juga menyediakan link download gratis sesuai format yang kamu butuhkan.
+Itulah contoh undangan pembentukan panitia pernikahan yang bisa kamu contoh untuk referensi.
 
 **Artikel Terkait:**
 

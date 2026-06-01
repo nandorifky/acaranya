@@ -31,8 +31,6 @@ Dalam artikel ini, kamu akan menemukan kumpulan quotes pernikahan islami yang di
 
 ## Quotes Pernikahan Islami dalam Al-Quran untuk Undangan Digital
 
-![quotes pernikahan islami dalam al quran](/images/blog/content/quotes-pernikahan-islami-dalam-al-quran_20240619_194227_0000-1024x1024.jpg "quotes pernikahan islami dalam al quran")
-
 Berikut adalah kumpulan quotes islami dari ayat suci Al-Quran tentang pernikahan yang bisa kamu gunakan dalam [undangan nikah digital](/desain-undangan-digital/pernikahan/):
 
 1.  **Ar-Rum 21**: “Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu istri-istri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya di antaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berpikir.”

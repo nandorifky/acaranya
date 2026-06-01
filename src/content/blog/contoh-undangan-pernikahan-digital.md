@@ -52,8 +52,6 @@ Berikut ini beberapa contoh desain undangan pernikahan digital gambar yang bisa 
 
 ![Contoh undangan pernikahan digital gambar mewah](/images/blog/content/image-17.png)
 
-![Contoh undangan pernikahan digital gambar aesthetic](/images/blog/content/image-18.png)
-
 ## 2\. Contoh Undangan Pernikahan Digital Video
 
 Mungkin, sebagian dari kamu belum mengenal undangan jenis ini. Sesuai namanya, undangan digital video merupakan sebuah undangan dalam bentuk video yang pada umumnya berformat .mp4.

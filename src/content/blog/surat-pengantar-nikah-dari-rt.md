@@ -51,8 +51,6 @@ Untuk alur pengurusan dokumen lebih lengkap, kamu bisa baca [disini](/artikel).
 
 ![contoh surat pengantar nikah dari RT](/images/blog/content/IMG_20240618_125048.jpg)
 
-[DOWNLOAD FILE DOCX PDF](/images/blog/content/SURAT-PENGANTAR-NIKAH.docx)
-
 * * *
 
 ### **CONTOH SURAT PENGANTAR NIKAH** DARI RT

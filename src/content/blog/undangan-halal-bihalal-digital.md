@@ -85,8 +85,6 @@ Setelah template dipilih, proses personalisasi dapat dimulai. Ini termasuk menye
 
 Langkah terakhir adalah mengubah dokumen tersebut ke format yang sesuai untuk dibagikan melalui WhatsApp. Format seperti PDF biasanya lebih disukai karena mempertahankan tampilan desain asli dari undangan tersebut. Proses ini mudah dan dapat dilakukan dengan bantuan berbagai alat online.
 
-[Download Undangan Halal Bihalal DOC](/images/blog/content/Contoh-Undangan-Halal-Bihalal-DOC-Acaranya.docx)
-
 ## Desain Undangan Halal Bihalal Digital Keren
 
 ![contoh undangan halal bihalal digital](/images/blog/content/undangan-halal-bihalal-min-1024x1024.jpg)

@@ -47,8 +47,6 @@ Cukup banyak contoh desain yang bisa kamu jadikan referensi untuk undangan fisik
 
 ![Contoh Undangan Kertas atau Fisik untuk Open House Hari Raya Idul Fitri](/images/blog/content/contoh-undangan-open-house-lebaran.jpg)
 
-![Contoh Undangan Kertas atau Fisik untuk Open House Lebaran Hari Raya Idul Fitri](/images/blog/content/contoh-undangan-open-house-idul-fitri.jpg)
-
 ![Contoh Undangan Kertas atau Fisik untuk Open House Lebaran Hari Raya Idul Fitri](/images/blog/content/contoh-undangan-open-house-hari-raya.jpg)
 
 ### 2\. Contoh Undangan Open House Lebaran Gambar PNG/JPG
@@ -56,8 +54,6 @@ Cukup banyak contoh desain yang bisa kamu jadikan referensi untuk undangan fisik
 Undangan gambar menjadi salah satu [jenis undangan digital](/artikel/perbedaan-undangan-digital-dan-website/) yang terkenal dengan kemudahannya dalam membagikannya. Berikut ini beberapa contoh undangan open house lebaran dalam format PNG/JPG yang bisa kamu jadikan referensi.
 
 ![](/images/blog/content/Copy-of-Ramadan-Iftar-Dinner-Template.jpg)
-
-![](/images/blog/content/Raya-Invitation-Card.jpg)
 
 ### 3\. Contoh Video Undangan Open House Silaturahmi Idul Fitri
 

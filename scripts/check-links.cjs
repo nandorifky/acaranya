@@ -57,7 +57,10 @@ function verifyInternalPath(targetPath) {
     decodedPath = targetPath;
   }
 
-  // Hapus query params dan hash
+  // Hapus optional Markdown title, query params, dan hash.
+  // Contoh: /img.webp "judul" -> /img.webp
+  const titleMatch = decodedPath.match(/^([^\s]+)\s+(['"]).*\2$/);
+  if (titleMatch) decodedPath = titleMatch[1];
   decodedPath = decodedPath.split('?')[0].split('#')[0];
 
   // Abaikan link kosong atau jangkar halaman saat ini
@@ -68,12 +71,13 @@ function verifyInternalPath(targetPath) {
   // Jika berupa path absolute (dimulai dengan /)
   if (decodedPath.startsWith('/')) {
     const rootPath = decodedPath.slice(1);
+    const rootPathNoSlash = rootPath.replace(/\/$/, '');
     
     const possiblePaths = [
-      path.join(DIST_DIR, rootPath, 'index.html'),   // Folder routing (/desain/ -> dist/desain/index.html)
+      path.join(DIST_DIR, rootPathNoSlash, 'index.html'), // Folder routing (/desain/ -> dist/desain/index.html)
       path.join(DIST_DIR, rootPath + '.html'),       // File direct (/desain -> dist/desain.html)
       path.join(DIST_DIR, rootPath),                 // Aset langsung (/images/logo.png -> dist/images/logo.png)
-      path.join(DIST_DIR, rootPath.replace(/\/$/, '') + '/index.html') // Folder routing tanpa trailing slash
+      path.join(DIST_DIR, rootPathNoSlash + '/index.html') // Folder routing tanpa trailing slash
     ];
 
     return possiblePaths.some(p => fs.existsSync(p));
@@ -174,12 +178,12 @@ async function runCrawler() {
     lines.forEach((lineText, lineIdx) => {
       const lineNum = lineIdx + 1;
 
-      // a. Tautan format Markdown standar: [Anchor](URL)
-      const mdLinkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
+      // a. Tautan format Markdown standar: [Anchor](URL). Negative lookbehind agar ![Alt](URL) tidak dihitung ganda.
+      const mdLinkRegex = /(?<!!)\[([^\]]+)\]\(([^)]+)\)/g;
       let mdMatch;
       while ((mdMatch = mdLinkRegex.exec(lineText)) !== null) {
         const anchor = mdMatch[1].trim();
-        const href = mdMatch[2].trim();
+        const href = mdMatch[2].trim().match(/^([^\s]+)\s+(['"]).*\2$/)?.[1] || mdMatch[2].trim();
 
         if (!href || href.startsWith('mailto:') || href.startsWith('tel:') || href.startsWith('javascript:') || href.startsWith('#')) {
           continue;
@@ -201,7 +205,7 @@ async function runCrawler() {
       let imgMatch;
       while ((imgMatch = mdImgRegex.exec(lineText)) !== null) {
         const alt = imgMatch[1].trim();
-        const src = imgMatch[2].trim();
+        const src = imgMatch[2].trim().match(/^([^\s]+)\s+(['"]).*\2$/)?.[1] || imgMatch[2].trim();
 
         allLinks.push({
           type: 'Gambar',

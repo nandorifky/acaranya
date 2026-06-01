@@ -39,11 +39,7 @@ Berikut kumpulan bingkai undangan pernikahan yang bisa kamu gunakan secara grati
 
 ![Bingkai Undangan Pernikahan Bunga 1](/images/blog/content/image-55.png)
 
-![Bingkai Undangan Pernikahan Bunga 2](/images/blog/content/image-56.png)
-
 ![Bingkai Undangan Pernikahan Bunga 3](/images/blog/content/image-57.png)
-
-![Bingkai Undangan Pernikahan Bunga 4](/images/blog/content/image-58.png)
 
 ![Bingkai Undangan Pernikahan Bunga 5](/images/blog/content/image-59.png)
 
@@ -51,11 +47,7 @@ Berikut kumpulan bingkai undangan pernikahan yang bisa kamu gunakan secara grati
 
 ![bingkai undangan pernikahan elegan kosong png](/images/blog/content/image-60.png)
 
-![bingkai undangan pernikahan elegan kosong png 2](/images/blog/content/image-61.png)
-
 ![bingkai undangan pernikahan elegan kosong png 3](/images/blog/content/image-62.png)
-
-![bingkai undangan pernikahan elegan kosong png 4](/images/blog/content/image-63.png)
 
 ![bingkai undangan pernikahan elegan kosong png 5](/images/blog/content/image-64.png)
 
@@ -63,11 +55,7 @@ Berikut kumpulan bingkai undangan pernikahan yang bisa kamu gunakan secara grati
 
 ![bingkai undangan pernikahan bunga](/images/blog/content/image-65.png)
 
-![bingkai undangan pernikahan png](/images/blog/content/Kit-Festa-Primeira-Comunhao-para-imprimir-OrigamiAmi-Arte-para-toda-a-festa-692x1024-1.png)
-
 ![bingkai undangan pernikahan kosong](/images/blog/content/image-66.png)
-
-![bingkai undangan pernikahan png kosong](/images/blog/content/image-67.png)
 
 ## Keuntungan Menggunakan Bingkai Undangan Pernikahan
 

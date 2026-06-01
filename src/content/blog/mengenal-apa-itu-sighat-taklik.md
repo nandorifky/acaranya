@@ -81,8 +81,6 @@ Menyimpan salinan sighat taklik ini penting agar selalu ingat dengan janji yang 
 
 Dengan memiliki salinan sighat taklik PDF, suami dan istri bisa bersama-sama menjaga komitmen yang telah diucapkan. Ingat, pernikahan adalah kerjasama, dan sighat taklik adalah salah satu elemen penting dalam kerjasama ini.
 
-[Download Isi Sighat Taklik PDF](/images/blog/content/SIGHAT-TALIQ-Acaranya.id_.pdf)
-
 * * *
 
 Mungkin sighat taklik ini terdengar sederhana, tapi jangan sampai terlena dengan kesederhanaannya. Isi sighat taklik itu memiliki kekuatan yang bisa berujung pada talak jika dilanggar. Memahami bunyi sighat taklik adalah langkah pertama untuk menjaga keharmonisan rumah tangga.

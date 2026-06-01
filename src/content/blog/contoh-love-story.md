@@ -92,8 +92,6 @@ Semoga contoh-contoh ini dapat menginspirasi dan membantu dalam menulis love sto
 
 ## Tips Singkat Membuat Love Story di Undangan Digital
 
-![Contoh Kata Kata Love Story Singkat](/images/blog/content/IMG_20240613_125827-1024x1024.jpg "Contoh Kata Kata Love Story Singkat")
-
 Dengan love story, undangan kalian akan terasa lebih personal dan berkesan bagi para tamu. Berikut beberapa tips untuk membuat love story yang memukau di undangan digital kalian:
 
 *   Mulai dengan cerita singkat tentang pertama kali bertemu.
