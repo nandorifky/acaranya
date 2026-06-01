@@ -10,9 +10,10 @@ const { page, baseUrl } = Astro.props;
 
 // Ensure baseUrl ends with a slash for consistent trailingSlash: 'always'
 const normalizedBaseUrl = baseUrl.endsWith('/') ? baseUrl : `${baseUrl}/`;
+const withTrailingSlash = (url: string) => url.endsWith('/') ? url : `${url}/`;
 
-const prevUrl = page.url.prev ? (page.url.prev === '/' || page.url.prev === normalizedBaseUrl.slice(0, -1) ? normalizedBaseUrl : `${page.url.prev}/`) : null;
-const nextUrl = page.url.next ? `${page.url.next}/` : null;
+const prevUrl = page.url.prev ? (page.url.prev === '/' || page.url.prev === normalizedBaseUrl.slice(0, -1) ? normalizedBaseUrl : withTrailingSlash(page.url.prev)) : null;
+const nextUrl = page.url.next ? withTrailingSlash(page.url.next) : null;
 
 // Generate page numbers
 const totalPages = page.lastPage;
