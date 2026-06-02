@@ -5,7 +5,7 @@ toolComponent: "GeneratorTeksUndangan"
 icon: "message-square"
 publishedAt: 2026-05-24
 status: "published"
-seoTitle: "Kata-Kata Undangan Pernikahan Lewat WA Otomatis | Acaranya.id"
+seoTitle: "Kata-Kata Undangan Pernikahan Lewat WA Otomatis"
 canonicalUrl: "https://acaranya.id/kata-kata-undangan-pernikahan-lewat-wa/"
 noindex: false
 schemaSoftwareName: "WhatsApp Invitation Text Generator Acaranya.id"

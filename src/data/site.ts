@@ -22,8 +22,8 @@ export const siteConfig = {
   },
 
   contact: {
-    whatsapp: '62895395094329',
-    whatsappDisplay: '+62 895-3950-94329',
+    whatsapp: '6285113132300',
+    whatsappDisplay: '+62 851-1313-2300',
     email: 'acaranya.id@gmail.com',
     emailDisplay: 'acaranya.id@gmail.com',
   },
@@ -86,8 +86,8 @@ export const siteConfig = {
   },
 
   seo: {
-    titleTemplate: '%s | Acaranya.id',
-    defaultTitle: 'Buat Undangan Digital Website Terima Jadi Tanpa Antre! | Acaranya.id',
+    titleTemplate: '%s',
+    defaultTitle: 'Buat Undangan Digital Website Terima Jadi Tanpa Antre!',
     defaultDescription: 'Buat undangan digital modern dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
     keywords: 'undangan digital, undangan online, undangan website, wedding invitation, e-invitation',
 

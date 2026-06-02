@@ -4,7 +4,7 @@ description: "Aktifkan widget hitung mundur pernikahan (wedding countdown) Anda.
 toolComponent: "WeddingCountdown"
 publishedAt: 2026-05-24
 status: "published"
-seoTitle: "Wedding Countdown - Hitung Mundur Pernikahan Online | Acaranya.id"
+seoTitle: "Wedding Countdown - Hitung Mundur Pernikahan Online"
 canonicalUrl: "https://acaranya.id/hitung-mundur-pernikahan/"
 noindex: false
 schemaSoftwareName: "Wedding Countdown Planner Acaranya.id"

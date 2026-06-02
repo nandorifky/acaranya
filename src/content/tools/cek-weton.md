@@ -14,7 +14,7 @@ schemaApplicationCategory: WebApplication
 schemaOffersPrice: '0'
 schemaOffersPriceCurrency: IDR
 schemaRatingValue: 5
-schemaRatingCount: 991
+schemaRatingCount: 1203
 ---
 
 Weton merupakan konsep tradisional dari budaya Jawa yang menggabungkan **hari dalam kalender Masehi** (Senin hingga Minggu) dengan **hari pasaran Jawa** (Legi, Pahing, Pon, Wage, dan Kliwon). Dalam budaya Jawa, weton ini dianggap penting dalam menentukan hari-hari baik untuk berbagai kegiatan, seperti pernikahan, memulai usaha, atau sekadar memahami karakter seseorang.

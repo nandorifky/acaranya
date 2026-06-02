@@ -112,7 +112,7 @@ const toAbsoluteUrl = (url) => url?.startsWith('http') ? url : `${siteConfig.url
 // SEO logic
 const title = isCategory 
   ? (isFirstPage ? category.data.metaTitle : `${category.data.title} - Halaman ${page.currentPage} | ${siteName}`)
-  : (isFirstPage ? "Desain Undangan Digital Online, Template Website & Tema Undangan | Acaranya.id" : `Semua Desain - Halaman ${page.currentPage} | ${siteName}`);
+  : (isFirstPage ? "Desain Undangan Digital Online, Template Website & Tema Undangan" : `Semua Desain - Halaman ${page.currentPage} | ${siteName}`);
 
 const description = isCategory ? category.data.metaDescription : "Pilih desain undangan digital online untuk pernikahan, ulang tahun, wisuda, aqiqah, corporate, dan acara lainnya. Template website elegan, praktis, siap dibagikan.";
 const canonicalUrl = `${siteConfig.url}${page.url.current}`;

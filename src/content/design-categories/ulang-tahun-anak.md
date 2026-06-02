@@ -4,7 +4,7 @@ title: Ulang Tahun Anak
 labelShort: Ultah Anak
 icon: cake
 description: Jasa undangan ulang tahun anak digital berbentuk website dengan desain cantik, tema lucu, RSVP, Maps, galeri foto, dan musik.
-metaTitle: Undangan Ulang Tahun Anak Digital Website | Acaranya.id
+metaTitle: Undangan Ulang Tahun Anak Digital Website
 metaDescription: Buat undangan ulang tahun anak digital online berbentuk website. Pilih desain, template, dan tema ultah anak lucu dengan RSVP, Maps, galeri foto, musik, siap dibagikan.
 sortOrder: 3
 status: published
