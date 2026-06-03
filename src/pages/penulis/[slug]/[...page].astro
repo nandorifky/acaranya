@@ -5,7 +5,6 @@ import Section from '../../../components/base/Section.astro';
 import Icon from '../../../components/ui/Icon.astro';
 import Pagination from '../../../components/ui/Pagination.astro';
 import { getCollection } from 'astro:content';
-import { Image } from 'astro:assets';
 
 export async function getStaticPaths({ paginate }: any) {
   const allAuthors = await getCollection('authors');
@@ -128,7 +127,7 @@ const metaDesc = author.data.metaDescription || author.data.bio;
                     <div class="aspect-[16/9] sm:w-[180px] sm:aspect-square overflow-hidden shrink-0">
                       <img
                         src={post.data.image}
-                        alt={post.data.title}
+                        alt={post.data.imageAlt || post.data.title}
                         width="400"
                         height="400"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"

@@ -36,7 +36,7 @@ const pageTitle = title === siteConfig.seo.defaultTitle
   ? title
   : siteConfig.seo.titleTemplate.replace('%s', title);
 
-const canonicalUrl = canonical || new URL(Astro.url.pathname, siteConfig.url).toString();
+const canonicalUrl = new URL(canonical || Astro.url.pathname, siteConfig.url).toString();
 const ogImageUrl = ogImage.startsWith('http') ? ogImage : new URL(ogImage, siteConfig.url).toString();
 
 // Default JSON-LD: Organization + WebSite
@@ -210,17 +210,6 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
 
   <script is:inline>
     (() => {
-      const pageTitle = document.title;
-      document.querySelectorAll('img').forEach((img) => {
-        if (!img.hasAttribute('alt') || img.getAttribute('alt') === '') {
-          img.setAttribute('alt', pageTitle);
-        }
-
-        if (!img.hasAttribute('title') || img.getAttribute('title') === '') {
-          img.setAttribute('title', pageTitle);
-        }
-      });
-
       const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
       if (canHover) return;
 

@@ -3,7 +3,6 @@ import Container from '../base/Container.astro';
 import Section from '../base/Section.astro';
 import Icon from '../ui/Icon.astro';
 import { getCollection } from 'astro:content';
-import { Image } from 'astro:assets';
 
 const allPosts = await getCollection('blog');
 const publishedPosts = allPosts.filter(p => p.data.status === 'published');
@@ -36,7 +35,7 @@ const randomPosts = publishedPosts
             {post.data.image ? (
               <img 
                 src={post.data.image} 
-                alt={post.data.title} 
+                alt={post.data.imageAlt || post.data.title} 
                 width="800"
                 height="450"
                 class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-1000"

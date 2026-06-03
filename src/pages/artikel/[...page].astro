@@ -6,7 +6,6 @@ import SectionHeader from "../../components/base/SectionHeader.astro";
 import Icon from "../../components/ui/Icon.astro";
 import Pagination from "../../components/ui/Pagination.astro";
 import { getCollection } from "astro:content";
-import { Image } from "astro:assets";
 
 export async function getStaticPaths({ paginate }: any) {
   const allPosts = await getCollection("blog");
@@ -71,7 +70,7 @@ const robots = page.currentPage > 1 ? "noindex, follow" : "index, follow";
                     <div class="aspect-[16/9] overflow-hidden">
                       <img
                         src={post.data.image}
-                        alt={post.data.title}
+                        alt={post.data.imageAlt || post.data.title}
                         width="800"
                         height="450"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"

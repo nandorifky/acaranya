@@ -1,4 +1,5 @@
 ---
+import { siteConfig } from '../../data/site';
 
 interface BreadcrumbItem {
   label: string;
@@ -64,7 +65,7 @@ const jsonLd = !isHome ? {
     '@type': 'ListItem',
     position: index + 1,
     name: item.label,
-    ...(item.href ? { item: new URL(item.href, 'https://acaranya.id').toString() } : {}),
+    ...(item.href ? { item: new URL(item.href, siteConfig.url).toString() } : {}),
   })),
 } : null;
 ---

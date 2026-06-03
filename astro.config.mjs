@@ -12,10 +12,11 @@ import matter from 'gray-matter';
 const site = 'https://acaranya.id';
 const blogContentDir = new URL('./src/content/blog/', import.meta.url);
 const toolsContentDir = new URL('./src/content/tools/', import.meta.url);
+const contentFilePattern = /\.(md|mdx|mdoc)$/;
 const twoDaysAgo = Date.now() - 2 * 24 * 60 * 60 * 1000;
 const recentNewsUrls = new Set(
   fs.readdirSync(blogContentDir)
-    .filter((file) => file.endsWith('.md'))
+    .filter((file) => contentFilePattern.test(file))
     .filter((file) => {
       const { data } = matter(fs.readFileSync(new URL(file, blogContentDir), 'utf8'));
       const publishedAt = data.publishedAt ? new Date(data.publishedAt).getTime() : 0;
@@ -23,13 +24,13 @@ const recentNewsUrls = new Set(
         && data.tags?.includes('news')
         && publishedAt >= twoDaysAgo;
     })
-    .map((file) => `${site}/artikel/${path.basename(file, '.md')}/`)
+    .map((file) => `${site}/artikel/${file.replace(contentFilePattern, '')}/`)
 );
 const toolUrls = new Set([
   `${site}/tools/`,
   ...fs.readdirSync(toolsContentDir)
-    .filter((file) => file.endsWith('.md'))
-    .map((file) => `${site}/${path.basename(file, '.md')}/`)
+    .filter((file) => contentFilePattern.test(file))
+    .map((file) => `${site}/${file.replace(contentFilePattern, '')}/`)
 ]);
 
 const isRecentNewsUrl = (url) => recentNewsUrls.has(url);

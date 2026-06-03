@@ -6,7 +6,6 @@ import Icon from "../../components/ui/Icon.astro";
 import TableOfContents from "../../components/blog/TableOfContents.astro";
 import { getCollection, render, getEntry } from "astro:content";
 import { siteConfig } from "../../data/site";
-import { Image } from "astro:assets";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -54,10 +53,16 @@ const modifiedDisplay = post.data.updatedAt
     })
   : null;
 
-const canonicalUrl =
-  post.data.canonicalUrl || `${siteConfig.url}/artikel/${post.id}/`;
+const canonicalUrl = new URL(
+  post.data.canonicalUrl || `/artikel/${post.id}/`,
+  siteConfig.url,
+).toString();
 const pageTitle = post.data.seoTitle || post.data.title;
 const robots = post.data.noindex ? "noindex,nofollow" : "index,follow";
+const featuredImage = post.data.image;
+const featuredImageUrl = featuredImage
+  ? new URL(featuredImage, siteConfig.url).toString()
+  : new URL(siteConfig.branding.ogImage, siteConfig.url).toString();
 
 const shareTitle = encodeURIComponent(post.data.title);
 const shareUrl = encodeURIComponent(canonicalUrl);
@@ -89,9 +94,7 @@ const jsonLd = [
       "@type": "WebPage",
       "@id": canonicalUrl,
     },
-    ...(post.data.image
-      ? { image: `${siteConfig.url}${post.data.image}` }
-      : {}),
+    image: [featuredImageUrl],
     keywords: post.data.tags.join(", "),
   },
 ];
@@ -100,7 +103,8 @@ const jsonLd = [
 <MarketingLayout
   title={pageTitle}
   description={post.data.description}
-  ogImage={post.data.image}
+  ogImage={featuredImageUrl}
+  ogImageAlt={post.data.imageAlt || post.data.title}
   type="article"
   canonical={canonicalUrl}
   robots={robots}
@@ -118,13 +122,13 @@ const jsonLd = [
   <article>
     <!-- Featured Image -->
     {
-      post.data.image && (
+      featuredImage && (
         <section class="bg-cream pt-6 pb-0 lg:pt-8">
           <Container narrow>
             <figure>
               <div class="aspect-[2/1] sm:aspect-[21/9] overflow-hidden rounded-sm">
                 <img
-                  src={post.data.image}
+                  src={featuredImage}
                   alt={post.data.imageAlt || post.data.title}
                   width="1200"
                   height="630"
@@ -148,7 +152,7 @@ const jsonLd = [
     <section
       class:list={[
         "pt-6 pb-4 lg:pt-8 lg:pb-6",
-        post.data.image ? "bg-cream" : "bg-cream pt-8 lg:pt-12",
+        featuredImage ? "bg-cream" : "bg-cream pt-8 lg:pt-12",
       ]}
     >
       <Container narrow>
@@ -194,11 +198,12 @@ const jsonLd = [
                     authorEntry?.data.avatar ? (
                       <img
                         src={authorEntry.data.avatar}
-                        alt={authorName}
+                        alt=""
                         width="128"
                         height="128"
                         class="w-full h-full object-cover"
                         loading="lazy"
+                        decoding="async"
                       />
                     ) : (
                       <Icon name="user" size={16} class="text-brand-500" />
