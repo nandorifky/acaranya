@@ -1,8 +1,9 @@
 # Redirects dari URL Jasa WordPress lama ke struktur Area baru
 /jasa/undangan-digital-*  /area/:splat  301
-/desain /desain-undangan-digital/ 301
-/order-undangan-nikah /order-undangan/pernikahan/ 301
-/jasa/halal-bihalal /desain-undangan-digital/halal-bihalal/ 301
-/jasa/undangan-natal /desain-undangan-digital/natal/ 301
-/jasa/ulang-tahun /desain-undangan-digital/birthday-party/ 301
-/jasa/filter-instagram / 301
+/desain* /desain-undangan-digital/ 301
+/order-undangan-nikah* /order-undangan/pernikahan/ 301
+/jasa/halal-bihalal* /desain-undangan-digital/halal-bihalal/ 301
+/jasa/undangan-natal* /desain-undangan-digital/natal/ 301
+/jasa/ulang-tahun* /desain-undangan-digital/birthday-party/ 301
+/jasa/filter-instagram* / 301
+/biolink* / 301
