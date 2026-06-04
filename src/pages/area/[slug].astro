@@ -76,12 +76,11 @@ const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComp
       <div class="relative z-10 max-w-4xl mx-auto text-center space-y-8 animate-fade-in-up">
         <div class="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full border border-brand-200/60 bg-surface/50 backdrop-blur-md">
           <span class="w-1.5 h-1.5 rounded-full bg-soft-gold animate-pulse"></span>
-          <span class="text-[10px] uppercase tracking-[0.2em] font-bold text-brand-700">Area Layanan: {area.data.cityName}</span>
+          <span class="text-[10px] uppercase tracking-[0.2em] font-bold text-brand-700">Layanan Online {area.data.cityName}</span>
         </div>
 
         <h1 class="font-serif text-4xl sm:text-5xl lg:text-[4.25rem] text-brand-950 leading-[1.1] tracking-tight">
-          {area.data.title.split(' — ')[0]} <br/>
-          <span class="italic font-normal text-soft-gold">{area.data.cityName}</span>
+          {area.data.title.split(' — ')[0]}
         </h1>
 
         <p class="text-base sm:text-lg text-text-secondary max-w-2xl mx-auto font-sans tracking-wide leading-relaxed">
@@ -96,6 +95,20 @@ const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComp
             Lihat Katalog Desain
           </a>
         </div>
+
+        {area.data.coverImage && (
+          <figure class="pt-8 max-w-5xl mx-auto">
+            <div class="relative aspect-[16/9] overflow-hidden rounded-[32px] border border-champagne/40 bg-surface shadow-card">
+              <img
+                src={area.data.coverImage}
+                alt={area.data.imageAlt || area.data.title}
+                class="h-full w-full object-cover"
+                loading="eager"
+                decoding="async"
+              />
+            </div>
+          </figure>
+        )}
       </div>
     </Container>
   </header>
