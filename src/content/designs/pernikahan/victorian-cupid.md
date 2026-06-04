@@ -1,8 +1,8 @@
 ---
 title: Victorian Cupid
 category: pernikahan
-thumbnail: 'https://inv.acaranya.id/themes/victorian-cupid/victorian-cupid.jpg'
-previewUrl: 'https://inv.acaranya.id/preview/victorian-cupid'
+thumbnail: https://inv.acaranya.id/themes/victorian-cupid/victorian-cupid.jpg
+previewUrl: https://inv.acaranya.id/preview/victorian-cupid
 isFeatured: false
 isPremium: false
 tags:
@@ -10,6 +10,6 @@ tags:
   - krem
 package: mengundang
 sortOrder: 154
+catalogSortOrder: 5
 status: published
 ---
-
