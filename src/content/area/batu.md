@@ -56,8 +56,6 @@ Untuk melihat pilihan desain, Anda bisa membuka [katalog desain undangan digital
 
 ## Desain yang Pas untuk Karakter Batu
 
-{{< designs slugs="pernikahan/timeless, pernikahan/vintage-forest, pernikahan/chestnut-art" >}}
-
 Batu punya nuansa visual yang kuat. Ada kesan pegunungan, kebun, bunga, udara sejuk, dan suasana liburan keluarga. Karena itu, desain undangan digital Batu sebaiknya tidak hanya cantik, tetapi juga selaras dengan lokasi acara.
 
 Untuk acara di hotel, restoran, atau gedung, desain minimalis elegan bisa terlihat lebih profesional. Untuk acara di rumah keluarga, desain bernuansa hangat dengan warna krem, hijau, cokelat, atau floral akan terasa lebih dekat. Untuk acara di vila atau kebun, konsep _rustic_, natural, atau garden party bisa memberi kesan lebih menyatu dengan suasana Batu.
