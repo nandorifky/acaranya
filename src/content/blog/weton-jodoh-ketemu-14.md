@@ -1,12 +1,9 @@
 ---
 title: Weton Jodoh Ketemu 14 Apa Artinya?
-description: >-
-  Weton Jodoh Ketemu 14 artinya apa? Pahami tafsir kategori Tibo Padu dalam
-  primbon Jawa, potensi konflik, serta tips membangun hubungan tetap harmonis &
-  sabar.
-publishedAt: '2026-04-08T17:49:28'
-updatedAt: '2026-05-25T04:30:00+07:00'
-author: indira
+description: Weton Jodoh Ketemu 14 artinya apa? Pahami tafsir kategori Tibo Padu dalam primbon Jawa, potensi konflik, serta tips membangun hubungan tetap harmonis & sabar.
+publishedAt: 2026-04-08T17:49:00
+updatedAt: 2026-06-04T15:01:00
+author: nando-rifky
 category: Perencanaan
 tags:
   - weton
@@ -20,9 +17,12 @@ imageCaption: ''
 status: published
 seoTitle: Weton Jodoh Ketemu 14 Apa Artinya?
 customBreadcrumbLabel: Weton Jodoh Ketemu 14 Apa Artinya?
-canonicalUrl: '/artikel/weton-jodoh-ketemu-14/'
+canonicalUrl: /artikel/weton-jodoh-ketemu-14/
 noindex: false
+ctaText: ''
+ctaUrl: ''
 ---
+
 Weton jodoh merupakan salah satu konsep dalam budaya Jawa yang digunakan untuk menafsirkan kecocokan pasangan berdasarkan hari lahir mereka. Perhitungan weton jodoh dilakukan dengan menjumlahkan neptu dari hari lahir dan pasaran masing-masing pasangan.
 
 Dari jumlah neptu tersebut, kemudian dikaitkan dengan makna dan interpretasi yang terdapat dalam primbon Jawa. Dalam artikel ini, kita akan membahas secara komprehensif tentang Weton Jodoh Ketemu 14, yaitu jumlah neptu pasangan yang mencapai angka 14.
@@ -52,8 +52,8 @@ Untuk menghitung weton jodoh, kamu bisa menggunakan [kalkulator weton online](/c
 | Selasa | 3 | Pon | 7 |
 | Rabu | 7 | Wage | 4 |
 | Kamis | 8 | Kliwon | 8 |
-| Jumat | 6 |  – |  – |
-| Sabtu | 9 |  – |  – |
+| Jumat | 6 | – | – |
+| Sabtu | 9 | – | – |
 
 Contoh, misalnya pasangan pertama lahir pada hari Rabu Wage dan pasangan kedua lahir pada hari Jumat Legi. Maka, total neptu kedua pasangan adalah 7 (Rabu) + 4 (Wage) + 6 (Jumat) + 5 (Legi) = 22. Jumlah neptu 22 ini masuk ke dalam kategori Tibo Padu.
 
