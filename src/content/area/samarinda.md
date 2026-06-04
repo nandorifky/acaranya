@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Samarinda untuk Pernikahan, Khitanan, dan Acara Kota Tepian
+title: Undangan Digital Samarinda untuk Pernikahan, Khitanan, dan Acara Kota Tepian
 description: Butuh jasa undangan digital di Samarinda? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan acara di Kota Tepian.
 cityName: Samarinda
 province: Kalimantan Timur

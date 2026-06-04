@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Bojonegoro untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Bojonegoro untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Bojonegoro untuk pernikahan, khitanan, syukuran, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp tanpa ribet.
 cityName: Bojonegoro
 province: Jawa Timur

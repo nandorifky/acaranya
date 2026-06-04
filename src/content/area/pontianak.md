@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Pontianak untuk Pernikahan, Khitanan, dan Acara Lainnya
+title: Undangan Digital Pontianak untuk Pernikahan, Khitanan, dan Acara Lainnya
 description: Butuh jasa undangan digital di Pontianak? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan acara di Kota Khatulistiwa.
 cityName: Pontianak
 province: Kalimantan Barat

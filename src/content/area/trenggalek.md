@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Trenggalek untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Trenggalek untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Trenggalek untuk pernikahan, pantai, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Trenggalek
 province: Jawa Timur

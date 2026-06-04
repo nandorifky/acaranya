@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Bondowoso untuk Hajatan di Kampung dan Kota
+title: Undangan Digital Bondowoso untuk Hajatan di Kampung dan Kota
 description: Cari jasa undangan digital di Bondowoso? Acaranya.id buat undangan online elegan untuk pernikahan, hajatan, syukuran, dan event di seluruh wilayah Bondowoso.
 cityName: Bondowoso
 province: Jawa Timur

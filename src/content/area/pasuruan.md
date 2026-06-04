@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Pasuruan untuk Pernikahan, Khitanan, dan Hajatan
+title: Undangan Digital Pasuruan untuk Pernikahan, Khitanan, dan Hajatan
 description: Butuh jasa undangan digital di Pasuruan? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan hajatan di Pasuruan kota dan kabupaten.
 cityName: Pasuruan
 province: Jawa Timur

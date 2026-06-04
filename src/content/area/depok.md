@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Depok untuk Pernikahan, Khitanan, dan Acara Lainnya
+title: Undangan Digital Depok untuk Pernikahan, Khitanan, dan Acara Lainnya
 description: Butuh jasa undangan digital di Depok? Acaranya.id buat undangan online modern untuk pernikahan, khitanan, syukuran, gathering, dan event di seluruh wilayah Depok.
 cityName: Depok
 province: Jawa Barat

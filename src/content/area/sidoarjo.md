@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Sidoarjo untuk Pernikahan, Khitanan, dan Hajatan
+title: Undangan Digital Sidoarjo untuk Pernikahan, Khitanan, dan Hajatan
 description: Butuh jasa undangan digital di Sidoarjo? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan hajatan di Kota Udang.
 cityName: Sidoarjo
 province: Jawa Timur

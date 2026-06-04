@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Malang untuk Pernikahan Outdoor, Khitanan, dan Event Kreatif
+title: Undangan Digital Malang untuk Pernikahan Outdoor, Khitanan, dan Event Kreatif
 description: Butuh jasa undangan digital di Malang? Acaranya.id buat undangan online estetik untuk pernikahan outdoor, khitanan, syukuran, gathering, dan event di Malang Raya.
 cityName: Malang
 province: Jawa Timur

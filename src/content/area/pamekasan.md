@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Pamekasan untuk Pernikahan Adat Madura dan Acara Keluarga
+title: Undangan Digital Pamekasan untuk Pernikahan Adat Madura dan Acara Keluarga
 description: Jasa undangan digital Pamekasan untuk pernikahan adat Madura, Karapan Sapi, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Pamekasan
 province: Jawa Timur

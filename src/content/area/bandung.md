@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Bandung untuk Pernikahan Adat Sunda dan Acara Kreatif
+title: Undangan Digital Bandung untuk Pernikahan Adat Sunda dan Acara Kreatif
 description: Jasa undangan digital Bandung untuk pernikahan adat Sunda, khitanan, gathering, dan acara kreatif. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Bandung
 province: Jawa Barat

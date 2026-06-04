@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Lamongan untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Lamongan untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Lamongan untuk pernikahan, khitanan, pengajian, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Lamongan
 province: Jawa Timur

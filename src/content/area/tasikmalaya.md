@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Tasikmalaya untuk Pernikahan Adat Sunda
+title: Undangan Digital Tasikmalaya untuk Pernikahan Adat Sunda
 description: Jasa undangan digital Tasikmalaya untuk pernikahan adat Sunda, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Tasikmalaya
 province: Jawa Barat

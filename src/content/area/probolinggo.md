@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Probolinggo untuk Pernikahan Adat dan Acara Keluarga
+title: Undangan Digital Probolinggo untuk Pernikahan Adat dan Acara Keluarga
 description: Jasa undangan digital Probolinggo untuk pernikahan adat Jawa, Bromo, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Probolinggo
 province: Jawa Timur

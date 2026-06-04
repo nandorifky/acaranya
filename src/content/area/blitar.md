@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Blitar untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Blitar untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Blitar untuk pernikahan, khitanan, syukuran, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp tanpa ribet.
 cityName: Blitar
 province: Jawa Timur

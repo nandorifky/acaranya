@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Makassar untuk Pernikahan Adat dan Acara Keluarga
+title: Undangan Digital Makassar untuk Pernikahan Adat dan Acara Keluarga
 description: Jasa undangan digital Makassar untuk pernikahan adat Bugis, khitanan, pengajian, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Makassar
 province: Sulawesi Selatan

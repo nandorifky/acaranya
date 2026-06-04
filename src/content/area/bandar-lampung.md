@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Bandar Lampung untuk Acara Keluarga dan Pernikahan
+title: Undangan Digital Bandar Lampung untuk Acara Keluarga dan Pernikahan
 description: Buat undangan digital Bandar Lampung yang sopan, rapi, dan mudah dibagikan lewat WhatsApp untuk pernikahan, syukuran, khitanan, atau acara keluarga.
 cityName: Bandar Lampung
 province: Lampung

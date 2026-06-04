@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Pacitan untuk Pernikahan Pantai, Khitanan, dan Hajatan
+title: Undangan Digital Pacitan untuk Pernikahan Pantai, Khitanan, dan Hajatan
 description: Butuh jasa undangan digital di Pacitan? Acaranya.id buat undangan online estetik untuk pernikahan, khitanan, syukuran, dan hajatan di Kota 1001 Goa.
 cityName: Pacitan
 province: Jawa Timur

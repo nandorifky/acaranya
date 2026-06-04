@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Batu untuk Wedding Outdoor dan Acara Villa
+title: Undangan Digital Batu untuk Wedding Outdoor dan Acara Villa
 description: Buat undangan digital Batu yang estetik dan informatif untuk wedding outdoor, acara villa, syukuran keluarga, gathering, dan event di Kota Batu.
 cityName: Batu
 province: Jawa Timur

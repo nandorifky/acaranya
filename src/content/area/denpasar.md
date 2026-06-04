@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Denpasar untuk Pernikahan dan Acara Adat Bali
+title: Undangan Digital Denpasar untuk Pernikahan dan Acara Adat Bali
 description: Jasa undangan digital Denpasar untuk pernikahan adat, khitanan, upacara, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps presisi, cocok untuk tamu lokal hingga mancanegara.
 cityName: Denpasar
 province: Bali

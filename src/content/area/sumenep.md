@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Sumenep untuk Pernikahan Adat Madura
+title: Undangan Digital Sumenep untuk Pernikahan Adat Madura
 description: Jasa undangan digital Sumenep untuk pernikahan adat Madura, keraton, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Sumenep
 province: Jawa Timur

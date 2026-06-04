@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Jombang untuk Pernikahan dan Acara Pesantren
+title: Undangan Digital Jombang untuk Pernikahan dan Acara Pesantren
 description: Jasa undangan digital Jombang untuk pernikahan, khitanan, pengajian, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Jombang
 province: Jawa Timur

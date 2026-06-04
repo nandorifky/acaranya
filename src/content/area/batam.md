@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Batam untuk Wedding dan Event Lintas Kota
+title: Undangan Digital Batam untuk Wedding dan Event Lintas Kota
 description: Buat undangan digital Batam yang rapi dan mudah dibagikan untuk pernikahan, gathering, grand opening, atau event dengan tamu luar kota dan luar negeri.
 cityName: Batam
 province: Kepulauan Riau

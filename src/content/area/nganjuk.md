@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Nganjuk untuk Pernikahan, Khitanan, dan Hajatan Kampung
+title: Undangan Digital Nganjuk untuk Pernikahan, Khitanan, dan Hajatan Kampung
 description: Butuh jasa undangan digital di Nganjuk? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan hajatan di seluruh wilayah Nganjuk.
 cityName: Nganjuk
 province: Jawa Timur

@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Solo untuk Pernikahan Adat Jawa
+title: Undangan Digital Solo untuk Pernikahan Adat Jawa
 description: Jasa undangan digital Solo untuk pernikahan adat Jawa, gamelan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Solo
 province: Jawa Tengah

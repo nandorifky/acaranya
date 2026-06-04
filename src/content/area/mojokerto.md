@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Mojokerto untuk Pernikahan, Syukuran, dan Acara Keluarga
+title: Undangan Digital Mojokerto untuk Pernikahan, Syukuran, dan Acara Keluarga
 description: Butuh jasa undangan digital di Mojokerto? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan acara keluarga di Mojokerto dan sekitarnya.
 cityName: Mojokerto
 province: Jawa Timur

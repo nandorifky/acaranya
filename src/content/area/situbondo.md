@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Situbondo untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Situbondo untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Situbondo untuk pernikahan, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Situbondo
 province: Jawa Timur

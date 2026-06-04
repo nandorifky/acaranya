@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Lumajang untuk Pernikahan, Khitanan, dan Hajatan
+title: Undangan Digital Lumajang untuk Pernikahan, Khitanan, dan Hajatan
 description: Butuh jasa undangan digital di Lumajang? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan hajatan di seluruh wilayah Lumajang.
 cityName: Lumajang
 province: Jawa Timur

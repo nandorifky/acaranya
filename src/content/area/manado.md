@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Manado untuk Pernikahan, Syukuran, dan Acara Kawanua
+title: Undangan Digital Manado untuk Pernikahan, Syukuran, dan Acara Kawanua
 description: Butuh jasa undangan digital di Manado? Acaranya.id buat undangan online elegan untuk pernikahan, syukuran, ulang tahun, dan event di Manado dan Sulawesi Utara.
 cityName: Manado
 province: Sulawesi Utara

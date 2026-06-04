@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Magetan untuk Pernikahan, Khitanan, dan Acara Keluarga
+title: Undangan Digital Magetan untuk Pernikahan, Khitanan, dan Acara Keluarga
 description: Butuh jasa undangan digital di Magetan? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, dan acara keluarga di seluruh wilayah Magetan.
 cityName: Magetan
 province: Jawa Timur

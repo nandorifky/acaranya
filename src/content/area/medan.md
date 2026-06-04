@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Medan untuk Pernikahan Adat dan Acara Keluarga
+title: Undangan Digital Medan untuk Pernikahan Adat dan Acara Keluarga
 description: Jasa undangan digital Medan untuk pernikahan adat Batak, Melayu, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Medan
 province: Sumatera Utara

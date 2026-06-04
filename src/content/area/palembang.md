@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Palembang untuk Pernikahan Adat dan Acara Keluarga
+title: Undangan Digital Palembang untuk Pernikahan Adat dan Acara Keluarga
 description: Jasa undangan digital Palembang untuk pernikahan adat Melayu, Songket, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Palembang
 province: Sumatera Selatan

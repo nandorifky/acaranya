@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Ponorogo untuk Pernikahan Adat dan Acara Seni
+title: Undangan Digital Ponorogo untuk Pernikahan Adat dan Acara Seni
 description: Jasa undangan digital Ponorogo untuk pernikahan adat Jawa, Reog, khitanan, dan acara seni budaya. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Ponorogo
 province: Jawa Timur

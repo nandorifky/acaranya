@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Tangerang untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Tangerang untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Tangerang untuk pernikahan, BSD, Alam Sutera, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Tangerang
 province: Banten

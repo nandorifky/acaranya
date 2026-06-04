@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Surabaya untuk Pernikahan dan Acara Bisnis
+title: Undangan Digital Surabaya untuk Pernikahan dan Acara Bisnis
 description: Jasa undangan digital Surabaya untuk pernikahan, grand opening, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Surabaya
 province: Jawa Timur

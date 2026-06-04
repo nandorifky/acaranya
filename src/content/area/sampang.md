@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Sampang untuk Pernikahan Adat Madura dan Acara Keluarga
+title: Undangan Digital Sampang untuk Pernikahan Adat Madura dan Acara Keluarga
 description: Jasa undangan digital Sampang untuk pernikahan adat Madura, Beksan, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Sampang
 province: Jawa Timur

@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Banyuwangi untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Banyuwangi untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Banyuwangi untuk pernikahan, khitanan, aqiqah, selamatan, dan acara keluarga. Link undangan sopan, personal, mudah dikirim lewat WhatsApp, lengkap dengan Maps dan RSVP.
 cityName: Banyuwangi
 province: Jawa Timur

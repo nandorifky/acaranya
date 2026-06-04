@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Tulungagung untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Tulungagung untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Tulungagung untuk pernikahan, marmer, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Tulungagung
 province: Jawa Timur

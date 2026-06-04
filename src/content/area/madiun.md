@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Madiun untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Madiun untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Madiun untuk pernikahan, khitanan, pengajian, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Madiun
 province: Jawa Timur

@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Yogyakarta untuk Pernikahan Adat Jawa
+title: Undangan Digital Yogyakarta untuk Pernikahan Adat Jawa
 description: Jasa undangan digital Yogyakarta untuk pernikahan adat Jawa, keraton, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Yogyakarta
 province: DI Yogyakarta

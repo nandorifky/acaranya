@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Semarang untuk Pernikahan dan Acara Keluarga
+title: Undangan Digital Semarang untuk Pernikahan dan Acara Keluarga
 description: Jasa undangan digital Semarang untuk pernikahan Jawa, Tionghoa, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Semarang
 province: Jawa Tengah

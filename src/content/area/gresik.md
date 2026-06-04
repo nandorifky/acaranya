@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Gresik untuk Pernikahan dan Acara Keagamaan
+title: Undangan Digital Gresik untuk Pernikahan dan Acara Keagamaan
 description: Jasa undangan digital Gresik untuk pernikahan, khitanan, pengajian, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Gresik
 province: Jawa Timur

@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Jember untuk Pernikahan, Khitanan, dan Acara Keluarga
+title: Undangan Digital Jember untuk Pernikahan, Khitanan, dan Acara Keluarga
 description: Butuh jasa undangan digital di Jember? Acaranya.id buat undangan online elegan untuk pernikahan, khitanan, syukuran, gathering, dan event di seluruh wilayah Jember.
 cityName: Jember
 province: Jawa Timur

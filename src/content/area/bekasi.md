@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Bekasi untuk Wedding dan Acara Keluarga Efisien
+title: Undangan Digital Bekasi untuk Wedding dan Acara Keluarga Efisien
 description: Buat undangan digital Bekasi yang praktis dan mudah dibagikan untuk pernikahan, syukuran, ulang tahun, gathering, atau acara keluarga di wilayah Bekasi Raya.
 cityName: Bekasi
 province: Jawa Barat

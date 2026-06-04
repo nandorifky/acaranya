@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Tuban untuk Pernikahan Adat Jawa
+title: Undangan Digital Tuban untuk Pernikahan Adat Jawa
 description: Jasa undangan digital Tuban untuk pernikahan adat Jawa, Bumi Wali, khitanan, dan acara keluarga. Link undangan rapi, nama tamu personal, Maps akurat, kirim lewat WhatsApp.
 cityName: Tuban
 province: Jawa Timur

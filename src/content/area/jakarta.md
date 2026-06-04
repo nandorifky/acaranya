@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Jakarta untuk Pernikahan, Event Kantor, dan Acara Lainnya
+title: Undangan Digital Jakarta untuk Pernikahan, Event Kantor, dan Acara Lainnya
 description: Butuh jasa undangan digital di Jakarta? Acaranya.id buat undangan online elegan untuk pernikahan, syukuran, gathering, grand opening, dan event di seluruh Jakarta.
 cityName: Jakarta
 province: DKI Jakarta

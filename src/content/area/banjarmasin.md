@@ -1,5 +1,5 @@
 ---
-title: Jasa Undangan Digital Banjarmasin untuk Acara Banjar yang Sopan dan Praktis
+title: Undangan Digital Banjarmasin untuk Acara Banjar yang Sopan dan Praktis
 description: Buat undangan digital Banjarmasin yang rapi, sopan, dan mudah dibagikan untuk pernikahan, syukuran, khitanan, gathering, atau acara bisnis lokal.
 cityName: Banjarmasin
 province: Kalimantan Selatan
