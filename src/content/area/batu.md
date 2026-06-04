@@ -52,9 +52,11 @@ Beberapa acara yang cocok menggunakan undangan digital dari Acaranya.id meliputi
 - Seminar, pelatihan, peresmian usaha, dan acara komunitas
 - Acara villa, gathering keluarga, dan acara kantor di kawasan wisata Batu
 
-Untuk melihat pilihan desain, Anda bisa membuka [katalog desain undangan digital](https://chatgpt.com/desain-undangan-digital/). Jika fokus acara Anda adalah pernikahan, tersedia juga halaman khusus [undangan pernikahan digital](https://chatgpt.com/desain-undangan-digital/pernikahan/). Untuk acara keluarga, Anda bisa cek [undangan khitanan digital](https://chatgpt.com/desain-undangan-digital/khitan/), [undangan aqiqah digital](https://chatgpt.com/desain-undangan-digital/aqiqah/), dan [undangan ulang tahun digital](https://chatgpt.com/desain-undangan-digital/birthday-party/).
+Untuk melihat pilihan desain, Anda bisa membuka [katalog desain undangan digital](https://chatgpt.com/desain-undangan-digital/) kami.
 
 ## Desain yang Pas untuk Karakter Batu
+
+{{< designs slugs="pernikahan/timeless, pernikahan/vintage-forest, pernikahan/chestnut-art" >}}
 
 Batu punya nuansa visual yang kuat. Ada kesan pegunungan, kebun, bunga, udara sejuk, dan suasana liburan keluarga. Karena itu, desain undangan digital Batu sebaiknya tidak hanya cantik, tetapi juga selaras dengan lokasi acara.
 
