@@ -103,7 +103,7 @@ Contohnya konsep adat Jawa modern, Minang modern, Sunda modern, atau Bali modern
 
 Kuncinya adalah menjaga makna tanpa membuat acara terasa berat. Elemen adat bisa hadir lewat motif, busana, backsound, prosesi inti, ornamen backdrop, atau narasi singkat dalam undangan.
 
-Untuk inspirasi visual, artikel [undangan pernikahan digital adat Jawa](https://chatgpt.com/artikel/undangan-pernikahan-digital-adat-jawa/) bisa menjadi referensi internal yang relevan.
+Untuk inspirasi visual, artikel [undangan pernikahan digital adat Jawa](/artikel/undangan-pernikahan-digital-adat-jawa/) bisa menjadi referensi internal yang relevan.
 
 Cara WO memaketkan konsep ini:
 
