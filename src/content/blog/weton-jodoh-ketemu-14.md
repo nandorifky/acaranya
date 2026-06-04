@@ -3,7 +3,7 @@ title: Weton Jodoh Ketemu 14 Apa Artinya?
 description: Weton Jodoh Ketemu 14 artinya apa? Pahami tafsir kategori Tibo Padu dalam primbon Jawa, potensi konflik, serta tips membangun hubungan tetap harmonis & sabar.
 publishedAt: 2026-04-08T17:49:00
 updatedAt: 2026-06-04T15:02:00
-author: indira
+author: nando-rifky
 category: Perencanaan
 tags:
   - weton
