@@ -1,8 +1,8 @@
 ---
 title: Sunflower
 category: pernikahan
-thumbnail: 'https://inv.acaranya.id/themes/sunflower/sunflower.jpg'
-previewUrl: 'https://inv.acaranya.id/preview/sunflower'
+thumbnail: https://inv.acaranya.id/themes/sunflower/sunflower.jpg
+previewUrl: https://inv.acaranya.id/preview/sunflower
 isFeatured: false
 isPremium: false
 tags:
@@ -11,6 +11,6 @@ tags:
   - krem
 package: mengundang
 sortOrder: 160
+catalogSortOrder: 8
 status: published
 ---
-
