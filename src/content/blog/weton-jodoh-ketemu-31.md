@@ -1,12 +1,9 @@
 ---
-title: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
-description: >-
-  Weton Jodoh Ketemu 31 artinya apa? Simak penjelasan kategori Tibo Sujanan
-  dalam primbon Jawa, makna peringatannya, serta panduan menjaga kesetiaan dalam
-  hubungan.
-publishedAt: '2026-04-08T17:49:52'
-updatedAt: '2026-05-25T04:30:00+07:00'
-author: indira
+title: Apa Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa?
+description: Weton jodoh ketemu 31 menurut metode primbon dibagi 8 masuk Tibo Sujanan. Simak arti, cara menghitung, contoh neptu, dan cara menyikapinya sebelum menikah.
+publishedAt: 2026-04-08T17:49:00
+updatedAt: 2026-06-04T15:13:00
+author: nando-rifky
 category: Perencanaan
 tags:
   - weton
@@ -20,91 +17,170 @@ imageCaption: ''
 status: published
 seoTitle: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
 customBreadcrumbLabel: Arti Weton Jodoh Ketemu 31 Menurut Primbon Jawa
-canonicalUrl: '/artikel/weton-jodoh-ketemu-31/'
+canonicalUrl: /artikel/weton-jodoh-ketemu-31/
 noindex: false
+ctaText: Cek Weton Online Anti Ribet Disini
+ctaUrl: /cek-weton/
 ---
-Weton, sebuah konsep perhitungan hari lahir dalam budaya Jawa, telah menjadi bagian tak terpisahkan dari tradisi masyarakat Jawa. Konsep ini digunakan untuk memahami karakter seseorang, menentukan hari baik, dan bahkan menentukan kecocokan dalam pernikahan. Di antara berbagai perhitungan weton, weton jodoh ketemu 31 menjadi salah satu yang menarik perhatian banyak orang.
 
-Perhitungan weton jodoh dilakukan dengan menjumlahkan nilai neptu dari hari dan pasaran lahir kedua calon pasangan. Setiap hari dan pasaran memiliki nilai neptu tertentu, yang kemudian dijumlahkan untuk mendapatkan total neptu pasangan. Total neptu ini kemudian digunakan untuk menafsirkan [kecocokan pasangan berdasarkan pedoman yang tertuang dalam primbon Jawa](/artikel/kecocokan-pasangan-hitungan-weton-jawa-untuk-pernikahan/).
+Weton jodoh ketemu 31 artinya pasangan memiliki total neptu 31 dari penjumlahan hari dan pasaran lahir kedua calon mempelai. Dalam salah satu metode primbon Jawa yang memakai pembagian 8, hasil 31 masuk kategori Tibo Sujanan.
 
-Memahami makna di balik weton jodoh ketemu 31 menjadi penting karena dapat memberikan gambaran tentang potensi hubungan yang akan dijalani oleh pasangan. Bagi pasangan yang sedang merencanakan pernikahan, mengetahui weton jodoh ketemu 31 dapat membantu mereka memahami dinamika hubungan yang mungkin terjadi dan bagaimana cara menyikapinya.
+Tibo Sujanan sering dikaitkan dengan ujian kepercayaan dalam hubungan. Tafsir ini biasanya dimaknai sebagai potensi rasa cemburu, salah paham, atau gangguan dari pihak ketiga. Namun, Acays tidak perlu langsung cemas. Hitungan weton adalah bagian dari tradisi dan bahan refleksi, bukan penentu mutlak masa depan rumah tangga.
 
-## Arti Weton Jodoh Ketemu 31
+Kalau kamu sedang mempersiapkan hari bahagia, hasil weton sebaiknya dipakai sebagai pengingat untuk membangun komunikasi yang jujur, saling percaya, dan komitmen yang kuat sejak awal.
 
-Weton jodoh ketemu 31 dalam primbon Jawa termasuk dalam kategori **“Tibo Sujanan”**. Tibo Sujanan memiliki arti perselingkuhan. Pasangan yang hasil perhitungannya sujanan ditafsirkan bakal mengalami masalah dengan perselingkuhan. Bisa pihak laki-laki atau pihak perempuannya yang berselingkuh.
+## Makna Weton Jodoh Ketemu 31
 
-Meskipun demikian, tidak semua pasangan dengan weton jodoh ketemu 31 akan mengalami perselingkuhan. Primbon Jawa hanya memberikan gambaran umum tentang potensi yang mungkin terjadi. Sebenarnya, keharmonisan dan kesetiaan dalam sebuah hubungan lebih bergantung pada komitmen dan usaha bersama dari kedua pasangan.
+Dalam metode hitungan weton jodoh dibagi 8, angka 31 menghasilkan sisa 7. Sisa 7 inilah yang disebut Sujanan.
 
-Dalam sudut pandang Islam, perselingkuhan adalah perbuatan yang dilarang. Allah SWT berfirman dalam surat Al-Isra ayat 32: “Dan janganlah kamu mendekati zina, sesungguhnya zina itu adalah perbuatan keji dan jalan yang buruk”. Perselingkuhan tidak hanya merusak hubungan pasangan, tetapi juga dapat merugikan pihak-pihak yang terlibat, termasuk keluarga dan anak-anak.
+Secara tradisional, Sujanan sering ditafsirkan sebagai tanda hubungan yang perlu lebih berhati-hati dalam urusan kesetiaan dan kepercayaan. Bukan berarti pasangan pasti mengalami perselingkuhan, tetapi hubungan ini dipercaya membutuhkan fondasi emosional yang lebih kuat.
 
-Jika Anda dan pasangan mendapatkan weton jodoh ketemu 31, jangan langsung merasa khawatir atau putus asa. Anggaplah ini sebagai peringatan untuk menjaga hubungan agar tetap harmonis dan penuh cinta. Komunikasi yang terbuka, saling percaya, dan komitmen yang kuat akan menjadi kunci untuk membangun hubungan yang langgeng dan bahagia.
+Makna yang lebih bijak dari weton jodoh ketemu 31 adalah ajakan untuk menjaga hubungan dengan lebih dewasa. Jika kamu dan pasangan sudah saling memilih, maka yang paling menentukan bukan hanya angka weton, melainkan bagaimana kalian membangun rasa aman, menghargai batasan, dan tetap setia saat hubungan diuji.
 
-## Cara Menghitung Weton Jodoh
+### Kenapa Ketemu 31 Disebut Sujanan
 
-Untuk mempermudah proses menghitung weton jodoh, Anda bisa menggunakan tools kalkulator cek weton online yang disediakan oleh Acaranya.id. Di sini, Anda hanya perlu memasukkan hari lahir dan pasaran lahir masing-masing pasangan, dan kalkulator akan menampilkan hasil perhitungan weton jodoh secara otomatis. Anda bisa mengakses kalkulator weton online di [/cek-weton/](/cek-weton/).
+Berikut cara membaca hasilnya dalam metode pembagian 8:
 
-| Hari | Nilai | Hari Pasaran Jawa | Nilai Pasaran |
+* Total neptu pasangan: 31
+* Angka pembagi: 8
+* Hasil pembagian: 31 dibagi 8 menyisakan 7
+* Sisa 7: Sujanan
+
+Dalam metode ini, sisa pembagian menjadi dasar tafsir. Jika hasilnya habis dibagi 8, maka sisanya dianggap 8 dan masuk kategori Pesthi.
+
+## Apakah Weton Jodoh Ketemu 31 Boleh Menikah
+
+Weton jodoh ketemu 31 bukan larangan mutlak untuk menikah. Dalam tradisi Jawa, hasil Sujanan lebih tepat dipahami sebagai peringatan agar pasangan lebih berhati-hati menjaga hubungan.
+
+Keputusan menikah tetap perlu melihat hal yang lebih nyata, seperti kesiapan mental, restu keluarga, komunikasi, nilai agama, kondisi finansial, dan kesediaan untuk saling bertumbuh. Rumah tangga yang indah tidak hanya dibangun dari hasil hitungan, tetapi dari komitmen yang dirawat setiap hari.
+
+Jika kamu dan pasangan mendapatkan hasil 31, jadikan ini sebagai momen untuk berdiskusi lebih dalam. Bicarakan cara kalian menyelesaikan konflik, batasan pertemanan, kebiasaan komunikasi, dan harapan setelah menikah. Hal sederhana seperti ini sering kali lebih membantu daripada sekadar merasa takut pada hasil weton.
+
+## Cara Menghitung Weton Jodoh Ketemu 31
+
+Untuk menghitung weton jodoh, kamu perlu mengetahui nilai neptu dari hari lahir dan pasaran Jawa masing-masing pasangan. Setelah itu, jumlahkan neptu kamu dan pasangan.
+
+Kalau ingin lebih praktis dan tanpa ribet, kamu bisa memakai [kalkulator cek weton online](/cek-weton/) dari Acaranya.id. Kamu tinggal memasukkan tanggal lahir, lalu sistem akan membantu menghitung weton dan kecocokan pasangan secara otomatis.
+
+### Tabel Neptu Hari dan Pasaran Jawa
+
+| Hari | Nilai Neptu | Pasaran Jawa | Nilai Neptu |
 | --- | --- | --- | --- |
 | Minggu | 5 | Legi | 5 |
 | Senin | 4 | Pahing | 9 |
 | Selasa | 3 | Pon | 7 |
 | Rabu | 7 | Wage | 4 |
 | Kamis | 8 | Kliwon | 8 |
-| Jumat | 6 |  – |  – |
-| Sabtu | 9 |  – |  – |
+| Jumat | 6 |  |  |
+| Sabtu | 9 |  |  |
 
-Misalnya, pasangan yang terdiri dari perempuan dengan weton Minggu Wage dan laki-laki dengan weton Selasa Kliwon. Nilai neptu Minggu adalah 5, nilai neptu Wage adalah 4, nilai neptu Selasa adalah 3, dan nilai neptu Kliwon adalah 8. Total neptu pasangan ini adalah 5 + 4 + 3 + 8 = 20. Jadi, pasangan ini mendapatkan [weton jodoh ketemu 20](/artikel/weton-jodoh-ketemu-20/).
+### Rumus Menghitung Weton Jodoh
 
-Contoh lainnya, pasangan yang terdiri dari perempuan dengan weton Sabtu Legi dan laki-laki dengan weton Jumat Pahing. Nilai neptu Sabtu adalah 9, nilai neptu Legi adalah 5, nilai neptu Jumat adalah 6, dan nilai neptu Pahing adalah 9. Total neptu pasangan ini adalah 9 + 5 + 6 + 9 = 29. Jadi, pasangan ini mendapatkan [weton jodoh ketemu 29](/artikel/weton-jodoh-ketemu-29/).
+* Neptu kamu: nilai hari lahir + nilai pasaran lahir
+* Neptu pasangan: nilai hari lahir pasangan + nilai pasaran lahir pasangan
+* Total weton jodoh: neptu kamu + neptu pasangan
 
-Untuk mendapatkan weton jodoh ketemu 31, total neptu pasangan haruslah 31. Untuk mencapai jumlah neptu tersebut, pasangan harus memiliki hari dan pasaran lahir yang nilainya sesuai. Misalnya, perempuan lahir pada hari Selasa dengan nilai neptu 3 dan pasaran Wage dengan nilai neptu 4.
+Jika totalnya 31, maka pasangan tersebut disebut weton jodoh ketemu 31.
 
-Sementara, laki-laki lahir pada hari Minggu dengan nilai neptu 5 dan pasaran Pahing dengan nilai neptu 9. Total neptu pasangan ini adalah 3 + 4 + 5 + 9 = 21. Jadi, pasangan ini mendapatkan weton [jodoh ketemu 21](/artikel/weton-jodoh-ketemu-21/).
+### Contoh Perhitungan Weton Jodoh Ketemu 31
 
-## Makna Hasil Hitung Weton Jodoh Menurut Primbon Jawa
+Misalnya kamu lahir pada Rabu Kliwon dan pasangan lahir pada Kamis Kliwon.
 
-Berikut ini merupakan makna hasil hitung dan pembagian neptu dalam primbon jodoh dari kitab primbon “Betaljemur Adammakna” yang disusun oleh “Kangjeng Pangeran Harya Tjakraningrat”:
+Rabu memiliki nilai 7 dan Kliwon memiliki nilai 8, sehingga neptu kamu adalah 15. Kamis memiliki nilai 8 dan Kliwon memiliki nilai 8, sehingga neptu pasangan adalah 16. Jika dijumlahkan, hasilnya 15 + 16 = 31.
 
-### Jumlah Neptu Pasangan Dibagi 4
+Dengan metode pembagian 8, angka 31 menyisakan 7. Hasil ini masuk kategori Sujanan.
 
-*   Sisa 1: **Gonto** – Hubungan pasangan diramalkan akan mengalami banyak pertengkaran dan perselisihan. Mereka cenderung egois dan sulit untuk saling memahami.
-*   Sisa 2: **Gembli** – Pasangan ini diramalkan akan memiliki hubungan yang penuh dengan kejutan dan ketidakpastian. Mereka seringkali bersikap keras kepala dan sulit untuk berkompromi.
-*   Sisa 3: **Sri** – Hubungan pasangan ini diramalkan akan berjalan dengan baik dan penuh dengan kebahagiaan. Mereka saling mencintai dan mendukung satu sama lain.
-*   Sisa 4: **Punggul** – Hubungan pasangan ini diramalkan akan dipenuhi dengan cobaan dan tantangan. Mereka harus mampu menghadapi masalah bersama-sama agar hubungan tetap langgeng.
+## Kombinasi Neptu yang Bisa Menghasilkan 31
 
-### Jumlah Neptu Pasangan Dibagi 5
+Tidak semua weton bisa menghasilkan total 31. Total ini biasanya muncul dari kombinasi neptu pasangan berikut.
 
-*   Sisa 1: **Sri** – Hubungan pasangan ini diramalkan akan berjalan dengan baik dan penuh dengan kebahagiaan. Mereka saling mencintai dan mendukung satu sama lain.
-*   Sisa 2: **Dana** – Pasangan ini diramalkan akan memiliki hubungan yang penuh dengan kekayaan dan kemakmuran. Mereka akan mendapatkan banyak rezeki dan hidup berkecukupan.
-*   Sisa 3: **Lara** – Hubungan pasangan ini diramalkan akan dipenuhi dengan penyakit dan kesengsaraan. Mereka harus mampu melewati masa-masa sulit bersama-sama.
-*   Sisa 4: **Pati** – Hubungan pasangan ini diramalkan akan berakhir dengan kematian.
-*   Sisa 5: **Lungguh** – Hubungan pasangan ini diramalkan akan memiliki hubungan yang stabil dan harmonis. Mereka akan hidup damai dan tenteram.
+| Neptu Pertama | Neptu Pasangan | Contoh Kombinasi Weton |
+| --- | --- | --- |
+| 13 | 18 | Senin Pahing dan Sabtu Pahing |
+| 14 | 17 | Minggu Pahing dan Sabtu Kliwon |
+| 15 | 16 | Rabu Kliwon dan Kamis Kliwon |
 
-### Jumlah Neptu Pasangan Dibagi 7
+Kombinasi di atas hanya contoh. Urutan pria dan wanita bisa berbeda, karena yang dihitung adalah total neptu kedua pasangan.
 
-*   Sisa 1: **Wasesa Segara** – Hubungan pasangan ini diramalkan akan mendapatkan rezeki yang melimpah dan hidup berkecukupan.
-*   Sisa 2: **Tunggak Semi** – Hubungan pasangan ini diramalkan akan memiliki kehidupan yang sederhana dan penuh dengan ketenangan.
-*   Sisa 3: **Satriya Wibawa** – Hubungan pasangan ini diramalkan akan memiliki kedudukan yang tinggi dan disegani oleh orang lain.
-*   Sisa 4: **Sumur Sinaba** – Hubungan pasangan ini diramalkan akan memiliki hubungan yang penuh dengan kejutan dan ketidakpastian.
-*   Sisa 5: **Satriya Wirang** – Hubungan pasangan ini diramalkan akan memiliki hubungan yang penuh dengan kekecewaan dan kesedihan.
-*   Sisa 6: **Bumi Kepetak** – Hubungan pasangan ini diramalkan akan mendapatkan rezeki yang melimpah dari hasil usaha mereka sendiri.
-*   Sisa 7: **Lebu Ketiup Angin** – Hubungan pasangan ini diramalkan akan mengalami banyak kesulitan dan penderitaan.
+## Makna Sisa Hitungan Weton Jodoh Dibagi 8
 
-### Jumlah Neptu Pasangan Dibagi 8
+Metode pembagian 8 sering dipakai untuk membaca kecocokan pasangan dalam primbon Jawa. Berikut ringkasan kategorinya.
 
-*   Sisa 1: **Pegat** – Hubungan pasangan ini diramalkan akan berakhir dengan perpisahan.
-*   Sisa 2: **Ratu** – Hubungan pasangan ini diramalkan akan memiliki hubungan yang penuh dengan kebahagiaan dan keharmonisan.
-*   Sisa 3: **Jodoh** – Hubungan pasangan ini diramalkan akan memiliki hubungan yang penuh dengan cinta dan kesetiaan.
-*   Sisa 4: **Topo** – Hubungan pasangan ini diramalkan akan menghadapi banyak cobaan dan tantangan.
-*   Sisa 5: **Tinari** – Hubungan pasangan ini diramalkan akan memiliki hubungan yang bahagia dan penuh dengan rezeki.
-*   Sisa 6: **Padu** – Hubungan pasangan ini diramalkan akan sering mengalami pertengkaran dan perselisihan.
-*   Sisa 7: **Sujanan** – Hubungan pasangan ini diramalkan akan menghadapi masalah dengan perselingkuhan.
-*   Sisa 8: **Pesthi** – Hubungan pasangan ini diramalkan akan memiliki hubungan yang harmonis dan penuh dengan kesetiaan.
+| Sisa | Sebutan | Makna Singkat |
+| --- | --- | --- |
+| 1 | Pegat | Hubungan dipercaya memiliki ujian besar dan perlu komitmen kuat |
+| 2 | Ratu | Pasangan dipercaya serasi, dihormati, dan harmonis |
+| 3 | Jodoh | Pasangan dipercaya cocok dan saling menerima |
+| 4 | Topo | Hubungan dipercaya menghadapi cobaan di awal, lalu bisa membaik |
+| 5 | Tinari | Pasangan dipercaya mendapat kemudahan rezeki dan kebahagiaan |
+| 6 | Padu | Hubungan dipercaya rawan cekcok kecil |
+| 7 | Sujanan | Hubungan dipercaya diuji dalam kepercayaan dan kesetiaan |
+| 8 | Pesthi | Pasangan dipercaya tenteram, rukun, dan langgeng |
+
+Karena 31 dibagi 8 menyisakan 7, weton jodoh ketemu 31 masuk ke kategori Sujanan dalam metode ini.
+
+## Cara Menyikapi Weton Jodoh Ketemu 31
+
+Hasil Sujanan sebaiknya tidak membuat kamu langsung menyerah. Justru, ini bisa menjadi pengingat lembut agar hubungan dijaga dengan lebih sadar.
+
+### Bangun Komunikasi Sejak Awal
+
+Bicarakan hal penting sebelum menikah, mulai dari cara menyelesaikan konflik, rencana keuangan, hubungan dengan keluarga besar, sampai kebiasaan komunikasi sehari-hari. Komunikasi yang sehat membuat pasangan lebih mudah memahami perasaan satu sama lain.
+
+### Sepakati Batasan Dalam Hubungan
+
+Karena Sujanan sering dikaitkan dengan ujian kepercayaan, kamu dan pasangan perlu menyepakati batasan yang membuat hubungan tetap nyaman. Misalnya cara menjaga pertemanan dengan lawan jenis, keterbukaan soal aktivitas, dan sikap saat ada masalah.
+
+Batasan bukan tanda tidak percaya. Dalam hubungan yang dewasa, batasan justru membantu pasangan merasa dihargai dan aman.
+
+### Rawat Kepercayaan Lewat Kebiasaan Kecil
+
+Kepercayaan tidak selalu dibangun dari janji besar. Kadang, ia tumbuh dari hal sederhana seperti memberi kabar, menepati ucapan, meminta maaf saat salah, dan tidak menyembunyikan hal yang bisa melukai pasangan.
+
+Kalau kebiasaan kecil ini dilakukan konsisten, hubungan akan terasa lebih hangat dan kuat.
+
+### Jangan Menjadikan Weton Sebagai Alasan Menyakiti
+
+Weton tidak boleh dijadikan alasan untuk curiga berlebihan, mengontrol pasangan, atau membenarkan perilaku yang menyakiti. Jika ada masalah dalam hubungan, selesaikan dengan dialog yang jernih dan saling menghormati.
+
+Hubungan yang sehat tetap membutuhkan dua orang yang mau belajar, bukan hanya dua weton yang dianggap cocok.
+
+## Kapan Perlu Mempertimbangkan Hasil Weton Dengan Lebih Serius
+
+Bagi sebagian keluarga Jawa, weton masih menjadi bagian penting dalam persiapan pernikahan. Jika keluarga kamu atau pasangan sangat mempertimbangkan weton, bicarakan hasilnya dengan tenang.
+
+Kamu bisa mengajak orang tua atau sesepuh keluarga berdiskusi secara terbuka. Tujuannya bukan mencari siapa yang benar, tetapi menemukan jalan tengah agar hari bahagia tetap berjalan dengan restu dan hati yang lapang.
+
+Jika ada kekhawatiran dari keluarga, kamu dan pasangan bisa menunjukkan kesiapan lewat rencana yang lebih nyata. Mulai dari kesiapan finansial, rencana tempat tinggal, pembagian tanggung jawab, sampai cara menjaga hubungan setelah menikah.
+
+## Weton Hanya Salah Satu Pertimbangan Pernikahan
+
+Dalam merencanakan pernikahan, weton bisa menjadi bagian dari tradisi yang dihormati. Namun, jangan lupa bahwa pernikahan juga membutuhkan kesiapan yang lebih luas.
+
+Beberapa hal yang sebaiknya ikut dipertimbangkan antara lain:
+
+* Kesiapan mental dan emosional
+* Komunikasi yang terbuka
+* Restu dan hubungan dengan keluarga
+* Kesepakatan tentang keuangan
+* Nilai agama dan prinsip hidup
+* Cara menyelesaikan konflik
+* Rencana hidup setelah menikah
+
+Jika semua hal ini dibicarakan sejak awal, kamu dan pasangan akan lebih siap melangkah menuju momen istimewa dengan hati yang tenang.
+
+## Persiapan Setelah Memahami Hasil Weton
+
+Setelah memahami arti weton jodoh ketemu 31, kamu bisa mulai menata persiapan pernikahan dengan lebih praktis. Mulailah dari hal yang paling dekat, seperti menentukan tanggal, menyusun daftar tamu, memilih konsep acara, dan menyiapkan undangan.
+
+Untuk urusan undangan impian, Acaranya.id siap membantu kamu membuat undangan digital yang elegan, praktis, dan siap dibagikan. Kamu bisa melihat berbagai [desain undangan digital](/desain-undangan-digital/) yang cantik untuk menyesuaikan konsep hari bahagiamu.
+
+Undangan digital juga membantu kamu menghemat waktu karena informasi acara, peta lokasi, RSVP, galeri foto, hingga detail penting lainnya bisa tersaji dalam satu link yang mudah dibagikan.
 
 ## Kesimpulan
 
-Weton jodoh ketemu 31 merupakan salah satu hasil perhitungan weton jodoh dalam primbon Jawa. Meskipun diramalkan akan menghadapi masalah dengan perselingkuhan, hal tersebut tidak lantas menjadi penentu akhir hubungan. Komitmen, komunikasi, dan usaha bersama dari kedua pasangan merupakan kunci untuk membangun hubungan yang langgeng dan bahagia.
+Weton jodoh ketemu 31 adalah hasil penjumlahan neptu pasangan yang totalnya mencapai 31. Dalam metode primbon Jawa dengan pembagian 8, angka ini masuk kategori Sujanan karena menyisakan angka 7.
 
-Penting untuk diingat bahwa perhitungan weton hanyalah sebuah pedoman, bukan sebuah patokan yang harus diikuti secara mutlak. Tradisi perhitungan weton ini sudah ada sejak jaman dahulu yang mana turun temurun adat jawa. Namun, keputusan untuk bersama atau tidak tetap berada di tangan Anda dan pasangan.
+Sujanan sering dimaknai sebagai ujian dalam kepercayaan dan kesetiaan. Namun, tafsir ini tidak perlu dianggap sebagai kepastian buruk. Jadikan hasil weton sebagai pengingat untuk menjaga komunikasi, membangun batasan yang sehat, dan merawat komitmen dengan sungguh-sungguh.
 
-Jika Anda ingin mengetahui lebih lanjut tentang weton dan makna di baliknya, Anda bisa mencari informasi tambahan dari berbagai sumber, seperti buku-buku primbon Jawa, situs web, atau bertanya kepada para ahli yang memahami tradisi Jawa. Dengan memahami makna dan arti weton, Anda dapat memperkuat hubungan Anda dan membangun masa depan yang lebih baik bersama pasangan.
+Pada akhirnya, hubungan yang harmonis tidak hanya ditentukan oleh hitungan weton. Hari bahagia akan terasa lebih indah ketika kamu dan pasangan sama-sama siap menjaga cinta, keluarga, dan komitmen yang sudah dipilih bersama.
