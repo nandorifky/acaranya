@@ -2,7 +2,6 @@
 import Container from "../base/Container.astro";
 import Icon from "../ui/Icon.astro";
 import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
-import { Image } from "astro:assets";
 ---
 
 <section
@@ -144,11 +143,18 @@ import { Image } from "astro:assets";
           </div>
 
           <!-- Smartphone Inner Screen -->
-          <!-- PERUBAHAN DI SINI: Mengganti bg-cream-warm dengan background image dan overlay -->
           <div
-            class="relative w-full h-full rounded-[36px] overflow-hidden flex flex-col justify-between p-6 border border-brand-900/10 select-none bg-cover bg-center bg-no-repeat"
-            style="background-image: url('https://images.unsplash.com/photo-1583939003579-730e3918a45a?q=80&w=600');"
+            class="relative w-full h-full rounded-[36px] overflow-hidden flex flex-col justify-between p-6 border border-brand-900/10 select-none"
           >
+            <img
+              src="/images/undangan-pernikahan-digital.webp"
+              alt="Contoh tampilan undangan digital pernikahan"
+              width="768"
+              height="1152"
+              class="absolute inset-0 w-full h-full object-cover"
+              decoding="async"
+              fetchpriority="high"
+            />
             <!-- Overlay Putih Transparan (Agar teks tetap terbaca di atas gambar bunga) -->
             <div
               class="absolute inset-0 bg-white/70 backdrop-blur-[2px] pointer-events-none"

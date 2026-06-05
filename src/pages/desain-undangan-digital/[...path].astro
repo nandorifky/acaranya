@@ -116,6 +116,7 @@ const title = isCategory
 
 const description = isCategory ? category.data.metaDescription : "Pilih desain undangan digital online untuk pernikahan, ulang tahun, wisuda, aqiqah, corporate, dan acara lainnya. Template website elegan, praktis, siap dibagikan.";
 const canonicalUrl = `${siteConfig.url}${page.url.current}`;
+const robots = isFirstPage ? 'index,follow' : 'noindex,follow';
 const ogImage = isCategory
   ? (category.data.featuredImage || category.data.whyChooseUs?.image || siteConfig.branding.ogImage)
   : '/images/desain-undangan-digital.webp';
@@ -241,6 +242,7 @@ if (!isCategory && isFirstPage) {
   ogImage={ogImage}
   ogImageAlt={ogImageAlt}
   canonical={canonicalUrl}
+  robots={robots}
   breadcrumbs={breadcrumbs}
   jsonLd={jsonLd}
 >

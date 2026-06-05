@@ -56,7 +56,7 @@ Banyak orang langsung memilih desain yang paling mencolok tanpa mempertimbangkan
 3.  **Berapa banyak informasi yang perlu disampaikan?** Jika acara punya rundown panjang, pilih desain yang memberi ruang cukup untuk semua informasi.
 4.  **Apakah tamu banyak dari luar kota?** Jika ya, pastikan peta lokasi dan catatan akses mudah ditemukan di undangan.
 
-Untuk referensi teks undangan yang cocok untuk WhatsApp, cek [kata-kata undangan pernikahan lewat WA](/tools/kata-kata-undangan-pernikahan-lewat-wa/). Jika ingin mencari hari yang pas untuk acara, gunakan tools [cari hari pernikahan](/tools/cari-hari-pernikahan/) atau [cek weton](/tools/cek-weton/).
+Untuk referensi teks undangan yang cocok untuk WhatsApp, cek [kata-kata undangan pernikahan lewat WA](/kata-kata-undangan-pernikahan-lewat-wa/). Jika ingin mencari hari yang pas untuk acara, gunakan tools [cari hari pernikahan](/cari-hari-pernikahan/) atau [cek weton](/cek-weton/).
 
 ### Kisaran Harga dan Proses Pemesanan
 

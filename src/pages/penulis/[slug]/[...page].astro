@@ -52,9 +52,10 @@ const getSocialUrl = (key: typeof socials[number]['key'], value: string) => {
 
 const metaTitle = author.data.metaTitle || `${author.data.name} — Penulis di Acaranya.id`;
 const metaDesc = author.data.metaDescription || author.data.bio;
+const canonicalUrl = `https://acaranya.id/penulis/${author.id}/${page.currentPage > 1 ? `${page.currentPage}/` : ''}`;
 ---
 
-<MarketingLayout title={metaTitle} description={metaDesc}>
+<MarketingLayout title={metaTitle} description={metaDesc} canonical={canonicalUrl} robots={robots}>
   <!-- Author Profile Section -->
   <section class="pt-10 pb-8 lg:pt-16 lg:pb-12 bg-cream border-b border-border-soft/60">
     <Container>
@@ -63,7 +64,7 @@ const metaDesc = author.data.metaDescription || author.data.bio;
           <!-- Avatar -->
           <div class="w-24 h-24 sm:w-32 sm:h-32 rounded-full overflow-hidden border-2 border-champagne shrink-0 bg-brand-50 flex items-center justify-center shadow-sm">
             {author.data.avatar ? (
-              <img src={author.data.avatar} alt={author.data.name} width="128" height="128" class="w-full h-full object-cover" loading="lazy" />
+              <img src={author.data.avatar} alt={author.data.name} width="128" height="128" class="w-full h-full object-cover" loading="lazy" decoding="async" />
             ) : (
               <Icon name="user" size={48} class="text-brand-300" />
             )}
@@ -132,6 +133,7 @@ const metaDesc = author.data.metaDescription || author.data.bio;
                         height="400"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                         loading="lazy"
+                        decoding="async"
                       />
                     </div>
                   ) : (

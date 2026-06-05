@@ -40,6 +40,11 @@ const isPaginationUrl = (url) => {
     || /^\/artikel\/tag\/[^/]+\/[2-9]\d*\/$/.test(pathname);
 };
 
+const isNoindexUrl = (url) => {
+  const pathname = new URL(url).pathname;
+  return pathname === '/legal/' || pathname.startsWith('/legal/');
+};
+
 // https://astro.build/config
 // Triggering fresh build
 export default defineConfig({
@@ -103,6 +108,7 @@ export default defineConfig({
       },
       serialize(item) {
         if (isPaginationUrl(item.url)) return undefined;
+        if (isNoindexUrl(item.url)) return undefined;
         if (isRecentNewsUrl(item.url)) return undefined;
 
         item.changefreq ??= ChangeFreqEnum.WEEKLY;

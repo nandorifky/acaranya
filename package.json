@@ -9,16 +9,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro",
-    "check-links": "node scripts/check-links.cjs",
-    "check-links:internal": "node scripts/check-links.cjs --internal-only",
-    "check-homepage-links": "node scripts/check-homepage-links.cjs",
-    "check-obl": "node scripts/check-outbound-links.cjs",
-    "audit-obl": "node scripts/audit-obl.mjs",
-    "audit-obl:fast": "node scripts/audit-obl.mjs --noverify",
-    "audit-obl:csv": "node scripts/audit-obl.mjs --csv-only",
-    "check-images": "node scripts/check-images.cjs",
-    "check-seo": "node scripts/check-seo.cjs"
+    "astro": "astro"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^13.5.4",
