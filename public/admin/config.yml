@@ -12,6 +12,11 @@ backend:
 media_folder: "public/images"
 public_folder: "/images"
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
 collections:
   - name: "design-categories"
     label: "Kategori Desain"
@@ -95,6 +100,7 @@ collections:
       fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Artikel", name: "title", widget: "string" }
+      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Gunakan huruf kecil, angka, dan tanda - saja. Contoh: rundown-pernikahan-akad-resepsi"] }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
       - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime" }
       - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
@@ -117,6 +123,14 @@ collections:
       - { label: "Noindex Tag? (Sembunyikan dari Google)", name: "noindex", widget: "boolean", default: false }
       - { label: "Inline CTA Tombol Teks (Optional)", name: "ctaText", widget: "string", required: false, description: "Teks rekomendasi di atas artikel (contoh: Lihat Desain Undangan Pernikahan Digital Cantik)" }
       - { label: "Inline CTA Tombol Link (Optional)", name: "ctaUrl", widget: "string", required: false, description: "Link tujuan dofollow (contoh: /desain-undangan-digital/pernikahan/)" }
+      - label: "FAQ Artikel (Opsional)"
+        name: "faqItems"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Pertanyaan", name: "question", widget: "string" }
+          - { label: "Jawaban", name: "answer", widget: "text" }
+      - { label: "Custom JSON-LD (Opsional)", name: "customJsonLd", widget: "text", required: false, description: "Isi JSON object atau array valid, tanpa tag script." }
       - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
 
 
@@ -181,6 +195,7 @@ collections:
       fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Halaman Tool", name: "title", widget: "string" }
+      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Gunakan huruf kecil, angka, dan tanda - saja. Contoh: cek-weton-online"] }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
       - { label: "Icon Name (Lucide)", name: "icon", widget: "string", required: false, description: "Contoh: heart, clock, calendar, sparkles, dsb." }
       - label: "Pilih Komponen Tool"
@@ -204,6 +219,14 @@ collections:
       - { label: "Skema: Mata Uang (IDR dll)", name: "schemaOffersPriceCurrency", widget: "string", default: "IDR", required: false }
       - { label: "Skema: Rating Bintang (misal 4.9)", name: "schemaRatingValue", widget: "number", value_type: "float", required: false }
       - { label: "Skema: Jumlah Ulasan/Rating", name: "schemaRatingCount", widget: "number", value_type: "int", required: false }
+      - label: "FAQ Tool (Opsional)"
+        name: "faqItems"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Pertanyaan", name: "question", widget: "string" }
+          - { label: "Jawaban", name: "answer", widget: "text" }
+      - { label: "Custom JSON-LD (Opsional)", name: "customJsonLd", widget: "text", required: false, description: "Isi JSON object atau array valid, tanpa tag script." }
       - { label: "Isi Konten Artikel Panduan (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
 
   - name: "portfolio"
@@ -251,6 +274,7 @@ collections:
     public_folder: "/images/area"
     fields:
       - { label: "Judul Halaman (H1)", name: "title", widget: "string" }
+      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Gunakan huruf kecil, angka, dan tanda - saja. Contoh: undangan-digital-surabaya"] }
       - { label: "Meta Description", name: "description", widget: "text" }
       - { label: "Nama Kota", name: "cityName", widget: "string" }
       - { label: "Provinsi", name: "province", widget: "string", required: false }
@@ -262,4 +286,12 @@ collections:
       - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
       - { label: "Noindex Tag?", name: "noindex", widget: "boolean", default: false }
       - { label: "Custom WhatsApp Text", name: "whatsappText", widget: "string", required: false }
+      - label: "FAQ Area (Opsional)"
+        name: "faqItems"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Pertanyaan", name: "question", widget: "string" }
+          - { label: "Jawaban", name: "answer", widget: "text" }
+      - { label: "Custom JSON-LD (Opsional)", name: "customJsonLd", widget: "text", required: false, description: "Isi JSON object atau array valid, tanpa tag script." }
       - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }

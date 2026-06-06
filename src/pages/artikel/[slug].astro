@@ -22,10 +22,21 @@ export async function getStaticPaths() {
     const nextPost = index > 0 ? published[index - 1] : null;
 
     return {
-      params: { slug: post.id },
+      params: { slug: post.data.customSlug || post.id },
       props: { post, prevPost, nextPost },
     };
   });
+}
+
+function parseCustomJsonLd(value?: string) {
+  if (!value?.trim()) return [];
+  try {
+    const parsed = JSON.parse(value);
+    return Array.isArray(parsed) ? parsed : [parsed];
+  } catch {
+    console.warn("Invalid customJsonLd skipped for blog entry.");
+    return [];
+  }
 }
 
 const { post, prevPost, nextPost } = Astro.props;
@@ -68,7 +79,7 @@ const modifiedDisplay = hasSubstantialUpdate && post.data.updatedAt
   : null;
 
 const canonicalUrl = new URL(
-  post.data.canonicalUrl || `/artikel/${post.id}/`,
+  post.data.canonicalUrl || `/artikel/${post.data.customSlug || post.id}/`,
   siteConfig.url,
 ).toString();
 const pageTitle = post.data.seoTitle || post.data.title;
@@ -87,6 +98,21 @@ const shareText = encodeURIComponent(
 // JSON-LD Article schema
 const isNews = post.data.tags?.includes("news");
 const wordCount = post.body?.trim().split(/\s+/).filter(Boolean).length ?? 0;
+const faqJsonLd = post.data.faqItems.length
+  ? [{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: post.data.faqItems.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: item.answer,
+        },
+      })),
+    }]
+  : [];
+
 const jsonLd = [
   {
     "@context": "https://schema.org",
@@ -116,6 +142,8 @@ const jsonLd = [
     inLanguage: "id-ID",
     wordCount,
   },
+  ...faqJsonLd,
+  ...parseCustomJsonLd(post.data.customJsonLd),
 ];
 ---
 
@@ -290,6 +318,26 @@ const jsonLd = [
           <div class="prose max-w-none">
             <Content />
           </div>
+
+          {
+            post.data.faqItems.length > 0 && (
+              <section class="mt-10 border-t border-border-soft/60 pt-8">
+                <h2 class="font-serif text-2xl text-brand-950 mb-5">Pertanyaan Umum</h2>
+                <div class="space-y-3">
+                  {post.data.faqItems.map((item) => (
+                    <details class="rounded-lg border border-border-soft bg-surface p-4">
+                      <summary class="cursor-pointer font-semibold text-brand-950">
+                        {item.question}
+                      </summary>
+                      <p class="mt-3 text-sm leading-relaxed text-text-muted">
+                        {item.answer}
+                      </p>
+                    </details>
+                  ))}
+                </div>
+              </section>
+            )
+          }
 
           <!-- Tags -->
           {

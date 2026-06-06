@@ -1,6 +1,11 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
+const faqItemSchema = z.object({
+  question: z.string(),
+  answer: z.string(),
+});
+
 const designs = defineCollection({
   loader: glob({ pattern: '**/*.{md,json,mdoc}', base: './src/content/designs' }),
   schema: z.object({
@@ -57,6 +62,7 @@ const blog = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx,mdoc}', base: './src/content/blog' }),
   schema: z.object({
     title: z.string(),
+    customSlug: z.string().optional(),
     description: z.string(),
     publishedAt: z.coerce.date(),
     updatedAt: z.coerce.date().optional(),
@@ -76,6 +82,8 @@ const blog = defineCollection({
     // Inline CTA Fields
     ctaText: z.string().optional(),
     ctaUrl: z.string().optional(),
+    faqItems: z.array(faqItemSchema).default([]),
+    customJsonLd: z.string().optional(),
   }),
 });
 
@@ -124,6 +132,7 @@ const tools = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx,mdoc}', base: './src/content/tools' }),
   schema: z.object({
     title: z.string(),
+    customSlug: z.string().optional(),
     description: z.string(),
     toolComponent: z.string(),
     icon: z.string().optional(),
@@ -140,6 +149,8 @@ const tools = defineCollection({
     schemaOffersPriceCurrency: z.string().default('IDR'),
     schemaRatingValue: z.number().optional(),
     schemaRatingCount: z.number().optional(),
+    faqItems: z.array(faqItemSchema).default([]),
+    customJsonLd: z.string().optional(),
   }),
 });
 
@@ -169,6 +180,7 @@ const area = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx,mdoc}', base: './src/content/area' }),
   schema: z.object({
     title: z.string(),
+    customSlug: z.string().optional(),
     description: z.string(),
     cityName: z.string(),
     province: z.string().optional(),
@@ -181,6 +193,8 @@ const area = defineCollection({
     seoTitle: z.string().optional(),
     noindex: z.boolean().default(false),
     whatsappText: z.string().optional(),
+    faqItems: z.array(faqItemSchema).default([]),
+    customJsonLd: z.string().optional(),
   }),
 });
 

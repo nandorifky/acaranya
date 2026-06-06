@@ -10,9 +10,20 @@ export async function getStaticPaths() {
   const tools = await getCollection("tools");
   const published = tools.filter((t) => t.data.status === "published");
   return published.map((tool) => ({
-    params: { toolSlug: tool.id },
+    params: { toolSlug: tool.data.customSlug || tool.id },
     props: { tool },
   }));
+}
+
+function parseCustomJsonLd(value?: string) {
+  if (!value?.trim()) return [];
+  try {
+    const parsed = JSON.parse(value);
+    return Array.isArray(parsed) ? parsed : [parsed];
+  } catch {
+    console.warn("Invalid customJsonLd skipped for tools entry.");
+    return [];
+  }
 }
 
 const { tool } = Astro.props;
@@ -20,7 +31,8 @@ const { Content } = await render(tool);
 
 const ToolComponent =
   toolsMap[tool.data.toolComponent as keyof typeof toolsMap];
-const canonicalUrl = tool.data.canonicalUrl || `${siteConfig.url}/${tool.id}/`;
+const publicSlug = tool.data.customSlug || tool.id;
+const canonicalUrl = tool.data.canonicalUrl || `${siteConfig.url}/${publicSlug}/`;
 const robots = tool.data.noindex ? "noindex,nofollow" : "index,follow";
 const pageTitle = tool.data.seoTitle || tool.data.title;
 
@@ -54,7 +66,22 @@ const softwareSchema: any = {
   }),
 };
 
-const jsonLd = [softwareSchema];
+const faqJsonLd = tool.data.faqItems.length
+  ? [{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: tool.data.faqItems.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: item.answer,
+        },
+      })),
+    }]
+  : [];
+
+const jsonLd = [softwareSchema, ...faqJsonLd, ...parseCustomJsonLd(tool.data.customJsonLd)];
 ---
 
 <MarketingLayout
@@ -111,6 +138,25 @@ const jsonLd = [softwareSchema];
       <div class="prose prose-brand max-w-none">
         <Content />
       </div>
+      {
+        tool.data.faqItems.length > 0 && (
+          <section class="mt-10 border-t border-brand-200/50 pt-8">
+            <h2 class="font-serif text-2xl text-brand-950 mb-5">Pertanyaan Umum</h2>
+            <div class="space-y-3">
+              {tool.data.faqItems.map((item) => (
+                <details class="rounded-lg border border-brand-200/50 bg-surface p-4">
+                  <summary class="cursor-pointer font-semibold text-brand-950">
+                    {item.question}
+                  </summary>
+                  <p class="mt-3 text-sm leading-relaxed text-text-muted">
+                    {item.answer}
+                  </p>
+                </details>
+              ))}
+            </div>
+          </section>
+        )
+      }
     </Container>
   </Section>
 </MarketingLayout>
