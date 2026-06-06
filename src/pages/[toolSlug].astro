@@ -28,7 +28,13 @@ const pageTitle = tool.data.seoTitle || tool.data.title;
 const softwareSchema: any = {
   "@context": "https://schema.org",
   "@type": "WebApplication",
+  "@id": `${canonicalUrl}#software`,
   name: tool.data.schemaSoftwareName || tool.data.title,
+  description: tool.data.description,
+  url: canonicalUrl,
+  publisher: {
+    "@id": `${siteConfig.url}/#organization`,
+  },
   operatingSystem: tool.data.schemaOperatingSystem || "All",
   applicationCategory: tool.data.schemaApplicationCategory || "WebApplication",
   browserRequirements: "Requires JavaScript. Requires HTML5.",

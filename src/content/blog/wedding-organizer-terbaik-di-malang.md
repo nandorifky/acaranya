@@ -67,7 +67,7 @@ Jangan salah sangka dengan harganya yang terjangkau, Sidorabi Wedding Organizer 
 
 Mereka terkenal dengan kemampuan menghadirkan dekorasi cantik dengan bunga-bunga segar, bahkan untuk paket dengan harga murah sekalipun. Sidorabi juga fleksibel dalam menyesuaikan paket sesuai kebutuhan dan budget klien.
 
-Yang membuat Sidorabi special adalah pendekatan personal mereka kepada setiap klien. Mereka tidak segan memberikan saran kreatif untuk mengoptimalkan budget yang ada, sehingga tetap bisa menghadirkan pernikahan yang memorable.
+Yang membuat Sidorabi spesial adalah pendekatan personal mereka kepada setiap klien. Mereka tidak segan memberikan saran kreatif untuk mengoptimalkan budget yang ada, sehingga tetap bisa menghadirkan pernikahan yang memorable.
 
 ## Siap Merencanakan Pernikahan Impianmu?
 

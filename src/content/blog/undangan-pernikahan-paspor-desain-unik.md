@@ -60,7 +60,7 @@ Kami memiliki tema undangan pernikahan digital yang unik, tidak terkecuali model
 
 [CEK DESAIN UNDANGAN LENGKAP](/desain-undangan-digital/)
 
-Jika kamu tertarik untuk menggunakannya, silahkan [hubungi kami](https://wa.me/62895395094329)!
+Jika kamu tertarik untuk menggunakannya, silakan [hubungi kami](https://wa.me/62895395094329)!
 
 ## Cara Membuat Undangan Paspor Digital
 
@@ -77,6 +77,6 @@ Dikutip dari **The Knot**, sekitar 80% pasangan di tahun 2023 memilih menggunaka
 
 Dari angka tersebut, 12% di antaranya memilih tema-tema unik seperti undangan paspor. Hal ini menunjukkan bahwa konsep undangan pernikahan yang kreatif dan berbeda semakin diminati.
 
-* * *
+---
 
 Jika menginginkan undangan pernikahan yang benar-benar berkesan dan berbeda, maka undangan pernikahan desain paspor adalah pilihan yang sangat layak dipertimbangkan. Tidak hanya akan membuat tamu terkesan, tapi juga menambah kenangan indah pada hari spesial tersebut.

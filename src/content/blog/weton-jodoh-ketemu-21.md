@@ -185,4 +185,4 @@ Weton jodoh ketemu 21 merupakan salah satu hasil perhitungan weton yang memiliki
 
 Meskipun demikian, penting untuk diingat bahwa weton bukanlah patokan untuk menentukan jodoh atau tidak. Perhitungan weton hanyalah panduan yang telah ada sejak zaman dahulu dan turun temurun dalam adat Jawa.
 
-Semoga artikel ini memberikan pemahaman yang lebih baik tentang weton jodoh ketemu 21, cara menghitungnya, dan maknanya. Jika Anda ingin menggali lebih dalam tentang weton dan budaya Jawa, Anda dapat mencari informasi lebih lanjut melalui buku-buku primbon Jawa atau website-website yang membahas tentang budaya Jawa.
+Semoga artikel ini memberikan pemahaman yang lebih baik tentang weton jodoh ketemu 21, cara menghitungnya, dan maknanya. Jika Anda ingin menggali lebih dalam tentang weton dan budaya Jawa, Anda dapat mencari informasi lebih lanjut melalui buku primbon Jawa atau situs web yang membahas budaya Jawa.

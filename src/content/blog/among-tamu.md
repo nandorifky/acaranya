@@ -57,7 +57,7 @@ Dengan tugas yang begitu kompleks, among tamu sering kali dibantu oleh beberapa 
 
 ## Peran Penting Among Tamu dalam Acara Pernikahan
 
-Dalam sebuah pernikahan adat, especially di Jawa, among tamu memiliki peran yang sangat penting. Selain bertanggung jawab untuk menyambut tamu, mereka juga menjadi simbol dari keramahan dan penghormatan tuan rumah terhadap setiap tamu yang datang.
+Dalam sebuah pernikahan adat, terutama di Jawa, among tamu memiliki peran yang sangat penting. Selain bertanggung jawab untuk menyambut tamu, mereka juga menjadi simbol dari keramahan dan penghormatan tuan rumah terhadap setiap tamu yang datang.
 
 Tugas ini bukan hanya sekadar formalitas, melainkan merupakan bagian dari adat yang telah dijunjung tinggi sejak lama.
 

@@ -79,29 +79,29 @@ export default defineConfig({
       chunks: {
         blog(item) {
           if (item.url.includes('/artikel/') && !isRecentNewsUrl(item.url)) {
-            item.changefreq = ChangeFreqEnum.DAILY;
-            item.priority = 0.9;
+            item.changefreq = ChangeFreqEnum.WEEKLY;
+            item.priority = 0.7;
             return item;
           }
         },
         designs(item) {
           if (item.url.includes('/desain-undangan-digital/')) {
             item.changefreq = ChangeFreqEnum.WEEKLY;
-            item.priority = 0.8;
+            item.priority = 0.7;
             return item;
           }
         },
         tools(item) {
           if (toolUrls.has(item.url)) {
             item.changefreq = ChangeFreqEnum.WEEKLY;
-            item.priority = 0.8;
+            item.priority = 0.7;
             return item;
           }
         },
         area(item) {
           if (item.url.includes('/area/')) {
-            item.changefreq = item.url === `${site}/area/` ? ChangeFreqEnum.WEEKLY : ChangeFreqEnum.MONTHLY;
-            item.priority = item.url === `${site}/area/` ? 0.9 : 0.8;
+            item.changefreq = ChangeFreqEnum.MONTHLY;
+            item.priority = item.url === `${site}/area/` ? 0.7 : 0.5;
             return item;
           }
         }
@@ -112,7 +112,7 @@ export default defineConfig({
         if (isRecentNewsUrl(item.url)) return undefined;
 
         item.changefreq ??= ChangeFreqEnum.WEEKLY;
-        item.priority ??= item.url === `${site}/` ? 1.0 : 0.8;
+        item.priority ??= item.url === `${site}/` ? 1.0 : 0.6;
         return item;
       }
     })

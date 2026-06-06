@@ -121,7 +121,7 @@ Mulai dari desain simpel, minimalis, elegan, bunga, hingga [bingkai undangan per
 
 * * *
 
-Kumpulan contoh background diatas memiliki karakter yang berbeda, kamu bisa menyesuaikan sesuai selera masing-masing.
+Kumpulan contoh background di atas memiliki karakter yang berbeda, kamu bisa menyesuaikan sesuai selera masing-masing.
 
 Latar belakang adalah fondasi dari desain undangan pernikahan. Tanpa latar belakang yang menarik, undangan akan terasa kurang lengkap dan kurang hidup.
 

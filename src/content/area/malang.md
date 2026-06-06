@@ -59,7 +59,7 @@ Banyak pasangan yang langsung memilih desain yang paling estetik tanpa mempertim
 3.  **Siapa tamu utama Anda?** Jika tamu banyak dari luar kota, pastikan informasi akses dan akomodasi mudah ditemukan di undangan.
 4.  **Bagaimana kondisi cuaca?** Untuk acara outdoor, tambahkan catatan kecil tentang saran dress code atau persiapan cuaca.
 
-Jika masih ragu, baca [simak ulasan tips desain](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-sleramu/) untuk membantu menyaring pilihan berdasarkan kebutuhan nyata.
+Jika masih ragu, baca [simak ulasan tips desain](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/) untuk membantu menyaring pilihan berdasarkan kebutuhan nyata.
 
 ### Perbedaan Wedding Outdoor dan Indoor di Malang
 

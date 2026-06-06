@@ -148,7 +148,7 @@ Bagi Anda yang merencanakan grand opening, menggunakan undangan digital memiliki
 3.  **Aksesibilitas yang Mudah**: Tamu dapat menerima undangan melalui email, media sosial, atau pesan instan, membuatnya lebih mudah diakses dan diingat.
 4.  **Ramah Lingkungan**: Mengurangi penggunaan kertas, undangan digital juga lebih eco-friendly, sesuai dengan gaya hidup modern yang semakin peduli terhadap lingkungan.
 
-Jika Anda membutuhkan solusi undangan digital yang profesional untuk acara grand opening, **Acaranya ID** siap membantu. Kami menyediakan layanan pembuatan undangan digital yang dapat disesuaikan dengan tema dan konsep acara Anda. Dengan desain yang eksklusif dan fitur interaktif, [undangan grand opening](/artikel/undangan-grand-opening-digital/) Anda akan tampak lebih modern dan memikat.
+Jika Anda membutuhkan solusi undangan digital yang profesional untuk acara grand opening, **Acaranya.id** siap membantu. Kami menyediakan layanan pembuatan undangan digital yang dapat disesuaikan dengan tema dan konsep acara Anda. Dengan desain yang eksklusif dan fitur interaktif, [undangan grand opening](/artikel/undangan-grand-opening-digital/) Anda akan tampak lebih modern dan memikat.
 
 **Keuntungan menggunakan undangan digital dari kami:**
 

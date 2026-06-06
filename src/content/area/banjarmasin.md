@@ -103,7 +103,7 @@ Untuk acara bisnis atau kantor, desain bersih dengan struktur informasi yang teg
 
 Untuk ulang tahun atau khitanan, gaya visual bisa lebih ringan. Namun, informasi utama tetap harus jelas. Jangan sampai desain terlihat lucu, tetapi tamu bingung membaca jam atau lokasi acara.
 
-Jika Anda masih ragu memilih tampilan, Anda bisa membaca panduan [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital/) agar pilihan desain lebih tepat dan tidak hanya mengikuti tren sesaat.
+Jika Anda masih ragu memilih tampilan, Anda bisa membaca panduan [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/) agar pilihan desain lebih tepat dan tidak hanya mengikuti tren sesaat.
 
 ## Alur pemesanan yang mudah
 

@@ -61,7 +61,7 @@ Lima detail ini mungkin perlu atau mungkin tidak perlu disertakan dalam undang
 *   URL situs web pernikahan kamu, jika kamu telah membuatnya. Dengan cara ini, kamu dapat mengarahkan tamu kamu ke situs web pernikahan untuk informasi perjalanan yang lebih mendalam (bandara terdekat, daftar hotel, dll.) dan menghindari keharusan melampirkannya dengan undangan pernikahan kamu.
 *   Baris untuk menentukan bahwa pernikahan kamu adalah pernikahan khusus dewasa atau tanpa anak. Ini bisa berupa, _“Harap diperhatikan bahwa undangan ini hanya berlaku untuk orang dewasa”_ , atau untuk undangan santai atau informal, _“Agar semua tamu, termasuk orang tua, dapat menikmati malam relaksasi yang kami pilih untuk hari pernikahan kami sebagai acara khusus dewasa. Kami harap pemberitahuan sebelumnya ini berarti kamu_ _masih dapat berbagi hari besar kami dan akan menikmati libur malam!”_ Jika anak-anak diundang ke upacara tersebut, tetapi bukan resepsinya, kamu dapat menentukan, _“Upacara pernikahan diikuti oleh resepsi khusus orang dewasa.”_
 
-## [Kata-Kata Undangan Pernikahan Online](https://acaranya.idl/artikel/kata-kata-undangan-pernikahan-online/)
+## [Kata-Kata Undangan Pernikahan Online](/artikel/kata-kata-undangan-pernikahan-online/)
 
 _Assalamualaikum warahmatullahi wabarakatuh._
 

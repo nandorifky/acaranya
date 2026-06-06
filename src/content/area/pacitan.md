@@ -58,7 +58,7 @@ Banyak orang langsung memilih desain yang paling mencolok tanpa mempertimbangkan
 3.  **Siapa tamu utama Anda?** Jika tamu banyak dari luar kota, sertakan informasi tentang akomodasi atau penginapan di sekitar venue.
 4.  **Bagaimana kondisi cuaca?** Untuk acara outdoor di pantai, tambahkan catatan tentang saran dress code atau persiapan cuaca.
 
-Jika masih ragu, baca [tips memilih desain undangan](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-sleramu/) atau [alasan kenapa pakai undangan digital](/artikel/alasan-kenapa-pakai-undangan-digital-untuk-acara-pernikahan/) untuk membantu memutuskan.
+Jika masih ragu, baca [tips memilih desain undangan](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/) atau [alasan kenapa pakai undangan digital](/artikel/alasan-kenapa-pakai-undangan-digital-untuk-acara-pernikahan/) untuk membantu memutuskan.
 
 ### Perbedaan Wedding Pantai dan Resepsi di Gedung
 
@@ -81,7 +81,7 @@ Proses pemesanan di Acaranya.id dirancang sederhana:
 3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
 4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
 
-Untuk yang ingin memahami lebih dalam tentang undangan digital, baca juga [apa itu undangan digital](/artikel/apa-undangan-digital/) dan [apa saja yang ada di undangan digital](/artikel/apa-saja-yang-ada-di-undangan-digital/).
+Untuk yang ingin memahami lebih dalam tentang undangan digital, baca juga [apa itu undangan digital](/artikel/buat-undangan-digital-pakai-aplikasi-apa/) dan [apa saja yang ada di undangan digital](/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/).
 
 ### Konsultasi Undangan Digital Pacitan
 

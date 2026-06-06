@@ -53,7 +53,7 @@ Venue atau lokasi pernikahan bisa dibilang salah satu hal yang paling penting da
 
 Jangan lupa untuk mengecek kapasitas venue, layanan yang disediakan, dan tentu saja, harganya. Buat juga daftar venue alternatif sebagai cadangan, just in case!
 
-> _Untuk memudahkan dalam merencanakan pernikahan, kamu bisa manfaatkan **[wedding checklist](/artikel/wedding-checklist/)** dari Acaranya.id. Namun, silahkan baca artikel ini hingga habis terlebih dahulu!_
+> _Untuk memudahkan dalam merencanakan pernikahan, kamu bisa manfaatkan **[wedding checklist](/artikel/wedding-checklist/)** dari Acaranya.id. Namun, silakan baca artikel ini hingga habis terlebih dahulu!_
 
 ## 4\. Mengurus Dokumen Pernikahan
 

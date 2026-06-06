@@ -53,7 +53,7 @@ Oleh karena itu, jika seorang laki-laki menyadari kesalahannya dalam menyakiti h
 
 Dalam hal ini, meminta maaf bukan hanya sekedar formalitas, tetapi merupakan langkah penting untuk membersihkan hati dan mendekatkan diri kepada Allah.
 
-Dengan demikian, karma yang mungkin timbul dari tindakan buruk tersebut bisa diminimalisir atau bahkan dihilangkan jika diiringi dengan tobat yang tulus.
+Dengan demikian, karma yang mungkin timbul dari tindakan buruk tersebut bisa diminimalkan atau bahkan dihilangkan jika diiringi dengan tobat yang tulus.
 
 #### 3\. **Dampak Karma di Dunia dan Akhirat**
 

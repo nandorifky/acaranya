@@ -33,6 +33,7 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'Service',
+    '@id': `${canonicalUrl}#service`,
     name: area.data.title,
     description: area.data.description,
     provider: {
@@ -44,6 +45,12 @@ const jsonLd = [
     },
     category: 'Jasa Pembuatan Undangan Digital',
     url: canonicalUrl,
+    offers: {
+      '@type': 'Offer',
+      url: `${siteConfig.url}/harga/`,
+      priceCurrency: 'IDR',
+      availability: 'https://schema.org/InStock',
+    },
   },
 ];
 

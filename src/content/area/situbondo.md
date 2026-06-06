@@ -41,7 +41,7 @@ Situbondo terletak di pesisir utara Jawa. Wilayahnya memanjang dari barat ke tim
 
 Untuk acara di Situbondo, desain yang sederhana dan jelas biasanya lebih disukai daripada yang terlalu ramau. Yang terpenting adalah informasi seperti tanggal, jam, dan lokasi bisa dibaca dengan mudah.
 
-Lihat [katalog desain undangan digital](/desain-undangan-digital/) untuk menemukan gaya yang paling cocok. Jika mencari desain untuk pernikahan, kunjungi [koleksi undangan pernikahan](/desain-undangan-digital/pernikahan/). Untuk khitanan atau aqiqah, lihat [koleksi undangan khitanan](/desain-undangan-digital/khitanan/).
+Lihat [katalog desain undangan digital](/desain-undangan-digital/) untuk menemukan gaya yang paling cocok. Jika mencari desain untuk pernikahan, kunjungi [koleksi undangan pernikahan](/desain-undangan-digital/pernikahan/). Untuk khitanan atau aqiqah, lihat [koleksi undangan khitan](/desain-undangan-digital/khitan/).
 
 ## Biaya dan Proses Pemesanan
 

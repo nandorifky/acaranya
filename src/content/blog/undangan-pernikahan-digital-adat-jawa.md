@@ -68,9 +68,6 @@ Berikut ini merupakan daftar undangan pernikahan digital tema Adat Jawa dari Aca
 
 [![Jawa Nias](/images/blog/content/inv.acaranya.id_preview_jawa-niasiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/jawa-nias)
 
-[![Jawa x Padang
-](/images/blog/content/inv.acaranya.id_preview_jawa-padangiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/jawa-padang)
-
 [![Maroon Javanese](/images/blog/content/inv.acaranya.id_preview_maroon-javaneseiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/maroon-javanese)
 
 [![Palembang x Jawa](/images/blog/content/inv.acaranya.id_preview_palembang-jawaiPhone-SE-576x1024.webp)](https://inv.acaranya.id/preview/palembang-jawa)

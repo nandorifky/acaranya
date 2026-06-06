@@ -36,16 +36,16 @@ Selain itu, undangan digital umumnya dibagi menjadi tiga jenis, yaitu dalam bent
 
 Pertama, yaitu membuat undangan digital gambar statis gratis berformat JPG/PNG. Ini bisa kamu lakukan dengan mudah bahkan melalui HP sekalipun.
 
-Undangan gambar statis ini bisa dibuat menggunakan aplikasi pembantu, salah satunya yaitu **Canva**. Untuk melakukannya, silahkan ikuti langkah-langkah berikut ini:
+Undangan gambar statis ini bisa dibuat menggunakan aplikasi pembantu, salah satunya yaitu **Canva**. Untuk melakukannya, silakan ikuti langkah-langkah berikut ini:
 
 1.  Download aplikasi Canva di Google Playstore ataupun App Store (Untuk iOS/iPhone).
 2.  Buka aplikasi tersebut.
-3.  Silahkan login atau daftar terlebih dahulu jika kamu belum punya akun.
+3.  Silakan login atau daftar terlebih dahulu jika kamu belum punya akun.
 4.  Jika sudah berhasil login, kamu akan diarahkan ke halaman utama.
 5.  Setelah itu, ketikkan _Invitation_ atau **Undangan**.
 6.  Pilih salah satu desain yang kamu suka.
 7.  Edit desain tersebut sesuai selera.
-8.  Silahkan ekspor hasil undangan gambar dengan format PNG atau JPG.
+8.  Silakan ekspor hasil undangan gambar dengan format PNG atau JPG.
 9.  Selesai.
 
 Jika sudah kamu ekspor, undangan digital gambar yang kamu buat akan tersimpan secara otomatis di Galeri Foto HP kamu.
@@ -60,20 +60,20 @@ Undangan jenis ini terbilang agak sulit dibuat oleh orang awam. Namun beruntungn
 
 **BACA JUGA:** [Contoh Undangan Pernikahan Islami](/artikel/contoh-undangan-pernikahan-islami/)
 
-Silahkan ikuti langkah-langkah berikut ini untuk membuat undangan video:
+Silakan ikuti langkah-langkah berikut ini untuk membuat undangan video:
 
 1.  Buka aplikasi web browser di Laptop atau Komputermu.
 2.  Akses situs **Flexclip.com**.
-3.  Silahkan registrasi untuk daftar akun.
-4.  Jika sudah, kamu akan dibawa ke dashboard editor video. Disini, kamu bisa menemukan cukup banyak template video undangan digital.
+3.  Silakan registrasi untuk daftar akun.
+4.  Jika sudah, kamu akan dibawa ke dashboard editor video. Di sini, kamu bisa menemukan cukup banyak template video undangan digital.
 5.  Dalam kolom pencarian, ketikkan _Invitation_.
 6.  Selanjutnya, pilih template yang cocok kamu gunakan.
 7.  Klik untuk masuk ke editor video online.
-8.  Disini, kamu bisa bebas berkreasi untuk mengedit video undangan.
-9.  Jika sudah, silahkan ekspor video yang sudah kamu buat.
+8.  Di sini, kamu bisa bebas berkreasi untuk mengedit video undangan.
+9.  Jika sudah, silakan ekspor video yang sudah kamu buat.
 10.  Selesai.
 
-Flexclip memungkinkan kamu untuk membuat undangan video digital melalui editor online. Disini juga tersedia cukup banyak tema acara, dari pernikahan, hingga ulang tahun.
+Flexclip memungkinkan kamu untuk membuat undangan video digital melalui editor online. Di sini juga tersedia cukup banyak tema acara, dari pernikahan, hingga ulang tahun.
 
 ## Cara Membuat Undangan Digital Website
 
@@ -89,13 +89,13 @@ Kami akan memberikan fasilitas revisi sepuasnya untuk kamu yang ingin memiliki u
 
 **BACA JUGA:** [Contoh Undangan Pernikahan Digital](/artikel/contoh-undangan-pernikahan-digital/)
 
-Namun jika kamu memilih untuk membuat sendiri, silahkan ikuti langkah-langkah di bawah ini:
+Namun jika kamu memilih untuk membuat sendiri, silakan ikuti langkah-langkah di bawah ini:
 
 1.  Beli hosting dari layanan manapun, baik itu Niagahoster, Hostinger, ataupun lainnya. Kalau bisa beli domain sekalian.
 2.  Setelah itu buka cPanel.
 3.  Install WordPress melalui cPanel tersebut.
 4.  Jika sudah terinstall, login admin situs kamu (situskamu.com/wp-login.php).
-5.  Selanjutnya, silahkan install plugin Elementor.
+5.  Selanjutnya, silakan install plugin Elementor.
 6.  Buat halaman baru, dan tekan **“Edit menggunakan Elementor”**.
 7.  Lalu, pilih opsi _Elementor Canvas_.
 8.  Lanjut pilih template wedding elementor.
@@ -119,8 +119,8 @@ Proses order yang mudah, pengerjaan cepat, pelayanan profesional, hingga revisi 
 
 1.  Pilih desain undangan. Kamu bisa memilih desain undangan sesuai kode yang tertera pada halaman [Catalog Desain](/desain-undangan-digital/).
 2.  Hubungi kami. Kamu bisa langsung hubungi kami jika sudah menemukan desain yang pas.
-3.  Konsultasi desain. Kami sangat terbuka untuk kamu yang ingin custom desain, silahkan konsultasikan keinginanmu sekarang.
-4.  Pembayaran. Dengan berbagai kelebihan, kamu tidak perlu mengeluarkan uang banyak, silahkan lakukan pembayaran melalui metode yang sudah kami siapkan.
+3.  Konsultasi desain. Kami sangat terbuka untuk kamu yang ingin custom desain, silakan konsultasikan keinginanmu sekarang.
+4.  Pembayaran. Dengan berbagai kelebihan, kamu tidak perlu mengeluarkan uang banyak, silakan lakukan pembayaran melalui metode yang sudah kami siapkan.
 5.  Pengisian formulir. Kamu hanya perlu mengisi formulir agar kami mengetahui informasi tentang pernikahanmu yang akan dicantumkan dalam undangan online.
 6.  Pengerjaan. Secepat kilat, undangan pernikahan onlinemu akan segera jadi.
 7.  Revisi. Jika dirasa kurang pas, kamu bisa mengajukan revisi sepuasnya!

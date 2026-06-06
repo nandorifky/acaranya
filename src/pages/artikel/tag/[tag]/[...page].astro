@@ -39,7 +39,7 @@ const posts = page.data;
 const tagDisplay = tag!.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
 
 const titleSuffix = page.currentPage > 1 ? ` — Halaman ${page.currentPage}` : '';
-const robots = page.currentPage > 1 ? 'noindex, follow' : 'index, follow';
+const robots = page.currentPage > 1 ? 'noindex,follow' : 'index,follow';
 ---
 
 <MarketingLayout

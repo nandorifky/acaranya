@@ -48,7 +48,7 @@ Sumber: [Pinterest](https://id.pinterest.com/acaranya/)
 
 Contoh undangan pernikahan selanjutnya yaitu bertema [islami](/artikel/contoh-undangan-pernikahan-islami/), yang jelas ini dikhususkan untuk orang muslim.
 
-Kamu bisa membuat desain undangan berukuran landscape sehingga dapat dilipat menjadi 2 bagian halaman. Untuk desain, silahkan sesuaikan preferensi masing-masing.
+Kamu bisa membuat desain undangan berukuran landscape sehingga dapat dilipat menjadi 2 bagian halaman. Untuk desain, silakan sesuaikan preferensi masing-masing.
 
 ## 3\. Contoh Undangan Pernikahan Unik
 

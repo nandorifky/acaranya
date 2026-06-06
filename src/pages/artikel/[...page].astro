@@ -10,22 +10,9 @@ import { getCollection } from "astro:content";
 export async function getStaticPaths({ paginate }: any) {
   const allPosts = await getCollection("blog");
 
-  // OPSI PENGURUTAN: Ubah 'updated' menjadi 'published' jika ingin kembali ke urutan tanggal terbit
-  const SORT_BY = "updated";
-
   const publishedPosts = allPosts
     .filter((p) => p.data.status === "published")
-    .sort((a, b) => {
-      const dateA =
-        SORT_BY === "updated"
-          ? a.data.updatedAt || a.data.publishedAt
-          : a.data.publishedAt;
-      const dateB =
-        SORT_BY === "updated"
-          ? b.data.updatedAt || b.data.publishedAt
-          : b.data.publishedAt;
-      return dateB.getTime() - dateA.getTime();
-    });
+    .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
   return paginate(publishedPosts, { pageSize: 18 });
 }
@@ -35,7 +22,7 @@ const publishedPosts = page.data;
 
 const titleSuffix =
   page.currentPage > 1 ? ` — Halaman ${page.currentPage}` : "";
-const robots = page.currentPage > 1 ? "noindex, follow" : "index, follow";
+const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
 ---
 
 <MarketingLayout

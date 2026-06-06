@@ -25,7 +25,7 @@ noindex: false
 ---
 Hari Raya Idul Fitri adalah waktu spesial ketika kita merayakan akhir dari bulan puasa, Ramadhan. Ini adalah hari penuh kegembiraan, saat keluarga dan teman berkumpul, saling memaafkan, dan berbagi kebahagiaan.
 
-Salah satu tradisi yang paling dinantikan adalah open house Idul Fitri, dimana rumah dibuka untuk menyambut tamu.
+Salah satu tradisi yang paling dinantikan adalah open house Idul Fitri, yaitu saat rumah dibuka untuk menyambut tamu.
 
 _“Tapi, bagaimana caranya mengundang orang banyak dengan mudah?”_
 
@@ -69,7 +69,7 @@ Undangan open house digital berbasis website menjadi inovasi terbaru yang bisa k
 
 ## Desain Islami untuk Undangan Open House Idul Fitri Digital
 
-Selain satu contoh diatas, kami juga menyediakan cukup banyak tema islami yang bisa kamu custom untuk undangan open house lebaran.
+Selain satu contoh di atas, kami juga menyediakan cukup banyak tema islami yang bisa kamu custom untuk undangan open house lebaran.
 
 Banyaknya tema islami ini bisa kamu custom dan sesuaikan dengan acara yang sedang diselenggarakan, tidak terkecuali open house hari raya idul fitri.
 

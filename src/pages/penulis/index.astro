@@ -1,0 +1,61 @@
+---
+import MarketingLayout from '../../layouts/MarketingLayout.astro';
+import Container from '../../components/base/Container.astro';
+import Section from '../../components/base/Section.astro';
+import { getCollection } from 'astro:content';
+import { siteConfig } from '../../data/site';
+
+const authors = await getCollection('authors');
+const posts = await getCollection('blog');
+const publishedPosts = posts.filter((post) => post.data.status === 'published');
+
+const authorsWithCounts = authors
+  .map((author) => ({
+    author,
+    postCount: publishedPosts.filter((post) => post.data.author === author.id).length,
+  }))
+  .filter(({ postCount }) => postCount > 0)
+  .sort((a, b) => b.postCount - a.postCount);
+---
+
+<MarketingLayout
+  title="Daftar Penulis Acaranya.id"
+  description="Profil penulis dan editor Acaranya.id yang menyusun panduan undangan digital, pernikahan, dan persiapan acara."
+  canonical={`${siteConfig.url}/penulis/`}
+>
+  <section class="pt-10 pb-8 lg:pt-16 lg:pb-12 bg-cream border-b border-border-soft/60">
+    <Container>
+      <div class="max-w-3xl">
+        <span class="text-[11px] font-semibold text-champagne uppercase tracking-[0.2em] mb-3 block">Tim Editorial</span>
+        <h1 class="font-serif text-4xl sm:text-5xl font-semibold text-text-primary leading-tight mb-4">Daftar Penulis Acaranya.id</h1>
+        <p class="text-text-secondary text-[15px] leading-relaxed">Kenali penulis dan editor yang menyusun artikel panduan di Acaranya.id.</p>
+      </div>
+    </Container>
+  </section>
+
+  <Section bg="white">
+    <Container>
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {authorsWithCounts.map(({ author, postCount }) => (
+          <a href={`/penulis/${author.id}/`} class="block rounded-2xl border border-border-soft bg-surface p-6 hover:border-champagne hover:shadow-card transition-all">
+            <div class="flex items-center gap-4">
+              <div class="w-14 h-14 rounded-full overflow-hidden bg-brand-50 flex items-center justify-center shrink-0">
+                {author.data.avatar ? (
+                  <img src={author.data.avatar} alt={author.data.name} width="128" height="128" class="w-full h-full object-cover" loading="lazy" decoding="async" />
+                ) : (
+                  <span class="font-serif text-xl text-brand-500">{author.data.name.charAt(0)}</span>
+                )}
+              </div>
+              <div>
+                <h2 class="font-serif text-xl font-semibold text-text-primary">{author.data.name}</h2>
+                <p class="text-[11px] uppercase tracking-[0.18em] text-text-muted">{author.data.role}</p>
+              </div>
+            </div>
+            <p class="mt-4 text-sm text-text-secondary leading-relaxed line-clamp-3">{author.data.bio}</p>
+            <p class="mt-5 text-[11px] font-semibold text-champagne uppercase tracking-[0.16em]">{postCount} artikel</p>
+          </a>
+        ))}
+      </div>
+    </Container>
+  </Section>
+</MarketingLayout>

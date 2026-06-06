@@ -142,6 +142,7 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
+    '@id': `${canonicalUrl}#collection`,
     name: title,
     description: description,
     url: canonicalUrl,
@@ -155,10 +156,11 @@ const jsonLd = [
       position: page.start + index + 1,
       item: {
         '@type': 'Product',
+        '@id': `${siteConfig.url}/desain-undangan-digital/#${design.id}`,
         name: `Template Undangan Digital - ${design.data.title}`,
         description: `Desain undangan digital ${design.data.category} tema ${design.data.title}.`,
         url: toAbsoluteUrl(design.data.previewUrl),
-        image: toAbsoluteUrl(design.data.thumbnail),
+        ...(design.data.thumbnail ? { image: toAbsoluteUrl(design.data.thumbnail) } : {}),
         brand: {
           '@type': 'Brand',
           name: siteConfig.name,

@@ -64,7 +64,7 @@ Alih-alih memberikan daftar fitur yang panjang, mari kita lihat apa yang sebenar
 
 **Keempat, pilih desain.** Lihat [katalog desain undangan digital](/desain-undangan-digital/) dan pilih yang paling mendekati karakter acara. Untuk pernikahan Tionghoa, cari nuansa merah-emas. Untuk pernikahan Jawa, cari nuansa yang lebih anggun dan tradisional.
 
-Jika masih bingung memilih, baca panduan tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-sleramu/) untuk membantu menyaring pilihan berdasarkan kebutuhan nyata.
+Jika masih bingung memilih, baca panduan tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/) untuk membantu menyaring pilihan berdasarkan kebutuhan nyata.
 
 ## Biaya yang Perlu Diketahui
 

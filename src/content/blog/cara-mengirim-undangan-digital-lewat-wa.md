@@ -93,7 +93,7 @@ Waktu ideal untuk mengirim undangan digital adalah:
 *   **Paling lambat:** 1-2 minggu sebelum acara.
 *   **Paling cepat:** 1-2 bulan sebelum acara.
 
-Hal ini sudah kami sampaikan pada [artikel ini](/artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/), jadi untuk informasi lebih lengkap silahkan kunjungi artikel tersebut.
+Hal ini sudah kami sampaikan pada [artikel ini](/artikel/waktu-yang-tepat-untuk-mengirim-undangan-pernikahan/), jadi untuk informasi lebih lengkap silakan kunjungi artikel tersebut.
 
 ### Kesimpulan
 

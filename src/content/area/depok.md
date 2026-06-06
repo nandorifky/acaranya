@@ -60,7 +60,7 @@ Banyak orang langsung memilih desain yang paling mencolok tanpa mempertimbangkan
 3.  **Berapa banyak informasi yang perlu disampaikan?** Jika acara punya rundown panjang, banyak foto, atau lokasi yang sulit ditemukan, pilih desain yang memberi ruang cukup untuk semua informasi tanpa terlihat penuh.
 4.  **Apakah tamu banyak dari luar kota?** Jika ya, pastikan peta lokasi dan catatan akses mudah ditemukan di undangan.
 
-Jika masih ragu, artikel [panduan memilih desain yang cocok](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-sleramu/) bisa membantu menyaring pilihan berdasarkan kebutuhan nyata, bukan sekadar tampilan pertama.
+Jika masih ragu, artikel [panduan memilih desain yang cocok](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/) bisa membantu menyaring pilihan berdasarkan kebutuhan nyata, bukan sekadar tampilan pertama.
 
 ### Proses Pemesanan yang Cepat dan Fleksibel
 

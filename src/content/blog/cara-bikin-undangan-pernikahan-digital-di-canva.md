@@ -44,7 +44,7 @@ Selengkapnya, berikut ini cara membuat undangan digital gambar di Canva:
 1.  Buka aplikasi Canva, atau kamu juga bisa akses situs web https://www.canva.com/.
 2.  Dalam kolom pencarian, ketik **“Digital Wedding Invitation”**.
 3.  Setelah itu, akan muncul banyak pilihan template yang bisa kamu gunakan untuk undangan digital.
-4.  Pilih template gambar, jangan yang video! Template video akan ada _icon play_ di bagian pojok kiri bawah. Selain itu, silahkan pilih template undangan pernikahan yang gratis saja.
+4.  Pilih template gambar, jangan yang video! Template video akan ada _icon play_ di bagian pojok kiri bawah. Selain itu, silakan pilih template undangan pernikahan yang gratis saja.
 5.  Jika sudah, kamu bisa edit bagian [nama pengantin](/artikel/urutan-nama-pengantin-yang-tepat-dalam-undangan-pernikahan/), tanggal dan waktu acara, lokasi, dan informasi lain terkait acaramu.
 6.  Karena ini bersifat universal, jangan beri nama tamu. Dengan begitu, kamu cukup membuat satu gambar undangan digital saja untuk di sebarkan ke tamu undangan.
 7.  Setelah itu, klik tombol _share_ di pojok kanan atas, dan pilih _download_.

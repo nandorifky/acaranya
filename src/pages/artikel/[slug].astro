@@ -31,13 +31,27 @@ export async function getStaticPaths() {
 const { post, prevPost, nextPost } = Astro.props;
 const { Content, headings } = await render(post);
 
+const allPosts = await getCollection("blog");
+const publishedPosts = allPosts.filter((p) => p.data.status === "published");
+const validTagSet = new Set<string>();
+const tagCounts = new Map<string, number>();
+publishedPosts.forEach((p) => {
+  p.data.tags.forEach((tag) => tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1));
+});
+tagCounts.forEach((count, tag) => {
+  if (count > 1 && /^[a-z0-9-]+$/.test(tag)) validTagSet.add(tag);
+});
+
 // Fetch author data
 const authorEntry = await getEntry("authors", post.data.author);
 const authorName = authorEntry ? authorEntry.data.name : post.data.author;
 const authorSlug = authorEntry ? authorEntry.id : "#";
 
 const publishedDate = post.data.publishedAt.toISOString();
-const modifiedDate = post.data.updatedAt
+const hasSubstantialUpdate = post.data.updatedAt
+  ? post.data.updatedAt.getTime() - post.data.publishedAt.getTime() >= 7 * 24 * 60 * 60 * 1000
+  : false;
+const modifiedDate = hasSubstantialUpdate && post.data.updatedAt
   ? post.data.updatedAt.toISOString()
   : publishedDate;
 const publishedDisplay = post.data.publishedAt.toLocaleDateString("id-ID", {
@@ -45,7 +59,7 @@ const publishedDisplay = post.data.publishedAt.toLocaleDateString("id-ID", {
   month: "long",
   year: "numeric",
 });
-const modifiedDisplay = post.data.updatedAt
+const modifiedDisplay = hasSubstantialUpdate && post.data.updatedAt
   ? post.data.updatedAt.toLocaleDateString("id-ID", {
       day: "numeric",
       month: "long",
@@ -72,10 +86,12 @@ const shareText = encodeURIComponent(
 
 // JSON-LD Article schema
 const isNews = post.data.tags?.includes("news");
+const wordCount = post.body?.trim().split(/\s+/).filter(Boolean).length ?? 0;
 const jsonLd = [
   {
     "@context": "https://schema.org",
-    "@type": isNews ? "NewsArticle" : "Article",
+    "@type": isNews ? "NewsArticle" : "BlogPosting",
+    "@id": `${canonicalUrl}#article`,
     headline: post.data.title,
     description: post.data.description,
     datePublished: publishedDate,
@@ -96,6 +112,9 @@ const jsonLd = [
     },
     image: [featuredImageUrl],
     keywords: post.data.tags.join(", "),
+    articleSection: post.data.category,
+    inLanguage: "id-ID",
+    wordCount,
   },
 ];
 ---
@@ -278,13 +297,14 @@ const jsonLd = [
               <div class="mt-10 pt-6 border-t border-border-soft/60">
                 <div class="flex items-center gap-2 flex-wrap">
                   <Icon name="tag" size={14} class="text-text-muted" />
-                  {post.data.tags.map((tag) => (
-                    <a
-                      href={`/artikel/tag/${tag}/`}
-                      class="text-[12px] text-text-muted bg-surface-muted px-2.5 py-1 rounded-sm capitalize hover:bg-brand-50 hover:text-brand-500 transition-colors"
-                    >
+                  {post.data.tags.map((tag) => validTagSet.has(tag) ? (
+                    <a href={`/artikel/tag/${tag}/`} class="text-[12px] text-text-muted bg-surface-muted px-2.5 py-1 rounded-sm capitalize hover:bg-brand-50 hover:text-brand-500 transition-colors">
                       {tag}
                     </a>
+                  ) : (
+                    <span class="text-[12px] text-text-muted bg-surface-muted px-2.5 py-1 rounded-sm capitalize">
+                      {tag}
+                    </span>
                   ))}
                 </div>
               </div>

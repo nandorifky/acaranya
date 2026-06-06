@@ -37,7 +37,7 @@ Lihat [katalog desain undangan digital](/desain-undangan-digital/) untuk menemuk
 
 Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Untuk pernikahan besar di hotel, paket premium biasanya lebih sesuai. Untuk acara sederhana, paket ringan sudah cukup.
 
-Jika Anda mencari tips memilih desain, baca artikel tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-sleramu/).
+Jika Anda mencari tips memilih desain, baca artikel tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/).
 
 ## Kapan Sebaiknya Mulai Menyiapkan
 

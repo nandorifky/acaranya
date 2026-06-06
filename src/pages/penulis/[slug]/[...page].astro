@@ -5,6 +5,7 @@ import Section from '../../../components/base/Section.astro';
 import Icon from '../../../components/ui/Icon.astro';
 import Pagination from '../../../components/ui/Pagination.astro';
 import { getCollection } from 'astro:content';
+import { siteConfig } from '../../../data/site';
 
 export async function getStaticPaths({ paginate }: any) {
   const allAuthors = await getCollection('authors');
@@ -28,7 +29,7 @@ const { page, author } = Astro.props;
 const authorPosts = page.data;
 
 const titleSuffix = page.currentPage > 1 ? ` — Halaman ${page.currentPage}` : '';
-const robots = page.currentPage > 1 ? 'noindex, follow' : 'index, follow';
+const robots = page.currentPage > 1 ? 'noindex,follow' : 'index,follow';
 
 // Social media definition mapping
 const socials = [
@@ -52,7 +53,7 @@ const getSocialUrl = (key: typeof socials[number]['key'], value: string) => {
 
 const metaTitle = author.data.metaTitle || `${author.data.name} — Penulis di Acaranya.id`;
 const metaDesc = author.data.metaDescription || author.data.bio;
-const canonicalUrl = `https://acaranya.id/penulis/${author.id}/${page.currentPage > 1 ? `${page.currentPage}/` : ''}`;
+const canonicalUrl = `${siteConfig.url}/penulis/${author.id}/${page.currentPage > 1 ? `${page.currentPage}/` : ''}`;
 ---
 
 <MarketingLayout title={metaTitle} description={metaDesc} canonical={canonicalUrl} robots={robots}>

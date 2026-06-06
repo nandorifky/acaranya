@@ -43,7 +43,7 @@ Ketika tamu diundang ke venue di area tertentu, Maps dan petunjuk arah menjadi s
 
 Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Proses pemesanan cukup sederhana: pilih desain, kirim data acara, dan undangan siap digunakan.
 
-Jika Anda mencari tips memilih desain, baca artikel tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-sleramu/).
+Jika Anda mencari tips memilih desain, baca artikel tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/).
 
 ## Kapan Sebaiknya Mulai Menyiapkan
 

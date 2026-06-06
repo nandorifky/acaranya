@@ -107,7 +107,7 @@ Jika masih bingung memilih desain yang cocok, ada beberapa panduan yang bisa mem
 
 - **Untuk pernikahan adat**, lihat [desain undangan pernikahan digital](/desain-undangan-digital/pernikahan/) agar pilihan lebih terfokus.
 - **Untuk acara bisnis atau grand opening**, gunakan [desain undangan corporate](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
-- **Untuk khitanan atau aqiqah**, kunjungi [koleksi desain khitanan](/desain-undangan-digital/khitanan/) yang lebih sesuai dengan karakter acara.
+- **Untuk khitanan atau aqiqah**, kunjungi [koleksi desain khitan](/desain-undangan-digital/khitan/) yang lebih sesuai dengan karakter acara.
 
 Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
 
