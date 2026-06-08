@@ -100,7 +100,7 @@ collections:
       fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Artikel", name: "title", widget: "string" }
-      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Gunakan huruf kecil, angka, dan tanda - saja. Contoh: rundown-pernikahan-akad-resepsi"] }
+      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^$|^[a-z0-9]+(?:-[a-z0-9]+)*$', "Kosongkan untuk pakai slug otomatis, atau gunakan huruf kecil, angka, dan tanda - saja. Contoh: rundown-pernikahan-akad-resepsi"] }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
       - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime" }
       - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
@@ -195,7 +195,7 @@ collections:
       fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Halaman Tool", name: "title", widget: "string" }
-      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Gunakan huruf kecil, angka, dan tanda - saja. Contoh: cek-weton-online"] }
+      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^$|^[a-z0-9]+(?:-[a-z0-9]+)*$', "Kosongkan untuk pakai slug otomatis, atau gunakan huruf kecil, angka, dan tanda - saja. Contoh: cek-weton-online"] }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
       - { label: "Icon Name (Lucide)", name: "icon", widget: "string", required: false, description: "Contoh: heart, clock, calendar, sparkles, dsb." }
       - label: "Pilih Komponen Tool"
@@ -274,7 +274,7 @@ collections:
     public_folder: "/images/area"
     fields:
       - { label: "Judul Halaman (H1)", name: "title", widget: "string" }
-      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Gunakan huruf kecil, angka, dan tanda - saja. Contoh: undangan-digital-surabaya"] }
+      - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^$|^[a-z0-9]+(?:-[a-z0-9]+)*$', "Kosongkan untuk pakai slug otomatis, atau gunakan huruf kecil, angka, dan tanda - saja. Contoh: undangan-digital-surabaya"] }
       - { label: "Meta Description", name: "description", widget: "text" }
       - { label: "Nama Kota", name: "cityName", widget: "string" }
       - { label: "Provinsi", name: "province", widget: "string", required: false }

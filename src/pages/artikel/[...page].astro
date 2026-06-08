@@ -12,7 +12,11 @@ export async function getStaticPaths({ paginate }: any) {
 
   const publishedPosts = allPosts
     .filter((p) => p.data.status === "published")
-    .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+    .sort((a, b) => {
+      const dateA = a.data.updatedAt || a.data.publishedAt;
+      const dateB = b.data.updatedAt || b.data.publishedAt;
+      return dateB.getTime() - dateA.getTime();
+    });
 
   return paginate(publishedPosts, { pageSize: 18 });
 }
@@ -48,9 +52,13 @@ const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
         publishedPosts.length > 0 ? (
           <>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
-              {publishedPosts.map((post: any) => (
+              {publishedPosts.map((post: any) => {
+                const displayDate = post.data.updatedAt || post.data.publishedAt;
+                const isUpdated = Boolean(post.data.updatedAt);
+
+                return (
                 <a
-                  href={`/artikel/${post.id}/`}
+                  href={`/artikel/${post.data.customSlug || post.id}/`}
                   class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm"
                 >
                   {post.data.image ? (
@@ -79,7 +87,8 @@ const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
                       </span>
                       <span class="text-[10px] text-text-muted">·</span>
                       <span class="text-[10px] text-text-muted">
-                        {post.data.publishedAt.toLocaleDateString("id-ID", {
+                        {isUpdated ? "Diperbarui " : ""}
+                        {displayDate.toLocaleDateString("id-ID", {
                           day: "numeric",
                           month: "short",
                           year: "numeric",
@@ -97,7 +106,8 @@ const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
                     </div>
                   </div>
                 </a>
-              ))}
+                );
+              })}
             </div>
 
             <Pagination page={page} baseUrl="/artikel/" />
