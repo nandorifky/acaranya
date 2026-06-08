@@ -3,7 +3,7 @@ title: Daftar Lagu Korea untuk Undangan Pernikahan Digital, Romantis Banget!
 customSlug: lagu-korea-untuk-undangan-digital
 description: K-Pop Lovers wajib tahu! Kumpulan lagu Korea romantis bertema cinta yang sangat pas untuk mempermanis suasana undangan digital pernikahanmu agar lebih estetik.
 publishedAt: 2026-04-08T17:50:00
-updatedAt: 2026-06-08T04:10:00
+updatedAt: 2026-06-08T07:51:00
 author: indira
 category: Inspirasi
 tags:
