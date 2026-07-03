@@ -1006,7 +1006,7 @@ const weddingDesigns = allDesigns
       const akadAddress = fd.get("akadAddress");
       const akadMaps = fd.get("akadMaps") || "Kirim manual ke WhatsApp admin";
 
-      let resepsiMessage = "❌ Tidak Ada Acara Resepsi";
+      let resepsiMessage = `Status: Tidak ada resepsi`;
       if (toggleResepsi && toggleResepsi.checked) {
         const resepsiDate = fd.get("resepsiDate") || "-";
         const resepsiTime = fd.get("resepsiTime") || "-";
@@ -1015,56 +1015,57 @@ const weddingDesigns = allDesigns
         const resepsiMaps =
           fd.get("resepsiMaps") || "Kirim manual ke WhatsApp admin";
 
-        resepsiMessage = `💍 ACARA RESEPSI:
-• Hari & Tanggal: ${resepsiDate}
-• Waktu: ${resepsiTime} ${resepsiTz}
-• Alamat: ${resepsiAddress}
-• Google Maps: ${resepsiMaps}`;
+        resepsiMessage = `Status: Ada resepsi
+Tanggal: ${resepsiDate}
+Waktu: ${resepsiTime} ${resepsiTz}
+Alamat: ${resepsiAddress}
+Maps: ${resepsiMaps}`;
       }
 
-      const waMessage = `Halo Acaranya.id, saya ingin memesan Undangan Pernikahan Digital Premium!
+      const waMessage = `*ORDER UNDANGAN DIGITAL - PERNIKAHAN*
 
-📋 INFORMASI PEMESAN
-------------------------------
-• Nama Pemesan: ${name}
-• Nomor WhatsApp: ${whatsapp}
-• Pilihan Desain: ${template}
-• Email Aktif: ${email}
-• Paket Harga: ${pkg.toUpperCase()}
-• Kode Referal: ${referralCode}
+*Ringkasan*
+Jenis acara: Pernikahan
+Paket: ${pkg.toUpperCase()}
+Desain: ${template}
+Referal: ${referralCode}
 
-🤵👰 INFORMASI PENGANTIN
-------------------------------
-• Urutan Tampil: ${priorityName}
+*Pemesan*
+Nama: ${name}
+WhatsApp: ${whatsapp}
+Email: ${email}
 
-♂️ MEMPELAI PRIA:
-• Nama Lengkap: ${groomFullName}
-• Nama Panggilan: ${groomNickName}
-• Urutan Anak: ${groomOrder}
-• Nama Bapak: ${groomFather}
-• Nama Ibu: ${groomMother}
-• Instagram: ${groomInstagram}
+*Pengantin*
+Urutan tampil: ${priorityName}
 
-♀️ MEMPELAI WANITA:
-• Nama Lengkap: ${brideFullName}
-• Nama Panggilan: ${brideNickName}
-• Urutan Anak: ${brideOrder}
-• Nama Bapak: ${brideFather}
-• Nama Ibu: ${brideMother}
-• Instagram: ${brideInstagram}
+*Mempelai Pria*
+Nama lengkap: ${groomFullName}
+Nama panggilan: ${groomNickName}
+Urutan anak: ${groomOrder}
+Nama bapak: ${groomFather}
+Nama ibu: ${groomMother}
+Instagram: ${groomInstagram}
 
-📅 INFORMASI ACARA
-------------------------------
-💍 ACARA AKAD / PEMBERKATAN:
-• Hari & Tanggal: ${akadDate}
-• Waktu: ${akadTime} ${akadTz}
-• Alamat: ${akadAddress}
-• Google Maps: ${akadMaps}
+*Mempelai Wanita*
+Nama lengkap: ${brideFullName}
+Nama panggilan: ${brideNickName}
+Urutan anak: ${brideOrder}
+Nama bapak: ${brideFather}
+Nama ibu: ${brideMother}
+Instagram: ${brideInstagram}
 
+*Akad / Pemberkatan*
+Tanggal: ${akadDate}
+Waktu: ${akadTime} ${akadTz}
+Alamat: ${akadAddress}
+Maps: ${akadMaps}
+
+*Resepsi*
 ${resepsiMessage}
 
-------------------------------
-Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
+*Checklist*
+- Data di atas sudah benar
+- Siap dihubungi admin Acaranya.id`;
 
       const targetUrl = `https://wa.me/${waPhone}?text=${encodeURIComponent(waMessage)}`;
       window.open(targetUrl, "_blank");

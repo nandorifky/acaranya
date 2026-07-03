@@ -612,34 +612,34 @@ import { siteConfig } from "../../data/site";
       const eventAddress = fd.get("eventAddress");
       const eventMaps = fd.get("eventMaps") || "Kirim manual ke WhatsApp admin";
 
-      const waMessage = `Halo Acaranya.id, saya ingin memesan Undangan Wisuda Digital Premium!
+      const waMessage = `*ORDER UNDANGAN DIGITAL - WISUDA*
 
-📋 INFORMASI PEMESAN
-------------------------------
-• Nama Pemesan: ${name}
-• Nomor WhatsApp: ${whatsapp}
-• Pilihan Desain: ${template}
-• Email Aktif: ${email}
-• Paket Harga: ${pkg.toUpperCase()}
-• Kode Referal: ${referralCode}
+*Ringkasan*
+Jenis acara: Wisuda
+Paket: ${pkg.toUpperCase()}
+Desain: ${template}
+Referal: ${referralCode}
 
-🎓 DATA AKADEMIK & KELULUSAN
-------------------------------
-• Wisudawan/wati: ${gradname}
-• Institusi/Sekolah: ${institution}
-• Jurusan/Fakultas: ${major}
-• Angkatan/Kelas: ${cohort}
+*Pemesan*
+Nama: ${name}
+WhatsApp: ${whatsapp}
+Email: ${email}
 
-📅 INFORMASI ACARA
-------------------------------
-🎉 SYUKURAN WISUDA:
-• Hari & Tanggal: ${eventDate}
-• Waktu: ${eventTime} ${eventTz}
-• Alamat: ${eventAddress}
-• Google Maps: ${eventMaps}
+*Data Akademik & Kelulusan*
+Wisudawan/wati: ${gradname}
+Institusi/sekolah: ${institution}
+Jurusan/fakultas: ${major}
+Angkatan/kelas: ${cohort}
 
-------------------------------
-Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
+*Acara Wisuda*
+Tanggal: ${eventDate}
+Waktu: ${eventTime} ${eventTz}
+Alamat: ${eventAddress}
+Maps: ${eventMaps}
+
+*Checklist*
+- Data di atas sudah benar
+- Siap dihubungi admin Acaranya.id`;
 
       const targetUrl = `https://wa.me/${waPhone}?text=${encodeURIComponent(waMessage)}`;
       window.open(targetUrl, "_blank");

@@ -6,6 +6,18 @@ import Icon from '../../components/ui/Icon.astro';
 import { eventTypes } from '../../data/event-types';
 import { pricingPlans } from '../../data/pricing-static';
 import { siteConfig } from '../../data/site';
+
+const orderEvents = [
+  { label: 'Pernikahan', value: 'pernikahan', route: 'pernikahan', category: 'pernikahan', icon: 'heart', description: 'Form lengkap untuk data pengantin, akad, resepsi, love story, galeri, dan amplop digital.' },
+  { label: 'Khitanan', value: 'khitanan', route: 'khitanan', category: 'khitan', icon: 'user', description: 'Form khusus walimatul khitan, keluarga, tempat acara, rundown, dan kebutuhan anak.' },
+  { label: 'Ulang Tahun', value: 'ulang-tahun', route: 'ulang-tahun', category: 'birthday-party', icon: 'cake', description: 'Cocok untuk ulang tahun dewasa, sweet seventeen, atau birthday party keluarga.' },
+  { label: 'Aqiqah', value: 'aqiqah', route: 'aqiqah', category: 'aqiqah', icon: 'baby', description: 'Form aqiqah dengan data anak, orang tua, lokasi, waktu, dan catatan keluarga.' },
+  { label: 'Corporate', value: 'corporate', route: 'corporate', category: 'corporate', icon: 'building', description: 'Untuk gathering, seminar, launching, meeting, atau event perusahaan.' },
+  { label: 'Wisuda', value: 'wisuda', route: 'wisuda', category: 'wisuda', icon: 'graduation-cap', description: 'Untuk wisuda, pelepasan, pentas akhir, graduation ceremony, dan apresiasi kelulusan.' },
+  { label: 'Grand Opening', value: 'grand-opening', route: 'grand-opening', category: 'grand-opening', icon: 'store', description: 'Untuk pembukaan toko, hotel, restoran, kantor, atau launching tempat baru.' },
+  { label: 'Natal', value: 'natal', route: 'natal', category: 'natal', icon: 'snowflake', description: 'Untuk perayaan Natal, ibadah, pesta keluarga, atau acara komunitas.' },
+  { label: 'Syukuran', value: 'syukuran', route: 'syukuran', category: 'syukuran', icon: 'home', description: 'Untuk tasyakuran, selamatan, ngunduh mantu, rumah baru, atau acara keluarga.' },
+];
 ---
 
 <MarketingLayout
@@ -40,8 +52,8 @@ import { siteConfig } from '../../data/site';
           class="text-text-secondary text-xs sm:text-sm max-w-lg mx-auto font-sans tracking-wide leading-relaxed"
         >
           Silakan isi detail awal pemesanan Anda dengan teliti di bawah ini.
-          Data Anda akan dikirimkan secara otomatis ke WhatsApp admin kami untuk
-          diproses instan.
+          Pilih jenis acara terlebih dahulu agar form yang muncul sesuai dengan
+          kebutuhan Anda. Paket atau desain yang sudah dipilih akan tetap terbawa otomatis.
         </p>
 
         <!-- Event Type Quick Switcher (Ribbon) -->
@@ -117,16 +129,88 @@ import { siteConfig } from '../../data/site';
     </Container>
   </section>
 
+  <Section bg="white" id="start-order" class="border-t border-border-soft/60">
+    <Container>
+      <div class="max-w-6xl mx-auto space-y-10">
+        <div class="grid lg:grid-cols-[1fr_360px] gap-8 items-start">
+          <div class="space-y-6">
+            <div class="space-y-3">
+              <span class="text-[10px] uppercase tracking-[0.22em] text-[#B59A73] font-bold">Langkah 1 dari 3</span>
+              <h2 class="font-serif text-3xl md:text-5xl text-brand-950 leading-tight">Mulai dari jenis acara</h2>
+              <p class="text-sm text-text-secondary font-sans leading-relaxed max-w-2xl">
+                Tidak perlu menebak dari card desain. Pilih acara dulu, lalu sistem membawa pilihan paket/desain ke form yang tepat.
+              </p>
+            </div>
+
+            <div class="grid sm:grid-cols-2 xl:grid-cols-3 gap-4" id="event-card-grid">
+              {orderEvents.map((event) => (
+                <a
+                  href={`/order-undangan/${event.route}/`}
+                  data-order-event
+                  data-route={event.route}
+                  data-category={event.category}
+                  data-value={event.value}
+                  class="group flex flex-col gap-4 p-5 bg-cream/45 border border-[#B59A73]/15 rounded-3xl hover:border-[#B59A73]/60 hover:bg-white hover:-translate-y-0.5 transition-all duration-300 shadow-sm"
+                >
+                  <div class="flex items-center justify-between gap-3">
+                    <span class="w-11 h-11 rounded-2xl bg-white border border-[#B59A73]/20 text-[#B59A73] flex items-center justify-center group-hover:bg-brand-950 group-hover:text-cream transition-colors">
+                      <Icon name={event.icon} size={17} />
+                    </span>
+                    <span class="text-[9px] font-bold uppercase tracking-widest text-[#B59A73]">Pilih</span>
+                  </div>
+                  <div class="space-y-1.5">
+                    <h3 class="font-serif text-xl text-brand-950">{event.label}</h3>
+                    <p class="text-[11px] text-text-secondary font-sans leading-relaxed">{event.description}</p>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <aside class="lg:sticky lg:top-24 bg-brand-950 text-cream rounded-[2rem] p-7 space-y-6 shadow-card">
+            <div class="space-y-2">
+              <span class="text-[9px] uppercase tracking-[0.22em] text-[#D8C39D] font-bold">Ringkasan Pilihan</span>
+              <h3 class="font-serif text-2xl">Order lebih rapi</h3>
+              <p class="text-xs text-cream/70 font-sans leading-relaxed">Pilihan dari katalog/harga akan terbaca otomatis. Jika belum pilih desain, gunakan opsi bantu pilihkan desain.</p>
+            </div>
+            <div class="space-y-3 text-xs font-sans">
+              <div class="flex items-center justify-between gap-4 border-b border-white/10 pb-3">
+                <span class="text-cream/60">Desain</span>
+                <strong id="summary-template" class="text-right text-cream">Belum dipilih</strong>
+              </div>
+              <div class="flex items-center justify-between gap-4 border-b border-white/10 pb-3">
+                <span class="text-cream/60">Paket</span>
+                <strong id="summary-package" class="text-right text-cream">Belum dipilih</strong>
+              </div>
+              <div class="flex items-center justify-between gap-4 border-b border-white/10 pb-3">
+                <span class="text-cream/60">Kebutuhan</span>
+                <strong id="summary-request" class="text-right text-cream">Form sesuai acara</strong>
+              </div>
+            </div>
+            <div class="grid gap-3">
+              <a id="browse-design-link" href="/desain-undangan-digital/" class="inline-flex items-center justify-center gap-2 py-3 bg-cream text-brand-950 text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white transition-colors">
+                Lihat Desain Dulu
+              </a>
+              <a id="custom-order-link" href="#order-flow-section" class="inline-flex items-center justify-center gap-2 py-3 border border-cream/25 text-cream text-[10px] font-bold uppercase tracking-widest rounded-full hover:bg-white/10 transition-colors">
+                Acara Lainnya / Custom
+              </a>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </Container>
+  </Section>
+
   <!-- Checkout Grid (Kinto Style) -->
-  <Section bg="white" id="order-flow-section" class="border-t border-border-soft/60">
+  <Section bg="cream" id="order-flow-section" class="border-t border-border-soft/60">
     <Container>
       <div class="grid lg:grid-cols-3 gap-12 max-w-6xl mx-auto items-start">
         <!-- Form Column -->
         <div class="lg:col-span-2 space-y-8">
           <!-- Sticky Visual Selection Helpers -->
-          <div
-            class="grid grid-cols-2 gap-4 p-4 bg-cream/70 rounded-2xl border border-[#B59A73]/15"
-          >
+            <div
+              class="grid grid-cols-2 gap-4 p-4 bg-cream/70 rounded-2xl border border-[#B59A73]/15"
+            >
             <a
               href="/desain-undangan-digital/"
               class="flex items-center justify-center gap-2 px-4 py-3 bg-white border border-[#B59A73]/20 hover:border-[#B59A73] text-brand-850 hover:text-[#B59A73] text-[10px] font-bold uppercase tracking-widest rounded-xl transition-all duration-300 shadow-sm text-center"
@@ -213,7 +297,7 @@ import { siteConfig } from '../../data/site';
                     </label>
                     <select id="eventType" name="eventType" required 
                       class="w-full px-4 py-3 border border-[#B59A73]/15 bg-white text-brand-950 text-xs rounded-xl focus:outline-none focus:ring-1 focus:ring-[#B59A73] focus:border-[#B59A73] appearance-none">
-                      <option value="">Pilih jenis acara</option>
+                      <option value="">Pilih jenis acara lainnya</option>
                       {eventTypes.map(et => (
                         <option value={et.value}>{et.label}</option>
                       ))}
@@ -357,16 +441,55 @@ import { siteConfig } from '../../data/site';
     const params = new URLSearchParams(window.location.search);
     const templateParam = params.get('template') || '';
     const packageParam = params.get('package') || '';
+    const categoryParam = params.get('category') || '';
+    const requestParam = params.get('request') || '';
+    const carryQuery = params.toString() ? `?${params.toString()}` : '';
+    const categoryRoutes = {
+      pernikahan: 'pernikahan',
+      khitan: 'khitanan',
+      khitanan: 'khitanan',
+      'birthday-party': 'ulang-tahun',
+      'ulang-tahun-anak': 'ulang-tahun',
+      aqiqah: 'aqiqah',
+      corporate: 'corporate',
+      wisuda: 'wisuda',
+      'grand-opening': 'grand-opening',
+      natal: 'natal',
+      syukuran: 'syukuran',
+    };
 
-    // Auto-redirect to dedicated event form if template keyword matches or category matches
+    document.querySelectorAll('[data-order-event]').forEach((link) => {
+      const route = link.getAttribute('data-route');
+      if (!route) return;
+      link.setAttribute('href', `/order-undangan/${route}/${carryQuery}`);
+    });
+
+    const summaryTemplate = document.getElementById('summary-template');
+    const summaryPackage = document.getElementById('summary-package');
+    const summaryRequest = document.getElementById('summary-request');
+    const browseDesignLink = document.getElementById('browse-design-link');
+    if (summaryTemplate && templateParam) summaryTemplate.textContent = templateParam;
+    if (summaryPackage && packageParam) summaryPackage.textContent = packageParam.toUpperCase();
+    if (summaryRequest && requestParam) summaryRequest.textContent = requestParam === 'custom' ? 'Custom design' : requestParam;
+    if (browseDesignLink && categoryParam && categoryParam !== 'all') {
+      browseDesignLink.setAttribute('href', `/desain-undangan-digital/${categoryParam}/`);
+    }
+
+    // Explicit category beats brittle template keyword guessing.
+    if (categoryParam && categoryRoutes[categoryParam]) {
+      window.location.href = `/order-undangan/${categoryRoutes[categoryParam]}/${window.location.search}`;
+      return;
+    }
+
+    // Legacy fallback for older inbound links without category.
     const templateLower = templateParam.toLowerCase();
-    if (templateLower.includes('wedding') || templateLower.includes('nikah')) {
+    if (templateLower.includes('wedding') || templateLower.includes('nikah') || templateLower.includes('pernikahan')) {
       window.location.href = '/order-undangan/pernikahan/' + window.location.search;
       return;
     } else if (templateLower.includes('khitan')) {
       window.location.href = '/order-undangan/khitanan/' + window.location.search;
       return;
-    } else if (templateLower.includes('ultah') || templateLower.includes('birthday') || templateLower.includes('lahir')) {
+    } else if (templateLower.includes('ultah') || templateLower.includes('birthday') || templateLower.includes('lahir') || templateLower.includes('ulang-tahun')) {
       window.location.href = '/order-undangan/ulang-tahun/' + window.location.search;
       return;
     } else if (templateLower.includes('aqiqah')) {
@@ -394,17 +517,17 @@ import { siteConfig } from '../../data/site';
       // Auto-redirect if they change select to a specific event
       eventSelect.addEventListener('change', (e) => {
         const val = e.target.value;
-        if (val === 'pernikahan') {
+        if (val === 'pernikahan' || val === 'wedding') {
           window.location.href = '/order-undangan/pernikahan/' + window.location.search;
         } else if (val === 'khitanan') {
           window.location.href = '/order-undangan/khitanan/' + window.location.search;
-        } else if (val === 'ulang-tahun' || val === 'ultah') {
+        } else if (val === 'ulang-tahun' || val === 'ultah' || val === 'birthday') {
           window.location.href = '/order-undangan/ulang-tahun/' + window.location.search;
         } else if (val === 'aqiqah') {
           window.location.href = '/order-undangan/aqiqah/' + window.location.search;
         } else if (val === 'corporate') {
           window.location.href = '/order-undangan/corporate/' + window.location.search;
-        } else if (val === 'wisuda') {
+        } else if (val === 'wisuda' || val === 'graduation') {
           window.location.href = '/order-undangan/wisuda/' + window.location.search;
         } else if (val === 'grand-opening') {
           window.location.href = '/order-undangan/grand-opening/' + window.location.search;
@@ -461,25 +584,26 @@ import { siteConfig } from '../../data/site';
         const notes = fd.get('notes') || '-';
         const referralCode = fd.get('referralCode') || '-';
 
-        const message = `Halo Acaranya.id, saya ingin memesan Undangan Digital Premium!
+        const message = `*ORDER UNDANGAN DIGITAL - UMUM*
 
-📋 INFORMASI PEMESAN
-------------------------------
-• Nama Pemesan: ${name}
-• Nomor WhatsApp: ${whatsapp}
-• Email Aktif: ${email}
-• Pilihan Desain: ${template}
-• Paket Harga: ${pkg.toUpperCase()}
-• Kode Referal: ${referralCode}
+*Ringkasan*
+Jenis acara: ${eventType.toUpperCase()}
+Paket: ${pkg.toUpperCase()}
+Desain: ${template}
+Referal: ${referralCode}
 
-📅 DETAIL ACARA & LAINNYA
-------------------------------
-• Jenis Acara: ${eventType.toUpperCase()}
-• Tanggal Acara: ${eventDate}
-• Catatan Tambahan: ${notes}
+*Pemesan*
+Nama: ${name}
+WhatsApp: ${whatsapp}
+Email: ${email}
 
-------------------------------
-Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
+*Detail Acara*
+Tanggal acara: ${eventDate}
+Catatan tambahan: ${notes}
+
+*Checklist*
+- Data di atas sudah benar
+- Siap dihubungi admin Acaranya.id`;
 
         const url = `https://wa.me/${waPhone}?text=${encodeURIComponent(message)}`;
         window.open(url, '_blank');

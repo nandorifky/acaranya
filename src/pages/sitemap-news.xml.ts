@@ -25,7 +25,7 @@ export const GET: APIRoute = async () => {
       .replace(/'/g, '&apos;');
 
     return `  <url>
-    <loc>${siteConfig.url}/artikel/${post.id}/</loc>
+    <loc>${siteConfig.url}/artikel/${post.data.customSlug || post.id}/</loc>
     <news:news>
       <news:publication>
         <news:name>${siteConfig.name}</news:name>

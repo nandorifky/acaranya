@@ -76,7 +76,7 @@ const robots = page.currentPage > 1 ? 'noindex,follow' : 'index,follow';
         <>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
             {posts.map((post: any) => (
-              <a href={`/artikel/${post.id}/`} class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
+              <a href={`/artikel/${post.data.customSlug || post.id}/`} class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
                 {post.data.image ? (
                   <div class="aspect-[16/9] overflow-hidden">
                     <img

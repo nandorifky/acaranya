@@ -421,7 +421,7 @@ const jsonLd = [
                 <div class="group">
                   {prevPost && (
                     <a
-                      href={`/artikel/${prevPost.id}/`}
+                      href={`/artikel/${prevPost.data.customSlug || prevPost.id}/`}
                       class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all"
                     >
                       <span class="flex items-center gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">
@@ -436,7 +436,7 @@ const jsonLd = [
                 <div class="group text-right">
                   {nextPost && (
                     <a
-                      href={`/artikel/${nextPost.id}/`}
+                      href={`/artikel/${nextPost.data.customSlug || nextPost.id}/`}
                       class="flex flex-col gap-2 h-full p-6 bg-cream border border-border-soft rounded-sm hover:border-brand-500 transition-all"
                     >
                       <span class="flex items-center justify-end gap-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-text-muted">

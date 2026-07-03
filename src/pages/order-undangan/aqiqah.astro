@@ -632,35 +632,35 @@ import { siteConfig } from "../../data/site";
       const eventAddress = fd.get("eventAddress");
       const eventMaps = fd.get("eventMaps") || "Kirim manual ke WhatsApp admin";
 
-      const waMessage = `Halo Acaranya.id, saya ingin memesan Undangan Aqiqah Digital Premium!
+      const waMessage = `*ORDER UNDANGAN DIGITAL - AQIQAH*
 
-📋 INFORMASI PEMESAN
-------------------------------
-• Nama Pemesan: ${name}
-• Nomor WhatsApp: ${whatsapp}
-• Pilihan Desain: ${template}
-• Email Aktif: ${email}
-• Paket Harga: ${pkg.toUpperCase()}
-• Kode Referal: ${referralCode}
+*Ringkasan*
+Jenis acara: Aqiqah
+Paket: ${pkg.toUpperCase()}
+Desain: ${template}
+Referal: ${referralCode}
 
-👶 DATA BAYI & ORANG TUA
-------------------------------
-• Nama Lengkap Bayi: ${babyName}
-• Hari & Tanggal Lahir: ${babyBirthDetails}
-• Urutan Anak: ${babyOrder}
-• Nama Bapak: ${fatherName}
-• Nama Ibu: ${motherName}
+*Pemesan*
+Nama: ${name}
+WhatsApp: ${whatsapp}
+Email: ${email}
 
-📅 INFORMASI ACARA
-------------------------------
-🎉 TASYAKURAN AQIQAH:
-• Hari & Tanggal: ${eventDate}
-• Waktu: ${eventTime} ${eventTz}
-• Alamat: ${eventAddress}
-• Google Maps: ${eventMaps}
+*Data Bayi & Orang Tua*
+Nama lengkap bayi: ${babyName}
+Hari & tanggal lahir: ${babyBirthDetails}
+Urutan anak: ${babyOrder}
+Nama bapak: ${fatherName}
+Nama ibu: ${motherName}
 
-------------------------------
-Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
+*Acara Aqiqah*
+Tanggal: ${eventDate}
+Waktu: ${eventTime} ${eventTz}
+Alamat: ${eventAddress}
+Maps: ${eventMaps}
+
+*Checklist*
+- Data di atas sudah benar
+- Siap dihubungi admin Acaranya.id`;
 
       const targetUrl = `https://wa.me/${waPhone}?text=${encodeURIComponent(waMessage)}`;
       window.open(targetUrl, "_blank");

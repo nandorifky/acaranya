@@ -124,7 +124,7 @@ const canonicalUrl = `${siteConfig.url}/penulis/${author.id}/${page.currentPage 
           <>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
               {authorPosts.map((post: any) => (
-                <a href={`/artikel/${post.id}/`} class="group flex flex-col sm:flex-row gap-4 bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
+                <a href={`/artikel/${post.data.customSlug || post.id}/`} class="group flex flex-col sm:flex-row gap-4 bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
                   {post.data.image ? (
                     <div class="aspect-[16/9] sm:w-[180px] sm:aspect-square overflow-hidden shrink-0">
                       <img

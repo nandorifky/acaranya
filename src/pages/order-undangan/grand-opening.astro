@@ -583,33 +583,33 @@ import { siteConfig } from "../../data/site";
       const eventAddress = fd.get("eventAddress");
       const eventMaps = fd.get("eventMaps") || "Kirim manual ke WhatsApp admin";
 
-      const waMessage = `Halo Acaranya.id, saya ingin memesan Undangan Grand Opening Digital Premium!
+      const waMessage = `*ORDER UNDANGAN DIGITAL - GRAND OPENING*
 
-📋 INFORMASI PEMESAN
-------------------------------
-• Nama Pemesan: ${name}
-• Nomor WhatsApp: ${whatsapp}
-• Pilihan Desain: ${template}
-• Email Aktif: ${email}
-• Paket Harga: ${pkg.toUpperCase()}
-• Kode Referal: ${referralCode}
+*Ringkasan*
+Jenis acara: Grand Opening
+Paket: ${pkg.toUpperCase()}
+Desain: ${template}
+Referal: ${referralCode}
 
-🏢 INFORMASI BISNIS & TOKO
-------------------------------
-• Nama Brand/Toko: ${businessName}
-• Tagline Bisnis: ${businessTagline}
-• Nama Pemilik/Founder: ${ownerName}
+*Pemesan*
+Nama: ${name}
+WhatsApp: ${whatsapp}
+Email: ${email}
 
-📅 INFORMASI ACARA
-------------------------------
-🎉 PERESMIAN / GRAND OPENING:
-• Hari & Tanggal: ${eventDate}
-• Waktu: ${eventTime} ${eventTz}
-• Alamat: ${eventAddress}
-• Google Maps: ${eventMaps}
+*Informasi Bisnis / Toko*
+Nama brand/toko: ${businessName}
+Tagline bisnis: ${businessTagline}
+Nama pemilik/founder: ${ownerName}
 
-------------------------------
-Checklist: Saya menyatakan data di atas sudah diisi dengan benar dan valid.`;
+*Acara Grand Opening*
+Tanggal: ${eventDate}
+Waktu: ${eventTime} ${eventTz}
+Alamat: ${eventAddress}
+Maps: ${eventMaps}
+
+*Checklist*
+- Data di atas sudah benar
+- Siap dihubungi admin Acaranya.id`;
 
       const targetUrl = `https://wa.me/${waPhone}?text=${encodeURIComponent(waMessage)}`;
       window.open(targetUrl, "_blank");
