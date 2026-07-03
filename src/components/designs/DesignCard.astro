@@ -1,5 +1,6 @@
 ---
 import Icon from '../ui/Icon.astro';
+import slugify from 'slugify';
 
 interface Props {
   design: {
@@ -20,9 +21,10 @@ interface Props {
 const { design } = Astro.props;
 const { title, category, thumbnail, previewUrl, isPremium, tags = [] } = design.data;
 const slug = design.id;
+const anchorId = slugify(title, { lower: true, strict: true });
 ---
 
-<article class="group relative bg-surface border border-border-soft/60 rounded-3xl overflow-hidden hover:border-[#B59A73]/50 hover:-translate-y-1 transition-all duration-300 shadow-card hover:shadow-card-hover" id={`design-card-${slug}`}>
+<article class="design-card group relative bg-surface border border-border-soft/60 rounded-3xl overflow-hidden hover:border-[#B59A73]/50 hover:-translate-y-1 transition-all duration-300 shadow-card hover:shadow-card-hover" id={anchorId}>
   <!-- Thumbnail -->
   <div class="relative aspect-[3/4] overflow-hidden bg-surface-muted">
     {thumbnail ? (
@@ -53,7 +55,7 @@ const slug = design.id;
     <!-- Hover overlay -->
     <div class="absolute inset-0 bg-[#121110]/50 group-hover:bg-[#121110]/60 transition-all duration-300 flex items-center justify-center opacity-0 group-hover:opacity-100 group-[.active-overlay]:opacity-100 pointer-events-none group-hover:pointer-events-auto group-[.active-overlay]:pointer-events-auto backdrop-blur-[2px]">
       <div class="flex flex-col sm:flex-row gap-2 px-4 w-full justify-center items-center">
-        <a href={previewUrl} target="_blank" rel="noopener noreferrer"
+        <a href={previewUrl} target="_blank" rel="nofollow noopener noreferrer"
           aria-label={`Buka demo pratinjau langsung desain undangan digital ${title}`}
           data-action="preview-design"
           data-design-id={slug}
@@ -96,7 +98,7 @@ const slug = design.id;
 
 <script>
   function initDesignCards() {
-    const cards = document.querySelectorAll('article[id^="design-card-"]');
+    const cards = document.querySelectorAll('article.design-card');
     
     cards.forEach(card => {
       card.addEventListener('click', (e) => {
@@ -129,7 +131,7 @@ const slug = design.id;
 
     // Klik di mana saja di luar untuk menutup semua overlay card yang aktif
     document.addEventListener('click', (e) => {
-      if (!(e.target as HTMLElement).closest('article[id^="design-card-"]')) {
+      if (!(e.target as HTMLElement).closest('article.design-card')) {
         cards.forEach(card => card.classList.remove('active-overlay'));
       }
     });

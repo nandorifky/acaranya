@@ -9,6 +9,7 @@ import Pagination from '../../components/ui/Pagination.astro';
 import { getCollection, render } from 'astro:content';
 import { siteConfig } from '../../data/site';
 import { pricingPlans } from '../../data/pricing-static';
+import slugify from 'slugify';
 
 function bySortOrder(a, b) {
   return a.data.sortOrder - b.data.sortOrder || a.id.localeCompare(b.id);
@@ -108,6 +109,7 @@ const publishedCategories = allCategories
 const isFirstPage = page.currentPage === 1;
 const siteName = siteConfig.name;
 const toAbsoluteUrl = (url) => url?.startsWith('http') ? url : `${siteConfig.url}${url}`;
+const getDesignAnchorId = (title) => slugify(title, { lower: true, strict: true });
 
 // SEO logic
 const title = isCategory 
@@ -159,7 +161,7 @@ const jsonLd = [
         '@id': `${siteConfig.url}/desain-undangan-digital/#${design.id}`,
         name: `Template Undangan Digital - ${design.data.title}`,
         description: `Desain undangan digital ${design.data.category} tema ${design.data.title}.`,
-        url: toAbsoluteUrl(design.data.previewUrl),
+        url: `${canonicalUrl}#${getDesignAnchorId(design.data.title)}`,
         ...(design.data.thumbnail ? { image: toAbsoluteUrl(design.data.thumbnail) } : {}),
         brand: {
           '@type': 'Brand',

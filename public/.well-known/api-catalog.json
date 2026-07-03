@@ -1,0 +1,48 @@
+{
+  "name": "Acaranya.id Public Resources",
+  "description": "Machine-readable catalog for public Acaranya.id website resources. No public transactional API is currently advertised.",
+  "version": "1.0.0",
+  "homepage": "https://acaranya.id/",
+  "resources": [
+    {
+      "name": "LLMs guide",
+      "url": "https://acaranya.id/llms.txt",
+      "type": "text/plain",
+      "description": "Concise business, pricing, tools, and navigation summary for language models."
+    },
+    {
+      "name": "Sitemap index",
+      "url": "https://acaranya.id/sitemap-index.xml",
+      "type": "application/xml",
+      "description": "Search-engine and agent crawl entrypoint for public pages."
+    },
+    {
+      "name": "Pricing",
+      "url": "https://acaranya.id/harga/",
+      "type": "text/html",
+      "description": "Undangan digital package pricing."
+    },
+    {
+      "name": "Features",
+      "url": "https://acaranya.id/fitur/",
+      "type": "text/html",
+      "description": "Feature overview for Acaranya.id invitations."
+    },
+    {
+      "name": "Design catalog",
+      "url": "https://acaranya.id/desain-undangan-digital/",
+      "type": "text/html",
+      "description": "Public catalog of digital invitation designs."
+    },
+    {
+      "name": "Contact",
+      "url": "https://acaranya.id/kontak/",
+      "type": "text/html",
+      "description": "Official contact page."
+    }
+  ],
+  "contact": {
+    "email": "acaranya.id@gmail.com",
+    "whatsapp": "https://wa.me/6285113132300"
+  }
+}

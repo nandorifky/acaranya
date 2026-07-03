@@ -1,0 +1,20 @@
+{
+  "name": "Acaranya.id",
+  "description": "Platform undangan digital untuk pernikahan, ulang tahun, corporate event, wisuda, khitanan, aqiqah, natal, grand opening, dan acara formal lain di Indonesia.",
+  "url": "https://acaranya.id/",
+  "language": "id-ID",
+  "resources": {
+    "llms": "https://acaranya.id/llms.txt",
+    "sitemap": "https://acaranya.id/sitemap-index.xml",
+    "api_catalog": "https://acaranya.id/.well-known/api-catalog.json",
+    "pricing": "https://acaranya.id/harga/",
+    "features": "https://acaranya.id/fitur/",
+    "design_catalog": "https://acaranya.id/desain-undangan-digital/",
+    "contact": "https://acaranya.id/kontak/",
+    "order": "https://acaranya.id/order-undangan/"
+  },
+  "contact": {
+    "email": "acaranya.id@gmail.com",
+    "whatsapp": "https://wa.me/6285113132300"
+  }
+}

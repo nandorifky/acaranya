@@ -212,7 +212,7 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
       const canHover = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
       if (canHover) return;
 
-      const selector = 'a, button, summary, label, .group, .filter-btn, .portfolio-card, article[id^="design-card-"]';
+      const selector = 'a, button, summary, label, .group, .filter-btn, .portfolio-card, .design-card';
       const clear = () => document.querySelectorAll('.touch-hover').forEach((el) => el.classList.remove('touch-hover'));
 
       document.addEventListener('pointerdown', (event) => {

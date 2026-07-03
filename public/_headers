@@ -1,0 +1,7 @@
+/
+  Link: </llms.txt>; rel="service-desc"; type="text/plain"
+  Link: </.well-known/agent-discovery.json>; rel="service-desc"; type="application/json"
+  Link: </.well-known/api-catalog.json>; rel="api-catalog"; type="application/json"
+
+/.well-known/*
+  X-Robots-Tag: noindex
