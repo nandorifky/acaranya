@@ -26,7 +26,7 @@ Undangan cetak memang masih punya tempat, terutama untuk keluarga dekat atau tam
 
 Kondisi Banjarmasin yang datar, berawa, dan dekat dengan dinamika pasang air juga membuat kejelasan lokasi menjadi penting. Tamu perlu tahu titik acara secara akurat, apalagi jika lokasi berada di rumah keluarga, gedung, hotel, restoran, masjid, aula, atau area yang aksesnya melewati gang dan kawasan padat. Karena itu, fitur peta digital menjadi salah satu bagian paling membantu.
 
-Melalui fitur [_Google Maps_ interaktif](https://chatgpt.com/fitur/), tamu dapat membuka arah lokasi langsung dari undangan. Ini sederhana, tetapi sangat terasa manfaatnya, terutama untuk tamu luar kota yang belum hafal area Banjarmasin.
+Melalui fitur [_Google Maps_ interaktif](/fitur/), tamu dapat membuka arah lokasi langsung dari undangan. Ini sederhana, tetapi sangat terasa manfaatnya, terutama untuk tamu luar kota yang belum hafal area Banjarmasin.
 
 ## Tetap sopan untuk acara Banjar yang penuh keluarga
 
@@ -55,7 +55,7 @@ Berikut beberapa acara yang cocok menggunakan undangan digital:
 
 Setiap jenis acara bisa memakai gaya desain yang berbeda. Untuk aqiqah, tampilan lembut dan bersih biasanya terasa pas. Untuk khitanan, desain bisa dibuat lebih ceria tetapi tetap sopan. Untuk acara kantor, tampilan yang rapi dan profesional akan lebih cocok.
 
-Anda bisa melihat pilihan tampilan melalui [katalog tema undangan digital](https://chatgpt.com/tema). Dari sana, Anda dapat memilih desain yang paling sesuai dengan suasana acara di Banjarmasin.
+Anda bisa melihat pilihan tampilan melalui [katalog desain undangan digital](/desain-undangan-digital/). Dari sana, Anda dapat memilih desain yang paling sesuai dengan suasana acara di Banjarmasin.
 
 ### Fitur yang paling berguna untuk acara di Banjarmasin
 
@@ -120,7 +120,7 @@ Alur pemesanan:
 
 Semakin lengkap data yang Anda kirim, semakin cepat proses pengerjaan. Untuk acara yang memiliki beberapa sesi, pastikan urutan waktu sudah jelas sejak awal. Misalnya akad nikah pagi, resepsi siang, lalu acara keluarga malam hari.
 
-Jika Anda ingin melihat pilihan paket, silakan cek halaman [harga undangan digital](https://chatgpt.com/harga/). Anda bisa menyesuaikan paket dengan kebutuhan acara, jumlah fitur, dan tingkat tampilan yang diinginkan.
+Jika Anda ingin melihat pilihan paket, silakan cek halaman [harga undangan digital](/harga/). Anda bisa menyesuaikan paket dengan kebutuhan acara, jumlah fitur, dan tingkat tampilan yang diinginkan.
 
 ### Kapan undangan digital sebaiknya dibuat
 

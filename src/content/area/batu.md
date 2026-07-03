@@ -52,7 +52,7 @@ Beberapa acara yang cocok menggunakan undangan digital dari Acaranya.id meliputi
 - Seminar, pelatihan, peresmian usaha, dan acara komunitas
 - Acara villa, gathering keluarga, dan acara kantor di kawasan wisata Batu
 
-Untuk melihat pilihan desain, Anda bisa membuka [katalog desain undangan digital](https://chatgpt.com/desain-undangan-digital/) kami.
+Untuk melihat pilihan desain, Anda bisa membuka [katalog desain undangan digital](/desain-undangan-digital/) kami.
 
 ## Desain yang Pas untuk Karakter Batu
 
@@ -79,7 +79,7 @@ Undangan digital Acaranya.id dirancang untuk memudahkan penyelenggara dan tamu. 
 | Tamu tidak bisa hadir | Ucapan dan doa tetap bisa dikirim melalui halaman undangan |
 | Butuh undangan yang praktis | *Link* siap dibagikan lewat WhatsApp |
 
-Fitur seperti _RSVP_, buku tamu digital, _QR Code check-in_, galeri foto, musik latar, dan _countdown_ membantu acara terlihat lebih siap. Anda bisa membaca detailnya di halaman [fitur undangan digital](https://chatgpt.com/fitur/).
+Fitur seperti _RSVP_, buku tamu digital, _QR Code check-in_, galeri foto, musik latar, dan _countdown_ membantu acara terlihat lebih siap. Anda bisa membaca detailnya di halaman [fitur undangan digital](/fitur/).
 
 ## Pilihan Paket yang Bisa Disesuaikan
 
@@ -87,7 +87,7 @@ Setiap acara tidak punya kebutuhan yang sama. Ada yang cukup sederhana, ada yang
 
 Untuk acara keluarga kecil, paket sederhana biasanya sudah cukup. Anda bisa menampilkan informasi utama, peta lokasi, foto, dan ucapan. Untuk pernikahan atau acara besar, paket dengan _RSVP_, _rundown_, galeri lebih lengkap, amplop digital, dan fitur buku tamu akan lebih membantu.
 
-Sebelum memilih, Anda bisa cek [harga undangan digital](https://chatgpt.com/harga/) agar lebih mudah menyesuaikan kebutuhan dengan anggaran. Prinsipnya, pilih paket yang benar-benar berguna untuk acara Anda, bukan sekadar yang fiturnya paling banyak.
+Sebelum memilih, Anda bisa cek [harga undangan digital](/harga/) agar lebih mudah menyesuaikan kebutuhan dengan anggaran. Prinsipnya, pilih paket yang benar-benar berguna untuk acara Anda, bukan sekadar yang fiturnya paling banyak.
 
 ## Alur Pemesanan Undangan Digital Batu
 
@@ -124,6 +124,6 @@ Jika Anda sedang menyiapkan acara di Batu, undangan digital dari Acaranya.id bis
 
 Acaranya.id cocok untuk Anda yang ingin undangan cepat jadi, desain rapi, fitur lengkap, dan proses yang tidak merepotkan. Mulai dari pernikahan, khitanan, aqiqah, ulang tahun, syukuran, hingga acara formal, semuanya bisa dibuat dalam format digital yang sesuai kebutuhan.
 
-Lihat pilihan [area layanan undangan digital](https://chatgpt.com/area/) atau langsung cek [katalog desain](https://chatgpt.com/desain-undangan-digital/) untuk mulai menentukan konsep. Jika ingin membandingkan paket, buka [harga undangan digital](https://chatgpt.com/harga/) dan pilih yang paling sesuai dengan acara Anda di Batu.
+Lihat pilihan [area layanan undangan digital](/area/) atau langsung cek [katalog desain](/desain-undangan-digital/) untuk mulai menentukan konsep. Jika ingin membandingkan paket, buka [harga undangan digital](/harga/) dan pilih yang paling sesuai dengan acara Anda di Batu.
 
 Buat undangan digital Batu yang bukan hanya cantik, tetapi juga jelas, sopan, mudah dibuka, dan siap membantu tamu datang dengan nyaman.

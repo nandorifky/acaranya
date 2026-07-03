@@ -91,7 +91,7 @@ Jika acara Anda bernuansa adat Melayu, pilih warna hijau, emas, krem, putih, ata
 
 Jika acara dilakukan di hotel, ballroom, atau restoran modern, desain minimalis dengan tipografi rapi akan terlihat lebih profesional. Untuk acara tepi laut atau outdoor, warna lembut seperti biru, putih, pasir, dan hijau natural bisa memberi kesan segar.
 
-Jika acara Anda berupa ulang tahun anak, khitanan, atau aqiqah, pilih desain yang lebih ceria tetapi tetap nyaman dibaca. Anda bisa melihat inspirasi desain melalui halaman [tema undangan digital](https://chatgpt.com/desain/) agar lebih mudah menentukan gaya yang cocok.
+Jika acara Anda berupa ulang tahun anak, khitanan, atau aqiqah, pilih desain yang lebih ceria tetapi tetap nyaman dibaca. Anda bisa melihat inspirasi desain melalui halaman [desain undangan digital](/desain-undangan-digital/) agar lebih mudah menentukan gaya yang cocok.
 
 ## Cara Pesan Undangan Digital Batam di Acaranya.id
 
@@ -106,7 +106,7 @@ Berikut alur sederhananya:
 5. Revisi jika diperlukan: Perubahan bisa dilakukan sesuai ketentuan paket
 6. Undangan siap dibagikan: Anda tinggal mengirim _link_ ke tamu melalui WhatsApp atau media sosial
 
-Untuk melihat pilihan layanan utama, Anda bisa membuka halaman [undangan digital Acaranya.id](https://chatgpt.com/). Jika ingin membuat undangan khusus pernikahan, Anda juga bisa mengarahkannya ke halaman [undangan pernikahan](https://chatgpt.com/undangan-pernikahan/).
+Untuk melihat pilihan layanan utama, Anda bisa membuka halaman [undangan digital Acaranya.id](/). Jika ingin membuat undangan khusus pernikahan, Anda juga bisa mengarahkannya ke halaman [desain undangan pernikahan](/desain-undangan-digital/pernikahan/).
 
 ## Kapan Sebaiknya Membuat Undangan Digital Batam
 
@@ -140,7 +140,7 @@ Anda bisa memilih desain yang sudah tersedia, menyesuaikan isi undangan, serta m
 
 Untuk acara di Batam, fleksibilitas seperti ini sangat penting. Anda bisa mengundang tamu dari pusat kota, kawasan industri, area perumahan, pulau sekitar, dan luar kota dengan cara yang lebih cepat serta terukur.
 
-Jika ingin membandingkan paket, Anda bisa membuka halaman [harga undangan digital](https://chatgpt.com/harga/). Jika ingin melihat fitur lebih lengkap, silakan menuju halaman [fitur undangan digital](https://chatgpt.com/fitur/). Untuk konsultasi langsung, Anda bisa menghubungi tim melalui halaman [kontak Acaranya.id](https://chatgpt.com/kontak/).
+Jika ingin membandingkan paket, Anda bisa membuka halaman [harga undangan digital](/harga/). Jika ingin melihat fitur lebih lengkap, silakan menuju halaman [fitur undangan digital](/fitur/). Untuk konsultasi langsung, Anda bisa menghubungi tim melalui halaman [kontak Acaranya.id](/kontak/).
 
 ## Buat Undangan Digital Batam Anda Sekarang
 
