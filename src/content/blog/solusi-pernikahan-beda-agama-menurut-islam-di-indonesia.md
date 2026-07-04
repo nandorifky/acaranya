@@ -3,7 +3,7 @@ title: Solusi Pernikahan Beda Agama Menurut Islam di Indonesia
 customSlug: solusi-pernikahan-beda-agama-menurut-islam
 description: Solusi pernikahan beda agama menurut Islam di Indonesia, mulai dari hukum Islam, aturan terbaru, hingga langkah bijak sebelum menentukan akad nikah.
 publishedAt: 2026-07-04T15:09
-updatedAt: ''
+updatedAt: 2026-07-04T17:08
 author: nando-rifky
 category: Pernikahan
 tags:
