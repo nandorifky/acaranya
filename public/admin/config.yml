@@ -85,6 +85,29 @@ collections:
       - { label: "Urutan Katalog", name: "catalogSortOrder", widget: "number", value_type: "int", required: false, hint: "Angka kecil tampil lebih depan di katalog desain." }
       - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
 
+  - name: "blog-taxonomy"
+    label: "Kategori & Tag Blog"
+    files:
+      - name: "terms"
+        label: "Daftar Kategori & Tag Blog"
+        file: "src/content/blog-taxonomy/main.json"
+        format: "json"
+        fields:
+          - label: "Kategori Blog"
+            name: "categories"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Nama Tampil", name: "title", widget: "string" }
+              - { label: "Value Frontmatter", name: "value", widget: "string", hint: "Samakan dengan value lama jika kategori sudah dipakai artikel." }
+          - label: "Tag Blog"
+            name: "tags"
+            widget: "list"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Nama Tampil", name: "title", widget: "string" }
+              - { label: "Value Frontmatter", name: "value", widget: "string", hint: "Samakan dengan value lama jika tag sudah dipakai artikel." }
+
   - name: "blog"
     label: "Artikel Blog"
     folder: "src/content/blog"
@@ -102,11 +125,11 @@ collections:
       - { label: "Judul Artikel", name: "title", widget: "string" }
       - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^$|^[a-z0-9]+(?:-[a-z0-9]+)*$', "Kosongkan untuk pakai slug otomatis, atau gunakan huruf kecil, angka, dan tanda - saja. Contoh: rundown-pernikahan-akad-resepsi"] }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
-      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime" }
+      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", default: "{{now}}" }
       - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
       - { label: "Penulis (Author)", name: "author", widget: "relation", collection: "authors", value_field: "{{slug}}", search_fields: ["name"], display_fields: ["name"] }
-      - { label: "Kategori Blog", name: "category", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: [] }
+      - { label: "Kategori Blog", name: "category", widget: "relation", collection: "blog-taxonomy", file: "terms", value_field: "categories.*.value", search_fields: ["categories.*.title", "categories.*.value"], display_fields: ["categories.*.title"] }
+      - { label: "Tags", name: "tags", widget: "relation", collection: "blog-taxonomy", file: "terms", value_field: "tags.*.value", search_fields: ["tags.*.title", "tags.*.value"], display_fields: ["tags.*.title"], multiple: true, required: false, default: [] }
       - label: "Gambar Utama (Featured Image)"
         name: "image"
         widget: "image"

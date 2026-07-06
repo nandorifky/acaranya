@@ -67,7 +67,7 @@ const robots = page.currentPage > 1 ? 'noindex,follow' : 'index,follow';
           <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-12 gap-y-20 lg:gap-y-32">
             {publishedAreas.map((area: any) => (
               <a 
-                href={`/area/${area.id}/`} 
+                href={`/area/${area.data.customSlug || area.id}/`} 
                 class="group relative block"
               >
                 <!-- Large Initial Letter as background decoration -->

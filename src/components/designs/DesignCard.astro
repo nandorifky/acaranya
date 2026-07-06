@@ -48,6 +48,9 @@ const orderUrl = orderRoute
       <img 
         src={thumbnail} 
         alt={title} 
+        width="600"
+        height="800"
+        sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
         class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700 ease-out"
         loading="lazy"
         decoding="async"

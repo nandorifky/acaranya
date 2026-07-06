@@ -87,6 +87,20 @@ const blog = defineCollection({
   }),
 });
 
+const blogTaxonomy = defineCollection({
+  loader: glob({ pattern: '**/*.json', base: './src/content/blog-taxonomy' }),
+  schema: z.object({
+    categories: z.array(z.object({
+      title: z.string(),
+      value: z.string(),
+    })).default([]),
+    tags: z.array(z.object({
+      title: z.string(),
+      value: z.string(),
+    })).default([]),
+  }),
+});
+
 const testimonials = defineCollection({
   loader: glob({ pattern: '**/*.{md,json,mdoc}', base: './src/content/testimonials' }),
   schema: z.object({
@@ -198,4 +212,4 @@ const area = defineCollection({
   }),
 });
 
-export const collections = { designs, designCategories, blog, testimonials, faqs, authors, tools, portfolio, area };
+export const collections = { designs, designCategories, blog, blogTaxonomy, testimonials, faqs, authors, tools, portfolio, area };
