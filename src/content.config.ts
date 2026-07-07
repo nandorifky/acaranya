@@ -6,6 +6,29 @@ const faqItemSchema = z.object({
   answer: z.string(),
 });
 
+const normalizeDateInput = (value: unknown) => {
+  if (value === null || value === undefined || value === '') return undefined;
+
+  if (typeof value === 'object' && !(value instanceof Date)) {
+    const dateObject = value as Record<string, unknown>;
+    const hasValue = Object.values(dateObject).some((entry) => entry !== null && entry !== undefined && entry !== '');
+    if (!hasValue) return undefined;
+
+    if (typeof dateObject.value === 'string') return dateObject.value;
+    if (typeof dateObject.datetime === 'string') return dateObject.datetime;
+    if (typeof dateObject.date === 'string') {
+      return typeof dateObject.time === 'string' && dateObject.time
+        ? `${dateObject.date}T${dateObject.time}`
+        : dateObject.date;
+    }
+  }
+
+  return value;
+};
+
+const requiredDate = z.preprocess(normalizeDateInput, z.coerce.date());
+const optionalDate = z.preprocess(normalizeDateInput, z.coerce.date().optional());
+
 const designs = defineCollection({
   loader: glob({ pattern: '**/*.{md,json,mdoc}', base: './src/content/designs' }),
   schema: z.object({
@@ -20,7 +43,7 @@ const designs = defineCollection({
     package: z.enum(['simple', 'mengundang', 'meriah']).optional(),
     sortOrder: z.number().default(0),
     catalogSortOrder: z.number().default(0),
-    publishedAt: z.coerce.date().optional(),
+    publishedAt: optionalDate,
     status: z.enum(['draft', 'published']).default('published'),
   }),
 });
@@ -64,8 +87,8 @@ const blog = defineCollection({
     title: z.string(),
     customSlug: z.string().optional(),
     description: z.string(),
-    publishedAt: z.coerce.date(),
-    updatedAt: z.coerce.date().optional(),
+    publishedAt: requiredDate,
+    updatedAt: optionalDate,
     author: z.string(), // Slug of the author in the authors collection
     category: z.string(),
     tags: z.array(z.string()).default([]),
@@ -150,7 +173,7 @@ const tools = defineCollection({
     description: z.string(),
     toolComponent: z.string(),
     icon: z.string().optional(),
-    publishedAt: z.coerce.date().optional(),
+    publishedAt: optionalDate,
     status: z.enum(['draft', 'published']).default('published'),
     // SEO & SoftwareApplication Schema Fields
     seoTitle: z.string().optional(),
@@ -178,12 +201,12 @@ const portfolio = defineCollection({
     thumbnail: z.string(),
     gallery: z.array(z.string()).default([]),
     liveUrl: z.string().url().optional(),
-    eventDate: z.coerce.date().optional(),
+    eventDate: optionalDate,
     location: z.string().optional(),
     featuresUsed: z.array(z.string()).default([]),
     clientTestimonial: z.string().optional(),
     sortOrder: z.number().default(0),
-    publishedAt: z.coerce.date().optional(),
+    publishedAt: optionalDate,
     status: z.enum(['draft', 'published']).default('published'),
     seoTitle: z.string().optional(),
     seoDescription: z.string().optional(),
@@ -200,8 +223,8 @@ const area = defineCollection({
     province: z.string().optional(),
     coverImage: z.string().optional(),
     imageAlt: z.string().optional(),
-    publishedAt: z.coerce.date(),
-    updatedAt: z.coerce.date().optional(),
+    publishedAt: requiredDate,
+    updatedAt: optionalDate,
     status: z.enum(['draft', 'published']).default('published'),
     // SEO
     seoTitle: z.string().optional(),

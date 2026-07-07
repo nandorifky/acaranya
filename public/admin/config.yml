@@ -125,8 +125,8 @@ collections:
       - { label: "Judul Artikel", name: "title", widget: "string" }
       - { label: "Custom Slug URL (Opsional)", name: "customSlug", widget: "string", required: false, pattern: ['^$|^[a-z0-9]+(?:-[a-z0-9]+)*$', "Kosongkan untuk pakai slug otomatis, atau gunakan huruf kecil, angka, dan tanda - saja. Contoh: rundown-pernikahan-akad-resepsi"] }
       - { label: "Deskripsi Singkat", name: "description", widget: "text" }
-      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", default: "{{now}}" }
-      - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
+      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", default: "{{now}}", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false, format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Penulis (Author)", name: "author", widget: "relation", collection: "authors", value_field: "{{slug}}", search_fields: ["name"], display_fields: ["name"] }
       - { label: "Kategori Blog", name: "category", widget: "relation", collection: "blog-taxonomy", file: "terms", value_field: "categories.*.value", search_fields: ["categories.*.title", "categories.*.value"], display_fields: ["categories.*.title"] }
       - { label: "Tags", name: "tags", widget: "relation", collection: "blog-taxonomy", file: "terms", value_field: "tags.*.value", search_fields: ["tags.*.title", "tags.*.value"], display_fields: ["tags.*.title"], multiple: true, required: false, default: [] }
@@ -229,7 +229,7 @@ collections:
           - { label: "Cari Hari Pernikahan (CariHariPernikahan)", value: "CariHariPernikahan" }
           - { label: "Hitung Mundur Pernikahan (WeddingCountdown)", value: "WeddingCountdown" }
           - { label: "Generator Teks Undangan WA (GeneratorTeksUndangan)", value: "GeneratorTeksUndangan" }
-      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", required: false }
+      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", required: false, format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
       - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
       - { label: "Canonical URL (Optional)", name: "canonicalUrl", widget: "string", required: false }
@@ -271,7 +271,7 @@ collections:
       - { label: "Gambar Cover Utama (Thumbnail)", name: "thumbnail", widget: "image" }
       - { label: "Galeri Tangkapan Layar (Screenshots)", name: "gallery", widget: "list", field: { label: "Gambar", widget: "image" }, default: [] }
       - { label: "Tautan Live Website Klien", name: "liveUrl", widget: "string", required: false, description: "Contoh: https://inv.acaranya.id/sarah-rian" }
-      - { label: "Tanggal Acara", name: "eventDate", widget: "datetime", required: false }
+      - { label: "Tanggal Acara", name: "eventDate", widget: "datetime", required: false, format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Lokasi Acara", name: "location", widget: "string", required: false, description: "Contoh: Surabaya, Jawa Timur" }
       - { label: "Fitur yang Digunakan", name: "featuresUsed", widget: "list", default: [] }
       - { label: "Kutipan Ulasan Singkat Klien", name: "clientTestimonial", widget: "text", required: false }
@@ -303,8 +303,8 @@ collections:
       - { label: "Provinsi", name: "province", widget: "string", required: false }
       - { label: "Gambar Cover", name: "coverImage", widget: "image", required: false }
       - { label: "Alt Text Gambar", name: "imageAlt", widget: "string", required: false }
-      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime" }
-      - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false }
+      - { label: "Tanggal Rilis", name: "publishedAt", widget: "datetime", default: "{{now}}", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { label: "Tanggal Diperbarui", name: "updatedAt", widget: "datetime", required: false, format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
       - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
       - { label: "Noindex Tag?", name: "noindex", widget: "boolean", default: false }
