@@ -326,13 +326,27 @@ h3 {
 }
 
 /* Custom Premium Tables */
-.prose table {
-  display: block;
+.prose .table-wrapper {
   width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
+  margin: 2rem 0;
+  border: 1px solid var(--color-border-soft);
+  border-radius: 16px;
+  box-shadow: var(--shadow-card);
+  background-color: var(--color-surface);
+}
+
+.prose table {
+  width: 100%;
   border-collapse: separate;
   border-spacing: 0;
+  margin: 0;
+  table-layout: auto;
+}
+
+/* Fallback: table tanpa .table-wrapper tetap punya card style */
+.prose > table {
   margin: 2rem 0;
   border: 1px solid var(--color-border-soft);
   border-radius: 16px;
@@ -348,20 +362,28 @@ h3 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.15em;
-  padding: 1.25rem 1.5rem;
+  padding: 1rem 1.25rem;
   text-align: left;
   border-bottom: 1px solid var(--color-border-soft);
-  white-space: nowrap;
+}
+
+.prose th:first-child {
+  border-top-left-radius: 16px;
+}
+
+.prose th:last-child {
+  border-top-right-radius: 16px;
 }
 
 .prose td {
-  padding: 1.1rem 1.5rem;
+  padding: 0.9rem 1.25rem;
   font-size: 0.875rem;
   font-family: var(--font-sans);
   color: var(--color-text-secondary);
   border-bottom: 1px solid rgba(232, 227, 218, 0.4);
   transition: background-color 0.2s ease;
-  min-width: 120px;
+  vertical-align: middle;
+  word-break: break-word;
 }
 
 .prose tr:hover td {
@@ -370,6 +392,36 @@ h3 {
 
 .prose tr:last-child td {
   border-bottom: none;
+}
+
+.prose tr:last-child td:first-child {
+  border-bottom-left-radius: 16px;
+}
+
+.prose tr:last-child td:last-child {
+  border-bottom-right-radius: 16px;
+}
+
+/* ── Responsive mobile ── */
+@media (max-width: 640px) {
+  /* Tabel 3+ kolom: scroll horizontal */
+  .prose .table-wrapper.is-wide {
+    scroll-snap-type: x proximity;
+  }
+
+  .prose .table-wrapper.is-wide table {
+    min-width: 560px;
+  }
+
+  .prose th,
+  .prose td {
+    padding: 0.75rem 1rem;
+    font-size: 0.8125rem;
+  }
+
+  .prose th {
+    font-size: 0.675rem;
+  }
 }
 
 /* Custom Premium Lists */

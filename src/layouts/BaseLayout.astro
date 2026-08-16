@@ -227,5 +227,24 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
       document.addEventListener('scroll', clear, { passive: true });
     })();
   </script>
+
+  <script is:inline>
+    (() => {
+      document.querySelectorAll('.prose table').forEach((table) => {
+        var wrapper;
+        if (table.parentElement && table.parentElement.classList.contains('table-wrapper')) {
+          wrapper = table.parentElement;
+        } else {
+          wrapper = document.createElement('div');
+          wrapper.className = 'table-wrapper';
+          table.parentNode.insertBefore(wrapper, table);
+          wrapper.appendChild(table);
+        }
+        var colCount = table.querySelectorAll('thead th').length
+          || (table.querySelector('tr') ? table.querySelector('tr').querySelectorAll('td, th').length : 0);
+        if (colCount > 2) wrapper.classList.add('is-wide');
+      });
+    })();
+  </script>
 </body>
 </html>

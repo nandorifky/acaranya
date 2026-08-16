@@ -87,8 +87,8 @@ export const siteConfig = {
 
   seo: {
     titleTemplate: '%s | Acaranya.id',
-    defaultTitle: 'Buat Undangan Digital Website Terima Jadi Tanpa Antre!',
-    defaultDescription: 'Buat undangan digital modern dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
+    defaultTitle: 'Jasa Undangan Digital Premium untuk Semua Acara, Sehari Jadi',
+    defaultDescription: 'Jasa buat undangan digital premium dengan desain cantik, fitur lengkap, dan proses mudah. Pilih template, kirim data, lalu bagikan undanganmu.',
     keywords: 'undangan digital, undangan online, undangan website, wedding invitation, e-invitation',
 
     // Tracking & Verification Configurations
@@ -100,7 +100,7 @@ export const siteConfig = {
     googleTagManagerId: '',
     metaPixelId: '',
     ratingValue: '4.9',
-    reviewCount: '384',
+    reviewCount: '406',
     priceRange: dynamicPriceRange,
   },
 
