@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
+Content-Signal: search=yes, ai-train=no, ai-input=yes
+
 Sitemap: https://acaranya.id/sitemap-index.xml
 
 # OpenAI ChatGPT Crawlers
