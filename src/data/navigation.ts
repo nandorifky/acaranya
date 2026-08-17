@@ -11,6 +11,7 @@ export const mainNavigation: NavItem[] = [
   { label: 'Desain', href: '/desain-undangan-digital/' },
   { label: 'Portofolio', href: '/portfolio/' },
   { label: 'Artikel', href: '/artikel/' },
+  { label: 'Cari', href: '/search/' },
   { label: 'Kontak', href: '/kontak/' },
 ];
 
@@ -21,6 +22,7 @@ export const mobileNavigation: NavItem[] = [
   { label: 'Desain Undangan', href: '/desain-undangan-digital/' },
   { label: 'Portofolio', href: '/portfolio/' },
   { label: 'Artikel', href: '/artikel/' },
+  { label: 'Cari', href: '/search/' },
   { label: 'Mitra Reseller', href: '/reseller-undangan-digital/' },
   { label: 'Tentang', href: '/tentang/' },
   { label: 'Kontak', href: '/kontak/' },

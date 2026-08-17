@@ -42,7 +42,7 @@ const isPaginationUrl = (url) => {
 
 const isNoindexUrl = (url) => {
   const pathname = new URL(url).pathname;
-  return pathname === '/legal/' || pathname.startsWith('/legal/');
+  return pathname === '/search/' || pathname === '/legal/' || pathname.startsWith('/legal/');
 };
 
 // https://astro.build/config

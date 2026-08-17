@@ -1,0 +1,77 @@
+---
+import MarketingLayout from "../layouts/MarketingLayout.astro";
+import Container from "../components/base/Container.astro";
+import Section from "../components/base/Section.astro";
+---
+
+<MarketingLayout
+  title="Cari"
+  description="Cari artikel, desain undangan, halaman layanan, area, dan panduan yang kamu butuhkan."
+  canonical="/search/"
+  robots="noindex,follow"
+  pagefindBody={false}
+  breadcrumbs={[{ label: "Home", href: "/" }, { label: "Cari" }]}
+>
+  <Section class="bg-cream py-14 lg:py-20">
+    <Container narrow>
+      <div class="text-center mb-10 space-y-4">
+        <span class="text-[10px] uppercase tracking-[0.25em] text-soft-gold font-bold">Search</span>
+        <h1 class="font-serif text-4xl md:text-5xl text-brand-950 tracking-tight">Cari di Acaranya.id</h1>
+        <p class="text-text-secondary leading-relaxed max-w-2xl mx-auto">
+          Temukan artikel, desain undangan, halaman layanan, area, dan panduan yang kamu butuhkan.
+        </p>
+      </div>
+
+      <div class="rounded-[28px] border border-border-soft bg-surface p-5 md:p-8 shadow-card">
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+        <div id="search" class="pagefind-ui-wrapper"></div>
+      </div>
+    </Container>
+  </Section>
+
+  <Fragment slot="scripts">
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
+    <script is:inline>
+      function initSearch() {
+        if (typeof PagefindUI !== "undefined") {
+          new PagefindUI({
+            element: "#search",
+            showSubResults: true,
+            resetStyles: false,
+          });
+        } else {
+          setTimeout(initSearch, 100);
+        }
+      }
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", initSearch);
+      } else {
+        initSearch();
+      }
+    </script>
+  </Fragment>
+</MarketingLayout>
+
+<style is:global>
+  .pagefind-ui-wrapper {
+    --pagefind-ui-primary: var(--color-brand-950);
+    --pagefind-ui-text: var(--color-text-primary);
+    --pagefind-ui-background: var(--color-surface);
+    --pagefind-ui-border: var(--color-border-soft);
+    --pagefind-ui-tag: var(--color-surface-muted);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 14px;
+    --pagefind-ui-image-border-radius: 10px;
+    --pagefind-ui-font: var(--font-sans);
+  }
+
+  .pagefind-ui-wrapper .pagefind-ui__search-input {
+    font-weight: 500;
+  }
+
+  .pagefind-ui-wrapper .pagefind-ui__result-title {
+    font-family: var(--font-serif);
+    font-weight: 600;
+  }
+</style>

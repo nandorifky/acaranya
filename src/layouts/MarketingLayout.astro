@@ -19,18 +19,20 @@ interface Props {
   authorName?: string;
   section?: string;
   hideFloatingWa?: boolean;
+  pagefindBody?: boolean;
   breadcrumbs?: { label: string; href?: string }[];
 }
 
-const { hideFloatingWa = false, breadcrumbs, ...seoProps } = Astro.props;
+const { hideFloatingWa = false, pagefindBody = true, breadcrumbs, ...seoProps } = Astro.props;
 ---
 
 <BaseLayout {...seoProps}>
   <SiteHeader />
   <Breadcrumbs items={breadcrumbs} />
-  <main class="flex-1">
+  <main class="flex-1" data-pagefind-body={pagefindBody ? true : undefined}>
     <slot />
   </main>
   <SiteFooter />
   {!hideFloatingWa && <FloatingWhatsapp />}
+  <slot name="scripts" />
 </BaseLayout>

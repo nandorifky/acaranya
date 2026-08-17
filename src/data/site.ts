@@ -136,7 +136,11 @@ export const siteConfig = {
       name: '5+ Freelancers',
       role: 'All Rounder',
     }
-  }
+  },
+
+  blog: {
+    showAuthorImage: false,
+  },
 } as const;
 
 export type SiteConfig = typeof siteConfig;
