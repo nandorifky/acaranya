@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist && xcopy /E /I /Y dist\\pagefind public\\pagefind",
+    "build": "astro build && pagefind --site dist && node -e \"import('node:fs').then(f=>f.cpSync('dist/pagefind','public/pagefind',{recursive:true,force:true}))\"",
     "preview": "astro preview",
     "astro": "astro"
   },
