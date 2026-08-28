@@ -3,7 +3,7 @@ title: Penulisan Nama Undangan untuk Pejabat yang Benar, Lengkap dengan Contohny
 customSlug: ''
 description: Pelajari penulisan nama undangan untuk pejabat yang benar, mulai dari sapaan, gelar, jabatan, Yth., hingga contoh format untuk berbagai acara.
 publishedAt: 2026-04-08T17:50:00+07:00
-updatedAt: 2026-05-25T04:30:00+07:00
+updatedAt: 2026-08-28T16:48:00+07:00
 author: indira
 category: Inspirasi
 tags:
