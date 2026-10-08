@@ -53,7 +53,7 @@ collections:
               - { label: "Icon Name (Lucide)", name: "icon", widget: "string", description: "Contoh: check-circle, zap, shield-check" }
       - { label: "Custom CTA Title", name: "ctaTitle", widget: "string", required: false }
       - { label: "Custom CTA Subtitle", name: "ctaSubtitle", widget: "text", required: false }
-      - { label: "Konten SEO (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
+      - { label: "Konten SEO (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"] }
 
   - name: "designs"
     label: "Katalog Desain"
@@ -119,7 +119,7 @@ collections:
     sortable_fields:
       default:
         field: "publishedAt"
-        direction: "desc"
+        direction: "descending"
       fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Artikel", name: "title", widget: "string" }
@@ -154,7 +154,7 @@ collections:
           - { label: "Pertanyaan", name: "question", widget: "string" }
           - { label: "Jawaban", name: "answer", widget: "text" }
       - { label: "Custom JSON-LD (Opsional)", name: "customJsonLd", widget: "text", required: false, description: "Isi JSON object atau array valid, tanpa tag script." }
-      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
+      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"] }
 
 
   - name: "testimonials"
@@ -214,7 +214,7 @@ collections:
     sortable_fields:
       default:
         field: "publishedAt"
-        direction: "desc"
+        direction: "descending"
       fields: ["title", "publishedAt", "status"]
     fields:
       - { label: "Judul Halaman Tool", name: "title", widget: "string" }
@@ -250,7 +250,7 @@ collections:
           - { label: "Pertanyaan", name: "question", widget: "string" }
           - { label: "Jawaban", name: "answer", widget: "text" }
       - { label: "Custom JSON-LD (Opsional)", name: "customJsonLd", widget: "text", required: false, description: "Isi JSON object atau array valid, tanpa tag script." }
-      - { label: "Isi Konten Artikel Panduan (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
+      - { label: "Isi Konten Artikel Panduan (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"] }
 
   - name: "portfolio"
     label: "Portofolio Klien"
@@ -261,7 +261,7 @@ collections:
     sortable_fields:
       default:
         field: "eventDate"
-        direction: "desc"
+        direction: "descending"
       fields: ["title", "eventDate", "status"]
     fields:
       - { label: "Judul Portofolio", name: "title", widget: "string", description: "Contoh: Undangan Pernikahan Mewah Sarah & Rian" }
@@ -269,7 +269,7 @@ collections:
       - { label: "Kategori Event", name: "category", widget: "relation", collection: "design-categories", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"] }
       - { label: "Template Desain yang Digunakan", name: "designUsed", widget: "relation", collection: "designs", value_field: "{{slug}}", display_fields: ["title"], search_fields: ["title"], required: false }
       - { label: "Gambar Cover Utama (Thumbnail)", name: "thumbnail", widget: "image" }
-      - { label: "Galeri Tangkapan Layar (Screenshots)", name: "gallery", widget: "list", field: { label: "Gambar", widget: "image" }, default: [] }
+      - { label: "Galeri Tangkapan Layar (Screenshots)", name: "gallery", widget: "list", field: { label: "Gambar", name: "image", widget: "image" }, default: [] }
       - { label: "Tautan Live Website Klien", name: "liveUrl", widget: "string", required: false, description: "Contoh: https://inv.acaranya.id/sarah-rian" }
       - { label: "Tanggal Acara", name: "eventDate", widget: "datetime", required: false, format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Lokasi Acara", name: "location", widget: "string", required: false, description: "Contoh: Surabaya, Jawa Timur" }
@@ -279,7 +279,7 @@ collections:
       - { label: "Status Publikasi", name: "status", widget: "select", options: ["draft", "published"], default: "published" }
       - { label: "SEO Custom Title (Optional)", name: "seoTitle", widget: "string", required: false }
       - { label: "SEO Custom Description (Optional)", name: "seoDescription", widget: "text", required: false }
-      - { label: "Konten Cerita/Studi Kasus (Body - Opsional)", name: "body", widget: "markdown", required: false, buttons: ["bold", "italic", "code", "link", "heading-two", "heading-three", "quote", "bulleted-list", "numbered-list", "image"] }
+      - { label: "Konten Cerita/Studi Kasus (Body - Opsional)", name: "body", widget: "markdown", required: false, buttons: ["bold", "italic", "code", "link", "heading-two", "heading-three", "quote", "bulleted-list", "numbered-list"] }
 
   - name: "area"
     label: "Area Layanan (Local SEO)"
@@ -291,7 +291,7 @@ collections:
     sortable_fields:
       default:
         field: "publishedAt"
-        direction: "desc"
+        direction: "descending"
       fields: ["title", "publishedAt", "status"]
     media_folder: "/public/images/area"
     public_folder: "/images/area"
@@ -317,4 +317,4 @@ collections:
           - { label: "Pertanyaan", name: "question", widget: "string" }
           - { label: "Jawaban", name: "answer", widget: "text" }
       - { label: "Custom JSON-LD (Opsional)", name: "customJsonLd", widget: "text", required: false, description: "Isi JSON object atau array valid, tanpa tag script." }
-      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list", "image"] }
+      - { label: "Isi Konten Artikel (Body)", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"] }
