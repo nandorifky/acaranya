@@ -1,8 +1,7 @@
-import { defineMarkdocConfig, nodes } from '@astrojs/markdoc/config';
-import markdocPkg from '@markdoc/markdoc';
+import { defineMarkdocConfig, nodes, Markdoc } from '@astrojs/markdoc/config';
 import dimensions from './src/data/image-dimensions.json' with { type: 'json' };
 
-const { Tag } = markdocPkg;
+const { Tag } = Markdoc;
 
 const imgAttrs = {
   ...nodes.image.attributes,
