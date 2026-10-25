@@ -1,3 +1,17 @@
+# Cache immutable untuk aset hashed oleh Vite/Astro
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Pagefind index dibangun ulang tiap deploy (nama file sebagian tidak hashed)
+/pagefind/*
+  Cache-Control: public, max-age=86400
+
+# Gambar statis & ikon
+/images/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=86400
+/favicon.ico
+  Cache-Control: public, max-age=604800
+
 /
   Link: </llms.txt>; rel="service-desc"; type="text/plain"
   Link: </.well-known/agent-discovery.json>; rel="service-desc"; type="application/json"

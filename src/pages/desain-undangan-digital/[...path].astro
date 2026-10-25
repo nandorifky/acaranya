@@ -156,25 +156,9 @@ const jsonLd = [
     itemListElement: page.data.map((design, index) => ({
       '@type': 'ListItem',
       position: page.start + index + 1,
-      item: {
-        '@type': 'Product',
-        '@id': `${siteConfig.url}/desain-undangan-digital/#${design.id}`,
-        name: `Template Undangan Digital - ${design.data.title}`,
-        description: `Desain undangan digital ${design.data.category} tema ${design.data.title}.`,
-        url: `${canonicalUrl}#${getDesignAnchorId(design.data.title)}`,
-        ...(design.data.thumbnail ? { image: toAbsoluteUrl(design.data.thumbnail) } : {}),
-        brand: {
-          '@type': 'Brand',
-          name: siteConfig.name,
-        },
-        offers: {
-          '@type': 'Offer',
-          price: basePrice,
-          priceCurrency: 'IDR',
-          availability: 'https://schema.org/InStock',
-          url: `${siteConfig.url}/harga/`,
-        }
-      }
+      name: `Template Undangan Digital - ${design.data.title}`,
+      ...(design.data.thumbnail ? { image: toAbsoluteUrl(design.data.thumbnail) } : {}),
+      url: `${canonicalUrl}#${getDesignAnchorId(design.data.title)}`,
     }))
   }
 ];
