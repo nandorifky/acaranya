@@ -188,6 +188,43 @@ h3 {
   }
 }
 
+/* Mobile drawer open/close transition */
+.mobile-menu-panel {
+  visibility: hidden;
+  transform: translateY(-8px) scale(0.995);
+  transition:
+    opacity 240ms ease,
+    transform 240ms ease,
+    visibility 0s linear 240ms;
+}
+
+.mobile-menu-panel.is-open {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0) scale(1);
+  transition:
+    opacity 240ms ease,
+    transform 240ms ease,
+    visibility 0s linear 0s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mobile-menu-panel {
+    transition: opacity 1ms linear, visibility 0s linear 1ms;
+    transform: none;
+  }
+
+  .mobile-menu-panel.is-open {
+    transition: opacity 1ms linear, visibility 0s linear 0s;
+    transform: none;
+  }
+
+  .mobile-menu-panel [style*="animation"] {
+    animation: none !important;
+  }
+}
+
 @keyframes shimmer {
   0% {
     background-position: -200% 0;

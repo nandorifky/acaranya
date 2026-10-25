@@ -1,10 +1,12 @@
 ---
 import { siteConfig } from "../../data/site";
-import { mainNavigation, mobileNavigation, ctaNavItem } from "../../data/navigation";
+import { mainNavigation, mobileNavigationGroups, ctaNavItem } from "../../data/navigation";
 import Icon from "../ui/Icon.astro";
 import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
 
 const pathname = Astro.url.pathname;
+const isActivePath = (href: string) =>
+  pathname === href || (href !== "/" && pathname.startsWith(href));
 ---
 
 <header
@@ -112,23 +114,44 @@ const pathname = Astro.url.pathname;
 
 <div
   id="mobile-menu-overlay"
-  class="fixed inset-0 z-[9999] hidden flex-col bg-cream"
+  class="mobile-menu-panel fixed inset-0 z-[9999] flex flex-col bg-cream opacity-0 pointer-events-none"
   role="dialog"
   aria-modal="true"
   aria-label="Menu navigasi"
+  aria-hidden="true"
 >
-  <div class="flex items-center justify-between px-5 h-[68px] shrink-0 border-b border-border-soft/50">
-    <img
-      src={siteConfig.branding.logo1x1Png}
-      alt=""
-      width="36"
-      height="36"
-      class="w-9 h-9 object-contain"
-      decoding="async"
-    />
+  <!-- Decorative background -->
+  <div
+    class="absolute inset-0 pointer-events-none opacity-[0.35]"
+    style="background-image: radial-gradient(circle, currentColor 1px, transparent 1px); background-size: 26px 26px;"
+    aria-hidden="true"
+  >
+  </div>
+
+  <!-- Top bar -->
+  <div
+    class="relative flex items-center justify-between px-5 h-[72px] shrink-0 border-b border-border-soft/50 bg-cream/95 backdrop-blur-md"
+  >
+    <a
+      href="/"
+      class="flex items-center gap-2.5 group mobile-menu-link"
+      aria-label={`Kembali ke beranda ${siteConfig.name}`}
+    >
+      <img
+        src={siteConfig.branding.logo1x1Png}
+        alt=""
+        width="36"
+        height="36"
+        class="w-9 h-9 object-contain"
+        decoding="async"
+      />
+      <span class="font-serif text-base font-semibold text-brand-950">
+        {siteConfig.name}
+      </span>
+    </a>
     <button
       type="button"
-      class="w-10 h-10 flex items-center justify-center rounded-full bg-surface-muted text-text-secondary"
+      class="w-11 h-11 flex items-center justify-center rounded-full bg-surface-muted text-text-secondary hover:bg-brand-100 hover:text-brand-900 transition-colors"
       aria-label="Tutup menu"
       id="mobile-menu-close"
     >
@@ -136,32 +159,92 @@ const pathname = Astro.url.pathname;
     </button>
   </div>
 
-  <nav class="flex-1 flex flex-col justify-center px-8 overflow-y-auto -mt-10" aria-label="Navigasi Mobile">
-    <div>
-      {mobileNavigation.map((item, index) => (
-        <a
-          href={item.href}
-          class:list={[
-            "mobile-menu-link group flex items-center justify-between py-3 border-border-soft/40",
-            index < mobileNavigation.length - 1 ? "border-b" : "",
-          ]}
-          style={`animation: mnSlideUp 0.3s ease-out ${index * 0.04}s both;`}
-        >
-          <span class="font-serif text-2xl font-medium text-text-primary">{item.label}</span>
-          <Icon name="arrow-up-right" size={16} class="text-text-muted opacity-30" />
-        </a>
-      ))}
-    </div>
-  </nav>
+  <!-- Scrollable content -->
+  <div class="relative flex-1 overflow-y-auto overscroll-contain px-5 pb-6">
+    {
+      mobileNavigationGroups.map((group, groupIndex) => (
+        <div class="mt-6">
+          <p
+            class="px-1 mb-2 text-[10px] font-bold uppercase tracking-[0.22em] text-text-muted"
+            style={`animation: mnSlideUp 0.3s ease-out ${groupIndex * 0.06}s both;`}
+          >
+            {group.title}
+          </p>
+          <div class="border-t border-border-soft/50">
+            {group.items.map((item, itemIndex) => {
+              const active = isActivePath(item.href);
+              return (
+                <a
+                  href={item.href}
+                  aria-current={active ? 'page' : undefined}
+                  class:list={[
+                    'mobile-menu-link group relative flex items-center gap-3.5 min-h-[54px] py-3 pl-3 pr-2 border-b border-border-soft/40 transition-colors',
+                    active ? 'text-soft-gold' : 'text-text-primary hover:bg-surface-muted/50',
+                  ]}
+                  style={`animation: mnSlideUp 0.3s ease-out ${groupIndex * 0.06 + itemIndex * 0.03 + 0.04}s both;`}
+                >
+                  {active && (
+                    <span class="absolute left-0 top-1/2 -translate-y-1/2 w-[3px] h-6 rounded-full bg-soft-gold" aria-hidden="true" />
+                  )}
+                  <span
+                    class:list={[
+                      'flex items-center justify-center w-9 h-9 rounded-full shrink-0 transition-colors',
+                      active
+                        ? 'bg-soft-gold/15 text-soft-gold'
+                        : 'bg-surface-muted text-brand-700 group-hover:bg-brand-100 group-hover:text-brand-900',
+                    ]}
+                    aria-hidden="true"
+                  >
+                    <Icon name={item.icon || 'chevron-right'} size={16} />
+                  </span>
+                  <span class="flex-1 min-w-0">
+                    <span class="block font-serif text-[1.15rem] font-medium leading-snug">
+                      {item.label}
+                    </span>
+                    {item.description && (
+                      <span class="block text-[11px] text-text-muted leading-snug mt-0.5 truncate">
+                        {item.description}
+                      </span>
+                    )}
+                  </span>
+                  <Icon
+                    name="chevron-right"
+                    size={15}
+                    class:list={['shrink-0 transition-transform', active ? 'text-soft-gold' : 'text-text-muted opacity-40 group-hover:translate-x-0.5']}
+                  />
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      ))
+    }
+  </div>
 
-  <div class="px-5 py-5 shrink-0 border-t border-border-soft/50">
-    <a href={ctaNavItem.href} class="mobile-menu-link flex items-center justify-center gap-2 w-full py-3.5 bg-brand-900 text-white text-[12px] font-semibold uppercase tracking-[0.15em] rounded-sm">
+  <!-- Sticky bottom actions -->
+  <div
+    class="relative shrink-0 px-5 pt-4 pb-5 border-t border-border-soft/50 bg-cream/95 backdrop-blur-md"
+    style="padding-bottom: calc(1.25rem + env(safe-area-inset-bottom));"
+  >
+    <a
+      href={ctaNavItem.href}
+      class="mobile-menu-link flex items-center justify-center gap-2 w-full min-h-[48px] py-3.5 bg-brand-900 hover:bg-brand-950 text-white text-[12px] font-semibold uppercase tracking-[0.15em] rounded-sm transition-colors active:scale-[0.99]"
+    >
       {ctaNavItem.label}
+      <Icon name="arrow-right" size={14} />
     </a>
-    <a href={createWhatsappUrl()} target="_blank" rel="noopener noreferrer" class="mobile-menu-link flex items-center justify-center gap-2 w-full py-3 mt-2.5 border border-border-soft text-text-primary text-[12px] font-semibold uppercase tracking-[0.15em] rounded-sm">
+    <a
+      href={createWhatsappUrl()}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="mobile-menu-link flex items-center justify-center gap-2 w-full min-h-[48px] py-3 mt-2.5 border border-border-soft hover:border-brand-300 hover:bg-surface-muted/60 text-text-primary text-[12px] font-semibold uppercase tracking-[0.15em] rounded-sm transition-colors"
+    >
       <Icon name="whatsapp" size={15} />
       Chat WhatsApp
     </a>
+    <p class="mt-3 text-center text-[11px] text-text-muted">
+      {siteConfig.contact.whatsappDisplay} · Senin–Sabtu, 08.00–21.00 WIB
+    </p>
   </div>
 </div>
 
@@ -172,25 +255,75 @@ const pathname = Astro.url.pathname;
   const headerContainer = document.getElementById("header-container");
   const mobileMenuTrigger = document.getElementById("mobile-menu-trigger");
   const mobileMenuClose = document.getElementById("mobile-menu-close");
-  const mobileMenuOverlay = document.getElementById("mobile-menu-overlay");
+  const mobileMenuOverlay = document.getElementById("mobile-menu-overlay") as HTMLElement & { inert: boolean };
+  let lastFocusedElement: HTMLElement | null = null;
 
   const setMobileMenuOpen = (isOpen: boolean) => {
     if (!mobileMenuOverlay || !mobileMenuTrigger) return;
-    mobileMenuOverlay.classList.toggle("hidden", !isOpen);
-    mobileMenuOverlay.classList.toggle("flex", isOpen);
+
+    mobileMenuOverlay.classList.toggle("is-open", isOpen);
+    mobileMenuOverlay.setAttribute("aria-hidden", String(!isOpen));
     mobileMenuTrigger.setAttribute("aria-expanded", String(isOpen));
-    document.documentElement.style.overflow = isOpen ? "hidden" : "";
-    document.body.style.overflow = isOpen ? "hidden" : "";
+
+    if (isOpen) {
+      lastFocusedElement = document.activeElement as HTMLElement | null;
+      document.documentElement.style.overflow = "hidden";
+      document.body.style.overflow = "hidden";
+      mobileMenuOverlay.inert = false;
+      window.setTimeout(() => mobileMenuClose?.focus(), 60);
+    } else {
+      document.documentElement.style.overflow = "";
+      document.body.style.overflow = "";
+      mobileMenuOverlay.inert = true;
+      lastFocusedElement?.focus?.();
+    }
   };
+
+  const isMobileMenuOpen = () =>
+    !!mobileMenuOverlay?.classList.contains("is-open");
+
+  if (mobileMenuOverlay) mobileMenuOverlay.inert = true;
 
   mobileMenuTrigger?.addEventListener("click", () => setMobileMenuOpen(true));
   mobileMenuClose?.addEventListener("click", () => setMobileMenuOpen(false));
   document.querySelectorAll(".mobile-menu-link").forEach((link) => {
     link.addEventListener("click", () => setMobileMenuOpen(false));
   });
+
   document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") setMobileMenuOpen(false);
+    if (!isMobileMenuOpen()) return;
+
+    if (event.key === "Escape") {
+      event.preventDefault();
+      setMobileMenuOpen(false);
+      return;
+    }
+
+    if (event.key !== "Tab" || !mobileMenuOverlay) return;
+
+    const focusable = mobileMenuOverlay.querySelectorAll<HTMLElement>(
+      'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])',
+    );
+    if (focusable.length === 0) return;
+
+    const first = focusable[0];
+    const last = focusable[focusable.length - 1];
+
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
   });
+
+  // Close the drawer if the viewport grows into the desktop breakpoint.
+  const desktopQuery = window.matchMedia("(min-width: 1024px)");
+  const handleDesktopChange = (event: MediaQueryListEvent | MediaQueryList) => {
+    if (event.matches && isMobileMenuOpen()) setMobileMenuOpen(false);
+  };
+  desktopQuery.addEventListener("change", handleDesktopChange);
 
   window.addEventListener("scroll", () => {
     if (headerContainer) {
