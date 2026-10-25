@@ -29,7 +29,7 @@ Jangan sampai terlewat, karena sighat taklik nikah ini bisa jadi penyelamat atau
 
 Simak lebih lanjut karena ada banyak yang perlu dipahami dari bacaan sighat taklik ini. Artikel ini mengajak untuk lebih mendalami sighat taklik, baik itu dari segi teks sighat taklik hingga konsekuensi hukumnya.
 
-### **Apa Itu Sighat Ta’lik dan Kenapa Penting?**
+## Apa Itu Sighat Ta’lik dan Kenapa Penting?
 
 Sighat Ta’lik adalah pernyataan yang diucapkan oleh suami setelah akad nikah. Biasanya, bunyi sighat taklik ini akan tercantum dalam buku nikah dan menjadi semacam janji tertulis yang harus dipegang oleh suami.
 

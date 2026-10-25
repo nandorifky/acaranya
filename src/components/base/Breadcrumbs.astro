@@ -17,7 +17,7 @@ const pathname = Astro.url.pathname;
 let breadcrumbItems: BreadcrumbItem[] = items || [];
 
 if (!items && pathname !== '/') {
-  breadcrumbItems = [{ label: 'Home', href: '/' }];
+  breadcrumbItems = [{ label: 'Beranda', href: '/' }];
   const segments = pathname.split('/').filter(Boolean);
   
   const labelMap: Record<string, string> = {
@@ -71,7 +71,7 @@ const jsonLd = !isHome ? {
 ---
 
 {!isHome && (
-  <nav aria-label="Breadcrumb" class="w-full bg-transparent relative z-20">
+  <nav aria-label="Navigasi remah" class="w-full bg-transparent relative z-20">
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
     <div class="max-w-5xl mx-auto px-5 pt-8 pb-0">
       <ol class="flex items-center flex-wrap gap-1 text-[10px] tracking-[0.2em] uppercase font-medium">

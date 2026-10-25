@@ -5,6 +5,7 @@ import react from '@astrojs/react';
 import markdoc from '@astrojs/markdoc';
 import sitemap, { ChangeFreqEnum } from '@astrojs/sitemap';
 import rehypeSlug from 'rehype-slug';
+import addImageDimensions from './src/lib/rehype/add-image-dimensions.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import matter from 'gray-matter';
@@ -61,7 +62,7 @@ export default defineConfig({
   },
 
   markdown: {
-    rehypePlugins: [rehypeSlug],
+    rehypePlugins: [rehypeSlug, addImageDimensions],
   },
 
   vite: {

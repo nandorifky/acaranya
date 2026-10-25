@@ -4,10 +4,15 @@ import Container from "../components/base/Container.astro";
 import Section from "../components/base/Section.astro";
 import Icon from "../components/ui/Icon.astro";
 import { siteConfig } from "../data/site";
+import { getImageSizeAttrs } from "../lib/images/get-image-dimensions";
+
+const founderAvatarSize = getImageSizeAttrs(siteConfig.team.founder.avatar);
+const editor1AvatarSize = getImageSizeAttrs(siteConfig.team.editor1.avatar);
+const editor2AvatarSize = getImageSizeAttrs(siteConfig.team.editor2.avatar);
 ---
 
 <MarketingLayout
-  title="Tentang Acaranya.id — Layanan Undangan Digital Profesional"
+  title="Tentang Acaranya.id â€” Layanan Undangan Digital Profesional"
   description="Ketahui visi, misi, dan tim di balik Acaranya.id, penyedia layanan undangan digital website profesional di Indonesia."
 >
   <!-- Hero Section -->
@@ -191,7 +196,9 @@ import { siteConfig } from "../data/site";
           >
             <img
               src={siteConfig.team.founder.avatar}
-              alt={`${siteConfig.team.founder.name} ${siteConfig.team.founder.role} ${siteConfig.name}`}
+              alt={`Foto ${siteConfig.team.founder.name}`}
+              width={founderAvatarSize.width}
+              height={founderAvatarSize.height}
               class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
             />
           </div>
@@ -276,7 +283,9 @@ import { siteConfig } from "../data/site";
             >
               <img
                 src={siteConfig.team.founder.avatar}
-                alt={`${siteConfig.team.founder.name} ${siteConfig.team.founder.role} ${siteConfig.name}`}
+                alt={`Foto ${siteConfig.team.founder.name}`}
+              width={founderAvatarSize.width}
+              height={founderAvatarSize.height}
                 class="w-full h-full object-cover"
               />
             </div>
@@ -301,7 +310,9 @@ import { siteConfig } from "../data/site";
             >
               <img
                 src={siteConfig.team.editor1.avatar}
-                alt={`${siteConfig.team.editor1.name} ${siteConfig.team.editor1.role} ${siteConfig.name}`}
+                alt={`Foto ${siteConfig.team.editor1.name}`}
+              width={editor1AvatarSize.width}
+              height={editor1AvatarSize.height}
                 class="w-full h-full object-cover"
               />
             </div>
@@ -326,7 +337,9 @@ import { siteConfig } from "../data/site";
             >
               <img
                 src={siteConfig.team.editor2.avatar}
-                alt={`${siteConfig.team.editor2.name} ${siteConfig.team.editor2.role} ${siteConfig.name}`}
+                alt={`Foto ${siteConfig.team.editor2.name}`}
+              width={editor2AvatarSize.width}
+              height={editor2AvatarSize.height}
                 class="w-full h-full object-cover"
               />
             </div>

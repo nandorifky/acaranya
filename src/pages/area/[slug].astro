@@ -6,6 +6,7 @@ import Icon from '../../components/ui/Icon.astro';
 import DesignCard from '../../components/designs/DesignCard.astro';
 import { getCollection, render } from 'astro:content';
 import { siteConfig } from '../../data/site';
+import { getImageSizeAttrs } from '../../lib/images/get-image-dimensions';
 
 export async function getStaticPaths() {
   const areas = await getCollection('area');
@@ -29,6 +30,7 @@ function parseCustomJsonLd(value?: string) {
 
 const { area } = Astro.props;
 const { Content } = await render(area);
+const coverImageSize = getImageSizeAttrs(area.data.coverImage);
 
 const allDesigns = await getCollection('designs');
 const showcaseDesigns = allDesigns
@@ -138,6 +140,8 @@ const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComp
               <img
                 src={area.data.coverImage}
                 alt={area.data.imageAlt || area.data.title}
+                width={coverImageSize.width}
+                height={coverImageSize.height}
                 class="h-full w-full object-cover"
                 loading="eager"
                 decoding="async"

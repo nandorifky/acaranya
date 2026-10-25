@@ -21,7 +21,7 @@ interface Props {
 const { design } = Astro.props;
 const { title, category, thumbnail, previewUrl, isPremium, tags = [] } = design.data;
 const slug = design.id;
-const anchorId = slugify(title, { lower: true, strict: true });
+const anchorId = `design-${slugify(slug, { lower: true, strict: true })}`;
 const orderRoutes: Record<string, string> = {
   pernikahan: 'pernikahan',
   khitan: 'khitanan',
@@ -47,7 +47,7 @@ const orderUrl = orderRoute
     {thumbnail ? (
       <img 
         src={thumbnail} 
-        alt={title} 
+        alt={`Pratinjau desain undangan digital ${title}`}
         width="600"
         height="800"
         sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
@@ -102,7 +102,7 @@ const orderUrl = orderRoute
   <!-- Info -->
   <div class="p-5 space-y-2.5">
     <div>
-      <h3 class="font-serif text-base text-brand-900 font-semibold line-clamp-1 group-hover:text-soft-gold transition-colors duration-300">{title}</h3>
+      <p class="font-serif text-base text-brand-900 font-semibold line-clamp-1 group-hover:text-soft-gold transition-colors duration-300">{title}</p>
       <p class="text-[10px] text-text-muted capitalize font-semibold tracking-wider">{category}</p>
     </div>
     

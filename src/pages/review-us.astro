@@ -4,9 +4,12 @@ import Container from "../components/base/Container.astro";
 import Section from "../components/base/Section.astro";
 import Icon from "../components/ui/Icon.astro";
 import { siteConfig } from "../data/site";
+import { getImageSizeAttrs } from "../lib/images/get-image-dimensions";
 
 const reviewLink = "https://g.page/r/CZZGyXLYXZWLEBM/review";
 const qrImagePath = "/images/qr-code-review-acaranya.png";
+const qrImageSize = getImageSizeAttrs(qrImagePath);
+const founderAvatarSize = getImageSizeAttrs(siteConfig.team.founder.avatar);
 ---
 
 <MarketingLayout
@@ -171,7 +174,9 @@ const qrImagePath = "/images/qr-code-review-acaranya.png";
             >
               <img
                 src={qrImagePath}
-                alt="Scan QR Code Acaranya.id Review"
+                alt="QR code untuk menulis ulasan Acaranya.id di Google"
+                width={qrImageSize.width}
+                height={qrImageSize.height}
                 class="w-full h-full object-contain"
               />
             </div>
@@ -216,7 +221,9 @@ const qrImagePath = "/images/qr-code-review-acaranya.png";
           >
             <img
               src={siteConfig.team.founder.avatar}
-              alt={siteConfig.team.founder.name}
+              alt={`Foto ${siteConfig.team.founder.name}`}
+              width={founderAvatarSize.width}
+              height={founderAvatarSize.height}
               class="w-full h-full object-cover"
             />
           </div>

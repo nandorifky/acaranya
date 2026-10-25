@@ -5,6 +5,7 @@ import Section from '../../components/base/Section.astro';
 import Icon from '../../components/ui/Icon.astro';
 import { getCollection } from 'astro:content';
 import { siteConfig } from '../../data/site';
+import { getImageSizeAttrs } from '../../lib/images/get-image-dimensions';
 
 function bySortOrder(a, b) {
   return (
@@ -89,6 +90,7 @@ const metaDescription = "Jelajahi galeri portofolio contoh desain website undang
           {publishedPortfolios.map((item) => {
             const catObj = publishedCategories.find(c => c.id === item.data.category);
             const categoryLabel = catObj ? catObj.data.title : item.data.category;
+            const thumbSize = getImageSizeAttrs(item.data.thumbnail);
 
             return (
               <article 
@@ -100,7 +102,9 @@ const metaDescription = "Jelajahi galeri portofolio contoh desain website undang
                 <div class="relative aspect-[4/5] overflow-hidden bg-surface-muted shrink-0">
                   <img 
                     src={item.data.thumbnail} 
-                    alt={item.data.title} 
+                    alt={`Contoh undangan digital ${item.data.title}`}
+                    width={thumbSize.width}
+                    height={thumbSize.height}
                     class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
                     loading="lazy"
                   />
@@ -138,7 +142,7 @@ const metaDescription = "Jelajahi galeri portofolio contoh desain website undang
                         </span>
                       )}
                     </div>
-                    <h3 class="font-serif text-lg text-brand-900 font-semibold leading-snug">{item.data.title}</h3>
+                    <h2 class="font-serif text-lg text-brand-900 font-semibold leading-snug">{item.data.title}</h3>
                   </div>
 
                   <!-- Client Review Quote (if present) -->
@@ -169,7 +173,7 @@ const metaDescription = "Jelajahi galeri portofolio contoh desain website undang
             <Icon name="folder-open" size={24} />
           </div>
           <div class="space-y-2">
-            <h3 class="font-serif text-2xl text-brand-950">Portofolio Kosong</h3>
+            <h2 class="font-serif text-2xl text-brand-950">Portofolio Kosong</h2>
             <p class="text-xs text-text-muted font-sans tracking-wide leading-relaxed">
               Saat ini kami sedang memperbarui galeri portofolio undangan digital terbaru kami.
             </p>

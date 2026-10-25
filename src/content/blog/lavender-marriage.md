@@ -27,7 +27,7 @@ Pernahkah Kamu mendengar istilah _lavender marriage_? Istilah ini mungkin terden
 
 Fenomena ini sering kali dikaitkan dengan tekanan sosial pada era tertentu di mana orientasi seksual seseorang dianggap tabu untuk diungkapkan secara terbuka. Dengan memahami pengertian, sejarah, tujuan, dan dampaknya, Kamu bisa melihat bagaimana konsep ini relevan dalam konteks perubahan sosial dari waktu ke waktu.
 
-### Apa Itu Lavender Marriage?
+## Apa Itu Lavender Marriage?
 
 Lavender marriage adalah istilah yang merujuk pada pernikahan antara pasangan heteroseksual atau homoseksual yang dilakukan untuk menyembunyikan orientasi seksual salah satu atau kedua pasangan dari masyarakat. Artinya, pernikahan ini bukan dilandasi cinta sejati, melainkan lebih kepada menjaga citra atau melindungi diri dari stigma sosial.
 

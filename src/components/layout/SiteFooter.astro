@@ -42,10 +42,10 @@ import Container from "../base/Container.astro";
       <!-- Brand & Contact Column -->
       <div class="lg:col-span-5 space-y-10">
         <div class="space-y-6">
-          <a href="/" class="inline-block group">
+          <a href="/" class="inline-block group" aria-label={`Beranda ${siteConfig.name}`}>
             <img
               src={siteConfig.branding.logo}
-              alt="Acaranya.id Logo"
+              alt=""
               width="160"
               height="32"
               class="h-9 w-auto object-contain transition-transform duration-500 group-hover:scale-105"
@@ -200,11 +200,11 @@ import Container from "../base/Container.astro";
         <div class="grid grid-cols-2 md:grid-cols-3 gap-x-8 gap-y-12">
           <!-- Column 1 -->
           <div class="space-y-8">
-            <h3
+            <h2
               class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block"
             >
               Layanan
-            </h3>
+            </h2>
             <ul class="space-y-4">
               {
                 footerNavigation.layanan.map((item) => (
@@ -223,11 +223,11 @@ import Container from "../base/Container.astro";
 
           <!-- Column 2 -->
           <div class="space-y-8">
-            <h3
+            <h2
               class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block"
             >
               Perusahaan
-            </h3>
+            </h2>
             <ul class="space-y-4">
               {
                 footerNavigation.perusahaan.map((item) => (
@@ -246,11 +246,11 @@ import Container from "../base/Container.astro";
 
           <!-- Column 3 (Full width on mobile grid-cols-2 hack) -->
           <div class="space-y-8 col-span-2 md:col-span-1">
-            <h3
+            <h2
               class="text-[11px] font-bold uppercase tracking-[0.3em] text-soft-gold pb-4 border-b border-white/5 inline-block"
             >
               Informasi
-            </h3>
+            </h2>
             <ul class="space-y-4">
               {
                 footerNavigation.bantuan.map((item) => (

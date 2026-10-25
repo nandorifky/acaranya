@@ -302,6 +302,14 @@ h3 {
   overflow-wrap: break-word;
 }
 
+.prose img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin: 1.75rem auto;
+  display: block;
+}
+
 .prose h2 {
   font-family: var(--font-serif);
   font-size: 1.75rem;

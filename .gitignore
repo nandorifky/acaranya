@@ -1,5 +1,6 @@
 # build output
 dist/
+public/pagefind/
 # generated types
 .astro/
 .wrangler/
@@ -8,8 +9,12 @@ dist/
 node_modules/
 
 #ignore
-scripts/
+scripts/*
+!scripts/gen-image-dimensions.mjs
 .env/
+
+# generated
+markdoc.config.timestamp-*.mjs
 
 # logs
 npm-debug.log*

@@ -26,7 +26,7 @@ Sungkeman adalah momen paling emosional dalam prosesi pernikahan tradisional di 
 
 Jika kamu sedang mencari inspirasi teks sungkeman yang menyentuh hati, artikel ini memberikan contoh-contoh teks sungkeman dalam berbagai bahasa dan situasi.
 
-### Apa Itu Sungkeman dalam Pernikahan?
+## Apa Itu Sungkeman dalam Pernikahan?
 
 Sungkeman adalah tradisi di mana calon pengantin memohon maaf dan meminta restu dari orang tua. Dalam adat Jawa, Sunda, dan budaya lainnya di Indonesia, prosesi ini sangat sakral karena melambangkan penghormatan, cinta, serta rasa terima kasih kepada orang tua.
 

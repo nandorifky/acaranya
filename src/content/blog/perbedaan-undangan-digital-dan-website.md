@@ -26,8 +26,6 @@ noindex: false
 * Meta Description: Undangan digital dan website undangan sering dianggap sama. Pahami perbedaannya, jenis, fitur, kelebihan, kekurangan, dan pilihan terbaik untuk acaramu.
 * Focus Keyword: perbedaan undangan digital dan website
 
-# Perbedaan Undangan Digital dan Website
-
 Perbedaan undangan digital dan website sebenarnya ada pada cakupannya. Undangan digital adalah istilah besar untuk semua undangan non-cetak yang dibagikan secara online, sedangkan website undangan adalah salah satu jenis undangan digital yang berbentuk halaman web interaktif.
 
 Jadi, kalau kamu bertanya apakah undangan digital dan website itu sama, jawabannya bisa iya dan tidak. Website undangan termasuk undangan digital, tetapi tidak semua undangan digital berbentuk website.

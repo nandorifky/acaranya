@@ -61,7 +61,7 @@ Selain roti buaya, ada berbagai seserahan lain yang biasanya dibawa oleh mempela
 
 Berikut adalah daftar seserahan yang sering ditemukan dalam pernikahan Betawi beserta penjelasannya:
 
-#### 1\. Sirih Lamaran
+### 1\. Sirih Lamaran
 
 Sirih lamaran menjadi seserahan wajib dalam pernikahan adat Betawi. Sirih dalam adat Betawi memiliki makna penghormatan dan niat baik. Dalam budaya Betawi, sirih adalah simbol komunikasi dan niat baik antara dua keluarga yang akan disatukan dalam pernikahan.
 
@@ -71,25 +71,25 @@ Selain itu, sirih juga memiliki arti bahwa kedua mempelai harus selalu menjaga h
 
 **BACA SELENGKAPNYA:** [_Isi Seserahan Pernikahan Adat Betawi_](/artikel/seserahan-pernikahan-adat-betawi/)
 
-#### 2\. Pisang Raja
+### 2\. Pisang Raja
 
 Pisang raja adalah simbol kemakmuran dan kesejahteraan dalam adat Betawi. Pisang ini dipercaya membawa rezeki dan kebahagiaan bagi pasangan yang menikah. Nama “raja” sendiri melambangkan bahwa pengantin pria akan menjadi pemimpin yang baik dalam keluarga, layaknya seorang raja yang bijak.
 
 Selain itu, pisang raja sering diartikan sebagai lambang keberuntungan. Dalam adat pernikahan Betawi, pisang raja diharapkan dapat memberikan berkah dalam rumah tangga, seperti rezeki yang lancar dan kehidupan yang sejahtera. Pisang ini biasanya disajikan dalam tandan besar, menambah kesan megah pada seserahan.
 
-#### 3\. Roti Buaya
+### 3\. Roti Buaya
 
 Tak bisa dipungkiri, roti buaya menjadi elemen seserahan yang paling ikonik dalam pernikahan adat Betawi. Seperti yang sudah dijelaskan sebelumnya, roti ini melambangkan kesetiaan dan komitmen dalam menjalani bahtera rumah tangga. Roti buaya biasanya disajikan dalam dua ukuran: satu besar dan satu kecil. Yang besar melambangkan pengantin pria, sedangkan yang kecil melambangkan pengantin wanita.
 
 Meskipun roti ini jarang dimakan dan lebih sering dijadikan simbol, beberapa keluarga ada yang menyimpan roti buaya tersebut sebagai tanda kenang-kenangan. Ada juga yang percaya bahwa semakin lama roti buaya disimpan, semakin kuat simbol kesetiaan dalam pernikahan tersebut.
 
-#### 4\. Kain Batik
+### 4\. Kain Batik
 
 Seserahan kain batik dalam pernikahan adat Betawi memiliki arti yang sangat mendalam. Kain batik melambangkan keindahan dan kekayaan budaya lokal. Selain itu, kain batik juga menjadi simbol kesederhanaan namun tetap elegan, yang diharapkan dapat menjadi karakter dari pasangan pengantin.
 
 Batik yang digunakan biasanya memiliki motif yang sarat akan makna filosofi kehidupan, seperti motif lereng yang melambangkan perjuangan dalam mencapai kesuksesan. Kain batik ini bukan hanya menjadi seserahan, tetapi juga lambang cinta akan budaya lokal yang kuat.
 
-#### 5\. Perhiasan
+### 5\. Perhiasan
 
 Perhiasan juga merupakan [seserahan](/artikel/seserahan-pernikahan/) yang umum ditemukan dalam pernikahan adat Betawi. Perhiasan melambangkan keindahan dan kemakmuran. Emas atau perhiasan lainnya yang diberikan kepada mempelai wanita menjadi simbol harapan agar kehidupan rumah tangga mereka selalu sejahtera dan berkecukupan.
 

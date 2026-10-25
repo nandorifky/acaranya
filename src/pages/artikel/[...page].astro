@@ -38,6 +38,7 @@ const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
     <Container>
       <div class="max-w-3xl mx-auto text-center">
         <SectionHeader
+          as="h1"
           eyebrow="Artikel"
           title="Inspirasi & Tips Undangan Digital"
           subtitle="Artikel, tips, dan panduan untuk membantu kamu membuat undangan digital terbaik."
@@ -51,7 +52,8 @@ const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
       {
         publishedPosts.length > 0 ? (
           <>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
+            <h2 class="sr-only">Inspirasi &amp; Tips Undangan Digital Terbaru</h2>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
               {publishedPosts.map((post: any) => {
                 const displayDate = post.data.updatedAt || post.data.publishedAt;
                 const isUpdated = Boolean(post.data.updatedAt);

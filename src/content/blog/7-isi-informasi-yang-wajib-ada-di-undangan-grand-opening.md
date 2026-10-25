@@ -29,7 +29,7 @@ Banyak penyelenggara acara salah kaprah dengan menganggap undangan hanya sebagai
 
 Untuk mencegah kekacauan tersebut, berikut adalah tujuh informasi penting yang pantang dilewatkan saat menyusun isi undangan _grand opening_.
 
-### 1. Identitas Acara yang Spesifik
+## 1. Identitas Acara yang Spesifik
 
 Beri kejelasan sejak kalimat pertama. Apakah acara ini merupakan _Soft Opening_, _Grand Opening_, atau _Re-Opening_? Ketiga jenis acara ini membawa ekspektasi yang berbeda bagi tamu.
 

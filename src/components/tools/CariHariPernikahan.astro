@@ -10,7 +10,7 @@
       <div
         class="space-y-3 p-5 bg-cream-warm/40 rounded-2xl border border-brand-200/30"
       >
-        <h3
+        <p
           class="text-xs font-bold text-brand-800 uppercase tracking-wider flex items-center gap-2"
         >
           <svg
@@ -27,7 +27,7 @@
             ></path>
           </svg>
           Mempelai Pria
-        </h3>
+        </p>
         <div>
           <label
             class="block text-[11px] font-semibold text-text-secondary mb-1"
@@ -58,7 +58,7 @@
       <div
         class="space-y-3 p-5 bg-cream-warm/40 rounded-2xl border border-brand-200/30"
       >
-        <h3
+        <p
           class="text-xs font-bold text-brand-800 uppercase tracking-wider flex items-center gap-2"
         >
           <svg
@@ -75,7 +75,7 @@
             ></path>
           </svg>
           Mempelai Wanita
-        </h3>
+        </p>
         <div>
           <label
             class="block text-[11px] font-semibold text-text-secondary mb-1"
@@ -105,9 +105,9 @@
 
     <!-- Parameter Acara -->
     <div class="p-5 bg-white rounded-2xl border border-brand-200/40 space-y-4">
-      <h3 class="text-xs font-bold text-brand-800 uppercase tracking-wider">
+      <p class="text-xs font-bold text-brand-800 uppercase tracking-wider">
         Parameter Acara
-      </h3>
+      </p>
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <div>
           <label
@@ -266,7 +266,7 @@
     <div id="view-list" class="view-content block space-y-6">
       <!-- Top 5 Golden Cards -->
       <div class="space-y-3">
-        <h4
+        <p
           class="text-xs font-bold text-soft-gold uppercase tracking-widest flex items-center gap-2"
         >
           <svg
@@ -279,7 +279,7 @@
             ></path>
           </svg>
           Top 5 Hari Pernikahan Terindah
-        </h4>
+        </p>
         <div
           id="golden-cards-container"
           class="grid grid-cols-1 md:grid-cols-2 gap-4"
@@ -290,9 +290,9 @@
 
       <!-- Accordion Kelompok per Bulan -->
       <div class="space-y-3 pt-4">
-        <h4 class="text-xs font-bold text-brand-800 uppercase tracking-widest">
+        <p class="text-xs font-bold text-brand-800 uppercase tracking-widest">
           Rekomendasi Berdasarkan Bulan
-        </h4>
+        </p>
         <div id="monthly-accordion-container" class="space-y-3">
           <!-- Dynamic monthly list accordions -->
         </div>
@@ -420,9 +420,9 @@
       class="flex flex-col sm:flex-row items-start sm:items-center justify-between p-5 bg-cream-warm/30 rounded-2xl border border-brand-200/30 gap-4 transition-all duration-300"
     >
       <div class="space-y-1">
-        <h5 class="text-xs font-bold text-brand-900 uppercase tracking-wider">
+        <p class="text-xs font-bold text-brand-900 uppercase tracking-wider">
           Simpan & Bagikan Rekomendasi
-        </h5>
+        </p>
         <p class="text-[11px] text-text-muted leading-relaxed max-w-sm">
           Salin teks ringkasan untuk berdiskusi bersama keluarga atau cetak
           langsung sebagai panduan fisik.
@@ -958,7 +958,7 @@
         ringkasanJodoh.innerHTML = `
           <div class="text-center pb-4 border-b border-brand-200/40">
             <span class="text-[10px] uppercase font-bold tracking-widest text-soft-gold">Kecocokan Pondasi Pernikahan</span>
-            <h4 class="font-serif text-2xl font-bold text-brand-900 mt-2 mb-1">${pName} & ${wName}</h4>
+            <p class="font-serif text-2xl font-bold text-brand-900 mt-2 mb-1">${pName} & ${wName}</p>
             <p class="text-xs text-text-muted">Total Neptu Jodoh: ${wetonPria.neptu} + ${wetonWanita.neptu} = ${totalNeptuJodoh}</p>
           </div>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
@@ -1149,7 +1149,7 @@
                       ${"★".repeat(d.stars)}
                     </div>
                   </div>
-                  <h5 class="font-serif text-base font-bold text-brand-900">${formattedDate}</h5>
+                  <p class="font-serif text-base font-bold text-brand-900">${formattedDate}</p>
                   <p class="text-xs text-text-secondary mt-1 font-semibold">Weton: ${d.weton.hari} ${d.weton.pasaran} (Neptu ${d.weton.neptu})</p>
                 </div>
                 <div class="pt-3 border-t border-brand-100/50 space-y-1.5 text-[11px] text-text-secondary">
@@ -1459,7 +1459,7 @@
       <div class="space-y-4">
         <div class="text-center pb-3 border-b border-brand-200/30">
           <span class="text-[9px] uppercase font-bold tracking-widest text-text-muted">Detail Kelayakan Hajat</span>
-          <h5 class="font-serif text-sm font-bold text-brand-900 mt-1">${formattedDate}</h5>
+          <p class="font-serif text-sm font-bold text-brand-900 mt-1">${formattedDate}</p>
           <span class="block text-xs font-black mt-1 ${starColor}">${starText}</span>
         </div>
 

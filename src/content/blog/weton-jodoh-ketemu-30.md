@@ -102,7 +102,7 @@ Berikut ini adalah makna hasil hitung dan pembagian neptu dalam primbon jodoh da
 *   Sisa 7: Sujanan – Pasangan yang hasil perhitungannya sujanan ditafsirkan bakal mengalami masalah dengan perselingkuhan. Bisa pihak laki-laki atau pihak perempuannya yang berselingkuh.
 *   Sisa 8: Pesthi – Pasangan dengan weton ini akan memiliki rumah tangga yang damai, tentram, aman, dan rukun hingga maut memisahkan. Di dalam rumah tangganya bisa terjadi masalah, tetapi tidak sampai merusak keharmonisannya.
 
-# Kesimpulan
+## Kesimpulan
 
 Weton Jodoh Ketemu 30 memberikan gambaran tentang potensi tantangan yang mungkin dihadapi pasangan dalam membangun rumah tangga. Meskipun dipercaya bahwa pasangan dengan weton ini sering bertengkar, kesadaran dan komitmen yang kuat dapat membantu mereka mengatasi masalah dan membangun hubungan yang harmonis.
 

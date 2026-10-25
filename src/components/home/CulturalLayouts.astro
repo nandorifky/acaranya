@@ -1,6 +1,22 @@
 ---
 import Container from "../base/Container.astro";
 import Icon from "../ui/Icon.astro";
+import { getImageSizeAttrs } from "../../lib/images/get-image-dimensions";
+
+const culturalImages = [
+  {
+    src: "/images/undangan-digital-display-homepage-1.webp",
+    alt: "Contoh desain undangan digital pernikahan adat Jawa",
+  },
+  {
+    src: "/images/undangan-digital-display-homepage-2.webp",
+    alt: "Contoh desain undangan digital pernikahan adat Minangkabau",
+  },
+  {
+    src: "/images/undangan-digital-display-homepage-3.webp",
+    alt: "Contoh desain undangan digital pernikahan modern",
+  },
+].map((image) => ({ ...image, size: getImageSizeAttrs(image.src) }));
 ---
 
 <section class="py-24 bg-cream relative overflow-hidden" id="cultural-layouts">
@@ -117,8 +133,10 @@ import Icon from "../ui/Icon.astro";
             </div>
 
             <img
-              src="/images/undangan-digital-display-homepage-1.webp"
-              alt="Desain Undangan Pernikahan Adat Jawa"
+              src={culturalImages[0].src}
+              width={culturalImages[0].size.width}
+              height={culturalImages[0].size.height}
+              alt="Contoh desain undangan digital pernikahan adat Jawa"
               class="absolute inset-0 w-full h-full object-cover z-0 filter sepia-[20%] group-hover:scale-105 transition-transform duration-700"
               loading="lazy"
             />
@@ -163,8 +181,10 @@ import Icon from "../ui/Icon.astro";
             </div>
 
             <img
-              src="/images/undangan-digital-display-homepage-2.webp"
-              alt="Desain Undangan Pernikahan Adat Minangkabau"
+              src={culturalImages[1].src}
+              width={culturalImages[1].size.width}
+              height={culturalImages[1].size.height}
+              alt="Contoh desain undangan digital pernikahan adat Minangkabau"
               class="absolute inset-0 w-full h-full object-cover z-0 filter sepia-[30%] group-hover:scale-105 transition-transform duration-700"
               loading="lazy"
             />
@@ -217,8 +237,10 @@ import Icon from "../ui/Icon.astro";
             </div>
 
             <img
-              src="/images/undangan-digital-display-homepage-3.webp"
-              alt="Desain Undangan Pernikahan Modern"
+              src={culturalImages[2].src}
+              width={culturalImages[2].size.width}
+              height={culturalImages[2].size.height}
+              alt="Contoh desain undangan digital pernikahan modern"
               class="absolute inset-0 w-full h-full object-cover z-0 filter contrast-[98%] group-hover:scale-105 transition-transform duration-700"
               loading="lazy"
             />
