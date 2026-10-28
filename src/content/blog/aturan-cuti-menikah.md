@@ -1,10 +1,9 @@
 ---
-title: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
-description: >-
-  Panduan lengkap aturan cuti menikah sesuai UU Ketenagakerjaan. Cek jatah hari,
-  syarat pengajuan ke atasan, hingga tips agar tetap tenang saat hari H!
-publishedAt: '2026-04-08T17:50:18'
-updatedAt: '2026-05-25T04:30:00+07:00'
+title: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini (Update)
+customSlug: ''
+description: Panduan lengkap aturan cuti menikah sesuai UU Ketenagakerjaan. Cek jatah hari, syarat pengajuan ke atasan, hingga tips agar tetap tenang saat hari H!
+publishedAt: 2026-04-08T17:50:18
+updatedAt: 2026-10-28T08:20:00+07:00
 author: indira
 category: Perencanaan
 tags:
@@ -19,50 +18,66 @@ imageCaption: ''
 status: published
 seoTitle: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
 customBreadcrumbLabel: Cuti Menikah Berapa Hari? Baca Aturan Terbaru Disini
-canonicalUrl: '/artikel/aturan-cuti-menikah/'
+canonicalUrl: /artikel/aturan-cuti-menikah/
 noindex: false
+ctaText: ''
+ctaUrl: ''
+faqItems: []
+customJsonLd: ''
 ---
-Pertanyaan mengenai cuti menikah berapa hari kerap muncul, terutama bagi mereka yang sedang merencanakan pernikahan. Pertanyaan ini wajar karena cuti menikah adalah salah satu hak karyawan yang dijamin oleh UU Ketenagakerjaan.
+
+
+Pertanyaan mengenai cuti menikah berapa hari kerap muncul, terutama bagi mereka yang sedang merencanakan pernikahan. Pertanyaan ini wajar karena karyawan memiliki hak untuk tidak masuk kerja karena menikah dengan ketentuan upah tetap dibayarkan sesuai peraturan yang berlaku.
 
 Tapi, berapa lama sih sebenarnya durasi cuti menikah ini? Apakah durasinya berbeda untuk karyawan baru atau bagi yang sedang merencanakan pernikahan kedua? Tak hanya itu, apakah cuti menikah ini juga mengurangi jatah cuti tahunan?
 
-Penasaran dengan jawabannya? Yuk, simak artikel ini sampai habis untuk mengetahui segala hal tentang cuti menikah, mulai dari peraturan bagi PNS hingga aturan khusus yang berlaku dalam UU Ketenagakerjaan.
+Penasaran dengan jawabannya? Yuk, simak artikel ini sampai habis untuk mengetahui aturan cuti menikah bagi karyawan swasta, PNS, dan PPPK, termasuk durasi cuti, ketentuan upah, serta pengaruhnya terhadap jatah cuti tahunan.
 
 ## Durasi Cuti Menikah Berdasarkan UU Ketenagakerjaan
 
-Cuti menikah merupakan hak karyawan yang diatur dalam **UU Ketenagakerjaan Nomor 13 Tahun 2003**. Menurut **Pasal 93 ayat (2) huruf (c)**, karyawan berhak mendapatkan **cuti selama 3 hari kerja untuk melangsungkan pernikahan**.
+Cuti menikah bagi karyawan swasta diatur dalam **UU Ketenagakerjaan Nomor 13 Tahun 2003**, khususnya Pasal 93 ayat (2) huruf c dan ayat (4) huruf a.
 
-Jadi, tak perlu khawatir, waktu 3 hari ini cukup untuk mengurus segala keperluan pernikahan, mulai dari akad hingga resepsi.
+Berdasarkan ketentuan tersebut, **karyawan yang tidak masuk kerja karena menikah berhak mendapatkan upah selama 3 hari**. Artinya, perusahaan tetap wajib membayar upah selama ketidakhadiran tersebut sesuai ketentuan yang berlaku.
 
-Namun, perlu diingat bahwa durasi ini berlaku untuk karyawan di sektor swasta, jadi kalau bekerja sebagai PNS, ada aturan tersendiri yang mengaturnya.
+Namun, perlu dipahami bahwa undang-undang menyebutkan durasi selama 3 hari, sedangkan tata cara pengajuan dan pelaksanaannya dapat diatur lebih lanjut dalam perjanjian kerja, peraturan perusahaan, atau perjanjian kerja bersama (PKB). Karena itu, sebaiknya konfirmasikan kepada HRD mengenai tanggal cuti dan prosedur pengajuannya.
 
-Sebagai informasi tambahan, karyawan yang mengajukan cuti menikah juga tetap akan mendapatkan upah penuh selama masa cuti tersebut. Jadi, tak perlu khawatir akan pengurangan gaji ya!
+Ketentuan ini berlaku bagi karyawan yang bekerja di sektor swasta. Sementara itu, bagi Pegawai Negeri Sipil (PNS), cuti menikah termasuk dalam kategori cuti karena alasan penting yang memiliki ketentuan tersendiri.
+
+Sebagai informasi tambahan, **upah karyawan tetap dibayarkan selama 3 hari sesuai ketentuan cuti menikah tersebut**. Jadi, hak ini berbeda dari cuti tanpa upah yang bisa memengaruhi penghasilan.
 
 ## Bagaimana dengan Cuti Menikah untuk Karyawan Baru?
 
 ![cuti menikah berapa hari](/images/blog/content/cuti-menikah-berapa-hari.webp)
 
-Nah, kalau ada yang baru bekerja dan mau menikah, bagaimana dengan hak cutinya? Ternyata, status karyawan baru tidak menghilangkan hak atas cuti menikah. **Karyawan tetap berhak atas cuti menikah selama 3 hari**, bahkan jika masa kerjanya baru seumur jagung. Jadi, tidak ada alasan untuk khawatir jika baru bergabung dengan perusahaan tetapi ingin segera mengikat janji suci dengan pasangan.
+Nah, kalau ada yang baru bekerja dan mau menikah, bagaimana dengan hak cutinya? Status karyawan baru tidak serta-merta menghilangkan hak atas upah selama tidak masuk kerja karena menikah.
 
-Namun, ada baiknya untuk selalu berdiskusi dengan HRD atau atasan langsung agar tidak ada miskomunikasi terkait pengajuan cuti menikah ini.
+**Pasal 93 ayat (4) huruf a UU Ketenagakerjaan menetapkan pembayaran upah selama 3 hari bagi karyawan yang menikah, tanpa mencantumkan persyaratan masa kerja minimum.** Dengan demikian, ketentuan ini berbeda dari cuti tahunan yang memiliki persyaratan masa kerja tertentu.
 
-Karena walaupun hak cuti sudah diatur, kebijakan internal perusahaan bisa saja sedikit berbeda, meski tetap harus sejalan dengan UU Ketenagakerjaan.
+Meski begitu, ada baiknya untuk selalu berdiskusi dengan HRD atau atasan langsung agar tidak ada miskomunikasi terkait pengajuan cuti menikah ini.
+
+Perhatikan juga prosedur internal perusahaan, seperti pemberitahuan sebelum tanggal pernikahan dan dokumen pendukung yang perlu disiapkan. Ketentuan internal dapat mengatur tata cara pengajuan, tetapi pelaksanaannya tetap harus sesuai dengan peraturan ketenagakerjaan yang berlaku.
 
 ## Cuti Menikah untuk PNS
 
-Bagi para Pegawai Negeri Sipil (PNS), aturan cuti menikah diatur dalam Peraturan Badan Kepegawaian Negara (BKN). **Durasi cuti menikah bagi PNS juga sama, yaitu 3 hari kerja**.
+Bagi Pegawai Negeri Sipil (PNS), aturan cuti menikah berbeda dari ketentuan yang berlaku bagi karyawan swasta. Berdasarkan ketentuan manajemen PNS, **PNS dapat mengajukan cuti karena alasan penting untuk melangsungkan perkawinan**.
 
-Namun, PNS bisa mengajukan cuti menikah jauh sebelum hari-H, bahkan hingga satu bulan sebelumnya, terutama jika pernikahannya melibatkan prosesi adat yang membutuhkan persiapan panjang.
+Berbeda dengan karyawan swasta yang memiliki ketentuan pembayaran upah selama 3 hari, **durasi cuti karena alasan penting bagi PNS ditentukan oleh pejabat yang berwenang dan paling lama 1 bulan**. Ini bukan berarti setiap PNS otomatis memperoleh cuti selama satu bulan, karena lama cuti ditentukan berdasarkan pertimbangan dan ketentuan yang berlaku.
 
-Penting juga untuk diperhatikan, pengajuan cuti bagi PNS memerlukan surat pengantar dari atasan, serta dokumen pendukung lainnya seperti undangan pernikahan atau surat pernyataan nikah dari KUA. PNS juga harus memastikan tidak ada tugas mendesak yang harus diselesaikan sebelum mengajukan cuti menikah ini.
+Untuk mengajukannya, PNS perlu menyampaikan permohonan secara tertulis kepada pejabat yang berwenang memberikan cuti melalui atasan langsung. Dokumen pendukung yang diperlukan sebaiknya dikonfirmasikan kepada bagian kepegawaian di instansi masing-masing.
+
+Penting juga untuk membedakan status PNS dengan Pegawai Pemerintah dengan Perjanjian Kerja (PPPK). Keduanya termasuk bagian dari ASN, tetapi memiliki ketentuan cuti yang berbeda. Karena itu, pastikan kamu mengetahui aturan yang sesuai dengan status kepegawaianmu sebelum mengajukan cuti menikah.
 
 ## Pernikahan Kedua Apakah Masih Dapat Cuti?
 
-Ini dia salah satu pertanyaan yang kerap muncul: apakah cuti menikah berlaku juga untuk pernikahan kedua? Jawabannya, ya!
+Ini dia salah satu pertanyaan yang kerap muncul: apakah cuti menikah berlaku juga untuk pernikahan kedua? Jawabannya perlu dibedakan berdasarkan status pekerjaan.
 
-**UU Ketenagakerjaan tidak membedakan antara pernikahan pertama, kedua, atau bahkan ketiga**. Selama status karyawan masih aktif, hak cuti menikah tetap berlaku. Jadi, bagi yang menikah lagi setelah berpisah atau ditinggal pasangan, tetap bisa mengajukan cuti menikah.
+Bagi karyawan swasta, Pasal 93 UU Ketenagakerjaan tidak secara khusus membatasi hak pembayaran upah karena menikah hanya untuk pernikahan pertama. Ketentuan tersebut menyebutkan pekerja yang tidak masuk kerja karena menikah tanpa membedakan pernikahan pertama, kedua, atau seterusnya.
 
-Namun, untuk pernikahan kedua dan seterusnya, sebaiknya tetap melakukan diskusi dengan HRD, karena beberapa perusahaan mungkin memiliki kebijakan tambahan yang perlu dipatuhi.
+Namun, pastikan kembali prosedur pengajuan kepada HRD dan periksa peraturan perusahaan atau perjanjian kerja bersama yang berlaku. Hal ini penting agar pengajuan cuti dilakukan sesuai prosedur tanpa mengabaikan hak yang telah diatur dalam peraturan ketenagakerjaan.
+
+Sementara itu, bagi PNS, ketentuan cuti karena alasan penting menggunakan alasan melangsungkan perkawinan. Permohonan dan durasinya tetap mengikuti penilaian pejabat yang berwenang serta aturan kepegawaian yang berlaku.
+
+Untuk PPPK, perlu diperhatikan bahwa ketentuan khusus dalam aturan cutinya menyebutkan perkawinan pertama sebagai salah satu alasan untuk memperoleh fasilitas cuti tertentu. Karena itu, jangan langsung menyamakan ketentuan PPPK dengan karyawan swasta atau PNS. Sebaiknya konsultasikan terlebih dahulu dengan bagian kepegawaian untuk mengetahui hak yang berlaku bagi statusmu.
 
 **Buat Undangan Pernikahan Digital**
 
@@ -74,72 +89,82 @@ Solusi undangan pernikahan online dengan banyak pilihan desain dan revisi tanpa 
 
 Pertanyaan lain yang sering muncul adalah: “apakah cuti menikah mengurangi jatah cuti tahunan?”
 
-Berdasarkan ketentuan dalam UU Ketenagakerjaan, **cuti menikah tidak akan mengurangi jatah cuti tahunan**. Cuti menikah merupakan jenis cuti khusus yang terpisah dari cuti tahunan, sehingga keduanya tidak saling mengurangi.
+Bagi karyawan swasta, ketentuan mengenai pembayaran upah ketika tidak masuk kerja karena menikah berbeda dari ketentuan cuti tahunan. UU Ketenagakerjaan mengatur pembayaran upah karena menikah dalam Pasal 93, sedangkan cuti tahunan diatur dalam Pasal 79.
 
-Namun, selalu ada baiknya untuk memeriksa peraturan internal perusahaan. Ada beberapa perusahaan yang memiliki kebijakan internal yang mungkin berbeda, walaupun secara hukum tetap harus memberikan cuti menikah tanpa mengurangi cuti tahunan.
+**Dengan demikian, hak tidak masuk kerja karena menikah selama 3 hari dengan upah tetap dibayarkan tidak seharusnya diperlakukan sebagai cuti tahunan biasa.** Meski begitu, pastikan kamu memahami prosedur administrasi perusahaan dan tanyakan kepada HRD apabila pengajuan cuti menikah justru dimasukkan ke dalam jatah cuti tahunan.
+
+Bagi PNS, cuti karena alasan penting untuk melangsungkan perkawinan juga merupakan jenis cuti tersendiri, bukan cuti tahunan biasa.
+
+Namun, ketentuan bagi PPPK berbeda. Berdasarkan panduan cuti dari Badan Kepegawaian Negara (BKN), terdapat ketentuan khusus mengenai cuti untuk perkawinan pertama yang dapat berkaitan dengan penghitungan jatah cuti tahunan. Bagi PPPK yang telah bekerja paling sedikit satu tahun secara terus-menerus, penggunaan cuti tersebut sesuai ketentuan dapat mengurangi jatah cuti tahunan.
+
+Jadi, jangan langsung menyamaratakan aturan cuti menikah untuk seluruh status pekerjaan. Pastikan kamu memeriksa ketentuan yang berlaku bagi karyawan swasta, PNS, atau PPPK sesuai status kepegawaianmu.
 
 **BACA JUGA:** [Contoh Surat Undangan Pernikahan Tulis Tangan Simple](/artikel/undangan-pernikahan-tulis-tangan/)
 
 ## Contoh Surat Cuti Menikah
 
-Berikut adalah contoh surat permohonan cuti menikah yang bisa digunakan sebagai referensi:
+Berikut adalah contoh surat permohonan cuti menikah yang bisa digunakan sebagai referensi bagi karyawan swasta. Format ini dapat disesuaikan dengan kebutuhan serta prosedur yang berlaku di perusahaan masing-masing.
 
-> **\[Nama Perusahaan\]**  
-> **\[Alamat Perusahaan\]**  
-> **Telp:** \[Nomor Telepon Perusahaan\]  
-> **Email:** \[Email Perusahaan\]
-> 
+> **[Nama Perusahaan]**  
+> **[Alamat Perusahaan]**  
+> **Telp:** [Nomor Telepon Perusahaan]  
+> **Email:** [Email Perusahaan]
+>
 > **Perihal:** Permohonan Cuti Menikah  
-> **Lampiran:** \[Jumlah Lampiran, jika ada\]
-> 
+> **Lampiran:** [Jumlah Lampiran, jika ada]
+>
 > **Kepada Yth.,**  
-> **\[Nama Atasan Langsung / HRD\]**  
-> **\[Jabatan Atasan Langsung / HRD\]**  
-> **\[Nama Perusahaan\]**  
-> **\[Alamat Perusahaan\]**
-> 
+> **[Nama Atasan Langsung / HRD]**  
+> **[Jabatan Atasan Langsung / HRD]**  
+> **[Nama Perusahaan]**  
+> **[Alamat Perusahaan]**
+>
 > Dengan hormat,
-> 
+>
 > Saya yang bertanda tangan di bawah ini:
-> 
-> **Nama** : \[Nama Lengkap\]  
-> **NIK** : \[Nomor Induk Karyawan\]  
-> **Jabatan** : \[Jabatan\]  
-> **Departemen** : \[Departemen\]  
-> **Tanggal Mulai Bekerja**: \[Tanggal Mulai Bekerja di Perusahaan\]
-> 
-> Bersama surat ini, saya bermaksud untuk mengajukan permohonan cuti menikah selama **3 (tiga) hari kerja** sesuai dengan ketentuan **UU Ketenagakerjaan** Nomor 13 Tahun 2003 Pasal 93 ayat (2) huruf (c). Adapun rencana tanggal pernikahan saya adalah sebagai berikut:
-> 
-> **Tanggal Pernikahan**: \[Tanggal Pernikahan\]  
-> **Lokasi Pernikahan** : \[Tempat / Lokasi Pernikahan\]
-> 
-> Sehubungan dengan hal tersebut, saya mengajukan cuti menikah mulai tanggal **\[Tanggal Mulai Cuti\]** sampai dengan tanggal **\[Tanggal Akhir Cuti\]**. Saya berkomitmen untuk menyelesaikan semua pekerjaan yang menjadi tanggung jawab saya sebelum cuti berlangsung dan siap melanjutkan pekerjaan setelah masa cuti berakhir.
-> 
-> Demikian permohonan cuti menikah ini saya sampaikan. Besar harapan saya agar Bapak/Ibu dapat memberikan izin cuti sesuai dengan ketentuan yang berlaku. Atas perhatian dan pengertian Bapak/Ibu, saya ucapkan terima kasih.
-> 
+>
+> **Nama** : [Nama Lengkap]  
+> **NIK** : [Nomor Induk Karyawan]  
+> **Jabatan** : [Jabatan]  
+> **Departemen** : [Departemen]  
+> **Tanggal Mulai Bekerja**: [Tanggal Mulai Bekerja di Perusahaan]
+>
+> Bersama surat ini, saya bermaksud mengajukan permohonan cuti menikah dengan upah tetap dibayarkan selama **3 (tiga) hari** sesuai dengan ketentuan Pasal 93 ayat (2) huruf c jo. ayat (4) huruf a UU Ketenagakerjaan Nomor 13 Tahun 2003.
+>
+> Adapun rencana tanggal pernikahan saya adalah sebagai berikut:
+>
+> **Tanggal Pernikahan**: [Tanggal Pernikahan]  
+> **Lokasi Pernikahan** : [Tempat / Lokasi Pernikahan]
+>
+> Sehubungan dengan hal tersebut, saya mengajukan izin tidak masuk kerja mulai tanggal **[Tanggal Mulai Cuti]** sampai dengan tanggal **[Tanggal Akhir Cuti]**. Saya berkomitmen untuk menyelesaikan pekerjaan yang menjadi tanggung jawab saya sebelum tanggal tersebut dan melakukan koordinasi dengan rekan kerja apabila diperlukan agar pekerjaan tetap berjalan dengan baik.
+>
+> Demikian permohonan ini saya sampaikan. Besar harapan saya agar Bapak/Ibu dapat memberikan izin sesuai dengan ketentuan yang berlaku. Atas perhatian dan pengertian Bapak/Ibu, saya ucapkan terima kasih.
+>
 > Hormat saya,
-> 
+>
 > (tanda tangan)
-> 
-> **\[Nama Lengkap\]**  
-> \[NIK Karyawan\]
+>
+> **[Nama Lengkap]**  
+> [NIK Karyawan]
 
 Lampiran (Jika Diperlukan):
 
-1.  Fotokopi Kartu Undangan Pernikahan
-2.  Surat Pernyataan Nikah dari KUA
+1. Fotokopi kartu undangan pernikahan.
+2. Dokumen pendukung lain sesuai ketentuan perusahaan.
 
-Surat ini bisa disesuaikan sesuai dengan kebijakan perusahaan atau institusi terkait. Pastikan untuk mengecek dan mengikuti prosedur internal yang berlaku.
+Surat ini bisa disesuaikan dengan kebijakan perusahaan atau institusi terkait. Pastikan untuk mengecek prosedur internal yang berlaku sebelum mengajukan permohonan. Bagi PNS dan PPPK, gunakan prosedur permohonan cuti sesuai ketentuan kepegawaian masing-masing.
+
+Untuk memeriksa dasar aturan yang digunakan dalam artikel ini, kamu juga bisa merujuk pada [UU Ketenagakerjaan melalui JDIH Kementerian Ketenagakerjaan](https://jdih.kemnaker.go.id/asset/data_puu/peraturan_file_13.pdf), [panduan cuti PNS dari BKN](https://apps-denpasar.bkn.go.id/kms/ensiklopedia:cuti_pns), dan [panduan cuti PPPK dari BKN](https://apps-denpasar.bkn.go.id/kms/ensiklopedia:cuti_pppk).
 
 * * *
 
-Dari penjelasan di atas, bisa disimpulkan bahwa cuti menikah adalah hak yang dijamin oleh UU Ketenagakerjaan bagi semua karyawan, baik di sektor swasta maupun PNS.
+Dari penjelasan di atas, bisa disimpulkan bahwa ketentuan cuti menikah bergantung pada status pekerjaan masing-masing.
 
-Dengan durasi 3 hari kerja, cuti menikah ini bertujuan untuk memberikan waktu yang cukup bagi karyawan dalam mengurus segala keperluan pernikahan tanpa mengurangi jatah cuti tahunan.
+Bagi karyawan swasta, UU Ketenagakerjaan mengatur pembayaran upah selama 3 hari ketika karyawan tidak masuk kerja karena menikah. Sementara itu, PNS dapat mengajukan cuti karena alasan penting untuk melangsungkan perkawinan, dengan durasi yang ditentukan pejabat berwenang hingga paling lama 1 bulan. Adapun PPPK memiliki ketentuan cuti tersendiri yang perlu diperhatikan, termasuk aturan mengenai perkawinan pertama dan penghitungan cuti tahunan.
 
-Bagi karyawan yang baru saja bergabung atau sedang merencanakan pernikahan kedua, jangan khawatir karena hak cuti menikah tetap berlaku. Pastikan untuk selalu berkoordinasi dengan HRD atau atasan agar proses pengajuan cuti berjalan lancar. Dengan begitu, pernikahan dapat dilangsungkan dengan tenang tanpa perlu memikirkan urusan pekerjaan.
+Bagi karyawan yang baru bergabung atau sedang merencanakan pernikahan kedua, penting untuk memahami aturan yang sesuai dengan status pekerjaan masing-masing. Pastikan juga untuk berkoordinasi dengan HRD atau bagian kepegawaian agar pengajuan cuti berjalan lancar.
 
-Jadi, sudah siap mengajukan cuti menikah? Pastikan semua persyaratan sudah lengkap, ya!
+Jadi, sudah siap mengajukan cuti menikah? Pastikan kamu memahami hak cuti, menyiapkan dokumen yang diperlukan, dan mengajukan permohonan sesuai prosedur yang berlaku, ya!
 
 **Digitalkan Undanganmu dengan Acaranya ID!**
 
