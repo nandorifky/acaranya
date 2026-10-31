@@ -4,9 +4,9 @@ import Container from '../../components/base/Container.astro';
 import Section from '../../components/base/Section.astro';
 import Icon from '../../components/ui/Icon.astro';
 import DesignCard from '../../components/designs/DesignCard.astro';
+import ResponsiveImage from '../../components/base/ResponsiveImage.astro';
 import { getCollection, render } from 'astro:content';
 import { siteConfig } from '../../data/site';
-import { getImageSizeAttrs } from '../../lib/images/get-image-dimensions';
 
 export async function getStaticPaths() {
   const areas = await getCollection('area');
@@ -30,7 +30,6 @@ function parseCustomJsonLd(value?: string) {
 
 const { area } = Astro.props;
 const { Content } = await render(area);
-const coverImageSize = getImageSizeAttrs(area.data.coverImage);
 
 const allDesigns = await getCollection('designs');
 const showcaseDesigns = allDesigns
@@ -40,7 +39,7 @@ const showcaseDesigns = allDesigns
 const publicSlug = area.data.customSlug || area.id;
 const canonicalUrl = `${siteConfig.url}/area/${publicSlug}/`;
 const pageTitle = area.data.seoTitle || area.data.title;
-const robots = area.data.noindex ? 'noindex,nofollow' : 'index,follow';
+const robots = area.data.noindex ? 'noindex,follow' : 'index,follow';
 
 // JSON-LD for Local SEO
 const faqJsonLd = area.data.faqItems.length
@@ -137,11 +136,10 @@ const waUrl = `https://wa.me/${siteConfig.contact.whatsapp}?text=${encodeURIComp
         {area.data.coverImage && (
           <figure class="pt-8 max-w-5xl mx-auto">
             <div class="relative aspect-[16/9] overflow-hidden rounded-[32px] border border-champagne/40 bg-surface shadow-card">
-              <img
+              <ResponsiveImage
                 src={area.data.coverImage}
                 alt={area.data.imageAlt || area.data.title}
-                width={coverImageSize.width}
-                height={coverImageSize.height}
+                sizes="(min-width: 1024px) 1024px, 100vw"
                 class="h-full w-full object-cover"
                 loading="eager"
                 decoding="async"

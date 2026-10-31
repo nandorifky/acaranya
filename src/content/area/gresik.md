@@ -94,7 +94,7 @@ Gresik punya kondisi ekonomi yang beragam. Ada keluarga dengan tamu sedikit, ada
 
 Namun untuk beberapa keluarga, kombinasi keduanya mungkin lebih cocok: cetak untuk tetangga dekat dan sesepuh, digital untuk tamu jauh dan pekerja industri. Silakan cek [paket harga undangan digital](/harga/) sebagai referensi sebelum menentukan pilihan.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Gresik
 
 Idealnya undangan digital dibuat setelah tanggal dan lokasi acara sudah pasti. Untuk pernikahan, tiga sampai empat minggu sebelum hari H biasanya sudah cukup. Jika tamu banyak yang dari luar kota, lebih baik disiapkan lebih awal.
 

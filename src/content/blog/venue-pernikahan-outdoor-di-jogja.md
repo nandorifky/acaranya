@@ -5,7 +5,6 @@ description: >-
   di Jogja yang romantis & asri, dari Taman Sari hingga hotel bintang lima
   terbaik.
 publishedAt: '2026-04-08T17:50:10'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:

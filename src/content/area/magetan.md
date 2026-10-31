@@ -48,7 +48,7 @@ Untuk pernikahan, kami menyediakan [koleksi desain undangan](/desain-undangan-di
 
 Untuk acara bisnis atau gathering, template wedding tentu kurang cocok. Gunakan halaman [desain untuk acara formal](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Membandingkan beberapa gaya di [koleksi desain](/desain-undangan-digital/) membantu Anda melihat mana yang paling cocok untuk acara keluarga di Magetan sebelum memutuskan.
 
 ### Tips Memilih Undangan untuk Hajatan di Magetan
 
@@ -73,12 +73,7 @@ Biaya undangan digital bervariasi tergantung fitur dan tingkat kustomisasi. Untu
 
 Cek [lihat paket harga](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-Proses pemesanan di Acaranya.id dirancang sederhana:
-
-1.  **Pilih desain atau kirim referensi.** Bisa dari katalog kami, bisa juga dari contoh undangan yang Anda lihat di internet.
-2.  **Kirim data acara.** Nama, tanggal, lokasi, foto, teks undangan, dan detail lainnya.
-3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
-4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
+Anda bisa memulai dari katalog kami atau mengirim contoh undangan sebagai acuan. Selanjutnya kirim data acara, tinjau preview, lalu bagikan tautannya. Untuk acara keluarga di Magetan yang sering dihadiri tamu dari luar kota, informasi rute menuju venue sebaiknya ikut disiapkan.
 
 ### Waktu Kirim Undangan yang Tepat untuk Tamu Luar Kota
 

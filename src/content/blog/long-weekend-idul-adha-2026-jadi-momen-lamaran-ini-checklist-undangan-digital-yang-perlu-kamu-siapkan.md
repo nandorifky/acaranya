@@ -127,7 +127,7 @@ Selain desain, perhatikan juga isi undangan. Gunakan kalimat yang sopan, hangat,
 
 ## Kalau Ingin Buat Sendiri, Apa Bisa
 
-Bisa, Acays. Kalau kamu ingin mencoba membuat undangan sendiri, kamu bisa mulai dari template desain, aplikasi editor, atau website builder sederhana.
+Bisa. Kalau kamu ingin mencoba membuat undangan sendiri, kamu bisa mulai dari template desain, aplikasi editor, atau website builder sederhana.
 
 Namun, membuat undangan sendiri tetap membutuhkan waktu. Kamu perlu menyiapkan desain, menata teks, memasukkan foto, memastikan link bisa dibuka, dan mengecek tampilan di HP. Untuk panduan awal, kamu bisa membaca artikel [cara membuat undangan digital sendiri](/artikel/cara-membuat-undangan-digital/).
 

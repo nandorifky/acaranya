@@ -5,7 +5,6 @@ description: >-
   dan biologis di balik fenomena ini dalam memperkuat koneksi intim dengan
   pasangan.
 publishedAt: '2026-04-08T17:50:24'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Relationship
 tags:

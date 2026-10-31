@@ -4,7 +4,6 @@ description: >-
   Panduan cara membuat surat keterangan belum menikah secara online. Cek syarat
   dokumen dari RT hingga Kelurahan agar urusan administrasimu cepat selesai!
 publishedAt: '2026-04-08T17:49:24'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:

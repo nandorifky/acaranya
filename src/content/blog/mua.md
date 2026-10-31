@@ -5,7 +5,6 @@ description: >-
   ditawarkan, hingga tips memilih MUA yang tepat untuk tampil sempurna di hari
   H.
 publishedAt: '2026-04-08T17:50:20'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:

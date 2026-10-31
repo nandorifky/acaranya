@@ -4,7 +4,6 @@ description: >-
   Bingung mau tulis apa di kado nikahan? Cek 50+ ide kata-kata kartu ucapan kado
   pernikahan yang romantis, islami, hingga lucu agar kado darimu makin berkesan!
 publishedAt: '2026-04-08T17:51:14'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

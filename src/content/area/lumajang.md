@@ -48,7 +48,7 @@ Untuk pernikahan, kami menyediakan [browse desain undangan](/desain-undangan-dig
 
 Untuk acara bisnis atau gathering, template wedding tentu kurang cocok. Gunakan halaman [desain gathering dan corporate](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Karena tamu Lumajang tersebar hingga desa-desa sekitar, pilih desain yang tetap nyaman dibaca di ponsel. Bandingkan dulu beberapa gaya di [katalog desain](/desain-undangan-digital/) sebelum memutuskan.
 
 ### Tips Memilih Undangan untuk Hajatan di Lumajang
 
@@ -73,12 +73,7 @@ Biaya undangan digital bervariasi tergantung fitur dan tingkat kustomisasi. Untu
 
 Cek [informasi harga terbaru](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-Proses pemesanan di Acaranya.id dirancang sederhana:
-
-1.  **Pilih desain atau kirim referensi.** Bisa dari katalog kami, bisa juga dari contoh undangan yang Anda lihat di internet.
-2.  **Kirim data acara.** Nama, tanggal, lokasi, foto, teks undangan, dan detail lainnya.
-3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
-4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
+Alurnya dimulai dari pemilihan desain, bisa dari katalog kami atau contoh yang Anda sukai. Setelah itu kirimkan data acara, cek hasil preview, dan undangan siap dibagikan. Karena wilayah Lumajang cukup luas, tulis alamat venue dan patokan lokasi selengkap mungkin sejak awal.
 
 ### Waktu Kirim Undangan yang Tepat untuk Tamu Luar Kota
 

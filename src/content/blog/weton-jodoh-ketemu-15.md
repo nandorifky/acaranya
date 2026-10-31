@@ -29,7 +29,7 @@ Secara umum, weton jodoh ketemu 15 dianggap sebagai tanda bahwa hubungan perlu d
 
 Weton adalah bagian dari tradisi dan cara keluarga Jawa membaca kemungkinan dalam kehidupan rumah tangga. Tetap ada hal yang jauh lebih nyata untuk dibangun bersama, mulai dari kesiapan menikah, kejujuran, restu keluarga, sampai kemampuan menyelesaikan konflik dengan kepala dingin.
 
-Di artikel ini, Acays akan diajak memahami arti weton jodoh ketemu 15, cara menghitungnya, contoh kombinasi weton, dan cara menyikapinya dengan bijak sebelum melangkah ke hari bahagia.
+Di artikel ini, kamu akan diajak memahami arti weton jodoh ketemu 15, cara menghitungnya, contoh kombinasi weton, dan cara menyikapinya dengan bijak sebelum melangkah ke hari bahagia.
 
 ## Jawaban Singkatnya Menurut Primbon Jawa
 

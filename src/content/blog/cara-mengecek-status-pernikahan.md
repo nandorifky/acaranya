@@ -5,7 +5,6 @@ description: >-
   Dukcapil. Penting untuk validasi legalitas sebelum melangkah ke jenjang
   serius.
 publishedAt: '2026-04-08T17:50:02'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:

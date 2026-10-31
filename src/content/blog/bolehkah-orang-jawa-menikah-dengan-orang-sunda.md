@@ -4,7 +4,6 @@ description: >-
   Mitos Jawa-Sunda dilarang menikah masih sering terdengar. Simak fakta sejarah
   Perang Bubat, pandangan hukum Islam, dan tips menjalaninya di era modern!
 publishedAt: '2026-04-08T17:51:14'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

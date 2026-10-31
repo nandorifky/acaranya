@@ -1,6 +1,7 @@
 ---
 import Container from "../base/Container.astro";
 import Icon from "../ui/Icon.astro";
+import ResponsiveImage from "../base/ResponsiveImage.astro";
 import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
 ---
 
@@ -142,12 +143,12 @@ import { createWhatsappUrl } from "../../lib/whatsapp/create-whatsapp-url";
           <div
             class="relative w-full h-full rounded-[36px] overflow-hidden flex flex-col justify-between p-6 border border-brand-900/10 select-none"
           >
-            <img
+            <ResponsiveImage
               src="/images/undangan-digital-acaranya-id.webp"
               alt="Tampilan undangan digital pernikahan Acaranya.id di layar ponsel"
-              width="768"
-              height="1152"
+              sizes="300px"
               class="absolute inset-0 w-full h-full object-cover"
+              loading="eager"
               decoding="async"
               fetchpriority="high"
             />

@@ -4,14 +4,11 @@ description: >-
   Panduan menyusun undangan Walimatul Ursy yang sopan & sesuai sunnah. Lengkap
   dengan format penulisan dasar mulai dari salam hingga detail informasi acara.
 publishedAt: '2026-04-08T17:50:43'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
   - islami
   - pernikahan
-  - tips
-  - kata-kata
   - tips
   - kata-kata
   - desain

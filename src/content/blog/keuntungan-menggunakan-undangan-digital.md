@@ -5,7 +5,6 @@ description: >-
   dari hemat biaya hingga ramah lingkungan yang bikin persiapan acaramu makin
   praktis!
 publishedAt: '2026-04-08T17:50:46'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

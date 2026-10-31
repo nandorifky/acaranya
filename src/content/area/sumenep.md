@@ -47,7 +47,7 @@ Lihat [katalog desain undangan digital](/desain-undangan-digital/) untuk menemuk
 
 Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Untuk acara di pulau-pulau, paket yang lebih lengkap mungkin lebih sesuai karena tamu butuh informasi lebih detail.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Sumenep
 
 Untuk pernikahan di Sumenep, terutama yang melibatkan tamu dari pulau-pulau, mulai siapkan undangan digital minimal empat minggu sebelum hari H. Tamu dari pulau butuh waktu lebih lama untuk merencanakan perjalanan.
 

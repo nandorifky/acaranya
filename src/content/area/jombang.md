@@ -98,13 +98,13 @@ Biaya undangan digital untuk acara di Jombang bervariasi tergantung jumlah tamu,
 
 Cek [paket harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Pilih berdasarkan kebutuhan, bukan berdasarkan harga termurah atau termahal.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Jombang
 
 Idealnya undangan digital dibuat setelah tanggal dan lokasi acara sudah pasti. Untuk pernikahan di Jombang, waktu idealnya tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 
 Jika tamu banyak yang dari luar kota atau dari jaringan pesantren di daerah lain, lebih baik disiapkan lebih awal. Mereka butuh waktu untuk mengatur perjalanan dan jadwal. Undangan yang dikirim terlalu mendekati hari H bisa membuat tamu kesulitan menyesuaikan diri.
 
-Untuk acara yang lebih sederhana seperti khitanan, aqiqah, atau tahlilan, waktu bisa lebih fleksibel. Yang penting adalah keluarga sudah punya kepastian soal tanggal, lokasi, dan tamu utama.
+Acara seperti khitanan, aqiqah, atau tahlilan tidak selalu membutuhkan persiapan sepanjang pernikahan. Selama tanggal, lokasi, dan daftar tamu utama sudah pasti, undangan bisa disiapkan dalam hitungan hari. Untuk hajatan keluarga di Jombang yang biasanya melibatkan banyak tetangga, pastikan waktu acara ditulis jelas agar tidak terjadi salah paham.
 
 ---
 

@@ -5,7 +5,6 @@ description: >-
   diramalkan akan saling melengkapi, harmonis, dan sukses dalam berbagai aspek
   kehidupan.
 publishedAt: '2026-04-08T17:49:48'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

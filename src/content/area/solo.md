@@ -45,7 +45,7 @@ Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. 
 
 Jika Anda mencari tips memilih desain, baca artikel tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/).
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Solo
 
 Untuk pernikahan di Solo, mulai siapkan undangan digital minimal tiga minggu sebelum hari H. Solo punya banyak hotel yang bisa cepat penuh saat musim hajatan, jadi pastikan tamu sudah mendapat informasi lebih awal.
 

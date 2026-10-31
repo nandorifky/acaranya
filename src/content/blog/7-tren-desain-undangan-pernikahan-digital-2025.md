@@ -4,7 +4,6 @@ description: >-
   Update undangan pernikahanmu dengan 7 tren desain digital terbaru tahun 2025.
   Dari gaya minimalis hingga tema futuristik, cek inspirasinya di Acaranya ID!
 publishedAt: '2026-04-08T17:51:06'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Undangan
 tags:

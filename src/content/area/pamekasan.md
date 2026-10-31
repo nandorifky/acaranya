@@ -106,13 +106,13 @@ Biaya undangan digital untuk acara di Pamekasan bervariasi tergantung jumlah tam
 
 Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Pilih berdasarkan kebutuhan, bukan berdasarkan harga termurah atau termahal.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Pamekasan
 
 Untuk pernikahan di Pamekasan, waktu ideal untuk menyiapkan undangan digital adalah tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 
 Jika tamu banyak yang dari luar kota atau luar pulau, lebih baik disiapkan lebih awal. Mereka butuh waktu untuk mengatur perjalanan, akomodasi, dan jadwal. Undangan yang dikirim terlalu mendekati hari H bisa membuat tamu kesulitan menyesuaikan diri.
 
-Untuk acara yang lebih sederhana seperti khitanan, aqiqah, atau tahlilan, waktu bisa lebih fleksibel. Yang penting adalah keluarga sudah punya kepastian soal tanggal, lokasi, dan tamu utama.
+Khitanan, aqiqah, atau tahlilan di Pamekasan biasanya melibatkan keluarga besar, sehingga tanggal dan tempat perlu disepakati lebih dulu. Setelah itu, undangan bisa dibuat dan dibagikan lewat grup WhatsApp keluarga.
 
 ---
 

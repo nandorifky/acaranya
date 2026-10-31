@@ -25,7 +25,7 @@ Motif undangan pernikahan bukan hanya hiasan. Motif yang tepat bisa membantu tam
 
 Ada pasangan yang cocok dengan motif simple, ada yang lebih suka floral romantis, ada juga yang ingin tampil elegan lewat sentuhan batik, wayang, atau warna gold yang mewah. Pilihannya banyak, tetapi yang paling penting adalah motif undangan harus selaras dengan tema acara, karakter pasangan, dan kesan yang ingin kamu hadirkan.
 
-Kalau Acays sedang mencari inspirasi desain undangan impian, berikut ragam motif undangan pernikahan yang bisa kamu jadikan referensi sebelum menentukan pilihan.
+Kalau kamu sedang mencari inspirasi desain undangan impian, berikut ragam motif undangan pernikahan yang bisa kamu jadikan referensi sebelum menentukan pilihan.
 
 ## Cara Memilih Motif Undangan Pernikahan yang Tepat
 

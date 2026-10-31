@@ -1,7 +1,7 @@
 ---
 title: Baby Shark New
 category: ulang-tahun-anak
-thumbnail: 'https://inv.acaranya.id/themes/baby-shark-new/baby-shark-new.jpg'
+thumbnail: 'https://inv.acaranya.id/themes/baby-shark-new/baby-shark-new.webp'
 previewUrl: 'https://inv.acaranya.id/preview/baby-shark-new'
 isFeatured: false
 isPremium: false

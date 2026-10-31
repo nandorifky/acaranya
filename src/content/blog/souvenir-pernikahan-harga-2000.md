@@ -5,7 +5,6 @@ description: >-
   2000-an yang unik, berkesan, dan tetap bermanfaat untuk tamu spesial di hari
   bahagiamu.
 publishedAt: '2026-04-08T17:49:55'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

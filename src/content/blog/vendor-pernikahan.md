@@ -5,7 +5,6 @@ description: >-
   kamu booking, mulai dari katering hingga dokumentasi, beserta tips
   koordinasinya.
 publishedAt: '2026-04-08T17:50:14'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

@@ -13,8 +13,6 @@ schemaOperatingSystem: "All"
 schemaApplicationCategory: "WebApplication"
 schemaOffersPrice: "0"
 schemaOffersPriceCurrency: "IDR"
-schemaRatingValue: 4.8
-schemaRatingCount: 216
 ---
 
 Mengirimkan kabar pernikahan kini menjadi jauh lebih praktis dan modern melalui bantuan pesan digital WhatsApp (WA). Namun, tantangan terbesar bagi calon pengantin adalah merangkai **kata-kata undangan pernikahan lewat WA** agar tetap sopan, menarik, dan menghormati penerimanya.

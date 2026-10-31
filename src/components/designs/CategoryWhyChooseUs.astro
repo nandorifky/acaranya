@@ -1,5 +1,6 @@
 ---
 import Icon from "../ui/Icon.astro";
+import ResponsiveImage from "../base/ResponsiveImage.astro";
 
 interface Props {
   data: {
@@ -120,7 +121,7 @@ if (!data || !data.features || data.features.length === 0) {
             >
               {
                 data.image ? (
-                  <img
+                  <ResponsiveImage
                     src={data.image}
                     alt={
                       data.imageAlt ||
@@ -132,8 +133,7 @@ if (!data || !data.features || data.features.length === 0) {
                       data.title ||
                       "Kenapa Memilih Acaranya.id"
                     }
-                    width="1200"
-                    height="1600"
+                    sizes="(min-width: 1024px) 45vw, 100vw"
                     class="w-full h-full object-cover filter sepia-[8%] group-hover:scale-[1.03] transition-transform duration-700 ease-out"
                     loading="lazy"
                   />

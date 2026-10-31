@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T18:15:46+07:00'
 status: published
 whatsappText: Halo admin, saya dari Denpasar. Mau tanya undangan digital untuk pernikahan adat atau acara keluarga.
+faqItems:
+  - question: "Apakah Acaranya.id melayani Denpasar dan Badung?"
+    answer: "Ya. Kami melayani Denpasar, Badung, Gianyar, dan wilayah Bali lainnya."
+  - question: "Bisakah undangan dipakai untuk rangkaian upacara adat Bali?"
+    answer: "Bisa. Undangan dapat memuat beberapa rangkaian acara dengan waktu dan lokasi masing-masing, termasuk acara adat keluarga."
+  - question: "Bagaimana undangan dibagikan kepada tamu?"
+    answer: "Tautan undangan dikirim melalui WhatsApp atau media digital lain, sehingga tamu di Bali maupun luar kota dapat membukanya dari ponsel."
+  - question: "Apakah bisa revisi setelah undangan selesai?"
+    answer: "Bisa. Revisi dapat dilakukan sampai hari H untuk teks, jadwal, maupun lokasi acara."
+  - question: "Berapa harga dan lama pengerjaan undangan digital Denpasar?"
+    answer: "Harga mulai Rp75.000. Undangan standar selesai 1 hingga maksimal 3 hari setelah data lengkap diterima, sedangkan custom design sekitar 1 minggu."
 ---
 
 ## Mengundang Tamu di Denpasar Bukan Hal yang Sederhana
@@ -113,7 +124,7 @@ Undangan digital bisa membantu dengan menyertakan:
 
 Dengan semua informasi ini dalam satu halaman, tamu asing tidak perlu bertanya ke banyak orang sebelum hari acara.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Denpasar
 
 Untuk pernikahan di Denpasar, waktu ideal untuk menyiapkan undangan digital adalah tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 

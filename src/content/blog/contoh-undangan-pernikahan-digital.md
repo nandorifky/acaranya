@@ -5,7 +5,6 @@ description: >-
   gambar, video, hingga website yang sedang tren dan banyak diminati calon
   pengantin muda.
 publishedAt: '2026-04-08T17:50:27'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -13,9 +12,7 @@ tags:
   - desain
   - tips
   - pernikahan
-  - tips
   - kata-kata
-  - desain
 image: /images/blog/featured/contoh-undangan-pernikahan-digital.jpg
 imageAlt: Contoh Undangan Pernikahan Digital
 imageTitle: Contoh Undangan Pernikahan Digital

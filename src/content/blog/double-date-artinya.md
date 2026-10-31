@@ -4,7 +4,6 @@ description: >-
   Apa itu Double Date? Pahami pengertian, manfaat untuk keharmonisan hubungan,
   serta tips kencan ganda yang seru & bermakna bareng pasangan sahabatmu!
 publishedAt: '2026-04-08T17:51:09'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Relationship
 tags:
@@ -12,7 +11,6 @@ tags:
   - tips
   - hubungan
   - lifestyle
-  - tips
   - kata-kata
   - desain
 image: /images/blog/featured/double-date-artinya.jpg

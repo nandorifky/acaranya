@@ -240,8 +240,6 @@ collections:
       - { label: "Skema: Kategori Aplikasi", name: "schemaApplicationCategory", widget: "string", default: "WebApplication", required: false }
       - { label: "Skema: Harga (0 jika gratis)", name: "schemaOffersPrice", widget: "string", default: "0", required: false }
       - { label: "Skema: Mata Uang (IDR dll)", name: "schemaOffersPriceCurrency", widget: "string", default: "IDR", required: false }
-      - { label: "Skema: Rating Bintang (misal 4.9)", name: "schemaRatingValue", widget: "number", value_type: "float", required: false }
-      - { label: "Skema: Jumlah Ulasan/Rating", name: "schemaRatingCount", widget: "number", value_type: "int", required: false }
       - label: "FAQ Tool (Opsional)"
         name: "faqItems"
         widget: "list"

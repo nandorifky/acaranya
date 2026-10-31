@@ -5,7 +5,6 @@ description: >-
   terbaik di Bandung yang profesional, berpengalaman, dan punya paket harga
   terjangkau.
 publishedAt: '2026-04-08T17:51:23'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Vendor
 tags:

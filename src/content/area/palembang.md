@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T22:30:31+07:00'
 status: published
 whatsappText: Halo admin, saya dari Palembang. Mau tanya undangan digital untuk pernikahan adat atau acara keluarga.
+faqItems:
+  - question: "Apakah tersedia undangan bernuansa adat Palembang?"
+    answer: "Tersedia. Anda dapat memilih desain bernuansa adat Palembang atau tema modern sesuai konsep acara."
+  - question: "Wilayah mana saja yang dilayani di Palembang?"
+    answer: "Kami melayani Palembang, Banyuasin, Ogan Ilir, dan sekitarnya."
+  - question: "Bagaimana cara membagikan undangan kepada tamu?"
+    answer: "Undangan dibagikan sebagai tautan melalui WhatsApp atau media digital lain, sehingga tamu dapat membukanya langsung dari ponsel."
+  - question: "Apakah bisa mengubah jadwal atau lokasi acara?"
+    answer: "Bisa. Revisi jadwal, lokasi, dan teks undangan dapat dilakukan sampai hari H."
+  - question: "Berapa harga undangan digital Palembang?"
+    answer: "Harga mulai Rp75.000 dengan paket Simple, Mengundang, dan Meriah. Pengerjaan standar 1 sampai maksimal 3 hari setelah data lengkap diterima."
 ---
 
 ## Sungai Musi Membagi Kota, Undangan Digital Menyatukan Tamu
@@ -124,7 +135,7 @@ Undangan digital bisa membantu dengan menyertakan:
 
 Dengan semua informasi ini dalam satu halaman, tamu dari luar kota tidak perlu bertanya ke banyak orang sebelum hari acara.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Palembang
 
 Untuk pernikahan di Palembang, waktu ideal untuk menyiapkan undangan digital adalah tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 

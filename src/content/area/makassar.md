@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T18:26:43+07:00'
 status: published
 whatsappText: Halo admin, saya dari Makassar. Mau tanya undangan digital untuk pernikahan adat atau acara keluarga.
+faqItems:
+  - question: "Apakah tersedia desain dengan nuansa adat Bugis-Makassar?"
+    answer: "Tersedia. Anda dapat memilih tema bernuansa adat Bugis-Makassar atau desain modern, lalu menyesuaikan isi undangan dengan susunan acara."
+  - question: "Apakah Acaranya.id melayani Makassar dan sekitarnya?"
+    answer: "Ya. Kami melayani Makassar, Gowa, Maros, dan wilayah sekitarnya."
+  - question: "Bagaimana undangan dibagikan kepada tamu di Makassar?"
+    answer: "Tautan undangan dibagikan melalui WhatsApp atau media digital lain, sehingga tamu di Makassar dan luar kota dapat membukanya dari ponsel."
+  - question: "Apakah undangan dapat memuat beberapa rangkaian acara?"
+    answer: "Bisa. Satu undangan dapat memuat beberapa acara dengan waktu dan lokasi masing-masing."
+  - question: "Berapa harga dan waktu pengerjaan undangan digital Makassar?"
+    answer: "Harga mulai Rp75.000. Undangan standar selesai 1 hingga maksimal 3 hari setelah data lengkap diterima, sedangkan custom design sekitar 1 minggu."
 ---
 
 ## Makassar Pintu Gerbang Timur yang Punya Cara Sendiri dalam Mengundang
@@ -111,13 +122,13 @@ Undangan digital bisa membantu dengan menyertakan:
 
 Dengan semua informasi ini dalam satu halaman, tamu dari luar pulau tidak perlu bertanya ke banyak orang sebelum hari acara.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Makassar
 
 Untuk pernikahan di Makassar, waktu ideal untuk menyiapkan undangan digital adalah tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 
 Jika tamu banyak yang dari luar pulau, lebih baik disiapkan lebih awal. Mereka butuh waktu untuk mengatur perjalanan, akomodasi, dan jadwal. Undangan yang dikirim terlalu mendekati hari H bisa membuat tamu kesulitan menyesuaikan diri.
 
-Untuk acara yang lebih sederhana seperti khitanan, aqiqah, atau tahlilan, waktu bisa lebih fleksibel. Yang penting adalah keluarga sudah punya kepastian soal tanggal, lokasi, dan tamu utama.
+Acara sederhana seperti khitanan, aqiqah, atau tahlilan tetap membutuhkan kepastian tanggal dan lokasi sebelum undangan dibuat. Untuk keluarga di Makassar yang kerap mengundang kerabat dari kabupaten sekitar, tautan digital memudahkan informasi tersampaikan tanpa menunggu undangan cetak.
 
 ---
 

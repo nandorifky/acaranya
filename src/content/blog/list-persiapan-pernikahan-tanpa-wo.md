@@ -5,7 +5,6 @@ description: >-
   wajib kamu tahu, mulai dari atur anggaran hingga pilih vendor terbaik demi
   acara lancar.
 publishedAt: '2026-04-08T17:51:11'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

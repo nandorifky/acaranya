@@ -5,7 +5,6 @@ description: >-
   wajib kamu siapkan, mulai dari atur budget, pilih tanggal, hingga cari vendor
   impian.
 publishedAt: '2026-04-08T17:49:44'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

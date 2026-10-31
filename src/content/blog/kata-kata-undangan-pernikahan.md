@@ -5,7 +5,6 @@ description: >-
   undangan pernikahan yang berkesan, baik untuk format formal maupun kasual
   kekinian.
 publishedAt: '2026-04-08T17:51:24'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Teks
 tags:

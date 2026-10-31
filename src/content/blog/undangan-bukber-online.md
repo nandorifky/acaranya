@@ -4,7 +4,6 @@ description: >-
   Praktis & hemat! Bikin undangan bukber online via WhatsApp dengan desain
   islami yang keren & fitur lengkap agar momen buka puasa bersamamu makin ramai.
 publishedAt: '2026-04-08T17:51:02'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Blog
 tags:

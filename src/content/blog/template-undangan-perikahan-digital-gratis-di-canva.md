@@ -4,7 +4,6 @@ description: >-
   Bikin undangan sendiri tanpa ribet? Cek 10 template undangan pernikahan
   digital gratis di Canva yang estetik, mudah diedit, dan cocok untuk pemula.
 publishedAt: '2026-04-08T17:51:00'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

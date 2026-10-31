@@ -14,6 +14,8 @@ import '@fontsource/playfair-display/400-italic.css';
 import '@fontsource/allura/400.css';
 
 import { siteConfig } from '../data/site';
+import { getImageSizeAttrs } from '../lib/images/get-image-dimensions';
+import { getVariantSrcset } from '../lib/images/responsive';
 
 interface Props {
   title?: string;
@@ -30,6 +32,8 @@ interface Props {
   section?: string;
   ogImageWidth?: number;
   ogImageHeight?: number;
+  preloadImage?: string;
+  preloadImageSizes?: string;
 }
 
 const {
@@ -45,8 +49,10 @@ const {
   modifiedTime,
   authorName,
   section,
-  ogImageWidth = 1200,
-  ogImageHeight = 630,
+  ogImageWidth,
+  ogImageHeight,
+  preloadImage,
+  preloadImageSizes = '100vw',
 } = Astro.props;
 
 const pageTitle = title === siteConfig.seo.defaultTitle || title.includes(siteConfig.name)
@@ -55,6 +61,11 @@ const pageTitle = title === siteConfig.seo.defaultTitle || title.includes(siteCo
 
 const canonicalUrl = new URL(canonical || Astro.url.pathname, siteConfig.url).toString();
 const ogImageUrl = ogImage.startsWith('http') ? ogImage : new URL(ogImage, siteConfig.url).toString();
+const localOgDims = ogImage.startsWith('http') ? {} : getImageSizeAttrs(new URL(ogImage, siteConfig.url).pathname);
+const resolvedOgWidth = ogImageWidth ?? localOgDims.width;
+const resolvedOgHeight = ogImageHeight ?? localOgDims.height;
+
+const preloadSrcset = preloadImage ? getVariantSrcset(preloadImage) : undefined;
 
 // Default JSON-LD: Organization + WebSite
 const defaultJsonLd = [
@@ -65,6 +76,19 @@ const defaultJsonLd = [
     name: siteConfig.name,
     url: siteConfig.url,
     logo: new URL(siteConfig.branding.logo, siteConfig.url).toString(),
+    description: siteConfig.description,
+    email: siteConfig.contact.email,
+    foundingDate: String(siteConfig.business.foundedYear),
+    address: {
+      '@type': 'PostalAddress',
+      addressLocality: siteConfig.business.schemaLocality,
+      addressRegion: siteConfig.business.schemaRegion,
+      addressCountry: siteConfig.business.schemaCountry,
+    },
+    areaServed: {
+      '@type': 'Country',
+      name: 'Indonesia',
+    },
     contactPoint: {
       '@type': 'ContactPoint',
       telephone: `+${siteConfig.contact.whatsapp}`,
@@ -162,13 +186,24 @@ const allJsonLd = [...defaultJsonLd, ...jsonLd];
   <meta name="robots" content={`${robots}, max-image-preview:large`} />
   <link rel="canonical" href={canonicalUrl} />
 
+  {preloadImage && (
+    <link
+      rel="preload"
+      as="image"
+      href={preloadImage}
+      imagesrcset={preloadSrcset}
+      imagesizes={preloadSrcset ? preloadImageSizes : undefined}
+      fetchpriority="high"
+    />
+  )}
+
   <!-- Open Graph -->
   <meta property="og:title" content={pageTitle} />
   <meta property="og:description" content={description} />
   <meta property="og:image" content={ogImageUrl} />
   <meta property="og:image:alt" content={ogImageAlt} />
-  <meta property="og:image:width" content={String(ogImageWidth)} />
-  <meta property="og:image:height" content={String(ogImageHeight)} />
+  {resolvedOgWidth && <meta property="og:image:width" content={String(resolvedOgWidth)} />}
+  {resolvedOgHeight && <meta property="og:image:height" content={String(resolvedOgHeight)} />}
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:type" content={type} />
   <meta property="og:locale" content={siteConfig.locale} />

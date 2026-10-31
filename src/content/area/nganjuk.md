@@ -48,7 +48,7 @@ Untuk pernikahan, kami menyediakan [gaya desain undangan](/desain-undangan-digit
 
 Untuk acara bisnis atau gathering, template wedding tentu kurang cocok. Gunakan halaman [desain undangan acara](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Hajatan di Nganjuk yang melibatkan banyak tamu kampung sebaiknya memakai desain yang jelas dan mudah dibaca. Bandingkan dulu beberapa gaya di [katalog desain](/desain-undangan-digital/) sebelum memutuskan.
 
 ### Tips Memilih Undangan untuk Hajatan di Nganjuk
 
@@ -73,12 +73,7 @@ Biaya undangan digital bervariasi tergantung fitur dan tingkat kustomisasi. Untu
 
 Cek [harga paket undangan](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-Proses pemesanan di Acaranya.id dirancang sederhana:
-
-1.  **Pilih desain atau kirim referensi.** Bisa dari katalog kami, bisa juga dari contoh undangan yang Anda lihat di internet.
-2.  **Kirim data acara.** Nama, tanggal, lokasi, foto, teks undangan, dan detail lainnya.
-3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
-4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
+Mulai dari memilih desain atau mengirim referensi, lengkapi data acara, lalu tinjau hasilnya sebelum dibagikan. Hajatan di Nganjuk yang melibatkan banyak tamu kampung bisa memakai satu tautan untuk seluruh keluarga, sehingga tidak perlu mengirim undangan satu per satu.
 
 ### Waktu Kirim Undangan yang Tepat untuk Tamu Luar Kota
 

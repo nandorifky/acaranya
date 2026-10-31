@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T22:26:31+07:00'
 status: published
 whatsappText: Halo admin, saya dari Medan. Mau tanya undangan digital untuk pernikahan adat atau acara keluarga.
+faqItems:
+  - question: "Apakah tersedia undangan dengan nuansa adat Batak atau Melayu?"
+    answer: "Tersedia. Anda dapat memilih desain bernuansa adat Batak, Melayu, atau tema modern, lalu menyesuaikan isi undangan dengan rangkaian acara keluarga."
+  - question: "Apakah Acaranya.id melayani Medan dan kabupaten sekitar?"
+    answer: "Ya. Kami melayani Medan, Deli Serdang, Binjai, dan sekitarnya."
+  - question: "Bagaimana cara mengirim undangan ke tamu di Medan?"
+    answer: "Undangan dibagikan sebagai tautan melalui WhatsApp atau media digital lain, sehingga tamu di Medan dan luar kota dapat membukanya dari ponsel."
+  - question: "Apakah undangan bisa memuat lebih dari satu acara adat?"
+    answer: "Bisa. Beberapa rangkaian acara dapat ditampilkan dalam satu undangan, lengkap dengan waktu dan lokasi masing-masing."
+  - question: "Berapa harga dan lama pengerjaan undangan digital Medan?"
+    answer: "Harga mulai Rp75.000. Undangan standar selesai 1 hingga maksimal 3 hari setelah data lengkap diterima, sedangkan custom design sekitar 1 minggu."
 ---
 
 ## Mengundang di Medan Itu Butuh Pemahaman Budaya, Bukan Sekadar Kirim Link
@@ -105,7 +116,7 @@ Biaya undangan digital untuk acara di Medan bervariasi. Untuk pernikahan Batak T
 
 Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Medan
 
 Untuk pernikahan di Medan, waktu ideal untuk menyiapkan undangan digital adalah tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 

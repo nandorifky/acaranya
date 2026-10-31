@@ -7,6 +7,9 @@
   },
   "scripts": {
     "dev": "astro dev",
+    "dates": "node scripts/gen-content-dates.mjs",
+    "variants": "node scripts/gen-image-variants.mjs",
+    "designs:thumbs": "node scripts/mirror-design-thumbs.mjs",
     "build": "node scripts/gen-image-dimensions.mjs && astro build && pagefind --site dist && node -e \"import('node:fs').then(f=>f.cpSync('dist/pagefind','public/pagefind',{recursive:true,force:true}))\"",
     "preview": "astro preview",
     "astro": "astro"
@@ -37,6 +40,7 @@
   },
   "devDependencies": {
     "node-fetch": "^3.3.2",
-    "pagefind": "^1.5.2"
+    "pagefind": "^1.5.2",
+    "sharp": "^0.34.5"
   }
 }

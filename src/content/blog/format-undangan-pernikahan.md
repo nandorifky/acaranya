@@ -5,7 +5,6 @@ description: >-
   pengantin hingga RSVP agar informasi acara tersampaikan dengan jelas &
   informatif.
 publishedAt: '2026-04-08T17:50:34'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -13,9 +12,7 @@ tags:
   - tips
   - desain
   - format
-  - tips
   - kata-kata
-  - desain
 image: /images/blog/featured/format-undangan-pernikahan.jpg
 imageAlt: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'
 imageTitle: 'Format Undangan Pernikahan yang Benar, Bisa Kirim Via WhatsApp'

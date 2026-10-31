@@ -25,7 +25,7 @@ Jawabannya, tidak selalu. Seserahan dalam prosesi Ngunduh Mantu bukan kewajiban 
 
 Dalam banyak keluarga, Ngunduh Mantu lebih dipahami sebagai acara penerimaan menantu di pihak keluarga mempelai laki-laki. Fokus utamanya adalah silaturahmi, doa restu, dan perayaan hangat setelah akad atau resepsi utama. Jadi, ada atau tidaknya seserahan sebaiknya tidak ditentukan dari rasa sungkan saja, tetapi dari kesepakatan keluarga, adat setempat, dan kenyamanan kedua mempelai.
 
-Kalau Acays sedang menyiapkan hari bahagia dan bingung apakah perlu membawa seserahan lagi, artikel ini akan membantumu mengambil keputusan dengan lebih tenang.
+Kalau kamu sedang menyiapkan hari bahagia dan bingung apakah perlu membawa seserahan lagi, artikel ini akan membantumu mengambil keputusan dengan lebih tenang.
 
 ## Jawaban Singkatnya
 

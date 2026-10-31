@@ -5,7 +5,6 @@ description: >-
   digital dari gaya romantis, islami, hingga bahasa inggris yang bikin tamu
   terkesan.
 publishedAt: '2026-04-08T17:50:08'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

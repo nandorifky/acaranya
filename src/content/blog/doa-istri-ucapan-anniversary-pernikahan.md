@@ -5,7 +5,6 @@ description: >-
   kalimat penuh makna & doa Islami untuk mensyukuri perjalanan cinta yang penuh
   berkah.
 publishedAt: '2026-04-08T17:49:16'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -14,7 +13,6 @@ tags:
   - hubungan
   - doa
   - tips
-  - kata-kata
   - desain
 image: /images/blog/featured/doa-istri-ucapan-anniversary-pernikahan.jpg
 imageAlt: 40 Doa Istri Ucapan Anniversary Pernikahan yang Romantis

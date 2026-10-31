@@ -5,7 +5,6 @@ description: >-
   dipercaya membawa kemakmuran, kehormatan, dan keharmonisan luar biasa bagi
   pasangan.
 publishedAt: '2026-04-08T17:49:31'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

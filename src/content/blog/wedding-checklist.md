@@ -5,7 +5,6 @@ description: >-
   terstruktur & lengkap untuk memantau setiap detail persiapan dari H-12 bulan
   hingga hari h.
 publishedAt: '2026-04-08T17:49:43'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

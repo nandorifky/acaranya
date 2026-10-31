@@ -5,7 +5,6 @@ description: >-
   ulasan mengenai tanggung jawab moral, spiritual, serta konsep balasan (karma)
   di sini.
 publishedAt: '2026-04-08T17:51:16'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:

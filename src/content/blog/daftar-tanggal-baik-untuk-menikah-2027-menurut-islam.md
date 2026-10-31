@@ -26,7 +26,7 @@ Menentukan tanggal pernikahan bukan hanya soal mencari hari yang terlihat cantik
 
 Kalau kamu sedang mencari tanggal baik untuk menikah 2027 menurut Islam, jawaban paling aman adalah memilih hari yang memudahkan akad, walimah, keluarga, tamu, dan ibadah. Dalam Islam, pernikahan tidak bergantung pada angka keberuntungan. Namun, ada waktu yang lebih nyaman dan lebih kuat secara suasana ibadah, seperti bulan Syawal, akhir pekan di luar Ramadan, dan tanggal yang tidak bertabrakan dengan hari besar.
 
-Catatan kecil untuk Acays, daftar ini memakai perkiraan kalender Hijriah. Tanggal bisa bergeser satu hari mengikuti hasil rukyat, hisab, atau keputusan resmi di Indonesia.
+Catatan kecil, daftar ini memakai perkiraan kalender Hijriah. Tanggal bisa bergeser satu hari mengikuti hasil rukyat, hisab, atau keputusan resmi di Indonesia.
 
 ## Rekomendasi Cepat Tanggal Baik Menikah 2027
 

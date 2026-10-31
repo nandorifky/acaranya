@@ -25,7 +25,7 @@ ctaUrl: /cek-weton/
 
 Weton jodoh ketemu 14 artinya total neptu kamu dan pasangan berjumlah 14. Dalam hitungan weton jodoh Jawa versi delapan kategori, angka 14 termasuk **Tibo Padu**. Maknanya hubungan dipercaya punya potensi lebih sering cekcok, terutama karena hal kecil yang dibesar-besarkan.
 
-Namun, Acays tidak perlu langsung cemas. Tafsir weton sebaiknya dipahami sebagai pengingat untuk lebih bijak, bukan vonis bahwa hubungan pasti buruk. Rumah tangga tetap dibentuk oleh komunikasi, kesiapan mental, restu keluarga, komitmen, dan cara kalian saling menjaga saat ada perbedaan.
+Namun, kamu tidak perlu langsung cemas. Tafsir weton sebaiknya dipahami sebagai pengingat untuk lebih bijak, bukan vonis bahwa hubungan pasti buruk. Rumah tangga tetap dibentuk oleh komunikasi, kesiapan mental, restu keluarga, komitmen, dan cara kalian saling menjaga saat ada perbedaan.
 
 ## Makna Weton Jodoh Ketemu 14 dalam Primbon Jawa
 

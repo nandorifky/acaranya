@@ -4,6 +4,7 @@ import Container from '../../../../components/base/Container.astro';
 import Section from '../../../../components/base/Section.astro';
 import Icon from '../../../../components/ui/Icon.astro';
 import Pagination from '../../../../components/ui/Pagination.astro';
+import ResponsiveImage from '../../../../components/base/ResponsiveImage.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths({ paginate }: any) {
@@ -18,7 +19,7 @@ export async function getStaticPaths({ paginate }: any) {
 
   const tags = Array.from(tagSet).filter(tag => {
     const usageCount = published.filter(post => post.data.tags.includes(tag)).length;
-    return usageCount > 1 && /^[a-z0-9-]+$/.test(tag);
+    return usageCount >= 3 && /^[a-z0-9-]+$/.test(tag);
   });
 
   return tags.flatMap(tag => {
@@ -80,11 +81,10 @@ const robots = page.currentPage > 1 ? 'noindex,follow' : 'index,follow';
               <a href={`/artikel/${post.data.customSlug || post.id}/`} class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
                 {post.data.image ? (
                   <div class="aspect-[16/9] overflow-hidden">
-                    <img
+                    <ResponsiveImage
                       src={post.data.image}
                       alt={post.data.imageAlt || post.data.title}
-                      width="800"
-                      height="450"
+                      sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       loading="lazy"
                       decoding="async"

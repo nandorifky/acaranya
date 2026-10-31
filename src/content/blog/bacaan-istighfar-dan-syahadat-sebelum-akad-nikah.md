@@ -4,7 +4,6 @@ description: >-
   Pahami makna dan bacaan Istighfar serta Syahadat sebelum akad nikah dimulai.
   Langkah penting untuk mensucikan hati demi keberkahan rumah tangga baru.
 publishedAt: '2026-04-08T17:49:18'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:

@@ -4,7 +4,6 @@ description: >-
   Perkenalkan bisnismu secara luas! Simak ragam desain & fitur undangan grand
   opening digital untuk pembukaan toko atau kantor yang profesional & efisien.
 publishedAt: '2026-04-08T17:51:30'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Blog
 tags:

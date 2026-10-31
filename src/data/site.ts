@@ -99,8 +99,6 @@ export const siteConfig = {
     googleAnalyticsId: 'G-SME66PTLRE',
     googleTagManagerId: '',
     metaPixelId: '',
-    ratingValue: '4.9',
-    reviewCount: '406',
     priceRange: dynamicPriceRange,
   },
 

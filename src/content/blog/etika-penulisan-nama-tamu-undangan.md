@@ -11,8 +11,6 @@ tags:
   - tips
   - kata-kata
   - adat
-  - tips
-  - kata-kata
 image: /images/blog/featured/etika-penulisan-nama-tamu-undangan.jpg
 imageAlt: Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar
 imageTitle: Etika Penulisan Nama Tamu Undangan Pernikahan yang Benar
@@ -213,7 +211,7 @@ Gunakan checklist berikut:
 - Link undangan sudah diuji sebelum dibagikan
 - Data RSVP sudah siap jika memakai undangan digital
 
-Untuk Acays yang ingin lebih hemat waktu, gunakan satu file daftar tamu yang rapi sejak awal. Pisahkan nama, sapaan, kategori tamu, dan nomor WhatsApp agar proses pengiriman undangan lebih mudah.
+Untuk lebih hemat waktu, gunakan satu file daftar tamu yang rapi sejak awal. Pisahkan nama, sapaan, kategori tamu, dan nomor WhatsApp agar proses pengiriman undangan lebih mudah.
 
 ## Tips Menyusun Daftar Nama Tamu agar Tidak Ribet
 

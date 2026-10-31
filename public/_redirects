@@ -9,3 +9,32 @@
 /biolink/ / 301
 /catalog/ / 301
 /catalog / 301
+
+# Tag dengan < 3 artikel tidak lagi dibuat sebagai arsip
+/artikel/tag/kristen/ /artikel/ 301
+/artikel/tag/efisiensi/ /artikel/ 301
+/artikel/tag/akad/ /artikel/ 301
+/artikel/tag/background/ /artikel/ 301
+/artikel/tag/biaya/ /artikel/ 301
+/artikel/tag/canva/ /artikel/ 301
+/artikel/tag/keuangan/ /artikel/ 301
+/artikel/tag/tutorial/ /artikel/ 301
+/artikel/tag/mahar/ /artikel/ 301
+/artikel/tag/tanggal-cantik/ /artikel/ 301
+/artikel/tag/aesthetic/ /artikel/ 301
+/artikel/tag/data/ /artikel/ 301
+/artikel/tag/wisuda/ /artikel/ 301
+/artikel/tag/betawi/ /artikel/ 301
+/artikel/tag/akad-nikah/ /artikel/ 301
+/artikel/tag/hukum-nikah/ /artikel/ 301
+/artikel/tag/make-up/ /artikel/ 301
+/artikel/tag/ngunduh-mantu/ /artikel/ 301
+/artikel/tag/resepsi/ /artikel/ 301
+/artikel/tag/website-undangan/ /artikel/ 301
+/artikel/tag/timeline/ /artikel/ 301
+/artikel/tag/jasa/ /artikel/ 301
+/artikel/tag/anniversary/ /artikel/ 301
+
+# Slug berisi tanda kutip tipografis dinormalisasi ke slug ASCII
+/artikel/“ojo-lali-jawane”-ini-pentingnya-cek-weton-sebelum-menikah/ /artikel/ojo-lali-jawane-ini-pentingnya-cek-weton-sebelum-menikah/ 301
+/artikel/%E2%80%9Cojo-lali-jawane%E2%80%9D-ini-pentingnya-cek-weton-sebelum-menikah/ /artikel/ojo-lali-jawane-ini-pentingnya-cek-weton-sebelum-menikah/ 301

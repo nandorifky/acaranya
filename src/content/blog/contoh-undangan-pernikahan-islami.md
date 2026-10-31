@@ -5,7 +5,6 @@ description: >-
   kata-kata penuh doa & nuansa religius yang cocok untuk momen sakral akad
   nikah.
 publishedAt: '2026-04-08T17:50:40'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -14,8 +13,6 @@ tags:
   - desain
   - kata-kata
   - tips
-  - kata-kata
-  - desain
 image: /images/blog/featured/contoh-undangan-pernikahan-islami.jpg
 imageAlt: 5 Contoh Undangan Pernikahan Islami Unik dan Menarik
 imageTitle: 5 Contoh Undangan Pernikahan Islami Unik dan Menarik

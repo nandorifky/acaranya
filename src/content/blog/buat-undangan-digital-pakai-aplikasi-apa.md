@@ -3,7 +3,6 @@ title: Buat Undangan Digital Pakai Aplikasi Apa?
 customSlug: ''
 description: Cari aplikasi buat undangan digital? Cek rekomendasi terbaik mulai dari Canva hingga website instan yang praktis, hemat biaya, dan hasilnya profesional!
 publishedAt: 2026-04-08T17:50:00+07:00
-updatedAt: 2026-05-25T04:30:00+07:00
 author: indira
 category: Inspirasi
 tags:

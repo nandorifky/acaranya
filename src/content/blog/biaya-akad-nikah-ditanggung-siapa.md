@@ -25,7 +25,7 @@ ctaUrl: ''
 
 Pertanyaan biaya akad nikah ditanggung siapa sering terdengar sederhana, tetapi bisa menjadi obrolan yang cukup sensitif saat persiapan pernikahan mulai berjalan. Bukan karena tidak saling percaya, melainkan karena setiap keluarga biasanya punya kebiasaan, adat, dan ekspektasi yang berbeda.
 
-Tenang, Acays. Tidak ada satu jawaban mutlak yang berlaku untuk semua pasangan. Secara umum, mahar menjadi tanggung jawab calon mempelai pria, biaya pencatatan nikah mengikuti lokasi akad, sedangkan biaya lain seperti tempat, dekorasi, busana, dokumentasi, cincin, seserahan, dan jamuan bisa dibagi sesuai kesepakatan kedua keluarga.
+Tenang saja. Tidak ada satu jawaban mutlak yang berlaku untuk semua pasangan. Secara umum, mahar menjadi tanggung jawab calon mempelai pria, biaya pencatatan nikah mengikuti lokasi akad, sedangkan biaya lain seperti tempat, dekorasi, busana, dokumentasi, cincin, seserahan, dan jamuan bisa dibagi sesuai kesepakatan kedua keluarga.
 
 Agar tidak ada salah paham menjelang hari bahagia, pembahasan biaya akad sebaiknya dimulai dari daftar pos pengeluaran, lalu dibicarakan dengan pasangan sebelum dibawa ke keluarga. Dengan begitu, keputusan yang diambil terasa lebih adil, tenang, dan tidak memberatkan salah satu pihak.
 

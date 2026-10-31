@@ -5,14 +5,11 @@ description: >-
   bahasa yang formal & sopan untuk momen doa restu bersama keluarga besar &
   kerabat.
 publishedAt: '2026-04-08T17:50:37'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
   - pernikahan
   - islami
-  - tips
-  - kata-kata
   - tips
   - kata-kata
   - desain

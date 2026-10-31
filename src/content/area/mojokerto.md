@@ -48,7 +48,7 @@ Untuk pernikahan, kami menyediakan [pilih desain undangan](/desain-undangan-digi
 
 Untuk acara bisnis atau gathering, template wedding tentu kurang cocok. Gunakan halaman [desain untuk gathering](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Membandingkan beberapa gaya di [katalog lengkap](/desain-undangan-digital/) membantu Anda memilih desain untuk acara di Mojokerto, baik di kota maupun di kawasan Trawas dan Pacet.
 
 ### Tips Memilih Undangan untuk Hajatan di Mojokerto
 
@@ -73,12 +73,7 @@ Biaya undangan digital bervariasi tergantung fitur dan tingkat kustomisasi. Untu
 
 Cek [cek info harga](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-Proses pemesanan di Acaranya.id dirancang sederhana:
-
-1.  **Pilih desain atau kirim referensi.** Bisa dari katalog kami, bisa juga dari contoh undangan yang Anda lihat di internet.
-2.  **Kirim data acara.** Nama, tanggal, lokasi, foto, teks undangan, dan detail lainnya.
-3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
-4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
+Prosesnya tidak berbelit: tentukan desain, kirim data acara, cek preview, lalu bagikan. Untuk acara di Mojokerto yang digelar di kawasan Trawas atau Pacet, cantumkan patokan lokasi dan estimasi perjalanan agar tamu dari kota lain lebih mudah menemukan venue.
 
 ### Waktu Kirim Undangan yang Tepat untuk Tamu Luar Kota
 

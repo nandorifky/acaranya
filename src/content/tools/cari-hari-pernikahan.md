@@ -13,8 +13,6 @@ schemaOperatingSystem: All
 schemaApplicationCategory: WebApplication
 schemaOffersPrice: '0'
 schemaOffersPriceCurrency: IDR
-schemaRatingValue: 5
-schemaRatingCount: 1450
 ---
 
 Memilih hari pernikahan adalah salah satu langkah penting dalam mempersiapkan acara pernikahan. Bagi banyak pasangan di Indonesia, penentuan tanggal nikah tidak hanya mempertimbangkan kesiapan gedung, katering, dan keluarga, tetapi juga nilai budaya, adat, dan keyakinan spiritual.

@@ -5,7 +5,6 @@ description: >-
   penyedot saldo bank dan tips aman membedakan undangan asli dengan tautan
   berbahaya.
 publishedAt: '2026-04-08T17:50:03'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:

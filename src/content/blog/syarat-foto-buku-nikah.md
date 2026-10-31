@@ -4,7 +4,6 @@ description: >-
   Jangan sampai salah cetak! Simak aturan & syarat foto buku nikah terbaru mulai
   dari ukuran, jumlah lembar, hingga warna background biru sesuai ketentuan KUA.
 publishedAt: '2026-04-08T17:50:21'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:

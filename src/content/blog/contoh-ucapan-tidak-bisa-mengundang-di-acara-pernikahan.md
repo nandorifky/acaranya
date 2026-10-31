@@ -4,7 +4,6 @@ description: >-
   Cara menolak undangan dengan halus? Cek 5 contoh ucapan tidak bisa mengundang
   di acara pernikahan agar tetap menjaga silaturahmi & perasaan teman.
 publishedAt: '2026-04-08T17:49:27'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

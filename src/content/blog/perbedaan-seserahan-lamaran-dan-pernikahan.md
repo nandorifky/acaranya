@@ -5,7 +5,6 @@ description: >-
   seserahan pernikahan (hantaran) lengkap dengan contoh barang wajib bagi calon
   pengantin.
 publishedAt: '2026-04-08T17:49:59'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

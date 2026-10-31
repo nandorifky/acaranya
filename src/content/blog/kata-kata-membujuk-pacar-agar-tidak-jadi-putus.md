@@ -5,7 +5,6 @@ description: >-
   jadi putus. Sampaikan dengan tulus untuk meluluhkan hati dan memperbaiki
   komunikasi.
 publishedAt: '2026-04-08T17:51:17'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

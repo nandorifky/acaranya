@@ -92,13 +92,13 @@ Biaya undangan digital untuk acara di Lamongan bervariasi tergantung jumlah tamu
 
 Cek [paket harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Pilih berdasarkan kebutuhan, bukan berdasarkan harga termurah atau termahal.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Lamongan
 
 Idealnya undangan digital dibuat setelah tanggal dan lokasi acara sudah pasti. Untuk pernikahan di Lamongan, waktu idealnya tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 
 Jika tamu banyak yang merantau di kota lain, lebih baik disiapkan lebih awal. Mereka butuh waktu untuk mengatur perjalanan, cuti, dan akomodasi. Undangan yang dikirim terlalu mendekati hari H bisa membuat tamu kesulitan menyesuaikan diri.
 
-Untuk acara yang lebih sederhana seperti khitanan, aqiqah, atau tahlilan, waktu bisa lebih fleksibel. Yang penting adalah keluarga sudah punya kepastian soal tanggal, lokasi, dan tamu utama.
+Khitanan, aqiqah, atau tahlilan bisa disiapkan lebih singkat asalkan tanggal, tempat, dan tamu inti sudah tetap. Di Lamongan, acara keluarga seperti ini sering mengumpulkan kerabat dari desa sekitar, sehingga satu tautan undangan lebih praktis daripada mencetak banyak kartu.
 
 ---
 

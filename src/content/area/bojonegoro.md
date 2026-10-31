@@ -82,7 +82,7 @@ Namun untuk beberapa keluarga, kombinasi keduanya mungkin lebih cocok: cetak unt
 > "Saya kerja di proyek minyak di Cepu. Waktu adik saya menikah, saya agak bingung karena harus izin cuti. Ternyata undangan digitalnya langsung dikirim ke HP saya, lengkap sama Maps dan nama saya. Saya langsung tahu lokasinya, tidak perlu bertanya-tanya lagi. Yang dari Surabaya juga bilang praktis."
 > — **Mas Adi, Bojonegoro**
 
-### Kapan Sebaiknya Mulai Menyiapkan
+### Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Bojonegoro
 
 Idealnya undangan digital dibuat setelah tanggal dan lokasi acara sudah pasti. Untuk pernikahan, tiga sampai empat minggu sebelum hari H biasanya sudah cukup. Jika tamu banyak yang dari luar kota, lebih baik disiapkan lebih awal agar mereka bisa mengatur waktu dan perjalanan.
 

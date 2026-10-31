@@ -4,7 +4,6 @@ description: >-
   Menikah di bulan Ramadhan, bolehkah? Simak penjelasan lengkap hukum Islam,
   tips mengatur waktu akad & resepsi agar ibadah puasa tetap berjalan maksimal.
 publishedAt: '2026-04-08T17:51:03'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

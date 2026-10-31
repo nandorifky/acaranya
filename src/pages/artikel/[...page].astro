@@ -5,24 +5,29 @@ import Section from "../../components/base/Section.astro";
 import SectionHeader from "../../components/base/SectionHeader.astro";
 import Icon from "../../components/ui/Icon.astro";
 import Pagination from "../../components/ui/Pagination.astro";
+import BlogCard from "../../components/blog/BlogCard.astro";
 import { getCollection } from "astro:content";
+import slugify from "slugify";
 
 export async function getStaticPaths({ paginate }: any) {
   const allPosts = await getCollection("blog");
 
   const publishedPosts = allPosts
     .filter((p) => p.data.status === "published")
-    .sort((a, b) => {
-      const dateA = a.data.updatedAt || a.data.publishedAt;
-      const dateB = b.data.updatedAt || b.data.publishedAt;
-      return dateB.getTime() - dateA.getTime();
-    });
+    .sort(
+      (a, b) =>
+        b.data.publishedAt.getTime() - a.data.publishedAt.getTime() ||
+        a.id.localeCompare(b.id),
+    );
 
   return paginate(publishedPosts, { pageSize: 18 });
 }
 
 const { page } = Astro.props;
 const publishedPosts = page.data;
+
+const taxonomyEntries = await getCollection("blogTaxonomy");
+const categories = taxonomyEntries.flatMap((entry) => entry.data.categories);
 
 const titleSuffix =
   page.currentPage > 1 ? ` — Halaman ${page.currentPage}` : "";
@@ -43,6 +48,23 @@ const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
           title="Inspirasi & Tips Undangan Digital"
           subtitle="Artikel, tips, dan panduan untuk membantu kamu membuat undangan digital terbaik."
         />
+        {
+          categories.length > 0 && (
+            <nav
+              class="flex flex-wrap items-center justify-center gap-2 pt-6"
+              aria-label="Kategori artikel"
+            >
+              {categories.map((category: any) => (
+                <a
+                  href={`/artikel/kategori/${slugify(category.value, { lower: true, strict: true })}/`}
+                  class="px-3 py-1.5 text-[11px] font-semibold uppercase tracking-wider text-text-secondary bg-white border border-border-soft rounded-full hover:border-soft-gold hover:text-soft-gold transition-colors"
+                >
+                  {category.title}
+                </a>
+              ))}
+            </nav>
+          )
+        }
       </div>
     </Container>
   </section>
@@ -53,63 +75,10 @@ const robots = page.currentPage > 1 ? "noindex,follow" : "index,follow";
         publishedPosts.length > 0 ? (
           <>
             <h2 class="sr-only">Inspirasi &amp; Tips Undangan Digital Terbaru</h2>
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
-              {publishedPosts.map((post: any) => {
-                const displayDate = post.data.updatedAt || post.data.publishedAt;
-                const isUpdated = Boolean(post.data.updatedAt);
-
-                return (
-                <a
-                  href={`/artikel/${post.data.customSlug || post.id}/`}
-                  class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm"
-                >
-                  {post.data.image ? (
-                    <div class="aspect-[16/9] overflow-hidden">
-                      <img
-                        src={post.data.image}
-                        alt={post.data.imageAlt || post.data.title}
-                        width="800"
-                        height="450"
-                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                        loading="lazy"
-                        decoding="async"
-                      />
-                    </div>
-                  ) : (
-                    <div class="aspect-[16/9] bg-gradient-to-br from-brand-50 via-champagne/10 to-blush/20 flex items-center justify-center">
-                      <span class="font-serif text-lg text-brand-300 italic">
-                        Artikel
-                      </span>
-                    </div>
-                  )}
-                  <div class="p-5">
-                    <div class="flex items-center gap-2 mb-2">
-                      <span class="text-[10px] text-champagne font-semibold uppercase tracking-[0.15em]">
-                        {post.data.category}
-                      </span>
-                      <span class="text-[10px] text-text-muted">·</span>
-                      <span class="text-[10px] text-text-muted">
-                        {isUpdated ? "Diperbarui " : ""}
-                        {displayDate.toLocaleDateString("id-ID", {
-                          day: "numeric",
-                          month: "short",
-                          year: "numeric",
-                        })}
-                      </span>
-                    </div>
-                    <h3 class="font-semibold text-text-primary text-[15px] mb-2 group-hover:text-brand-500 transition-colors line-clamp-2">
-                      {post.data.title}
-                    </h3>
-                    <p class="text-sm text-text-muted line-clamp-2">
-                      {post.data.description}
-                    </p>
-                    <div class="flex items-center gap-1.5 mt-3 text-[12px] text-brand-500 font-medium">
-                      Baca selengkapnya <Icon name="arrow-right" size={12} />
-                    </div>
-                  </div>
-                </a>
-                );
-              })}
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 lg:gap-6">
+              {publishedPosts.map((post: any) => (
+                <BlogCard post={post} />
+              ))}
             </div>
 
             <Pagination page={page} baseUrl="/artikel/" />

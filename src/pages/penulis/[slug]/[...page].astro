@@ -4,6 +4,7 @@ import Container from '../../../components/base/Container.astro';
 import Section from '../../../components/base/Section.astro';
 import Icon from '../../../components/ui/Icon.astro';
 import Pagination from '../../../components/ui/Pagination.astro';
+import ResponsiveImage from '../../../components/base/ResponsiveImage.astro';
 import { getCollection } from 'astro:content';
 import { siteConfig } from '../../../data/site';
 
@@ -53,10 +54,40 @@ const getSocialUrl = (key: typeof socials[number]['key'], value: string) => {
 
 const metaTitle = author.data.metaTitle || `${author.data.name} — Penulis di Acaranya.id`;
 const metaDesc = author.data.metaDescription || author.data.bio;
-const canonicalUrl = `${siteConfig.url}/penulis/${author.id}/${page.currentPage > 1 ? `${page.currentPage}/` : ''}`;
+const authorUrl = `${siteConfig.url}/penulis/${author.id}/`;
+const canonicalUrl = `${authorUrl}${page.currentPage > 1 ? `${page.currentPage}/` : ''}`;
+
+const sameAs = socials
+  .map((social) => (author.data[social.key] ? getSocialUrl(social.key, author.data[social.key]) : null))
+  .filter((url): url is string => Boolean(url));
+const knowsAbout = [...new Set(authorPosts.flatMap((post: any) => [post.data.category, ...(post.data.tags ?? [])]))].slice(0, 8);
+
+const jsonLd = page.currentPage === 1
+  ? [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'ProfilePage',
+        '@id': `${authorUrl}#profile`,
+        url: authorUrl,
+        name: metaTitle,
+        mainEntity: {
+          '@type': 'Person',
+          '@id': `${authorUrl}#person`,
+          name: author.data.name,
+          jobTitle: author.data.role,
+          description: author.data.bio,
+          url: authorUrl,
+          ...(author.data.avatar ? { image: new URL(author.data.avatar, siteConfig.url).toString() } : {}),
+          worksFor: { '@id': `${siteConfig.url}/#organization` },
+          ...(sameAs.length > 0 ? { sameAs } : {}),
+          ...(knowsAbout.length > 0 ? { knowsAbout } : {}),
+        },
+      },
+    ]
+  : [];
 ---
 
-<MarketingLayout title={metaTitle} description={metaDesc} canonical={canonicalUrl} robots={robots}>
+<MarketingLayout title={metaTitle} description={metaDesc} canonical={canonicalUrl} robots={robots} jsonLd={jsonLd}>
   <!-- Author Profile Section -->
   <section class="pt-10 pb-8 lg:pt-16 lg:pb-12 bg-cream border-b border-border-soft/60">
     <Container>
@@ -127,11 +158,10 @@ const canonicalUrl = `${siteConfig.url}/penulis/${author.id}/${page.currentPage 
                 <a href={`/artikel/${post.data.customSlug || post.id}/`} class="group flex flex-col sm:flex-row gap-4 bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm">
                   {post.data.image ? (
                     <div class="aspect-[16/9] sm:w-[180px] sm:aspect-square overflow-hidden shrink-0">
-                      <img
+                      <ResponsiveImage
                         src={post.data.image}
                         alt={post.data.imageAlt || post.data.title}
-                        width="400"
-                        height="400"
+                        sizes="(min-width: 640px) 180px, 100vw"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                         loading="lazy"
                         decoding="async"

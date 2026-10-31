@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T18:18:46+07:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Jakarta ingin konsultasi undangan digital untuk acara saya.
+faqItems:
+  - question: "Apakah Acaranya.id melayani undangan digital untuk acara kantor di Jakarta?"
+    answer: "Ya. Selain pernikahan, kami mengerjakan undangan digital untuk gathering perusahaan, grand opening, syukuran, dan acara komunitas di Jakarta dan sekitarnya."
+  - question: "Bisakah undangan dipakai untuk resepsi di hotel atau gedung di Jakarta?"
+    answer: "Bisa. Undangan dilengkapi detail acara dan peta lokasi, sehingga tamu mudah menemukan hotel, ballroom, atau gedung serbaguna yang Anda pilih."
+  - question: "Bagaimana cara membagikan undangan kepada tamu di Jakarta?"
+    answer: "Undangan dibagikan sebagai tautan melalui WhatsApp, email, atau media sosial. Tamu di Jakarta maupun luar kota dapat membuka undangan langsung dari ponsel."
+  - question: "Apakah bisa revisi jika ada perubahan detail acara?"
+    answer: "Bisa. Revisi dapat dilakukan sampai hari H, termasuk perubahan teks, jadwal, maupun lokasi acara."
+  - question: "Berapa harga dan lama pengerjaan undangan digital Jakarta?"
+    answer: "Harga mulai dari Rp75.000 dengan pilihan paket Simple, Mengundang, dan Meriah. Undangan standar selesai dalam 1 hari dan maksimal 3 hari setelah data lengkap diterima."
 ---
 
 ## Undangan Digital untuk Kota yang Tidak Pernah Berhenti
@@ -48,7 +59,7 @@ Untuk pernikahan, kami menyediakan [galeri desain undangan](/desain-undangan-dig
 
 Untuk acara bisnis seperti gathering kantor, grand opening, peluncuran produk, atau event korporat, template wedding tentu kurang cocok. Gunakan halaman [desain untuk acara kantor](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional dan sesuai dengan citra bisnis Anda.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Dengan tamu yang datang dari berbagai penjuru Jakarta, membandingkan beberapa gaya di [koleksi desain](/desain-undangan-digital/) membantu Anda memilih yang paling sesuai sebelum memutuskan.
 
 ### Tips Memilih Undangan untuk Acara di Jakarta
 

@@ -5,7 +5,6 @@ description: >-
   bersikap sopan hingga memberi perhatian kecil demi restu dan kebahagiaan
   keluarga.
 publishedAt: '2026-04-10T14:54:00'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:

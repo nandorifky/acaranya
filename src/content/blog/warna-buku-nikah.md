@@ -5,7 +5,6 @@ description: >-
   warna merah maroon dan hijau, serta fungsi penting buku nikah di mata hukum
   Indonesia.
 publishedAt: '2026-04-08T17:49:13'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:

@@ -64,12 +64,7 @@ Biaya undangan digital bervariasi tergantung fitur dan tingkat kustomisasi. Untu
 
 Cek [daftar harga](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-Proses pemesanan di Acaranya.id dirancang sederhana:
-
-1.  **Pilih desain atau kirim referensi.** Bisa dari katalog kami, bisa juga dari contoh undangan yang Anda lihat di internet.
-2.  **Kirim data acara.** Nama, tanggal, lokasi, foto, teks undangan, dan detail lainnya.
-3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
-4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
+Pilih desain dari katalog atau kirim referensi, lengkapi data acara, lalu periksa preview sebelum tautannya disebar. Untuk acara di Pasuruan, informasi lokasi yang jelas membantu tamu dari kota maupun kabupaten menemukan venue tanpa perlu menghubungi panitia berulang kali.
 
 ### Perbedaan Pernikahan di Hotel dan di Pesantren
 

@@ -5,7 +5,6 @@ description: >-
   dengan link live streaming agar momen bahagiamu bisa disaksikan keluarga dari
   mana saja.
 publishedAt: '2026-04-08T17:50:54'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Undangan
 tags:

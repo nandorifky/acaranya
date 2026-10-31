@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T22:47:39+07:00'
 status: published
 whatsappText: Halo admin, saya dari Surabaya. Mau tanya undangan digital untuk pernikahan atau acara bisnis.
+faqItems:
+  - question: "Apakah Acaranya.id melayani Surabaya dan kota sekitarnya?"
+    answer: "Ya. Kami melayani Surabaya, Sidoarjo, Gresik, dan wilayah sekitarnya, termasuk pasangan yang menyiapkan acara dari luar kota."
+  - question: "Bisakah satu undangan memuat akad dan resepsi sekaligus?"
+    answer: "Bisa. Satu undangan dapat memuat beberapa rangkaian acara, lengkap dengan waktu dan lokasi masing-masing."
+  - question: "Bagaimana tamu di Surabaya menerima undangan?"
+    answer: "Tautan undangan dikirim lewat WhatsApp atau media digital lain, sehingga tamu di Surabaya dan luar kota bisa membukanya kapan saja."
+  - question: "Apakah desain bisa disesuaikan dengan tema acara?"
+    answer: "Bisa. Anda dapat memilih tema yang tersedia atau berkonsultasi untuk kebutuhan custom sesuai konsep acara."
+  - question: "Berapa biaya dan waktu pengerjaan undangan digital Surabaya?"
+    answer: "Harga mulai Rp75.000 dengan paket Simple, Mengundang, dan Meriah. Pengerjaan standar 1 hingga maksimal 3 hari setelah data lengkap diterima."
 ---
 
 ## Surabaya Kota Bisnis yang Butuh Efisiensi
@@ -39,7 +50,7 @@ Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. 
 
 Jika Anda mencari tips memilih desain, baca artikel tentang [tips memilih desain undangan digital](/artikel/10-tips-memilih-desain-undangan-digital-sesuai-seleramu/).
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Surabaya
 
 Untuk pernikahan di Surabaya, mulai siapkan undangan digital minimal tiga minggu sebelum hari H. Hotel dan ballroom di Surabaya bisa cepat penuh, jadi pastikan tamu sudah mendapat informasi lebih awal.
 

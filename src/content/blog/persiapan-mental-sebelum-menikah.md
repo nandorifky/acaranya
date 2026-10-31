@@ -4,7 +4,6 @@ description: >-
   Menikah bukan cuma soal pesta! Simak 8 tips persiapan mental sebelum menikah
   agar kamu & pasangan makin solid menghadapi perubahan & tantangan hidup baru.
 publishedAt: '2026-04-08T17:49:46'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

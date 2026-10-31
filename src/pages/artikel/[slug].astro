@@ -4,18 +4,22 @@ import Container from "../../components/base/Container.astro";
 import Section from "../../components/base/Section.astro";
 import Icon from "../../components/ui/Icon.astro";
 import TableOfContents from "../../components/blog/TableOfContents.astro";
+import BlogCard from "../../components/blog/BlogCard.astro";
+import ResponsiveImage from "../../components/base/ResponsiveImage.astro";
 import { getCollection, render, getEntry } from "astro:content";
+import slugify from "slugify";
+import { getRelatedPosts } from "../../lib/blog/related-posts";
 import { siteConfig } from "../../data/site";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
   const published = posts
     .filter((p) => p.data.status === "published")
-    .sort((a, b) => {
-      const dateA = a.data.updatedAt || a.data.publishedAt;
-      const dateB = b.data.updatedAt || b.data.publishedAt;
-      return dateB.getTime() - dateA.getTime();
-    });
+    .sort(
+      (a, b) =>
+        b.data.publishedAt.getTime() - a.data.publishedAt.getTime() ||
+        a.id.localeCompare(b.id),
+    );
 
   return published.map((post, index) => {
     const prevPost = index < published.length - 1 ? published[index + 1] : null;
@@ -23,7 +27,12 @@ export async function getStaticPaths() {
 
     return {
       params: { slug: post.data.customSlug || post.id },
-      props: { post, prevPost, nextPost },
+      props: {
+        post,
+        prevPost,
+        nextPost,
+        relatedPosts: getRelatedPosts(post, published, 3),
+      },
     };
   });
 }
@@ -39,8 +48,18 @@ function parseCustomJsonLd(value?: string) {
   }
 }
 
-const { post, prevPost, nextPost } = Astro.props;
+const { post, prevPost, nextPost, relatedPosts } = Astro.props;
 const { Content, headings } = await render(post);
+
+const taxonomyEntries = await getCollection("blogTaxonomy");
+const categoryValues = new Set(
+  taxonomyEntries.flatMap((entry) =>
+    entry.data.categories.map((item) => item.value),
+  ),
+);
+const categoryHref = categoryValues.has(post.data.category)
+  ? `/artikel/kategori/${slugify(post.data.category, { lower: true, strict: true })}/`
+  : null;
 
 const allPosts = await getCollection("blog");
 const publishedPosts = allPosts.filter((p) => p.data.status === "published");
@@ -50,7 +69,7 @@ publishedPosts.forEach((p) => {
   p.data.tags.forEach((tag) => tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1));
 });
 tagCounts.forEach((count, tag) => {
-  if (count > 1 && /^[a-z0-9-]+$/.test(tag)) validTagSet.add(tag);
+  if (count >= 3 && /^[a-z0-9-]+$/.test(tag)) validTagSet.add(tag);
 });
 
 // Fetch author data
@@ -59,19 +78,19 @@ const authorName = authorEntry ? authorEntry.data.name : post.data.author;
 const authorSlug = authorEntry ? authorEntry.id : "#";
 
 const publishedDate = post.data.publishedAt.toISOString();
-const hasSubstantialUpdate = post.data.updatedAt
-  ? post.data.updatedAt.getTime() - post.data.publishedAt.getTime() >= 7 * 24 * 60 * 60 * 1000
-  : false;
-const modifiedDate = hasSubstantialUpdate && post.data.updatedAt
-  ? post.data.updatedAt.toISOString()
-  : publishedDate;
+const genuineUpdateAt =
+  post.data.updatedAt &&
+  post.data.updatedAt.getTime() > post.data.publishedAt.getTime()
+    ? post.data.updatedAt
+    : null;
+const modifiedDate = genuineUpdateAt ? genuineUpdateAt.toISOString() : undefined;
 const publishedDisplay = post.data.publishedAt.toLocaleDateString("id-ID", {
   day: "numeric",
   month: "long",
   year: "numeric",
 });
-const modifiedDisplay = hasSubstantialUpdate && post.data.updatedAt
-  ? post.data.updatedAt.toLocaleDateString("id-ID", {
+const modifiedDisplay = genuineUpdateAt
+  ? genuineUpdateAt.toLocaleDateString("id-ID", {
       day: "numeric",
       month: "long",
       year: "numeric",
@@ -121,7 +140,7 @@ const jsonLd = [
     headline: post.data.title,
     description: post.data.description,
     datePublished: publishedDate,
-    dateModified: modifiedDate,
+    ...(modifiedDate ? { dateModified: modifiedDate } : {}),
     author: {
       "@type": "Person",
       name: authorName,
@@ -174,12 +193,11 @@ const jsonLd = [
           <Container narrow>
             <figure>
               <div class="aspect-[2/1] sm:aspect-[21/9] overflow-hidden rounded-sm">
-                <img
+                <ResponsiveImage
                   data-pagefind-image
                   src={featuredImage}
                   alt={post.data.imageAlt || post.data.title}
-                  width="1200"
-                  height="630"
+                  sizes="(min-width: 1024px) 960px, 100vw"
                   class="w-full h-full object-cover"
                   loading="eager"
                   fetchpriority="high"
@@ -208,11 +226,20 @@ const jsonLd = [
         <header class="max-w-2xl">
           <!-- Category & Date -->
           <div class="flex items-center gap-2 mb-3">
-            <span
-              class="text-[11px] text-champagne font-semibold uppercase tracking-[0.2em]"
-            >
-              {post.data.category}
-            </span>
+            {categoryHref ? (
+              <a
+                href={categoryHref}
+                class="text-[11px] text-champagne font-semibold uppercase tracking-[0.2em] hover:text-soft-gold transition-colors"
+              >
+                {post.data.category}
+              </a>
+            ) : (
+              <span
+                class="text-[11px] text-champagne font-semibold uppercase tracking-[0.2em]"
+              >
+                {post.data.category}
+              </span>
+            )}
             <span class="text-text-muted/30">·</span>
             <time datetime={publishedDate} class="text-[12px] text-text-muted">
               {publishedDisplay}
@@ -415,6 +442,22 @@ const jsonLd = [
               </button>
             </div>
           </div>
+
+          <!-- Related Posts -->
+          {
+            relatedPosts.length > 0 && (
+              <section class="mt-12 pt-10 border-t border-border-soft/60">
+                <h2 class="font-serif text-xl font-semibold text-text-primary mb-5">
+                  Artikel Terkait
+                </h2>
+                <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+                  {relatedPosts.map((related: any) => (
+                    <BlogCard post={related} />
+                  ))}
+                </div>
+              </section>
+            )
+          }
 
           <!-- Prev / Next Navigation -->
           {

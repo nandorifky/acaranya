@@ -1,0 +1,70 @@
+---
+import Icon from '../ui/Icon.astro';
+import ResponsiveImage from '../base/ResponsiveImage.astro';
+
+interface Props {
+  post: {
+    id: string;
+    data: {
+      title: string;
+      description: string;
+      category: string;
+      publishedAt: Date;
+      image?: string;
+      imageAlt?: string;
+      customSlug?: string;
+    };
+  };
+}
+
+const { post } = Astro.props;
+const href = `/artikel/${post.data.customSlug || post.id}/`;
+---
+
+<a
+  href={href}
+  class="group bg-cream border border-border-soft overflow-hidden hover:border-border-strong hover:shadow-[var(--shadow-card)] transition-all duration-300 rounded-sm"
+>
+  {
+    post.data.image ? (
+      <div class="aspect-[16/9] overflow-hidden">
+        <ResponsiveImage
+          src={post.data.image}
+          alt={post.data.imageAlt || post.data.title}
+          sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+          class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+    ) : (
+      <div class="aspect-[16/9] bg-gradient-to-br from-brand-50 via-champagne/10 to-blush/20 flex items-center justify-center">
+        <span class="font-serif text-lg text-brand-300 italic">Artikel</span>
+      </div>
+    )
+  }
+  <div class="p-5">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-[10px] text-champagne font-semibold uppercase tracking-[0.15em]">
+        {post.data.category}
+      </span>
+      <span class="text-[10px] text-text-muted">·</span>
+      <span class="text-[10px] text-text-muted">
+        {post.data.publishedAt.toLocaleDateString('id-ID', {
+          day: 'numeric',
+          month: 'short',
+          year: 'numeric',
+        })}
+      </span>
+    </div>
+    <h3
+      class="font-semibold text-text-primary text-[15px] mb-2 group-hover:text-brand-500 transition-colors line-clamp-2"
+    >
+      {post.data.title}
+    </h3>
+    <p class="text-sm text-text-muted line-clamp-2">{post.data.description}</p>
+    <div class="flex items-center gap-1.5 mt-3 text-[12px] text-brand-500 font-medium">
+      Baca selengkapnya <Icon name="arrow-right" size={12} />
+    </div>
+  </div>
+</a>

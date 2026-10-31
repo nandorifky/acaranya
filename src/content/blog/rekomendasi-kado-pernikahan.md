@@ -5,7 +5,6 @@ description: >-
   bermanfaat, dan berkesan untuk sahabat atau teman dekat yang baru saja
   menempuh hidup baru.
 publishedAt: '2026-04-08T17:49:41'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

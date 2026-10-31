@@ -4,7 +4,6 @@ description: >-
   Bagi Catin, pahami 4 tujuan mulia pernikahan dalam Islam untuk meraih sakinah,
   mawaddah, dan warahmah. Wajib tahu sebelum melangkah ke pelaminan!
 publishedAt: '2026-04-08T17:50:15'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Pernikahan
 tags:

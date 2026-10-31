@@ -49,7 +49,7 @@ Untuk pernikahan, kami menyediakan [koleksi template undangan](/desain-undangan-
 
 Untuk acara bisnis seperti grand opening, gathering kantor, atau peluncuran produk, template wedding tentu kurang cocok. Gunakan [jelajahi semua desain](/desain-undangan-digital/) atau langsung ke halaman [pilihan desain bisnis dan kantor](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Kalau masih ragu, warga Depok bisa membandingkan lebih banyak gaya di [katalog desain kami](/desain-undangan-digital/) dan menyimpan beberapa pilihan yang paling cocok dengan konsep acara.
 
 ### Tips Memilih Undangan untuk Acara di Depok
 

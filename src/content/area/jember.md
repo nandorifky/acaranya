@@ -48,7 +48,7 @@ Untuk pernikahan, kami menyediakan [pilihan desain undangan](/desain-undangan-di
 
 Untuk acara bisnis seperti gathering kantor, grand opening, atau seminar, template wedding tentu kurang cocok. Gunakan halaman [desain untuk event dan gathering](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Tamu dari Jember dan kabupaten sekitar akan membuka undangan lewat ponsel, jadi luangkan waktu membandingkan beberapa gaya di [galeri desain](/desain-undangan-digital/) sebelum memutuskan.
 
 ### Tips Memilih Undangan untuk Hajatan di Jember
 

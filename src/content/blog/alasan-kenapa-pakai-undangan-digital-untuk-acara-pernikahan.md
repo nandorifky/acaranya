@@ -4,7 +4,6 @@ description: >-
   Kenapa harus pakai undangan digital? Temukan 5+ alasan mulai dari hemat biaya,
   proses cepat, hingga fitur lengkap yang bikin acaramu makin praktis!
 publishedAt: '2026-04-08T17:50:49'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Undangan
 tags:

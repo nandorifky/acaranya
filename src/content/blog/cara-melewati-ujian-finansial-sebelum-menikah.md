@@ -5,7 +5,6 @@ description: >-
   mengatur keuangan, menyiapkan dana darurat, dan menjaga kejujuran bersama
   pasangan.
 publishedAt: '2026-04-08T17:49:23'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Anggaran
 tags:

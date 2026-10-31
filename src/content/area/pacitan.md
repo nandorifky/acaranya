@@ -74,12 +74,7 @@ Biaya undangan digital bervariasi tergantung fitur dan tingkat kustomisasi. Untu
 
 Cek [daftar harga](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-Proses pemesanan di Acaranya.id dirancang sederhana:
-
-1.  **Pilih desain atau kirim referensi.** Bisa dari katalog kami, bisa juga dari contoh undangan yang Anda lihat di internet.
-2.  **Kirim data acara.** Nama, tanggal, lokasi, foto, teks undangan, dan detail lainnya.
-3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
-4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
+Alurnya sederhana: pilih desain, kirim data acara, cek preview, lalu bagikan tautan. Untuk acara di Pacitan yang sering digelar di venue pantai atau perbukitan, sertakan patokan lokasi dan informasi parkir agar tamu tidak kesulitan menemukan tempat acara.
 
 Untuk yang ingin memahami lebih dalam tentang undangan digital, baca juga [apa itu undangan digital](/artikel/buat-undangan-digital-pakai-aplikasi-apa/) dan [apa saja yang ada di undangan digital](/artikel/informasi-yang-tercantum-dalam-undangan-pernikahan/).
 

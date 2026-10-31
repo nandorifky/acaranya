@@ -5,7 +5,6 @@ description: >-
   lengkap dengan artinya. Bikin undanganmu tampil lebih kekinian, elegan, dan
   profesional!
 publishedAt: '2026-04-08T17:50:29'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -15,7 +14,6 @@ tags:
   - inspirasi
   - adat
   - tips
-  - kata-kata
 image: /images/blog/featured/contoh-undangan-pernikahan-bahasa-inggris.png
 imageAlt: Contoh Undangan Pernikahan Bahasa Inggris
 imageTitle: Contoh Undangan Pernikahan Bahasa Inggris

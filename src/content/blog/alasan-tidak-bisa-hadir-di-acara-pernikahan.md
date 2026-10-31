@@ -25,7 +25,7 @@ Tidak bisa hadir di acara pernikahan sering membuat hati tidak enak. Di satu sis
 
 Kabar baiknya, menolak undangan pernikahan bukan berarti kamu tidak menghargai pengantin. Selama disampaikan dengan jujur, sopan, dan tidak mendadak, alasan tidak bisa hadir di acara pernikahan tetap bisa diterima dengan baik.
 
-_Acays_, yang paling penting bukan mencari alasan yang terdengar sempurna. Yang lebih penting adalah menyampaikan kabar dengan hangat, memberi doa, dan tetap menunjukkan bahwa kamu turut bahagia atas momen istimewa mereka.
+Yang paling penting bukan mencari alasan yang terdengar sempurna. Yang lebih penting adalah menyampaikan kabar dengan hangat, memberi doa, dan tetap menunjukkan bahwa kamu turut bahagia atas momen istimewa mereka.
 
 ## Boleh Tidak Hadir di Acara Pernikahan Asal Disampaikan dengan Sopan
 

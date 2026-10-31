@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T22:19:18+07:00'
 status: published
 whatsappText: Halo admin Acaranya, saya di Malang ingin konsultasi undangan digital untuk acara saya.
+faqItems:
+  - question: "Apakah undangan digital cocok untuk acara di Malang dan Batu?"
+    answer: "Cocok. Undangan memuat peta lokasi dan detail acara, sehingga tamu mudah menemukan venue di Malang, Batu, atau kawasan wisata sekitarnya."
+  - question: "Wilayah mana saja yang dilayani di Malang?"
+    answer: "Kami melayani Malang, Batu, Kabupaten Malang, dan sekitarnya."
+  - question: "Bagaimana cara mengirim undangan kepada tamu?"
+    answer: "Tautan undangan dibagikan melalui WhatsApp atau media digital lain, sehingga tamu dari dalam maupun luar kota dapat membukanya dari ponsel."
+  - question: "Apakah bisa revisi jika ada perubahan acara?"
+    answer: "Bisa. Revisi teks, jadwal, dan lokasi dapat dilakukan sampai hari H."
+  - question: "Berapa harga undangan digital Malang?"
+    answer: "Harga mulai Rp75.000 dengan paket Simple, Mengundang, dan Meriah. Pengerjaan standar 1 sampai maksimal 3 hari setelah data lengkap diterima."
 ---
 
 ## Undangan Digital untuk Kota Kreatif yang Punya Banyak Pilihan Venue
@@ -48,7 +59,7 @@ Untuk pernikahan, kami menyediakan [jelajahi koleksi desain](/desain-undangan-di
 
 Untuk acara bisnis seperti gathering kantor, workshop, atau event kreatif, template wedding tentu kurang cocok. Gunakan halaman [template undangan event](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Untuk acara di Malang, ada baiknya membandingkan beberapa gaya di [katalog desain](/desain-undangan-digital/) agar desain yang dipilih benar-benar sesuai konsep.
 
 ### Tips Memilih Undangan untuk Acara Outdoor di Malang
 

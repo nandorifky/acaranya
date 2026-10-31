@@ -112,13 +112,13 @@ Undangan digital bisa membantu dengan menyertakan:
 
 Dengan semua informasi ini dalam satu halaman, tamu dari luar kota tidak perlu bertanya ke banyak orang sebelum hari acara.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Ngawi
 
 Untuk pernikahan di Ngawi, waktu ideal untuk menyiapkan undangan digital adalah tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 
 Jika tamu banyak yang dari luar kabupaten, lebih baik disiapkan lebih awal. Mereka butuh waktu untuk mengatur perjalanan, akomodasi, dan jadwal. Undangan yang dikirim terlalu mendekati hari H bisa membuat tamu kesulitan menyesuaikan diri.
 
-Untuk acara yang lebih sederhana seperti khitanan, aqiqah, atau tahlilan, waktu bisa lebih fleksibel. Yang penting adalah keluarga sudah punya kepastian soal tanggal, lokasi, dan tamu utama.
+Untuk acara keluarga seperti khitanan, aqiqah, atau tahlilan, yang terpenting adalah kepastian tanggal, lokasi, dan tamu utama. Setelah itu undangan bisa langsung disiapkan. Warga Ngawi yang merantau juga lebih mudah dihubungi lewat tautan yang dibagikan di grup keluarga.
 
 ---
 

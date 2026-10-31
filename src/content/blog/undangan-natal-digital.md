@@ -4,7 +4,6 @@ description: >-
   Meriahkan malam Natal bersama orang terdekat! Gunakan undangan Natal digital
   berbasis website yang praktis, estetik, dan punya fitur lengkap untuk acaramu.
 publishedAt: '2026-04-08T17:49:57'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Blog
 tags:

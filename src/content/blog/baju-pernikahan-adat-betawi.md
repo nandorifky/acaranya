@@ -4,7 +4,6 @@ description: >-
   Mengenal keunikan baju pernikahan adat Betawi: Rias Besar Dandanan Care Haji
   dan Care None Pengantin Belade. Simak detail filosofi dan aksesorisnya!
 publishedAt: '2026-04-08T17:51:05'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Busana
 tags:

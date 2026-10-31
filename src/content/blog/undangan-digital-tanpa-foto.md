@@ -5,7 +5,6 @@ description: >-
   foto yang tetap estetik, elegan, dan menawan untuk mengundang kerabat di hari
   h.
 publishedAt: '2026-04-08T17:50:42'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

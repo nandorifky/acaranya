@@ -94,7 +94,7 @@ Biaya undangan digital untuk acara di Madiun bervariasi tergantung jumlah tamu, 
 
 Cek [paket harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Pilih berdasarkan kebutuhan, bukan berdasarkan harga termurah atau termahal.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Madiun
 
 Idealnya undangan digital dibuat setelah tanggal dan lokasi acara sudah pasti. Untuk pernikahan di Madiun, waktu idealnya tiga sampai empat minggu sebelum hari H. Ini memberi waktu untuk mengumpulkan daftar tamu, menyesuaikan bahasa, dan memastikan semua informasi akurat.
 

@@ -4,7 +4,6 @@ description: >-
   Mudahkan tamu temukan lokasi acaramu! Simak langkah praktis cara membuat
   barcode Google Maps untuk undangan pernikahan digital agar akurat dan efisien.
 publishedAt: '2026-04-08T17:50:47'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

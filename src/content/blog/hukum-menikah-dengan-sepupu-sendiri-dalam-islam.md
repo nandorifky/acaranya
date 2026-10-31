@@ -5,7 +5,6 @@ description: >-
   berdasarkan dalil syariah, sejarah, serta jenis-jenis hubungan sepupu yang
   halal dinikahi.
 publishedAt: '2026-04-08T17:50:12'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Wajib Tahu
 tags:

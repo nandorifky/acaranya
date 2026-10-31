@@ -27,7 +27,7 @@ Isi undangan pernikahan bukan sekadar rangkaian nama, tanggal, dan lokasi. Di da
 
 Undangan yang rapi membantu tamu memahami acara tanpa perlu bertanya berkali-kali. Mereka tahu siapa yang menikah, kapan harus hadir, di mana lokasinya, bagaimana cara konfirmasi, sampai apa yang perlu dipersiapkan.
 
-Untuk Acays yang sedang menyiapkan undangan impian, berikut panduan isi undangan pernikahan yang lengkap, elegan, dan praktis untuk undangan cetak maupun [undangan digital](/desain-undangan-digital/).
+Bagi kamu yang sedang menyiapkan undangan impian, berikut panduan isi undangan pernikahan yang lengkap, elegan, dan praktis untuk undangan cetak maupun [undangan digital](/desain-undangan-digital/).
 
 ## Ringkasan Isi Undangan Pernikahan
 

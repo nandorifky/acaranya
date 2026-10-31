@@ -55,15 +55,6 @@ const softwareSchema: any = {
     price: tool.data.schemaOffersPrice || "0",
     priceCurrency: tool.data.schemaOffersPriceCurrency || "IDR",
   },
-  ...(tool.data.schemaRatingValue && {
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: tool.data.schemaRatingValue,
-      ratingCount: tool.data.schemaRatingCount || 100,
-      bestRating: "5",
-      worstRating: "1",
-    },
-  }),
 };
 
 const faqJsonLd = tool.data.faqItems.length

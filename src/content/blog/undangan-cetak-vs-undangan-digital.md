@@ -5,7 +5,6 @@ description: >-
   dari sisi anggaran, tradisi, hingga fitur interaktif untuk pernikahan
   modernmu.
 publishedAt: '2026-04-16T20:25:26'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

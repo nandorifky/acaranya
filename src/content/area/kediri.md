@@ -48,7 +48,7 @@ Untuk pernikahan, kami menyediakan [temukan desain yang cocok](/desain-undangan-
 
 Untuk acara bisnis seperti gathering kantor, grand opening, atau peresmian usaha, template wedding tentu kurang cocok. Gunakan halaman [pilih desain untuk acara bisnis](/desain-undangan-digital/corporate/) untuk tampilan yang lebih profesional.
 
-Jika masih ingin membandingkan banyak gaya sebelum memutuskan, buka katalog lengkap kami dan simpan beberapa pilihan yang paling mendekati konsep acara Anda.
+Untuk acara di Kediri, membandingkan beberapa gaya di [katalog lengkap](/desain-undangan-digital/) membantu Anda menemukan desain yang sesuai tanpa terburu-buru memutuskan.
 
 ### Tips Memilih Undangan untuk Hajatan di Kediri
 
@@ -73,12 +73,7 @@ Biaya undangan digital bervariasi tergantung fitur dan tingkat kustomisasi. Untu
 
 Cek [daftar harga selengkapnya](/harga/) untuk melihat opsi yang tersedia. Dengan harga yang jauh lebih terjangkau dibanding cetak undangan fisik premium, Anda mendapatkan fitur yang jauh lebih banyak.
 
-Proses pemesanan di Acaranya.id dirancang sederhana:
-
-1.  **Pilih desain atau kirim referensi.** Bisa dari katalog kami, bisa juga dari contoh undangan yang Anda lihat di internet.
-2.  **Kirim data acara.** Nama, tanggal, lokasi, foto, teks undangan, dan detail lainnya.
-3.  **Review sebelum dipublikasikan.** Anda akan menerima preview untuk dicek ulang.
-4.  **Siap dibagikan.** Link undangan bisa langsung dikirim lewat WhatsApp atau media lainnya.
+Prosesnya sederhana: pilih desain dari katalog atau kirim referensi sendiri, lengkapi data acara seperti tanggal dan lokasi, lalu periksa preview sebelum tautan dibagikan. Untuk hajatan di Kediri, tim kami juga membantu merapikan susunan acara agar informasi yang diterima tamu tidak membingungkan.
 
 ### Konsultasi Undangan Digital Kediri
 

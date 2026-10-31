@@ -5,7 +5,6 @@ description: >-
   Jakarta dengan kualitas full color tajam & pengerjaan kilat untuk momen
   spesialmu.
 publishedAt: '2026-05-19T16:59:10'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

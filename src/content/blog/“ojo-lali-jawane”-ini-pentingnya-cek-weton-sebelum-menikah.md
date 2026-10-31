@@ -1,5 +1,6 @@
 ---
 title: “Ojo Lali Jawane” Ini Pentingnya Cek Weton Sebelum Menikah
+customSlug: ojo-lali-jawane-ini-pentingnya-cek-weton-sebelum-menikah
 description: Pelajari pentingnya cek weton sebelum menikah, cara memaknai hasilnya, dan langkah praktis memilih hari baik pernikahan tanpa ribet.
 publishedAt: 2026-05-30T19:20:00
 updatedAt: 2026-05-30T19:20:00
@@ -34,7 +35,7 @@ Pernikahan bukan hanya tentang dua orang yang saling mencintai. Ada keluarga, ad
 
 Weton menjadi salah satu bentuk ikhtiar tradisional. Banyak orang tua masih menggunakannya untuk melihat kecocokan pasangan, membaca karakter, dan mencari hari baik pernikahan. Bagi calon pengantin modern, tradisi ini tetap bisa dijalani dengan cara yang lebih praktis dan bijak.
 
-Acays, kamu tidak harus melihat weton sebagai sesuatu yang menakutkan. Anggap saja sebagai ruang untuk memahami pasangan lebih dalam, menghormati keluarga, dan membuat keputusan pernikahan dengan hati yang lebih mantap.
+Kamu tidak harus melihat weton sebagai sesuatu yang menakutkan. Anggap saja sebagai ruang untuk memahami pasangan lebih dalam, menghormati keluarga, dan membuat keputusan pernikahan dengan hati yang lebih mantap.
 
 ## Apa Itu Weton Dalam Tradisi Jawa
 

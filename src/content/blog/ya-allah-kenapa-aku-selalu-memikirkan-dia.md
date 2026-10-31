@@ -5,7 +5,6 @@ description: >-
   pikiran yang terus memikirkan si dia, serta cara menghadapinya dengan bijak
   dalam doa.
 publishedAt: '2026-04-08T17:50:24'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Relationship
 tags:

@@ -5,7 +5,6 @@ description: >-
   hubungan sosial, serta tips melakukannya agar momen kebersamaan makin seru &
   asyik.
 publishedAt: '2026-04-08T17:50:13'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Relationship
 tags:

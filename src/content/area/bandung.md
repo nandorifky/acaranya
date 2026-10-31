@@ -10,6 +10,17 @@ updatedAt: 2026-06-05T00:27:00
 status: published
 seoTitle: ''
 whatsappText: Halo admin, saya dari Bandung. Mau tanya-tanya terkait undangan digital.
+faqItems:
+  - question: "Apakah undangan digital cocok untuk acara di venue outdoor Bandung?"
+    answer: "Cocok. Undangan dapat memuat peta lokasi, informasi parkir, dan detail acara, sehingga tamu dari luar kota mudah menemukan venue."
+  - question: "Wilayah mana saja yang dilayani Acaranya.id di Bandung?"
+    answer: "Kami melayani Bandung, Cimahi, Kabupaten Bandung, dan sekitarnya, termasuk acara yang digelar di kawasan Lembang atau Ciwidey."
+  - question: "Bagaimana undangan dibagikan kepada tamu?"
+    answer: "Tautan undangan dibagikan melalui WhatsApp atau media digital lain. Tamu di Bandung maupun luar kota dapat membuka undangan langsung dari ponsel."
+  - question: "Apakah bisa mengganti detail acara setelah undangan jadi?"
+    answer: "Bisa. Revisi teks, jadwal, dan lokasi dapat dilakukan sampai hari H."
+  - question: "Berapa harga undangan digital Bandung?"
+    answer: "Harga mulai Rp75.000, dengan pengerjaan standar 1 hari dan maksimal 3 hari setelah data lengkap diterima. Custom design membutuhkan waktu sekitar 1 minggu."
 ---
 
 Halo warga Bandung, kita semua pasti setuju kalau Bandung adalah kota yang romantis untuk merayakan berbagai momen bahagia.

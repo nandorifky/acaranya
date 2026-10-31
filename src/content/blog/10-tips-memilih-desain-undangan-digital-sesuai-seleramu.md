@@ -4,7 +4,6 @@ description: >-
   Bingung pilih desain undangan digital? Simak 10 tips jitu memilih tema, warna,
   hingga font yang sesuai dengan karakter pernikahanmu agar tampil menawan!
 publishedAt: '2026-04-08T17:50:57'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

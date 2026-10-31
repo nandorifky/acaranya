@@ -1,0 +1,49 @@
+---
+import { getImageDimensions } from '../../lib/images/get-image-dimensions';
+import { getVariantSrcset } from '../../lib/images/responsive';
+
+interface Props {
+  src: string;
+  alt: string;
+  class?: string;
+  sizes?: string;
+  width?: number;
+  height?: number;
+  loading?: 'lazy' | 'eager';
+  decoding?: 'async' | 'sync' | 'auto';
+  fetchpriority?: 'high' | 'low' | 'auto';
+  [key: string]: unknown;
+}
+
+const {
+  src,
+  alt,
+  class: className,
+  sizes = '100vw',
+  width,
+  height,
+  loading = 'lazy',
+  decoding = 'async',
+  fetchpriority,
+  ...rest
+} = Astro.props;
+
+const dims = getImageDimensions(src);
+const resolvedWidth = width ?? dims?.w;
+const resolvedHeight = height ?? dims?.h;
+const srcset = getVariantSrcset(src);
+---
+
+<img
+  src={src}
+  srcset={srcset}
+  sizes={srcset ? sizes : undefined}
+  alt={alt}
+  width={resolvedWidth}
+  height={resolvedHeight}
+  class={className}
+  loading={loading}
+  decoding={decoding}
+  fetchpriority={fetchpriority}
+  {...rest}
+/>

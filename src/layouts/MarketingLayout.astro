@@ -21,6 +21,8 @@ interface Props {
   hideFloatingWa?: boolean;
   pagefindBody?: boolean;
   breadcrumbs?: { label: string; href?: string }[];
+  preloadImage?: string;
+  preloadImageSizes?: string;
 }
 
 const { hideFloatingWa = false, pagefindBody = true, breadcrumbs, ...seoProps } = Astro.props;

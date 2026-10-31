@@ -5,7 +5,6 @@ description: >-
   dengan kombinasi angka unik yang mudah diingat dan bermakna untuk momen
   sakralmu.
 publishedAt: '2026-04-08T17:49:40'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

@@ -5,7 +5,6 @@ description: >-
   asyik menggali kejujuran sekaligus menciptakan momen emosional yang tak
   terlupakan.
 publishedAt: '2026-04-08T17:50:08'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -13,7 +12,6 @@ tags:
   - hubungan
   - tips
   - game
-  - tips
   - kata-kata
   - desain
 image: /images/blog/featured/ide-pertanyaan-truth-or-dare-untuk-pasangan.jpg

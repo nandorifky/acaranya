@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T22:47:39+07:00'
 status: published
 whatsappText: Halo admin, saya dari Yogyakarta. Mau tanya undangan digital untuk pernikahan adat atau acara keluarga.
+faqItems:
+  - question: "Apakah undangan bisa memuat rangkaian acara adat Jawa di Yogyakarta?"
+    answer: "Bisa. Undangan dapat menampilkan beberapa rangkaian acara, termasuk prosesi adat, lengkap dengan waktu dan lokasi."
+  - question: "Wilayah mana saja yang dilayani di Yogyakarta?"
+    answer: "Kami melayani Yogyakarta, Sleman, Bantul, Kulon Progo, Gunungkidul, dan sekitarnya."
+  - question: "Bagaimana tamu menerima undangan digital?"
+    answer: "Undangan dikirim sebagai tautan melalui WhatsApp atau media digital lain, sehingga tamu dapat membukanya kapan saja dari ponsel."
+  - question: "Apakah desain bisa disesuaikan dengan konsep acara?"
+    answer: "Bisa. Anda dapat memilih tema yang tersedia atau berkonsultasi untuk kebutuhan custom."
+  - question: "Berapa biaya dan lama pengerjaan undangan digital Yogyakarta?"
+    answer: "Harga mulai Rp75.000. Undangan standar selesai 1 hingga maksimal 3 hari setelah data lengkap diterima, sedangkan custom design sekitar 1 minggu."
 ---
 
 ## Jogja Kota Pelajar dengan Budaya yang Hidup
@@ -41,7 +52,7 @@ Lihat [katalog desain undangan digital](/desain-undangan-digital/) untuk menemuk
 
 Cek [rincian harga undangan digital](/harga/) untuk melihat opsi yang tersedia. Jogja punya banyak pilihan venue dengan budget berbeda, dari gedung sederhana hingga hotel berbintang.
 
-## Kapan Sebaiknya Mulai Menyiapkan
+## Kapan Sebaiknya Mulai Menyiapkan Undangan Digital di Yogyakarta
 
 Untuk pernikahan di Jogja, mulai siapkan undangan digital minimal tiga minggu sebelum hari H. Venue di Jogja bisa cepat penuh, terutama saat musim hajatan.
 

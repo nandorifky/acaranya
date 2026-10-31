@@ -5,7 +5,6 @@ description: >-
   dalam undangan pernikahan, serta alasan filosofis mengapa nama wanita sering
   didahulukan.
 publishedAt: '2026-04-08T17:50:47'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

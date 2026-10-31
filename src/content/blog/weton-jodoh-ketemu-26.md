@@ -5,7 +5,6 @@ description: >-
   dipercaya membawa kemuliaan, rezeki melimpah, dan kebahagiaan sejati bagi
   pasangan.
 publishedAt: '2026-04-08T17:49:49'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Perencanaan
 tags:

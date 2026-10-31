@@ -4,7 +4,6 @@ description: >-
   Mau urus nikah? Simak panduan & syarat mendapatkan surat pengantar nikah dari
   RT/RW sebagai langkah awal pendaftaran pernikahan resmi di Kelurahan & KUA.
 publishedAt: '2026-04-08T17:50:16'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Legalitas
 tags:

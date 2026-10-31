@@ -9,6 +9,17 @@ publishedAt: '2024-05-25T00:00:00'
 updatedAt: '2026-06-04T22:42:11+07:00'
 status: published
 whatsappText: Halo admin, saya dari Semarang. Mau tanya undangan digital untuk pernikahan atau acara keluarga.
+faqItems:
+  - question: "Apakah undangan bisa menampilkan rangkaian acara adat Jawa?"
+    answer: "Bisa. Undangan dapat memuat beberapa rangkaian acara, termasuk prosesi adat, dengan waktu dan lokasi yang jelas."
+  - question: "Wilayah mana saja yang dilayani di Semarang?"
+    answer: "Kami melayani Semarang, Ungaran, Demak, Kendal, dan sekitarnya."
+  - question: "Bagaimana tamu menerima undangan digital?"
+    answer: "Undangan dikirim sebagai tautan melalui WhatsApp atau media digital lain, sehingga tamu dapat membukanya kapan saja dari ponsel."
+  - question: "Apakah bisa revisi setelah undangan selesai?"
+    answer: "Bisa. Revisi dapat dilakukan sampai hari H untuk teks, jadwal, maupun lokasi acara."
+  - question: "Berapa biaya pembuatan undangan digital Semarang?"
+    answer: "Harga mulai Rp75.000 dengan pilihan paket Simple, Mengundang, dan Meriah. Pengerjaan standar 1 sampai maksimal 3 hari setelah data lengkap diterima."
 ---
 
 ## Lumpia, Lawang Sewu, dan Cara Semarang Mengundang

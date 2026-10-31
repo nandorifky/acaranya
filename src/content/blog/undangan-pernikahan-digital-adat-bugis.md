@@ -5,7 +5,6 @@ description: >-
   Bugis yang elegan, berkarakter, dan tetap modern untuk momen sakral kebanggaan
   keluarga.
 publishedAt: '2026-04-08T17:50:53'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

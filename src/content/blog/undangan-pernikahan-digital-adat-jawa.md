@@ -4,7 +4,6 @@ description: >-
   Paduan tradisi & teknologi! Cek 23 tema undangan pernikahan digital adat Jawa
   dari Acaranya.id yang sarat makna filosofis namun tetap tampil modern & mewah.
 publishedAt: '2026-04-08T17:50:59'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:

@@ -5,7 +5,6 @@ description: >-
   undangan rapat yang sopan untuk meminta kehadiran teman & keluarga melancarkan
   hari H.
 publishedAt: '2026-04-08T17:49:21'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Teks
 tags:
@@ -14,7 +13,6 @@ tags:
   - kata-kata
   - organisasi
   - islami
-  - tips
   - desain
 image: /images/blog/featured/contoh-undangan-pembentukan-panitia-pernikahan.jpg
 imageAlt: Contoh Undangan Pembentukan Panitia Pernikahan

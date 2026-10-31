@@ -9,6 +9,7 @@ import Pagination from '../../components/ui/Pagination.astro';
 import { getCollection, render } from 'astro:content';
 import { siteConfig } from '../../data/site';
 import { pricingPlans } from '../../data/pricing-static';
+import { resolveDesignThumb } from '../../lib/images/design-thumb';
 import slugify from 'slugify';
 
 function bySortOrder(a, b) {
@@ -109,7 +110,7 @@ const publishedCategories = allCategories
 const isFirstPage = page.currentPage === 1;
 const siteName = siteConfig.name;
 const toAbsoluteUrl = (url) => url?.startsWith('http') ? url : `${siteConfig.url}${url}`;
-const getDesignAnchorId = (title) => slugify(title, { lower: true, strict: true });
+const getDesignAnchorId = (value) => `design-${slugify(value, { lower: true, strict: true })}`;
 
 // SEO logic
 const title = isCategory 
@@ -118,7 +119,7 @@ const title = isCategory
 
 const description = isCategory ? category.data.metaDescription : "Pilih desain undangan digital online untuk pernikahan, ulang tahun, wisuda, aqiqah, corporate, dan acara lainnya. Template website elegan, praktis, siap dibagikan.";
 const canonicalUrl = `${siteConfig.url}${page.url.current}`;
-const robots = isFirstPage ? 'index,follow' : 'noindex,follow';
+const robots = isFirstPage && page.total > 0 ? 'index,follow' : 'noindex,follow';
 const ogImage = isCategory
   ? (category.data.featuredImage || category.data.whyChooseUs?.image || siteConfig.branding.ogImage)
   : '/images/desain-undangan-digital.webp';
@@ -153,13 +154,16 @@ const jsonLd = [
     '@context': 'https://schema.org',
     '@type': 'ItemList',
     numberOfItems: page.total,
-    itemListElement: page.data.map((design, index) => ({
-      '@type': 'ListItem',
-      position: page.start + index + 1,
-      name: `Template Undangan Digital - ${design.data.title}`,
-      ...(design.data.thumbnail ? { image: toAbsoluteUrl(design.data.thumbnail) } : {}),
-      url: `${canonicalUrl}#${getDesignAnchorId(design.data.title)}`,
-    }))
+    itemListElement: page.data.map((design, index) => {
+      const thumb = design.data.thumbnail ? resolveDesignThumb(design.id, design.data.thumbnail) : null;
+      return {
+        '@type': 'ListItem',
+        position: page.start + index + 1,
+        name: `Template Undangan Digital - ${design.data.title}`,
+        ...(thumb ? { image: toAbsoluteUrl(thumb.src) } : {}),
+        url: `${canonicalUrl}#${getDesignAnchorId(design.id)}`,
+      };
+    })
   }
 ];
 

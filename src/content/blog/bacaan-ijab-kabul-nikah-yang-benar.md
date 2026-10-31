@@ -151,7 +151,7 @@ Ijab kabul adalah bagian penting dalam rukun nikah. Supaya akad berjalan sah dan
 * Tidak berselang lama: Ijab dan kabul dilakukan beruntun, tanpa jeda yang membuat akad terputus.
 * Mahar jelas: Mahar sebaiknya disebutkan dengan jelas agar tidak menimbulkan perbedaan pemahaman.
 
-Acays, bagian ini penting untuk dibicarakan sejak awal dengan keluarga dan penghulu. Dengan begitu, saat hari akad tiba, semua pihak sudah tahu perannya masing-masing.
+Bagian ini penting untuk dibicarakan sejak awal dengan keluarga dan penghulu. Dengan begitu, saat hari akad tiba, semua pihak sudah tahu perannya masing-masing.
 
 ## Apakah Ijab Kabul Harus Satu Napas
 

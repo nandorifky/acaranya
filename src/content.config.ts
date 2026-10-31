@@ -116,6 +116,7 @@ const blogTaxonomy = defineCollection({
     categories: z.array(z.object({
       title: z.string(),
       value: z.string(),
+      description: z.string().optional(),
     })).default([]),
     tags: z.array(z.object({
       title: z.string(),
@@ -184,8 +185,6 @@ const tools = defineCollection({
     schemaApplicationCategory: z.string().default('WebApplication'),
     schemaOffersPrice: z.string().default('0'),
     schemaOffersPriceCurrency: z.string().default('IDR'),
-    schemaRatingValue: z.number().optional(),
-    schemaRatingCount: z.number().optional(),
     faqItems: z.array(faqItemSchema).default([]),
     customJsonLd: z.string().optional(),
   }),

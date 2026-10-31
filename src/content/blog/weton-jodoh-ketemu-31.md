@@ -25,7 +25,7 @@ ctaUrl: /cek-weton/
 
 Weton jodoh ketemu 31 artinya pasangan memiliki total neptu 31 dari penjumlahan hari dan pasaran lahir kedua calon mempelai. Dalam salah satu metode primbon Jawa yang memakai pembagian 8, hasil 31 masuk kategori Tibo Sujanan.
 
-Tibo Sujanan sering dikaitkan dengan ujian kepercayaan dalam hubungan. Tafsir ini biasanya dimaknai sebagai potensi rasa cemburu, salah paham, atau gangguan dari pihak ketiga. Namun, Acays tidak perlu langsung cemas. Hitungan weton adalah bagian dari tradisi dan bahan refleksi, bukan penentu mutlak masa depan rumah tangga.
+Tibo Sujanan sering dikaitkan dengan ujian kepercayaan dalam hubungan. Tafsir ini biasanya dimaknai sebagai potensi rasa cemburu, salah paham, atau gangguan dari pihak ketiga. Namun, kamu tidak perlu langsung cemas. Hitungan weton adalah bagian dari tradisi dan bahan refleksi, bukan penentu mutlak masa depan rumah tangga.
 
 Kalau kamu sedang mempersiapkan hari bahagia, hasil weton sebaiknya dipakai sebagai pengingat untuk membangun komunikasi yang jujur, saling percaya, dan komitmen yang kuat sejak awal.
 

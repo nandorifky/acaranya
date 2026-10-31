@@ -5,7 +5,6 @@ description: >-
   gaya simple, minimalis, hingga mewah yang bisa kamu jadikan referensi hari
   spesial.
 publishedAt: '2026-04-08T17:50:31'
-updatedAt: '2026-05-25T04:30:00+07:00'
 author: indira
 category: Inspirasi
 tags:
@@ -13,9 +12,7 @@ tags:
   - inspirasi
   - desain
   - tips
-  - tips
   - kata-kata
-  - desain
 image: /images/blog/featured/contoh-undangan-pernikahan.jpg
 imageAlt: Contoh Undangan Pernikahan
 imageTitle: Contoh Undangan Pernikahan
